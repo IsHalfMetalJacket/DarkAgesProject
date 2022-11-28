@@ -6813,47 +6813,57 @@
 			<Equipment slot="Cape" id="Item.AR_aserai_shoulder_p"/>
 		</EquipmentSet>
 	</EquipmentRoster>
-	<EquipmentRoster id="AR_spc_saleas_sisters_leaders" culture="Culture.empire">
+	<EquipmentRoster id="hmj_zhan_battletemplate" culture="Culture.zhan">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_5_t4"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_o2"/>
-			<Equipment slot="Item2" id="Item.imperial_throwing_spear_1_t4"/>
-			<Equipment slot="Body" id="Item.imperial_lamellar_over_leather"/>
-			<Equipment slot="Leg" id="Item.decorated_imperial_boots"/>
-			<Equipment slot="Head" id="Item.AR_gladiator_helmet_b"/>
-			<Equipment slot="Gloves" id="Item.decorated_imperial_gauntlets"/>
-			<Equipment slot="Cape" id="Item.pauldron_cape_a"/>
+			<Equipment slot="Item0" id="Item.khuzait_polearm_2_t5"/>
+			<Equipment slot="Item1" id="Item.crossbow_cavalry_heavy"/>
+			<Equipment slot="Item2" id="Item.khuzait_noble_sword_1_t5"/>
+			<Equipment slot="Item3" id="Item.hardened_90_gr_bolts"/>
+			<Equipment slot="Head" id="Item.khuzait_noble_helmet_with_neckguard"/>
+			<Equipment slot="Cape" id="Item.TV_khuzait_shoulder_i"/>
+			<Equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+			<Equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			<Equipment slot="Horse" id="Item.noble_horse_eastern"/>
+			<Equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
 		</EquipmentSet>
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_mace_5_t5"/>
-			<Equipment slot="Item1" id="Item.empire_polearm_2_t5"/>
+			<Equipment slot="Item0" id="Item.crossbow_cavalry_heavy"/>
+			<Equipment slot="Item1" id="Item.khuzait_noble_sword_1_t5"/>
+			<Equipment slot="Item2" id="Item.hardened_90_gr_bolts"/>
 			<Equipment slot="Item3" id="Item.steel_round_shield"/>
-			<Equipment slot="Body" id="Item.tv_empire_armor_b"/>
-			<Equipment slot="Leg" id="Item.decorated_imperial_boots"/>
-			<Equipment slot="Head" id="Item.AR_gladiator_helmet_g"/>
-			<Equipment slot="Gloves" id="Item.decorated_imperial_gauntlets"/>
-			<Equipment slot="Cape" id="Item.AR_imperial_leather_cape_a"/>
+			<Equipment slot="Head" id="Item.TV_khuzait_lord_helmet_k"/>
+			<Equipment slot="Cape" id="Item.AR_khuzait_cape_c"/>
+			<Equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+			<Equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			<Equipment slot="Horse" id="Item.noble_horse_eastern"/>
+			<Equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
 		</EquipmentSet>
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_5_t4"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_y"/>
-			<Equipment slot="Item2" id="Item.imperial_throwing_spear_1_t4"/>
-			<Equipment slot="Body" id="Item.AR_huntress_armor_b"/>
-			<Equipment slot="Leg" id="Item.decorated_imperial_boots"/>
-			<Equipment slot="Head" id="Item.AR_gladiator_helmet_c"/>
-			<Equipment slot="Gloves" id="Item.decorated_imperial_gauntlets"/>
-			<Equipment slot="Cape" id="Item.pauldron_cape_a"/>
+			<Equipment slot="Item0" id="Item.khuzait_polearm_2_t5"/>
+			<Equipment slot="Item2" id="Item.khuzait_mace_4_t5"/>
+			<Equipment slot="Item3" id="Item.steel_round_shield"/>
+			<Equipment slot="Head" id="Item.TV_khuzait_lord_helmet_h"/>
+			<Equipment slot="Cape" id="Item.TV_khuzait_shoulder_i"/>
+			<Equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+			<Equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			<Equipment slot="Horse" id="Item.noble_horse_eastern"/>
+			<Equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
 		</EquipmentSet>
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_5_t4"/>
-			<Equipment slot="Item1" id="Item.military_fork_pike_t3"/>
-			<Equipment slot="Item2" id="Item.leafblade_throwing_knife"/>
-			<Equipment slot="Item3" id="Item.AR_shield_infantry_zc"/>
-			<Equipment slot="Body" id="Item.AR_huntress_armor_b"/>
-			<Equipment slot="Leg" id="Item.decorated_imperial_boots"/>
-			<Equipment slot="Head" id="Item.AR_gladiator_helmet_h"/>
-			<Equipment slot="Gloves" id="Item.decorated_imperial_gauntlets"/>
-			<Equipment slot="Cape" id="Item.AR_imperial_leather_cape_a"/>
+			<Equipment slot="Item0" id="Item.crossbow_cavalry_heavy"/>
+			<Equipment slot="Item1" id="Item.southern_great_2hsword_t4"/>
+			<Equipment slot="Item2" id="Item.hardened_90_gr_bolts"/>
+			<Equipment slot="Item3" id="Item.hardened_90_gr_bolts"/>
+			<Equipment slot="Head" id="Item.TV_khuzait_lord_helmet_m"/>
+			<Equipment slot="Cape" id="Item.AR_khuzait_cape_b"/>
+			<Equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+			<Equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			<Equipment slot="Horse" id="Item.noble_horse_eastern"/>
+			<Equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="AR_bandit_civilian_template_t1" culture="Culture.looters">

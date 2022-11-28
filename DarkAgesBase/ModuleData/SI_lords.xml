@@ -4003,7 +4003,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- kankharit -->
-	<NPCCharacter id="AR_spc_karakhuzaits_leader_0" name="{=bpw8fOs5}of the Kankharit" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+	<NPCCharacter id="AR_spc_karakhuzaits_leader_0" name="{=bpw8fOs5}of the Caravans" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.zhan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -4016,11 +4016,11 @@
 			<Trait id="HorseArcherFightingSkills" value="7"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="khu_bat_template_medium"/>
+			<EquipmentSet id="hmj_zhan_battletemplate"/>
 			<EquipmentSet id="khu_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_karakhuzaits_leader_1" name="{=bpw8fOs5}of the Kankharit" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+	<NPCCharacter id="AR_spc_karakhuzaits_leader_1" name="{=bpw8fOs5}of the Caravans" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.zhan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -4033,11 +4033,11 @@
 			<Trait id="KnightFightingSkills" value="6"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="khu_bat_template_medium"/>
+			<EquipmentSet id="hmj_zhan_battletemplate"/>
 			<EquipmentSet id="khu_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_karakhuzaits_leader_2" name="{=bpw8fOs5}of the Kankharit" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+	<NPCCharacter id="AR_spc_karakhuzaits_leader_2" name="{=bpw8fOs5}of the Caravans" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.zhan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -4050,11 +4050,11 @@
 			<Trait id="KnightFightingSkills" value="6"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="khu_bat_template_medium"/>
+			<EquipmentSet id="hmj_zhan_battletemplate"/>
 			<EquipmentSet id="khu_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_karakhuzaits_leader_3" name="{=bpw8fOs5}of the Kankharit" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.khuzait" occupation="Lord">
+	<NPCCharacter id="AR_spc_karakhuzaits_leader_3" name="{=bpw8fOs5}of the Caravans" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.zhan" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -4067,7 +4067,7 @@
 			<Trait id="KnightFightingSkills" value="6"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="khu_bat_template_medium"/>
+			<EquipmentSet id="hmj_zhan_battletemplate"/>
 			<EquipmentSet id="khu_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>

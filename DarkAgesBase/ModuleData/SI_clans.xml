@@ -130,7 +130,7 @@
 	         name="{=ghilmanClanName}Harmīgān"
 	         short_name="Harmīgān"
 	         tier="4"
-	         text="{=4TiYXBqK}The Kolemen are a band of mercenaries who recruit from the Darshi tribes of the lands to the east of Calradia. In an obscure eastern tradition, they are legally their own slaves and masters: each “sells“ himself to the order and, in the process, becomes a part-owner. They are known for their fine horses and fine clothes. But no one should assume from their oiled locks, perfumes and peacock feathers that they spend more time preening then training. Their skills as mounted archers are second to none, and as lancers are close behind the Vlandians and Imperial cataphracts.">
+	         text="{=4TiYXBqK}The Harmīgān are an independent and warlike peoples. Although they live within sheer mountainsides beyond the Darshi's reach, the Harmīgān often served the Shahanshah's host as mercenaries. ">
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.AR_spc_ghilman_leader_0"/>
 			<template id="NPCCharacter.AR_spc_ghilman_leader_1"/>
@@ -416,14 +416,14 @@
              color2="FF72583B"
              alternative_color="FF72583B"
              alternative_color2="FF72583B"
-             culture="Culture.khuzait"
+             culture="Culture.zhan"
 	         default_party_template="PartyTemplate.kingdom_hero_party_karakhuzaits_template"
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
 	         is_outlaw="true"
 	         is_nomad="true"
 	         name="{=6BvGhzao}Grand Route Companies"
-	         short_name="{=6BvGhzao}Grand Route Caravans"
+	         short_name="{=6BvGhzao}Caravans"
 	         tier="4"
 			 text="{=XJbDRBfd}From the Far East, merchants of another great empire trade silk, spices, dyes, tea and all manner of goods in exchange for Calradia's own riches. On occasion, adventurers from the distant emprie stay, and offer their services as elite mercenaries.">
 		<minor_faction_character_templates>
@@ -683,7 +683,7 @@
 	<Faction id="lochanians"
 	         initial_posX="705.0"
 	         initial_posY="590.0"
-	         banner_key="1.138.140.1823.1808.764.764.0.0.0.137.138.138.339.488.909.764.0.0.0.137.140.140.338.488.619.764.0.1.0"
+	         banner_key="1.138.140.1823.1808.764.764.0.0.0.137.138.138.378.545.914.764.0.0.0.137.140.140.378.545.614.764.0.1.0"
 	         label_color="FF848B65"
 	         color="FF848B65"
 	         color2="FF848B65"
@@ -760,7 +760,7 @@
 	<Faction id="exploratores_nahasae"
 	         initial_posX="692.0"
 	         initial_posY="217.0"
-	         banner_key="11.132.132.1536.1536.768.768.1.0.0.423.2.2.588.625.764.764.0.0.0.119.142.142.200.200.759.674.0.0.0.325.92.92.250.250.764.834.0.0.0.521.142.142.100.100.764.484.0.0.0"
+	         banner_key="29.125.142.1500.1500.764.764.0.0.90.504.2.2.1357.1357.380.764.0.1.270.504.2.2.1357.1357.1148.764.0.0.90.152.112.112.167.167.589.749.1.0.0.152.35.35.167.167.589.749.0.0.0.152.112.112.167.167.938.749.1.1.0.152.35.35.167.167.938.749.0.1.0"
 	         label_color="FF965228"
 	         color="FF965228"
 	         color2="FF4F2212"
@@ -772,10 +772,10 @@
 	         is_minor_faction="true"
 	         is_nomad="true"
 	         is_outlaw="true"
-	         name="Nahasan Exploratores"
-	         short_name="Exploratores"
+	         name="Tattered Sons"
+	         short_name="Tattered"
 	         tier="4"
-	         text="The Nahasan Exploratores are an elite force tasked with patrolling the vast deserts to the south of Calradia, ensuring the passivity of the bedouins and protecting imperial caravans from frequent raids by desert bandits. They are used to working in the harsh desert conditions, specializing in scouting and tracking. But as the Calradian Empire descended into civil war, they have begun asserting power in the areas in which they patrol, becoming a law unto themselves in the nascent Quyazic Empire and taking what they want from the scattered desert villages.">
+	         text="Based on the Catalan Company and similar Almogavars">
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.AR_spc_exploratores_nahasae_leader_0"/>
 			<template id="NPCCharacter.AR_spc_exploratores_nahasae_leader_1"/>
