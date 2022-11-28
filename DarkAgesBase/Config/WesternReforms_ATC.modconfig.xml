@@ -13,7 +13,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -30,7 +30,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -47,7 +47,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -64,7 +64,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -81,7 +81,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -98,7 +98,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -115,7 +115,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -132,7 +132,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -149,7 +149,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -166,7 +166,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -183,7 +183,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -200,7 +200,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -217,7 +217,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -234,7 +234,7 @@
 				<volunteer id="vlandia_hmj_mct4" percent="6"/>
 				<volunteer id="vlandia_hmj_hit4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
 				<volunteer id="vlandia_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -248,7 +248,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -259,7 +259,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -270,7 +270,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -281,7 +281,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -292,7 +292,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -303,7 +303,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -314,7 +314,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -325,7 +325,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -336,7 +336,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -347,7 +347,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -358,7 +358,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -369,7 +369,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -380,7 +380,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -391,7 +391,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="zwadane_hmj_it3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="300" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="zwadane_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -404,7 +404,7 @@
 				<volunteer id="boar_hmj_it3" percent="30"/>
 				<volunteer id="boar_hmj_rt3" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="15" atPower="200" spawnChanceCap="25">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="boar_hmj_rt5" percent="60"/>
 				<volunteer id="boar_hmj_hat5" percent="40"/>
 			</eliteTroops>
@@ -417,7 +417,7 @@
 				<volunteer id="AR_min_brotherhood_t4_skirm" percent="25"/>
 				<volunteer id="AR_min_brotherhood_t4_archer" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="15" atPower="200" spawnChanceCap="25">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_min_brotherhood_t5_skirm" percent="50"/>
 			</eliteTroops>
 		</Culture>
@@ -429,7 +429,7 @@
 				<volunteer id="AR_min_swadician_t4_melee" percent="25"/>
 				<volunteer id="AR_min_swadician_t4_archer" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="15" atPower="200" spawnChanceCap="25">
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_min_swadician_t5_melee" percent="50"/>
 			</eliteTroops>
 		</Culture>

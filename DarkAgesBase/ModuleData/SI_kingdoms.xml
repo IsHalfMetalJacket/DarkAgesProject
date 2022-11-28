@@ -18,7 +18,7 @@
 	         short_name="{=hmj_kingdom_empire_n_short_name}Laconians"
 	         title="{=hmj_kingdom_empire_n_title}The Republic of Calradia"
 	         ruler_title="{=hmj_kingdom_empire_n_ruler_title}Consul"
-	         text="{=hmj_kingdom_empire_n_text}For the last two centuries, the vaunted legions of the Calradian Empire have won fame and fortune in the east, expanding the frontier greatly into the former lands of the Laconians. Halted when they reached the shores of Lake Tanaesis, they drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. The generals of the east; proud sons of the Empire's noble families, are uniquely bloodthirsty amongst their fellows. Three years ago, after a victory over the Gotarnians, the pre-eminent general Zenon of the Neretzes clan was hailed Emperor by his troops, splitting the Calradian Empire and igniting civil war. Zenon, now calling himself Solarios 'Light-Giver', channels his ever-growing insanity into ruling the east with an iron fist, driving the armies of friend and foe alike before his battle-hardened legions.">
+	         text="{=hmj_kingdom_empire_n_text}Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant.">
 		<relationships>
 			<relationship kingdom="Kingdom.khuzait"
 			              value="-1"
@@ -45,7 +45,7 @@
 	         short_name="{=hmj_kingdom_empire_w_short_name}Temeans"
 	         title="{=hmj_kingdom_empire_w_title}The Dominate of Calradia"
 	         ruler_title="{=hmj_kingdom_empire_w_ruler_title}Despotate"
-	         text="{=hmj_kingdom_empire_w_text}The warm, green land of oak forests and volcanic outcrops that makes up the western provinces of the Calradian Empire is the spiritual heartland of the Calradians. According to legend, Calradios the Great first landed at the site of the present-day city of Charasea, laying the foundation of an empire which would last through the ages. However, now the Empire's western provinces are in crisis. The former capital city of Baravenos has fallen to the Vlandians; one-time auxiliaries in the Empire's legions. Facing an existential threat to their ancestral lands and way of life, the senators of the western provinces voted for secession from the Empire, electing the Praetor of Charasea to be Emperor and plunging the Empire into civil war.">
+	         text="{=hmj_kingdom_empire_w_text}According to tradition, the first Calradians entered the continent as exiles, coming from lands across the western ocean. But the Empire's center of gravity moved east and south, and their original heartland has, for the most part, been lost to the Vlandians. The west of the Empire today, a warm green land of oak forests and volcanic outcrops, was mostly conquered from the Palaic tribes. They have intermarried with Calradian colonists and today their old languages and customs are mostly forgotten. Service in the legions has traditionally been a path out of rural poverty and many an ambitious general has drawn his most loyal recruits fron this region. The landowners here have naturally gravitated towards Garios, the partisan of soldiers and soldiers' interests, in the ongoing civil war.">
 		<relationships>
 			<relationship kingdom="Kingdom.battania"
 			              value="-1"
@@ -72,13 +72,11 @@
 	         short_name="{=hmj_kingdom_empire_s_short_name}Lycareans"
 	         title="{=hmj_kingdom_empire_s_title}The Empire of Calradia"
 	         ruler_title="{=hmj_kingdom_empire_s_ruler_title}Basileos"
-	         text="{=hmj_kingdom_empire_s_text}According to tradition, the first Calradians entered the continent as exiles, following Calradios the Great across the vast Western Ocean to found a colony at Charasea. Over time, the Calradians relentlessly expanded their territories across the continent, founding new colonies and conquering neighbouring peoples until soon, their empire stretched from the Western Ocean to the Great Grass Sea. Cunning politics ensured new peoples and cultures were assimilated into the Empire, whilst the might of the legions ensured the stability of the borders. However, recently cracks have started to form in the very heart of the Calradian Empire, pitting brother against brother in a series of devastating civil wars. Smelling weakness, barbarians now make frequent incursions into the Empire's borders to raid, or worse, to carve out their own kingdoms. Despite this, to many in the Empire's heartland, life continues much as it always has. Farmers still toil under a blazing sun, the senate still meets to debate matters of state, and the vaunted imperial legions have lost none of their potency, carrying the Dragon Banner of Calradios forward to victory.">
+	         text="{=Xtyb9Dyr}The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears.">
 		<relationships>
 			<relationship kingdom="Kingdom.aserai"
 			              value="-1"
 			              isAtWar="true"/>
-			<relationship kingdom="Kingdom.vaegiria"
-			              value="1"/>
 		</relationships>
 		<policies>
 			<policy id="policy_royal_privilege"/>
@@ -101,7 +99,7 @@
 	         short_name="{=C4qjBqLO}Sturgians"
 	         title="{=iYCR3xuQ}The Principalities of Sturgia"
 	         ruler_title="{=FmbgPGBL}Grand Prince"
-	         text="{=bVihnRUu}The people who dwell in the frigid north of Calradia have long been ruled over by a collection of petty realms, though collectively they may be called Sturgians. As boomtowns sprung up alongside the bays and lakes of the north, the local tribal leaders forged marriage pacts with Nords and other adventurers, trading amber and furs for their swords to subdue neighbouring Sturgian principalities or Vakken tribes. However, despite their shared ancestry, the Sturgians refuse to unify, even refusing to use the term 'king'. Instead, the petty princes of Sturgia occasionally come together to follow the strongest prince during times of crisis. In recent decades, the leader of the powerful Gundaroving principality has sought to increase their power over the other princes, forcing the adoption of Nordic names and titles, and the formation of a centralized authority. Now, the Sturgian principalities look outwards, seeking to conquer lands to the east and south, and to unify the entire north under their rule.">
+	         text="{=bVihnRUu}The confederation of small kingdoms that is now the Principality of Sturgia came into being only a century ago. As boomtowns sprung up alongside the bays and lakes of the north, the local tribal leaders forged marriage pacts with Nords and other adventurers, hiring their swords to subdue their neighbors. Under pressure from the empire, they elected a prince to lead them in war, and eventually the princes became a hereditary office. But the idea of monarchy has never sat easily with the independence-minded boyars, and the potential for rebellion always lurks under the surface of Sturgian politics.">
 		<relationships>
 			<relationship kingdom="Kingdom.vaegiria"
 			              value="-1"
@@ -129,7 +127,7 @@
 	         short_name="{=aseraimembers}Aserai"
 	         title="{=UsbwPmYb}The Sultanate of the Aserai"
 	         ruler_title="{=5djtBrHj}Sultan"
-	         text="{=qggtvf8Y}The Nahasa is an unforgiving place of shifting sands, and so to are its people strong and changeable. Centuries ago, the Padishah of the Darshi led an army into the Nahasa from the east, conquering the Aserai clans along the fringe of the desert. In doing so, he brought Darshi culture and laws to the Nahasa, which many Aserai clans adopted. Soon, the Padishah retreated again, and the Aserai have since formed a loose union under the rule of the head of the Banu Atij, taking Darshi titles of Shah and Banbishn. The Calradian Empire has ensured the instability of the region by pitting the clans of the Banu Asera against each other, forcing the weak out into the desert to raise goats and raid caravans. However, change is once again afoot, and a prophet from a distant oasis whispers in the court of the Banu Hulyan of treachery and a new way in which the clans of the Aserai may be united.">
+	         text="{=qggtvf8Y}The Empire always preferred not to send its legions into the army-devouring wastes of the Nahasa. Instead, it projected its power into this borderland by cultivating client rulers among the clans, who competed in an endless dance of power. Those clans that could secure a hold on the oases won an imperial subsidy to protect passing caravans and grew rich. Those who could not were pushed into the desert, left to raise goats and raid caravans until they could plot a comeback. Today, with the waning of the empire, the Aserai have agreed to form a confederacy under a sultan chosen from richest of the clans, the Banu Hulyan. But everyone knows that the dance has only temporarily been stopped, and at the right moment it will begin again.">
 		<relationships>
 			<relationship kingdom="Kingdom.empire_s"
 			              value="-1"
@@ -157,7 +155,7 @@
 	         short_name="{=8HMyTKF6}Vlandians"
 	         title="{=lAWwcO6b}The Kingdom of Vlandia"
 	         ruler_title="{=hwnp9abW}King"
-	         text="{=IudGLWQZ}The Vlandian monarchy has risen in recent years, led by Osric Iron-Arm. The young warlord seized the westernmost lands of the Empire and crowned himself king of a independent Vlandia, rallying a coalition of former Vlandian and Swadic auxiliary commanders to him and granting them lands and titles in his growing realm. Now, the young kingdom looks outward for conquest, seeking to unify all the western lands under a single banner, whilst withstanding constant attempts by the Calradian Empire to reconquer their lost provinces.">
+	         text="{=IudGLWQZ}The Vlandian monarchy descends from Osric Iron-Arm, a warlord who seized the western coasts of the Empire and was recognized as king by the emperors as the price of peace. He in turn recognized his lieutenants as barons and counts, granting them suzerainty over their lands in exchange for rallying to his banner in war. Some Vlandian kings have sought to expand the powers of the kingship; others have allowed the barons to feud among themselves so long as the money and manpower was there when needed.">
 		<relationships>
 			<relationship kingdom="Kingdom.empire_w"
 			              value="-1"
@@ -185,7 +183,7 @@
 	         short_name="{=bgjiFSHZ}Battanians"
 	         title="{=qaDIU0XC}The Tribal Confederation of Battania"
 	         ruler_title="{=afvM7XpQ}High King"
-	         text="{=ZjaaAoxd}From time immemorial there has been a High King of Battania, crowned with great ceremony on the sacred hill of Dunthanach. Ask any Battanian chieftain, however, whose ”kingdom” he lives in, and he will look around at his hall and his fields and his pastures, his flocks and his retainers, and answer ”Mine, of course.” Only lately, following the example of the Empire, have the High Kings made any effort to exert their authority. ”Such unruly cattle as my people require a strong herdsman's hand to steer them from the ravine and protect them from the wolf,” said the last high king, just before he was betrayed by a jealous cousin and taken in chains to the nearest imperial outpost.">
+	         text="{=ZjaaAoxd}From time immemorial there has been a High King of Battania, crowned with great ceremony on the sacred hill of Dunthanach. Ask any Battanian chieftain, however, whose ”kingdom” he lives in, and he will look around at his hall and his fields and his pastures, his flocks and his retainers, and answer ”Mine, of course.” Only lately, following the example of the Empire, have the High Kings made any effort to exert their authority. ”Such unruly cattle as my people require a strong herdsman's hand to steer them from the ravine and protect them from the wolf,” said one recent high king, just before he was betrayed by a jealous cousin and taken in chains to the nearest imperial outpost.">
 		<relationships>
 			<relationship kingdom="Kingdom.vaegiria"
 			              value="-1"
@@ -244,7 +242,7 @@
 	         short_name="{=hmj_kingdom_vaegiria_short_name}Byals"
 	         title="{=hmj_kingdom_vaegiria_title}The Byalic Union"
 	         ruler_title="{=hmj_kingdom_vaegiria_ruler_title}High Boyar"
-	         text="{=hmj_kingdom_vaegiria_text}The Vaegirian Republic rules over the open grasslands fringing the dark northern forests and the western edge of the Calradic Steppe. Originating from the intermarrying of native Vakken peoples with Laconians and Calradian colonists from Varnovapol, the Vaegirians were briefly annexed into the Calradic Empire by the famed general Sarapios, at the height of Calradian expansion into the northern lands. However, realizing the fragile nature of Calradian rule in the north, the emperors instead chose to form a puppet state, electing a High Boyar to oversee a small senate comprising the elders of the Vakken tribes. Since then, the Boyars of Vaegiria have expanded their realm to the east, seizing the territories of both the Iltanlar and other Vakken alike. They still remain loyal to the emperors; at least notionally, though the free spirit of the Vakken people still survives, waiting for the day they once more may be the rulers of their own destinies.">
+	         text="{=hmj_kingdom_vaegiria_text}Imagine the Baltic peoples of the early middle ages and you have them about right.">
 		<relationships>
 			<relationship kingdom="Kingdom.sturgia"
 			              value="-1"
@@ -302,7 +300,7 @@
 	         short_name="{=hmj_kingdom_cizygian_short_name}Darshi"
 	         title="{=hmj_kingdom_cizygian_title}The Darshi Shahdom"
 	         ruler_title="{=hmj_kingdom_cizygian_ruler_title}Shahanshah"
-	         text="{=hmj_kingdom_cizygian_text}Much like their Iltanlar cousins, the Cizygians are a conglomeration of tribal peoples who dwelt in the vast grasslands east of Calradia. However, unlike the Iltanlar, who remain largely independent of the rule of a single khan, the Cizygians religiously follow the bloodline of Cizghun the Chosen, worshipping the sitting khan of the Cizghunait tribe as a divine leader. Following their god-ruler into the fertile southern grasslands between the Nahasa desert and the Perassic sea, the Cizygians dream of carving out their own boundless empire. They make ready for war, driving vast herds of horses and shaping powerful bows of wood and sinew..">
+	         text="{=hmj_kingdom_cizygian_text}Basically the Sassanids if they managed to survive the Arabs... barely.">
 		<relationships>
 			<relationship kingdom="Kingdom.nahasa"
 			              value="-1"
@@ -330,7 +328,7 @@
 	         short_name="{=hmj_kingdom_zwadane_short_name}Zwadane"
 	         title="{=hmj_kingdom_zwadane_title}The Zwadane League"
 	         ruler_title="{=hmj_kingdom_zwadane_ruler_title}Kyning"
-	         text="{=hmj_kingdom_zwadane_text}The Kingdom of Massa claims the same descent as their Vlandian cousins, forming only recently from a union of former Swadic federate tribes in the Calradian Empire's western provinces. After the Empire lost Baravenos to Osric Iron-Arm, many Massan chieftains saw an opportunity to gain their own independent kingdom, and so overthrew the local Imperial Archon and massacred the vaunted Seventh Legion in their camp in the Rhennod mountains, near the village of Ormanfard. Viewed by the Empire as traitors, and their Vlandian cousins as brutal barbarians, the Massan tribes now consolidate for themselves a small kingdom in the Ebor Peninsula.">
+	         text="{=hmj_kingdom_zwadane_text}To be written">
 		<relationships>
 			<relationship kingdom="Kingdom.battania"
 			              value="-1"
@@ -358,7 +356,7 @@
 	         short_name="{=hmj_kingdom_spahad_short_name}Nahasi"
 	         title="{=hmj_kingdom_spahad_title}The Exarchate of the Nahasa"
 	         ruler_title="{=hmj_kingdom_spahad_ruler_title}Exarch"
-	         text="{=hmj_kingdom_spahad_text}The Spahad Kingdom is the westernmost satrapy of the vast empire of the eastern Darshi Padishahs. Centuries ago, their armies crossed the southern tip of the Jabal Ashabi Mountains, shattering the Calradian Empire's rule over the Nahasa and allowing the Aserai to break free from the imperial yoke, only to fall under the rule of the Padishah. In return, the Padishah granted the Spahadi shahs rule over the eastern Nahasa, founding great cities sheltered from the shifting sands by high walls. Now, with the Aserai growing increasingly assertive and seeking to create a realm of their own, the Spahadi shahs find themselves on the defensive, fighting to maintain their hold over the great bronze desert.">
+	         text="{=hmj_kingdom_spahad_text}Think Kingdom of Makuria. Africans inspired by Roman culture.">
 		<relationships>
 			<relationship kingdom="Kingdom.aserai"
 			              value="-1"
@@ -386,7 +384,7 @@
 	         short_name="{ARgjiFSHZ}Central Calradians"
 	         title="{ARaDIU0XC}The Secession of Old Calradia"
 	         ruler_title="{=afvM7XpQ}High Chieftain"
-	         text="The Myzean peoples of Calradia's eastern grasslands once comprised a myriad of city states and petty kingdoms, occupying a vast territory from the Nevys River in the west to Lake Tanaesis in the east. Time and the inexorable march of the Calradian Empire's legions have been cruel to these people, extinguishing many old and famous states and assimilating others. A hardy warrior society, descended from the intermarrying of countless generations of Myzean with migrating Laconians and Vakken tribesmen, the Gotarnians resisted Imperial authority, maintaining their old traditions and stockpiling weapons for their eventual liberation. Two generations ago, they rose up against the Empire, conquering a vast territory across the Iltan Portages to the Darshi trade cities beyond Lake Tanaesis; 'Tanash' to the Darshi, hoping the high walls of these eastern territories would be safe from the Empire's grip. However, with whispers from the east of a great cataclysm, heralded by the thunder of hooves, the Gotarnians now find themselves facing threats from all sides.">
+	         text="These basically are the Palaics, Dryatics and Myzeans rolled into a faction.">
 		<relationships>
 			<relationship kingdom="Kingdom.empire"
 			              value="-1"/>
@@ -417,7 +415,7 @@
 	         short_name="{=hmj_kingdom_vaegiria_short_name}Nords"
 	         title="{=hmj_kingdom_vaegiria_title}The Nordic Territories"
 	         ruler_title="{=hmj_kingdom_vaegiria_ruler_title}Konungr"
-	         text="{=hmj_kingdom_vaegiria_text}The Vaegirian Republic rules over the open grasslands fringing the dark northern forests and the western edge of the Calradic Steppe. Originating from the intermarrying of native Vakken peoples with Laconians and Calradian colonists from Varnovapol, the Vaegirians were briefly annexed into the Calradic Empire by the famed general Sarapios, at the height of Calradian expansion into the northern lands. However, realizing the fragile nature of Calradian rule in the north, the emperors instead chose to form a puppet state, electing a High Boyar to oversee a small senate comprising the elders of the Vakken tribes. Since then, the Boyars of Vaegiria have expanded their realm to the east, seizing the territories of both the Iltanlar and other Vakken alike. They still remain loyal to the emperors; at least notionally, though the free spirit of the Vakken people still survives, waiting for the day they once more may be the rulers of their own destinies.">
+	         text="{=hmj_kingdom_vaegiria_text}Vikings here.">
 		<relationships>
 			<relationship kingdom="Kingdom.battania"
 			              value="-1"/>
