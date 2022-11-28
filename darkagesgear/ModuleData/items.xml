@@ -72,7 +72,7 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
     <Flags />
     </Item>
 
-	<Item id="dz_shariz_helm_2" name="{=osa_fluted_helm_heavy}dzor8" mesh="dz_shariz_helm_2" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+	<Item id="dz_shariz_helm_2" name="{=osa_fluted_helm_heavy}dzor8" mesh="dz_shariz_helm_3" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
 		</ItemComponent>
@@ -87,26 +87,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 	
 <!-- Extras -->
 <!--Unique Head Armor-->
-	<Item id="mail_coif_pilgrim_hood" 
-		  name="{=VXFwEF3M}Pilgrim's Hood over Mail Coif" 
-		  is_merchandise="false"
-		  mesh="sneak_costume_head" 
-		  culture="Culture.empire" 
-		  weight="2.0" 
-		  difficulty="0" 
-		  appearance="0.3" 
-		  Type="headArmor"
-		  value="4875">
-		<ItemComponent>
-			<Armor head_armor="40" 
-				   has_gender_variations="false" 
-				   hair_cover_type="all" 
-				   beard_cover_type="type3" 
-				   modifier_group="cloth_unarmoured" 
-				   material_type="Cloth" />
-		</ItemComponent>
-	<Flags Civilian="true" UseTeamColor="true" />
-	</Item>
   <Item id="desert_mail_coif" 
 		name="{=sQAXkEQ7}Southern Mail Coif" 
 		subtype="head_armor" 
@@ -165,24 +145,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
     <Flags UseTeamColor="true" />
   </Item>
   
-  <Item id="aserai_nasalhelm_mail_veil" 
-		name="{=vwAaIwnD}Southern Closed Nasalhelm with Mail" 
-		mesh="aserai_nasalhelm_mail_veil" 
-		culture="Culture.aserai" 
-		weight="3.2" 
-		appearance="1.3" 
-		Type="HeadArmor">
-    <ItemComponent>
-      <Armor head_armor="80" 
-			 has_gender_variations="false" 
-			 hair_cover_type="all" 
-			 beard_cover_type="type3" 
-			 modifier_group="chain" 
-			 material_type="Chainmail" />
-    </ItemComponent>
-    <Flags />
-  </Item>
-  
 <!--Unique Camel Armor-->
 	<Item id="heavy_camel_saddle" 
 		  name="{=q1z4FQub}Heavy Camel Saddle" 
@@ -218,51 +180,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 				   Type="Pommel" />
 		</Pieces>
 	</CraftedItem>
-	<Item id="aserai_nafta"
-        name="Southern Nafta Jar"
-        body_name="bo_projectile_rock"
-        holster_body_name="bo_axe_short"
-        holster_mesh=""
-		flying_mesh="projectile_pot"
-        mesh="torch_flame_base"
-        weight="6"
-        appearance="6"
-        Type="Thrown"
-        item_holsters=""
-        value="40000"
-        is_merchandise="false">
-		<ItemComponent>
-			<Weapon weapon_class="Stone"
-					ammo_class="Stone"
-					stack_amount="2"
-					physics_material="burning_jar"
-					accuracy="70"
-					thrust_speed="60"
-					speed_rating="70"
-					missile_speed="22"
-					weapon_length="5"
-					thrust_damage="75"
-					thrust_damage_type="Pierce"
-					item_usage="stone"
-					flying_sound_code="event:/mission/ambient/detail/fire/fire_big"
-					rotation="100,30,20"
-					trail_particle_name="psys_game_burning_jar_trail"
-					rotation_speed="0, -3.0, 0">
-				<WeaponFlags RangedWeapon="true"
-							 Consumable="true"
-							 AutoReload="true"
-							 LeavesTrail="true"
-							 Burning="true"
-							 AffectsArea="true"
-							 UseHandAsThrowBase="true"
-							 AmmoBreaksOnBounceBack="true"
-							 MissileWithPhysics="true"
-							 CanKnockDown="true"
-							 HasString="true" />
-			</Weapon>
-		</ItemComponent>
-		<Flags />
-	</Item>
   <CraftedItem id="eastern_infantry_javelin_3_t4" 
 			   name="Infantry Jereed" 
 			   crafting_template="Javelin" 
@@ -382,23 +299,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 	<Armor body_armor="16" leg_armor="8" arm_armor="6" covers_body="true" modifier_group="cloth" material_type="Cloth" />
 	</ItemComponent>
 	<Flags UseTeamColor="true" />
-	</Item>
-	<!-- #region Battania Leg Armor -->
-	<Item id="simple_shoes" 
-		  name="{=4YxbZlbi}Simple Shoes" 
-		  mesh="hmj_simple_shoes" 
-		  culture="Culture.battania" 
-		  weight="0.2" 
-		  appearance="6" 
-		  Type="LegArmor"
-		  value="850">
-		<ItemComponent>
-			<Armor leg_armor="20" 
-				   covers_legs="false" 
-				   modifier_group="cloth_unarmoured" 
-				   material_type="Cloth" />
-		</ItemComponent>
-		<Flags Civilian="true" />
 	</Item>
   
 	<!-- #region Battania Weapons -->
@@ -961,58 +861,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 	</Item>
 
 <!--Fresh New Digs-->
-  <Item id="sling_stone" name="{=1CPdu9K0}Stone" is_merchandise="false" body_name="bo_throwing_stone" holster_body_name="bo_axe_short" holster_mesh="stone_holster" holster_mesh_with_weapon="stone_holster" mesh="throwing_stone" value="2" weight="0.1" appearance="0.1" Type="Thrown" item_holsters="throwing_stone:throwing_stone_2">
-    <ItemComponent>
-      <Weapon weapon_class="Stone" ammo_class="Stone" stack_amount="14" physics_material="missile" accuracy="60" thrust_speed="102" speed_rating="102" missile_speed="87" weapon_length="10" thrust_damage="40" item_usage="stone" rotation="100,30,20" passby_sound_code="" rotation_speed="0, -3.0, 0">
-        <WeaponFlags RangedWeapon="true" Consumable="true" AutoReload="true" UseHandAsThrowBase="true" />
-      </Weapon>
-    </ItemComponent>
-    <Flags />
-  </Item>
- <Item id="heavy_lamellar_shoulders"
-        name="Heavy Lamellar Shoulders"
-        mesh="sturgia_cavalry_shoulderguards"
-        culture="Culture.neutral_culture"
-        weight="5.0"
-        Type="Cape">
-    <ItemComponent>
-      <Armor body_armor="40"
-             modifier_group="plate"
-             material_type="Plate" />
-    </ItemComponent>
-  </Item>
- <Item id="heavy_lamellar_armor"
-        name="Heavy Lamellar Armor"
-        mesh="sturgia_cavalry_armor_reinforced"
-        culture="Culture.neutral_culture"
-        weight="20.3"
-        Type="BodyArmor">
-    <ItemComponent>
-      <Armor body_armor="50"
-             leg_armor="42"
-             arm_armor="40"
-             covers_body="true"
-             modifier_group="plate"
-             material_type="Plate" />
-    </ItemComponent>
-    <Flags UseTeamColor="true" />
-  </Item>
-	<Item id="battanian_mail_scarf"
-		  name="Highland Mantle over Mail"
-		  mesh="hmj_battanian_mail_scarf"
-		  culture="Culture.battania"
-		  weight="2"
-		  difficulty="0"
-		  appearance="1"
-          Type="Cape">
-		<ItemComponent>
-			<Armor body_armor="18"
-				   arm_armor="5"
-				   modifier_group="chain"
-				   material_type="Chainmail" />
-		</ItemComponent>
-		<Flags UseTeamColor="true" />
-	</Item>
   <Item id="vlandia_helmet_s_ii" name="{=7dAy51ln}Flat Top Over Arming Cap" mesh="vlandia_helmet_s_ii" culture="Culture.vlandia" weight="0.9" appearance="1" Type="HeadArmor">
     <ItemComponent>
       <Armor head_armor="50" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
@@ -1043,12 +891,6 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 		</ItemComponent>
 		<Flags />
 	</Item>
-  <Item id="hmj_heavy_mailed_fur" name="{=KKWEkA4P}Highland Heavy Fur over Mail" mesh="hmj_heavy_mailed_fur" culture="Culture.battania" weight="5.0" appearance="3" value="14000" Type="Cape">
-    <ItemComponent>
-      <Armor body_armor="20" arm_armor="10" modifier_group="chain" material_type="Chainmail" />
-    </ItemComponent>
-    <Flags />
-  </Item>
 
    <CraftedItem id="longseax"
                name="{=3Pv0SlYj}Long Seax"
