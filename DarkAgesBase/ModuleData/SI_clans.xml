@@ -114,9 +114,9 @@
 	         tier="1"/-->
 	<!-- mercenary minor factions (4) -->
 	<Faction id="ghilman"
-	         initial_posX="360.0"
-	         initial_posY="212.0"
-	         banner_key="33.154.10.1500.1500.764.764.1.0.0.505.11.11.27.121.838.862.0.0.121.505.11.11.20.121.688.863.0.0.49.505.11.11.110.28.766.892.0.0.0.505.11.11.72.168.766.829.0.0.0.505.11.11.345.28.766.938.0.0.0.205.11.129.345.345.850.725.0.1.8.205.11.129.345.345.681.725.0.0.351.219.126.129.345.345.766.767.0.0.0.218.11.129.185.185.767.668.0.0.0"
+	         initial_posX="600.0"
+	         initial_posY="300.0"
+	         banner_key="36.91.155.1438.1122.764.764.0.0.0.144.149.149.503.545.764.724.0.0.0.307.149.149.503.545.764.955.0.1.269"
 	         label_color="FFD0884E"
 	         color="FFD0884E"
 	         color2="FFD0884E"
@@ -127,10 +127,10 @@
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
 	         is_clan_type_mercenary="true"
-	         name="{=ghilmanClanName}Harmīgān"
+	         name="{=HarmīgānClanName}Harmīgān"
 	         short_name="Harmīgān"
 	         tier="4"
-	         text="{=4TiYXBqK}The Harmīgān are an independent and warlike peoples. Although they live within sheer mountainsides beyond the Darshi's reach, the Harmīgān often served the Shahanshah's host as mercenaries. ">
+	         text="{=4TiYXBqK}The Harmīgān are an independent and warlike peoples. Although they live within sheer mountainsides beyond the Darshi's reach, the Harmīgān have often served the Shahanshah as mercenaries. Their hardiness and skill at arms however have marked them apart from the Paighan, and have won them the prestige of being some of the fiercest warriors in the Darshi realm- dare say equal to shimmering Aswaran. Now as the Darshi wither away, the Harmīgān's fame still shines bright.">
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.AR_spc_ghilman_leader_0"/>
 			<template id="NPCCharacter.AR_spc_ghilman_leader_1"/>
