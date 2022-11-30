@@ -715,16 +715,4 @@
 			</eliteTroops>
 		</Culture>
 	</Clan>
-	<Clan id="ghilman">
-		<Culture id="default">
-			<basicTroops>
-				<volunteer id="AR_min_ghilman_t3" percent="50"/>
-				<volunteer id="AR_min_ghilman_t4_lancer" percent="25"/>
-				<volunteer id="AR_min_ghilman_t5_lancer" percent="25"/>
-			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_min_ghilman_t5_lancer" percent="50"/>
-			</eliteTroops>
-		</Culture>
-	</Clan>
 </ATCConfig> 

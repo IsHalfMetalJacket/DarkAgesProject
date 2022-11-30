@@ -437,6 +437,19 @@
 			</eliteTroops>
 		</Culture>
 	</Clan>
+	<Clan id="ghilman">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="harmigan_hmj_it2" percent="50"/>
+				<volunteer id="harmigan_hmj_it3" percent="30"/>
+				<volunteer id="harmigan_hmj_it4" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+				<volunteer id="harmigan_hmj_it4" percent="50"/>
+				<volunteer id="harmigan_hmj_ct4" percent="50"/>
+			</eliteTroops>
+		</Culture>
+	</Clan>
 	<Clan id="chosen_of_the_sky">
 		<Culture id="default">
 			<basicTroops>
