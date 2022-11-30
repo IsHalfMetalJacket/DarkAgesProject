@@ -4,231 +4,107 @@
 	<!--trained with the CAVALRY=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_spahad_9_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.bound_desert_round_shield"/>
-			<Equipment slot="Head" id="Item.emirs_helmet"/>
-			<Equipment slot="Body" id="Item.eastern_silk_clothing"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.short_padded_robe"/>
-			<Equipment slot="Head" id="Item.aserai_civil_hscarf_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the CAVALRY=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_spahad_9_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.bound_desert_round_shield"/>
-			<Equipment slot="Head" id="Item.emirs_helmet"/>
-			<Equipment slot="Body" id="Item.eastern_silk_clothing"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.short_padded_robe"/>
-			<Equipment slot="Head" id="Item.aserai_civil_hscarf_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_spahad_1_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Head" id="Item.aserai_civil_e_hscarf"/>
-			<Equipment slot="Body" id="Item.aserai_civil_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.aserai_civil_e"/>
-			<Equipment slot="Head" id="Item.aserai_civil_hscarf_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_spahad_1_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Head" id="Item.aserai_civil_e_hscarf"/>
-			<Equipment slot="Body" id="Item.aserai_civil_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.aserai_civil_e"/>
-			<Equipment slot="Head" id="Item.aserai_civil_hscarf_a"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_spahad_2_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.hunting_bow"/>
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.tight_head_scarf"/>
-			<Equipment slot="Body" id="Item.aserai_civil_b"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_e"/>
-			<Equipment slot="Head" id="Item.aserai_civil_e_hscarf"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_spahad_2_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.hunting_bow"/>
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.tight_head_scarf"/>
-			<Equipment slot="Body" id="Item.aserai_civil_b"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.rough_tied_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_e"/>
-			<Equipment slot="Head" id="Item.aserai_civil_e_hscarf"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_spahad_3_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_i"/>
-			<Equipment slot="Item2" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Head" id="Item.AR_aserai_helmet_b"/>
-			<Equipment slot="Body" id="Item.studded_leather_coat"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.desert_fabric_shoulderpad"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_a"/>
-			<Equipment slot="Head" id="Item.turban"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_spahad_3_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_i"/>
-			<Equipment slot="Item2" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Head" id="Item.AR_aserai_helmet_b"/>
-			<Equipment slot="Body" id="Item.studded_leather_coat"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.desert_fabric_shoulderpad"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_a"/>
-			<Equipment slot="Head" id="Item.turban"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_spahad_4_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item2" id="Item.adarga"/>
-			<Equipment slot="Head" id="Item.AR_hat_c"/>
-			<Equipment slot="Body" id="Item.layered_robe"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_c"/>
-			<Equipment slot="Head" id="Item.desert_cap"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_spahad_4_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Item3" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item2" id="Item.adarga"/>
-			<Equipment slot="Head" id="Item.AR_hat_c"/>
-			<Equipment slot="Body" id="Item.layered_robe"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.aserai_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.aserai_civil_c"/>
-			<Equipment slot="Head" id="Item.desert_cap"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_spahad_5_m" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.woven_turban"/>
-			<Equipment slot="Body" id="Item.aserai_civil_f"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Head" id="Item.woven_turban"/>
-			<Equipment slot="Body" id="Item.aserai_civil_f"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_spahad_5_f" culture="Culture.nahasi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item2" id="Item.eastern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.woven_turban"/>
-			<Equipment slot="Body" id="Item.aserai_civil_f"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Head" id="Item.woven_turban"/>
-			<Equipment slot="Body" id="Item.aserai_civil_f"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--STARTING EQUIPMENT SETS FOR BATTANIANS BEGINS HERE -->
@@ -1107,1089 +983,499 @@
 	<!--Joined a commander's Staff=> Empire Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_kannic_10_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-			<Equipment slot="Head" id="Item.AR_roman_helmet_d_plumed_b"/>
-			<Equipment slot="Body" id="Item.AR_empire_armor_d"/>
-			<Equipment slot="Cape" id="Item.pauldron_cape_a"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.stripped_leather_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_kannic_10_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-			<Equipment slot="Head" id="Item.AR_roman_helmet_d_plumed_b"/>
-			<Equipment slot="Body" id="Item.AR_empire_armor_d"/>
-			<Equipment slot="Cape" id="Item.pauldron_cape_a"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.stripped_leather_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_sword_2_t3"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the cavalry=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_kannic_9_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.imperial_spear_t2"/>
-			<Equipment slot="Item3" id="Item.AR_martiobarbuli"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-			<Equipment slot="Body" id="Item.layered_leather_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Head" id="Item.ironlame_nasalhelm_over_imperial_cloth"/>
-			<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
-			<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Head" id="Item.merchants_hat"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_kannic_9_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.imperial_spear_t2"/>
-			<Equipment slot="Item3" id="Item.AR_martiobarbuli"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
-			<Equipment slot="Body" id="Item.layered_leather_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Head" id="Item.ironlame_nasalhelm_over_imperial_cloth"/>
-			<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
-			<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Head" id="Item.merchants_hat"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_kannic_1_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.crossbow_a"/>
-			<Equipment slot="Item1" id="Item.bolt_e"/>
-			<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-			<Equipment slot="Head" id="Item.AR_roman_hat_a"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_kannic_1_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.crossbow_a"/>
-			<Equipment slot="Item1" id="Item.bolt_e"/>
-			<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-			<Equipment slot="Head" id="Item.AR_roman_hat_a"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_kannic_2_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item3" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Item0" id="Item.composite_bow"/>
-			<Equipment slot="Item1" id="Item.barbed_arrows"/>
-			<Equipment slot="Head" id="Item.AR_roman_hat_b"/>
-			<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.woven_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_kannic_2_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item3" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Item0" id="Item.composite_bow"/>
-			<Equipment slot="Item1" id="Item.barbed_arrows"/>
-			<Equipment slot="Head" id="Item.AR_roman_hat_b"/>
-			<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Body" id="Item.fine_town_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.woven_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_kannic_3_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-			<Equipment slot="Item0" id="Item.imperial_throwing_spear_1_t4"/>
-			<Equipment slot="Item3" id="Item.AR_plumbata"/>
-			<Equipment slot="Head" id="Item.AR_roman_helmet_a"/>
-			<Equipment slot="Body" id="Item.tunic_with_shoulder_pads"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Body" id="Item.tunic_with_shoulder_pads"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_kannic_3_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-			<Equipment slot="Item0" id="Item.imperial_throwing_spear_1_t4"/>
-			<Equipment slot="Item3" id="Item.AR_plumbata"/>
-			<Equipment slot="Head" id="Item.AR_roman_helmet_a"/>
-			<Equipment slot="Body" id="Item.tunic_with_shoulder_pads"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
-			<Equipment slot="Body" id="Item.tunic_with_shoulder_pads"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_kannic_4_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.empire_mace_1_t2"/>
-			<Equipment slot="Item1" id="Item.western_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.footmans_tunic"/>
-			<Equipment slot="Head" id="Item.AR_phrygian_cap_a"/>
-			<Equipment slot="Leg" id="Item.strapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.footmans_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_kannic_4_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.empire_mace_1_t2"/>
-			<Equipment slot="Item1" id="Item.western_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.footmans_tunic"/>
-			<Equipment slot="Head" id="Item.AR_phrygian_cap_a"/>
-			<Equipment slot="Leg" id="Item.strapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.empire_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.footmans_tunic"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_kannic_5_m" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item1" id="Item.western_javelin_1_t2"/>
-			<Equipment slot="Item0" id="Item.imperial_spear_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_shoes"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_shoes"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_kannic_5_f" culture="Culture.shariz">
 		<EquipmentSet>
-			<Equipment slot="Item1" id="Item.western_javelin_1_t2"/>
-			<Equipment slot="Item0" id="Item.imperial_spear_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_shoes"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.leather_shoes"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--STARTING EQUIPMENT SETS FOR KHUZAIT BEGINS HERE -->
 	<!--CHIEFTANS GUARD -->
 	<EquipmentRoster id="player_char_creation_cizygian_10_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.khuzait_sword_2_t3"/>
-			<Equipment slot="Item1" id="Item.decorated_steppe_shield"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat"/>
-			<Equipment slot="Head" id="Item.plumed_nomad_helmet"/>
-			<Equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.eastern_studded_shoulders"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.decorated_nomad_cap"/>
-			<Equipment slot="Body" id="Item.studded_leather_waistcoat"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_cizygian_10_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.khuzait_sword_2_t3"/>
-			<Equipment slot="Item1" id="Item.decorated_steppe_shield"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat"/>
-			<Equipment slot="Head" id="Item.plumed_nomad_helmet"/>
-			<Equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.eastern_studded_shoulders"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.decorated_nomad_cap"/>
-			<Equipment slot="Body" id="Item.studded_leather_waistcoat"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the CAVALRY=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_cizygian_9_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.tribal_steppe_shield"/>
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.plumed_fur_lined_helmet"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Cape" id="Item.stitched_leather_shoulders"/>
-			<Equipment slot="Gloves" id="Item.studded_vambraces"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.nomad_cap"/>
-			<Equipment slot="Body" id="Item.steppe_armor"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_cizygian_9_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.tribal_steppe_shield"/>
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.plumed_fur_lined_helmet"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Cape" id="Item.stitched_leather_shoulders"/>
-			<Equipment slot="Gloves" id="Item.studded_vambraces"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Head" id="Item.nomad_cap"/>
-			<Equipment slot="Body" id="Item.steppe_armor"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_cizygian_1_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.steppe_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.falchion_sword_t2"/>
-			<Equipment slot="Head" id="Item.AR_khuzait_helmet_d"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.falchion_sword_t2"/>
-			<Equipment slot="Head" id="Item.fur_hat"/>
-			<Equipment slot="Body" id="Item.steppe_armor"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_cizygian_1_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.steppe_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.falchion_sword_t2"/>
-			<Equipment slot="Head" id="Item.AR_khuzait_helmet_d"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.falchion_sword_t2"/>
-			<Equipment slot="Head" id="Item.fur_hat"/>
-			<Equipment slot="Body" id="Item.steppe_armor"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_cizygian_2_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.steppe_bow"/>
-			<Equipment slot="Item1" id="Item.steppe_arrows"/>
-			<Equipment slot="Item2" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Head" id="Item.upturned_fur_cap"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_cizygian_2_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.steppe_bow"/>
-			<Equipment slot="Item1" id="Item.steppe_arrows"/>
-			<Equipment slot="Item2" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Head" id="Item.upturned_fur_cap"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_cizygian_3_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_i"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Head" id="Item.fur_hat"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_cizygian_3_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
-			<Equipment slot="Item1" id="Item.AR_shield_infantry_i"/>
-			<Equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-			<Equipment slot="Head" id="Item.fur_hat"/>
-			<Equipment slot="Leg" id="Item.eastern_leather_boots"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_mace_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_cizygian_4_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_cizygian_4_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.khuzait_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.khuzait_belt_leather"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_cizygian_5_m" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item1" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Body" id="Item.steppe_robe"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.steppe_robe"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_cizygian_5_f" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item1" id="Item.eastern_javelin_2_t3"/>
-			<Equipment slot="Item0" id="Item.eastern_spear_1_t2"/>
-			<Equipment slot="Body" id="Item.steppe_robe"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.steppe_robe"/>
-			<Equipment slot="Leg" id="Item.khuzait_curved_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--STARTING EQUIPMENT SETS FOR STURGIANS BEGINS HERE -->
 	<!--trained with HEARTH GUARD=> Battania and Sturgia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_vaegiri_9_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.viking_round_shield"/>
-			<Equipment slot="Item1" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Head" id="Item.sturgia_heavy_cavalary_helmet"/>
-			<Equipment slot="Body" id="Item.nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_vaegiri_9_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.viking_round_shield"/>
-			<Equipment slot="Item1" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Head" id="Item.sturgia_heavy_cavalary_helmet"/>
-			<Equipment slot="Body" id="Item.nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_vaegiri_1_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_vaegiri_1_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_vaegiri_2_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Head" id="Item.nasal_helmet"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_vaegiri_2_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Head" id="Item.nasal_helmet"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_vaegiri_3_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_round_shield"/>
-			<Equipment slot="Item2" id="Item.northern_spear_2_t3"/>
-			<Equipment slot="Head" id="Item.nordic_leather_cap"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Body" id="Item.northern_padded_gambeson"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.nordic_padded_cloth"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_vaegiri_3_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_round_shield"/>
-			<Equipment slot="Item2" id="Item.northern_spear_2_t3"/>
-			<Equipment slot="Head" id="Item.nordic_leather_cap"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Body" id="Item.northern_padded_gambeson"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.nordic_padded_cloth"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_vaegiri_4_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_vaegiri_4_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_vaegiri_5_m" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_vaegiri_5_f" culture="Culture.vakken">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--STARTING EQUIPMENT SETS FOR NORDS BEGINS HERE -->
 	<!--trained with HEARTH GUARD=> Battania and Sturgia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_nord_9_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.viking_round_shield"/>
-			<Equipment slot="Item1" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Head" id="Item.sturgia_heavy_cavalary_helmet"/>
-			<Equipment slot="Body" id="Item.nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_nord_9_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.viking_round_shield"/>
-			<Equipment slot="Item1" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item2" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Head" id="Item.sturgia_heavy_cavalary_helmet"/>
-			<Equipment slot="Body" id="Item.nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.northern_noble_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.highland_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
 	<EquipmentRoster id="player_char_creation_nord_1_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_nord_1_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.hunting_bow"/>
-			<Equipment slot="Item1" id="Item.default_arrows"/>
-			<Equipment slot="Item3" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_nord_2_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Head" id="Item.nasal_helmet"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--rode with the scouts-->
 	<EquipmentRoster id="player_char_creation_nord_2_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item2" id="Item.default_arrows"/>
-			<Equipment slot="Item1" id="Item.mountain_hunting_bow"/>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Head" id="Item.nasal_helmet"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.northern_leather_vest"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_nord_3_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_round_shield"/>
-			<Equipment slot="Item2" id="Item.northern_spear_2_t3"/>
-			<Equipment slot="Head" id="Item.nordic_leather_cap"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Body" id="Item.northern_padded_gambeson"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.nordic_padded_cloth"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the infantry-->
 	<EquipmentRoster id="player_char_creation_nord_3_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_round_shield"/>
-			<Equipment slot="Item2" id="Item.northern_spear_2_t3"/>
-			<Equipment slot="Head" id="Item.nordic_leather_cap"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Body" id="Item.northern_padded_gambeson"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.nordic_padded_cloth"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_nord_4_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--joined the skirmishers-->
 	<EquipmentRoster id="player_char_creation_nord_4_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
-			<Equipment slot="Body" id="Item.heavy_nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.highland_leg_wrappings"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.sturgia_axe_2_t2"/>
-			<Equipment slot="Body" id="Item.northern_tunic"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_nord_5_m" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--marched with the camp followers-->
 	<EquipmentRoster id="player_char_creation_nord_5_f" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-			<Equipment slot="Item1" id="Item.northern_javelin_1_t2"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
-			<Equipment slot="Head" id="Item.AR_hat_a"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
-			<Equipment slot="Body" id="Item.hemp_tunic"/>
-			<Equipment slot="Leg" id="Item.wrapped_leather_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--STARTING EQUIPMENT SETS FOR VLANDIA BEGINS HERE -->
 	<!--served as a baron's groom=> Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_massa_10_m" culture="Culture.zwadane">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.viking_round_shield"/>
-			<Equipment slot="Head" id="Item.AR_vlandia_helmet_l"/>
-			<Equipment slot="Body" id="Item.sleeveless_padded_short_coat"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.sleeveless_padded_short_coat"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="player_char_creation_massa_10_f" culture="Culture.zwadane">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Item1" id="Item.viking_round_shield"/>
-			<Equipment slot="Head" id="Item.AR_vlandia_helmet_l"/>
-			<Equipment slot="Body" id="Item.sleeveless_padded_short_coat"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.AR_fur_cape_a"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.sleeveless_padded_short_coat"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the CAVALRY=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_massa_9_m" culture="Culture.zwadane">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.vlandia_lance_1_t3"/>
-			<Equipment slot="Item1" id="Item.bound_desert_round_shield"/>
-			<Equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
-			<Equipment slot="Body" id="Item.long_woolen_tunic"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Head" id="Item.open_mail_coif"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.green_hood"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.padded_short_coat"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--trained with the CAVALRY=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
 	<EquipmentRoster id="player_char_creation_massa_9_f" culture="Culture.zwadane">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.vlandia_lance_1_t3"/>
-			<Equipment slot="Item1" id="Item.bound_desert_round_shield"/>
-			<Equipment slot="Item2" id="Item.vlandia_axe_1_t3"/>
-			<Equipment slot="Body" id="Item.long_woolen_tunic"/>
-			<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-			<Equipment slot="Head" id="Item.open_mail_coif"/>
-			<Equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-			<Equipment slot="Cape" id="Item.green_hood"/>
-			<Equipment slot="Horse" id="Item.sumpter_horse"/>
-			<Equipment slot="HorseHarness" id="Item.light_harness"/>
+
 		</EquipmentSet>
 		<EquipmentSet civilian="true">
-			<Equipment slot="Item0" id="Item.vlandia_sword_1_t2"/>
-			<Equipment slot="Body" id="Item.padded_short_coat"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--stood guard with the garrisons-->
@@ -2850,103 +2136,67 @@
 	<!--1.Boyar's Companion-->
 	<EquipmentRoster id="mother_char_creation_1_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.northern_dress"/>
-			<Equipment slot="Leg" id="Item.southern_moccasins"/>
-			<Equipment slot="Head" id="Item.headscarf_d"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Cape" id="Item.female_scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_1_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Head" id="Item.AR_sturgia_helmet_d"/>
-			<Equipment slot="Body" id="Item.sturgian_lamellar_gambeson_heavy"/>
-			<Equipment slot="Leg" id="Item.strapped_leather_boots"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
-			<Equipment slot="Cape" id="Item.lamellar_shoulder_scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--2.Trader-->
 	<EquipmentRoster id="mother_char_creation_2_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.cut_dress"/>
-			<Equipment slot="Leg" id="Item.southern_moccasins"/>
-			<Equipment slot="Cape" id="Item.female_scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_2_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.merchants_fur_coat"/>
-			<Equipment slot="Leg" id="Item.strapped_shoes"/>
-			<Equipment slot="Head" id="Item.northern_fur_cap"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--3.Farmer-->
 	<EquipmentRoster id="mother_char_creation_3_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Head" id="Item.headscarf_c"/>
-			<Equipment slot="Body" id="Item.laced_dress"/>
-			<Equipment slot="Leg" id="Item.southern_moccasins"/>
-			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_3_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Head" id="Item.AR_hat_b"/>
-			<Equipment slot="Body" id="Item.nordic_tunic"/>
-			<Equipment slot="Leg" id="Item.strapped_shoes"/>
-			<Equipment slot="Cape" id="Item.scarf"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--4.Artisan-->
 	<EquipmentRoster id="mother_char_creation_4_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.cloth_apron"/>
-			<Equipment slot="Leg" id="Item.ladys_shoe"/>
-			<Equipment slot="Head" id="Item.head_wrapped"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_4_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.leather_apron"/>
-			<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-			<Equipment slot="Head" id="Item.nordic_fur_cap"/>
-			<Equipment slot="Gloves" id="Item.leather_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--5.Hunter-->
 	<EquipmentRoster id="mother_char_creation_5_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.battania_female_civil_a"/>
-			<Equipment slot="Leg" id="Item.southern_moccasins"/>
-			<Equipment slot="Cape" id="Item.female_scarf"/>
-			<Equipment slot="Head" id="Item.AR_sturgia_womens_hat_a"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_5_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.battania_civil_b"/>
-			<Equipment slot="Leg" id="Item.rough_tied_boots"/>
-			<Equipment slot="Head" id="Item.roughhide_cap"/>
-			<Equipment slot="Cape" id="Item.battania_woodland_cloak"/>
-			<Equipment slot="Gloves" id="Item.highland_gloves"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--6.Vagabond-->
 	<EquipmentRoster id="mother_char_creation_6_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.plain_dress"/>
-			<Equipment slot="Leg" id="Item.southern_moccasins"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="father_char_creation_6_nord" culture="Culture.nord">
 		<EquipmentSet>
-			<Equipment slot="Body" id="Item.torn_bandit_clothes"/>
-			<Equipment slot="Leg" id="Item.fine_town_boots"/>
-			<Equipment slot="Gloves" id="Item.armwraps"/>
+
 		</EquipmentSet>
 	</EquipmentRoster>
 	<!--Culture: khuzait -->
