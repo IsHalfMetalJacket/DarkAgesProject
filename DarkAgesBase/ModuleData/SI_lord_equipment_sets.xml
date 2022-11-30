@@ -5836,54 +5836,50 @@
 		</EquipmentSet>
 		<Flags IsNobleTemplate="true" IsFemaleTemplate="true" IsWoodlandTemplate="true" IsNoncombatantTemplate="true"/>
 	</EquipmentRoster>
-	<EquipmentRoster id="AR_spc_ghilman_leaders" culture="Culture.nahasi">
+	<EquipmentRoster id="AR_spc_ghilman_leaders" culture="Culture.darshi">
 		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-			<Equipment slot="Item1" id="Item.shishpar_mace_t4"/>
-			<Equipment slot="Item2" id="Item.AR_shield_infantry_zc"/>
-			<Equipment slot="Head" id="Item.AR_aserai_archer_helmet_d"/>
-			<Equipment slot="Body" id="Item.tv_aserai_lamellar_b"/>
-			<Equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-			<Equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-			<Equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-			<Equipment slot="Horse" id="Item.t2_aserai_horse"/>
-			<Equipment slot="HorseHarness" id="Item.AR_horse_armor_c"/>
-		</EquipmentSet>
-		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-			<Equipment slot="Item1" id="Item.aserai_sword_5_t4"/>
-			<Equipment slot="Item2" id="Item.steel_round_shield"/>
-			<Equipment slot="Head" id="Item.AR_aserai_lord_helmet_b"/>
-			<Equipment slot="Body" id="Item.AR_aserai_armor_g"/>
-			<Equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-			<Equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-			<Equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-			<Equipment slot="Horse" id="Item.t2_aserai_horse"/>
-			<Equipment slot="HorseHarness" id="Item.mail_and_plate_barding"/>
-		</EquipmentSet>
-		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-			<Equipment slot="Item1" id="Item.shishpar_mace_t4"/>
-			<Equipment slot="Item2" id="Item.AR_shield_infantry_zc"/>
-			<Equipment slot="Head" id="Item.AR_aserai_helmet_e"/>
-			<Equipment slot="Body" id="Item.tv_aserai_lamellar_b"/>
-			<Equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-			<Equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-			<Equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-			<Equipment slot="Horse" id="Item.t2_aserai_horse"/>
-			<Equipment slot="HorseHarness" id="Item.AR_horse_armor_c"/>
-		</EquipmentSet>
-		<EquipmentSet>
-			<Equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-			<Equipment slot="Item1" id="Item.aserai_sword_5_t4"/>
-			<Equipment slot="Item2" id="Item.steel_round_shield"/>
+			<Equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+			<Equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+			<Equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+			<Equipment slot="Item3" id="Item.AR_darshi_short_spear_4_t5"/>
 			<Equipment slot="Head" id="Item.AR_aserai_helmet_f"/>
-			<Equipment slot="Body" id="Item.AR_aserai_armor_g"/>
-			<Equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-			<Equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-			<Equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-			<Equipment slot="Horse" id="Item.t2_aserai_horse"/>
-			<Equipment slot="HorseHarness" id="Item.mail_and_plate_barding"/>
+			<Equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+			<Equipment slot="Body" id="Item.desert_lamellar"/>
+			<Equipment slot="Gloves" id="Item.TV_aserai_gloves_b"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+		</EquipmentSet>
+		<EquipmentSet>
+			<Equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+			<Equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+			<Equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+			<Equipment slot="Item3" id="Item.aserai_2haxe_2_t4"/>
+			<Equipment slot="Head" id="Item.TV_empire_lord_helmet_h"/>
+			<Equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+			<Equipment slot="Body" id="Item.tv_empire_armor_s2"/>
+			<Equipment slot="Gloves" id="Item.TV_aserai_gloves_a"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+		</EquipmentSet>
+		<EquipmentSet>
+			<Equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+			<Equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+			<Equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+			<Equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+			<Equipment slot="Head" id="Item.AR_aserai_helmet_e"/>
+			<Equipment slot="Cape" id="Item.scarf"/>
+			<Equipment slot="Body" id="Item.AR_aserai_armor_u"/>
+			<Equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
+		</EquipmentSet>
+		<EquipmentSet>
+			<Equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+			<Equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+			<Equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+			<Equipment slot="Item3" id="Item.aserai_2haxe_2_t4"/>
+			<Equipment slot="Head" id="Item.AR_aserai_lord_helmet_j"/>
+			<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+			<Equipment slot="Body" id="Item.tv_empire_armor_s"/>
+			<Equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+			<Equipment slot="Leg" id="Item.eastern_splint_boots"/>
 		</EquipmentSet>
 	</EquipmentRoster>
 	<EquipmentRoster id="AR_spc_lost_legion_leaders" culture="Culture.empire_w">

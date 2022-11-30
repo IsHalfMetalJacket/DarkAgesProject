@@ -2966,68 +2966,64 @@
 	</NPCCharacter>
 	<!-- MINOR FACTION LORDS -->
 	<!-- ghilman -->
-	<NPCCharacter id="AR_spc_ghilman_leader_0" name="{=IgOTjF4i}of the Kolemen" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nahasi" occupation="Lord">
+	<NPCCharacter id="AR_spc_ghilman_leader_0" name="{=IgOTjF4i}of the Harmīgān" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.darshi" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
+			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
 		<skills/>
 		<Traits>
 			<Trait id="Valor" value="1"/>
 			<Trait id="Generosity" value="1"/>
-			<Trait id="Commander" value="7"/>
-			<Trait id="BalancedFightingSkills" value="3"/>
-			<Trait id="KnightFightingSkills" value="5"/>
+			<Trait id="Commander" value="6"/>
+			<Trait id="HuscarlFightingSkills" value="6"/>
 		</Traits>
 		<Equipments>
 			<EquipmentSet id="AR_spc_ghilman_leaders"/>
 			<EquipmentSet id="ase_civ_template_bedouin" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_ghilman_leader_1" name="{=IgOTjF4i}of the Kolemen" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nahasi" occupation="Lord">
+	<NPCCharacter id="AR_spc_ghilman_leader_1" name="{=IgOTjF4i}of the Harmīgān" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.darshi" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
+			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
 		<skills/>
 		<Traits>
 			<Trait id="Honor" value="-1"/>
 			<Trait id="Calculating" value="1"/>
-			<Trait id="Commander" value="7"/>
-			<Trait id="BalancedFightingSkills" value="2"/>
-			<Trait id="KnightFightingSkills" value="4"/>
+			<Trait id="Commander" value="3"/>
+			<Trait id="HuscarlFightingSkills" value="9"/>
 		</Traits>
 		<Equipments>
 			<EquipmentSet id="AR_spc_ghilman_leaders"/>
 			<EquipmentSet id="ase_civ_template_bedouin" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_ghilman_leader_2" name="{=IgOTjF4i}of the Kolemen" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nahasi" occupation="Lord">
+	<NPCCharacter id="AR_spc_ghilman_leader_2" name="{=IgOTjF4i}of the Harmīgān" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.darshi" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
+			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
 		<skills/>
 		<Traits>
 			<Trait id="Honor" value="-1"/>
 			<Trait id="Calculating" value="1"/>
-			<Trait id="Commander" value="7"/>
-			<Trait id="BalancedFightingSkills" value="2"/>
-			<Trait id="KnightFightingSkills" value="4"/>
+			<Trait id="Commander" value="8"/>
+			<Trait id="HuscarlFightingSkills" value="4"/>
 		</Traits>
 		<Equipments>
 			<EquipmentSet id="AR_spc_ghilman_leaders"/>
 			<EquipmentSet id="ase_civ_template_bedouin" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_ghilman_leader_3" name="{=IgOTjF4i}of the Kolemen" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.nahasi" occupation="Lord">
+	<NPCCharacter id="AR_spc_ghilman_leader_3" name="{=IgOTjF4i}of the Harmīgān" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.darshi" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
+			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
 		<skills/>
 		<Traits>
 			<Trait id="Honor" value="-1"/>
 			<Trait id="Calculating" value="1"/>
-			<Trait id="Commander" value="7"/>
-			<Trait id="BalancedFightingSkills" value="2"/>
-			<Trait id="KnightFightingSkills" value="4"/>
+			<Trait id="Commander" value="5"/>
+			<Trait id="HuscarlFightingSkills" value="7"/>
 		</Traits>
 		<Equipments>
 			<EquipmentSet id="AR_spc_ghilman_leaders"/>

@@ -122,7 +122,7 @@
 	         color2="FFD0884E"
 	         alternative_color="FFD0884E"
 	         alternative_color2="FFD0884E"
-	         culture="Culture.nahasi"
+	         culture="Culture.darshi"
 	         default_party_template="PartyTemplate.kingdom_hero_party_mercenary_aserai_template"
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
