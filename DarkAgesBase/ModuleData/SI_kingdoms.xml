@@ -216,7 +216,7 @@
 			<relationship kingdom="Kingdom.empire"
 			              value="-1"
 			              isAtWar="true"/>
-			<relationship kingdom="Kingdom.cizygia"
+			<relationship kingdom="Kingdom.shahdom"
 			              value="1"/>
 		</relationships>
 		<policies>
@@ -279,11 +279,11 @@
 			              isAtWar="true"/>
 		</relationships>
 		<policies>
-			<policy id="policy_senate"/>
-			<policy id="policy_land_grants_for_veterans"/>
+			<policy id="policy_cantons"/>
+			<policy id="policy_council_of_the_commons"/>
 		</policies>
 	</Kingdom>
-	<Kingdom id="cizygia"
+	<Kingdom id="shahdom"
 	         owner="Hero.AR_lord_10_1"
 	         banner_key="11.82.149.1836.1836.768.788.1.0.-30.502.149.149.602.602.764.764.0.1.0.143.149.149.334.334.764.764.0.1.0"
 	         primary_banner_color="0xffbf5a25"
@@ -335,7 +335,7 @@
 			              isAtWar="true"/>
 		</relationships>
 		<policies>
-			<policy id="policy_senate"/>
+			<policy id="policy_lawspeakers"/>
 			<policy id="policy_castle_charters"/>
 		</policies>
 	</Kingdom>
@@ -363,7 +363,7 @@
 			              isAtWar="true"/>
 		</relationships>
 		<policies>
-			<policy id="policy_sacred_majesty"/>
+			<policy id="policy_royal_privilege"/>
 			<policy id="policy_council_of_elders"/>
 		</policies>
 	</Kingdom>
@@ -394,7 +394,7 @@
 			              value="-1"/>				
 		</relationships>
 		<policies>
-			<policy id="policy_cantons"/>
+			<policy id="policy_council_of_the_commons"/>
 			<policy id="policy_council_of_elders"/>
 		</policies>
 	</Kingdom>
@@ -426,7 +426,7 @@
 		</relationships>
 		<policies>
 			<policy id="policy_royal_privilege"/>
-			<policy id="policy_lawspeakers"/>
+			<policy id="policy_land_grants_for_veterans"/>
 		</policies>
 	</Kingdom>
 </Kingdoms>

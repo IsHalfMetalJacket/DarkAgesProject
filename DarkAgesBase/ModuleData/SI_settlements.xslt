@@ -694,9 +694,12 @@
 		<xsl:attribute name='culture'>Culture.shariz</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_V1']/@culture">
-		<xsl:attribute name='culture'>Culture.vlandia</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.aserai</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_V1']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_quyaz_5</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Settlement[@id='castle_village_V1_1']/@culture">
+		<xsl:attribute name='culture'>Culture.aserai</xsl:attribute>
 	</xsl:template>
 </xsl:stylesheet>

@@ -543,7 +543,7 @@
 	         tier="4"
 	         owner="Hero.lord_K9_l"
 	         culture="Culture.darshi"
-	         super_faction="Kingdom.cizygia"
+	         super_faction="Kingdom.shahdom"
 	         is_noble="true"
 	         banner_key="11.116.116.4345.4345.780.802.1.0.0.510.11.0.351.240.764.894.0.0.0.510.11.0.351.240.764.649.0.0.0.500.11.0.500.500.764.771.0.0.0.145.11.0.351.240.769.774.0.0.0"/>
 	<!--
@@ -904,7 +904,7 @@
 	         tier="6"
 	         owner="Hero.AR_lord_10_1"
 	         culture="Culture.darshi"
-	         super_faction="Kingdom.cizygia"
+	         super_faction="Kingdom.shahdom"
 	         is_noble="true"
 	         banner_key="11.25.10.1536.1536.768.768.1.0.0.427.11.11.400.400.764.923.1.0.0.129.11.11.300.300.759.694.1.0.0.340.11.11.200.200.764.484.1.0.0.504.11.11.90.90.718.476.1.0.-40.504.11.11.90.90.810.477.1.0.39.410.11.11.113.113.764.879.1.0.0"/>
 	<Faction id="clan_cizygian_2"
@@ -912,7 +912,7 @@
 	         tier="5"
 	         owner="Hero.AR_lord_10_5"
 	         culture="Culture.darshi"
-	         super_faction="Kingdom.cizygia"
+	         super_faction="Kingdom.shahdom"
 	         is_noble="true"
 	         banner_key="11.25.10.4345.4345.776.778.1.0.0.428.5.5.500.500.764.709.0.1.0.115.5.5.300.300.796.651.0.1.0.426.5.5.300.300.764.963.0.1.90.503.5.5.88.88.686.702.0.1.0"/>
 	<Faction id="clan_cizygian_3"
@@ -920,7 +920,7 @@
 	         tier="4"
 	         owner="Hero.AR_lord_10_10"
 	         culture="Culture.darshi"
-	         super_faction="Kingdom.cizygia"
+	         super_faction="Kingdom.shahdom"
 	         is_noble="true"
 	         banner_key="11.25.10.4345.4345.776.776.1.0.0.446.5.5.661.661.764.764.0.1.0.128.5.5.200.200.764.764.0.1.0.306.5.5.200.300.604.754.0.0.0.306.5.5.200.300.924.754.0.1.0"/>
 	<Faction id="clan_cizygian_4"
@@ -928,7 +928,7 @@
 	         tier="4"
 	         owner="Hero.AR_lord_10_15"
 	         culture="Culture.darshi"
-	         super_faction="Kingdom.cizygia"
+	         super_faction="Kingdom.shahdom"
 	         is_noble="true"
 	         banner_key="11.25.10.4345.4345.776.776.1.0.0.500.5.5.450.450.764.710.0.1.0.143.5.5.400.400.757.710.0.1.0.427.5.5.400.268.764.945.0.1.0.411.5.5.88.88.764.579.0.1.0"/>
 	<!--
