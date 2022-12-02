@@ -1,5 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
+		<NPCCharacter id="vlandprev"
+			default_group="Cavalry"
+			level="11"
+			name="{=vland lords}vland lords"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.vlandia">
+			<face>
+				<face_key_template value="BodyProperty.fighter_vlandia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="0"/>
+				<skill id="Riding" value="0"/>
+				<skill id="OneHanded" value="0"/>
+				<skill id="TwoHanded" value="0"/>
+				<skill id="Polearm" value="0"/>
+				<skill id="Bow" value="0"/>
+				<skill id="Crossbow" value="0"/>
+				<skill id="Throwing" value="0"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_noble_sword_2_t5"/>
+					<equipment slot="Head" id="Item.ao_vlandian_nasal_helmet_with_mail_coif"/>
+					<equipment slot="Cape" id="Item.empire_cape_a"/>
+					<equipment slot="Body" id="Item.vlandia_heavy_chainmail"/>
+					<equipment slot="Gloves" id="Item.TV_sturgia_gloves_c"/>
+					<equipment slot="Leg" id="Item.TV_aserai_boots_i"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.AR_vlandia_axe_5_t5"/>
+					<equipment slot="Head" id="Item.tv_vlandia_helmet_a"/>
+					<equipment slot="Cape" id="Item.AR_khuzait_cape_d"/>
+					<equipment slot="Body" id="Item.mail_with_tabbard2"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_a"/>
+					<equipment slot="Leg" id="Item.folded_town_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_noble_sword_2_t5"/>
+					<equipment slot="Head" id="Item.tv_vlandia_helmet_d"/>
+					<equipment slot="Cape" id="Item.tv_battania_cloak_a"/>
+					<equipment slot="Body" id="Item.TV_vlandia_armor_c"/>
+					<equipment slot="Gloves" id="Item.TV_sturgia_gloves_e"/>
+					<equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_mace_3_t5"/>
+					<equipment slot="Head" id="Item.pointed_skullcap_over_mail_coif"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.mail_with_tabbard5"/>
+					<equipment slot="Gloves" id="Item.leather_gloves"/>
+					<equipment slot="Leg" id="Item.folded_town_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.chain_barding"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_noble_sword_3_t5"/>
+					<equipment slot="Item3" id="Item.vlandia_2haxe_t4"/>
+					<equipment slot="Head" id="Item.fluted_helm_with_brass_faceplate"/>
+					<equipment slot="Cape" id="Item.Western_chain_shoulders"/>
+					<equipment slot="Body" id="Item.AR_vlandia_armor_a"/>
+					<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
+					<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.AR_horse_armor_j"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_mace_3_t5"/>
+					<equipment slot="Item3" id="Item.vlandia_2haxe_t4"/>
+					<equipment slot="Head" id="Item.Pothelm2"/>
+					<equipment slot="Cape" id="Item.AR_fur_cape_e"/>
+					<equipment slot="Body" id="Item.AR_vlandia_lamellar_a"/>
+					<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
+					<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.AR_horse_armor_j"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_noble_sword_3_t5"/>
+					<equipment slot="Item3" id="Item.vlandia_2hsword_1_t5"/>
+					<equipment slot="Head" id="Item.italio_norman_helm_bronze"/>
+					<equipment slot="Cape" id="Item.tv_battania_cloak_k"/>
+					<equipment slot="Body" id="Item.TV_vlandia_armor_d"/>
+					<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
+					<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.AR_horse_armor_j"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_lance_3_t5"/>
+					<equipment slot="Item1" id="Item.tall_heater_shield"/>
+					<equipment slot="Item2" id="Item.vlandia_mace_3_t5"/>
+					<equipment slot="Item3" id="Item.vlandia_2hsword_1_t5"/>
+					<equipment slot="Head" id="Item.diamond_fluted_helm_heavy"/>
+					<equipment slot="Cape" id="Item.AR_khuzait_cape_d"/>
+					<equipment slot="Body" id="Item.sturgian_fortified_armor"/>
+					<equipment slot="Gloves" id="Item.lordly_mail_mitten"/>
+					<equipment slot="Leg" id="Item.mail_cavalier_boots"/>
+					<equipment slot="Horse" id="Item.noble_horse_western"/>
+					<equipment slot="HorseHarness" id="Item.AR_horse_armor_j"/>
+				</EquipmentRoster>
+				<EquipmentSet id="vlandia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
 	<!-- Culture: Vlandia -->
 	<!-- #region Vlandian Common Roster -->
 		<NPCCharacter id="vlandia_hmj_mpt2"

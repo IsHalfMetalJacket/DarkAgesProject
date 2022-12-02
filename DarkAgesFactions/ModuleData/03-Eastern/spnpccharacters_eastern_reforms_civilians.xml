@@ -1564,7 +1564,7 @@
 			<EquipmentSet id="khu_bat_template_medium"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townsman_cizygian" default_group="Infantry" name="{=muu5cofb}Cizygian Townsman" occupation="Townsfolk" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townsman_cizygian" default_group="Infantry" name="{=muu5cofb}(PH) Darshi Townsman" occupation="Townsfolk" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.villager_darshi"/>
 		</face>
@@ -2086,7 +2086,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_khuzait"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="village_woman_cizygian" default_group="Infantry" is_female="true" level="1" name="{=LFUaO6rG}Cizygian Tribeswoman" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="village_woman_cizygian" default_group="Infantry" is_female="true" level="1" name="{=LFUaO6rG}(PH) Darshi Tribeswoman" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_khuzait"/>
 		</face>
@@ -2163,7 +2163,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="gear_practice_dummy_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}Cizygian Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="gear_practice_dummy_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}(PH) Darshi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2191,7 +2191,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_1_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}Cizygian Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_1_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}(PH) Darshi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2219,7 +2219,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_2_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}Cizygian Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_2_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}(PH) Darshi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2260,7 +2260,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_3_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}Cizygian Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_3_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}(PH) Darshi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2306,7 +2306,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="gear_dummy_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}Cizygian Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="gear_dummy_cizygian" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.darshi" name="{=!}(PH) Darshi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2321,7 +2321,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="villager_cizygian" default_group="Infantry" level="1" name="{=LFUaO6rG}Cizygian Tribesman" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
+	<NPCCharacter id="villager_cizygian" default_group="Infantry" level="1" name="{=LFUaO6rG}(PH) Darshi Tribesman" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
 		<face>
 			<BodyProperties version="4" age="22.49" weight="0.0417" build="0.0324" key="000DC40D800005C6507011122CB700080603060883A8010100000000800001000000100300001000000000000000000000000000000000000000000006000000"/>
 			<BodyPropertiesMax version="4" age="66.85" weight="0.9182" build="0.5231" key="001EFC0FC00038D4FFFBCEFEEFFE9E6FEFFEFFEFFEEFEFFFEFFEEFFF898EFEFA0698E06809FFFFFF000000000000000000000000000000000000000079209100"/>
@@ -2503,7 +2503,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townswoman_cizygian" default_group="Infantry" is_female="true" level="1" name="{=V8GrFH4B}Cizygian Townswoman" occupation="Townsfolk" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townswoman_cizygian" default_group="Infantry" is_female="true" level="1" name="{=V8GrFH4B}(PH) Darshi Townswoman" occupation="Townsfolk" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<BodyProperties version="4" age="22.27" weight="0.1744" build="0.267" key="000AA80C5000000C001111007770015240060118859910010505500060011010000436030011001000000000000000000000000000000000000000001C040003"/>
 			<BodyPropertiesMax version="4" age="69.17" weight="0.9738" build="0.8133" key="001EFC0FD3143010EDEFFFEFFFFFFFEFEF7FFFEFEFFFDDDEEEFFFFFFAEDDCEC9079CF6780996FBEF00000000000000000000000000000000000000006B2C40C4"/>
@@ -2585,7 +2585,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="fighter_cizygian" default_group="Infantry" level="1" name="{=!}Cizygian Fighter" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="fighter_cizygian" default_group="Infantry" level="1" name="{=!}(PH) Darshi Fighter" occupation="Villager" culture="Culture.darshi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face/>
 		<skills/>
 		<upgrade_targets/>

@@ -694,8 +694,8 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- SPAHADI MILITIAS -->
-	<!-- T3 Spahadi Militia Archer Light Skill 40-70 -->
-	<NPCCharacter id="AR_spa_militia_archer" default_group="Ranged" level="16" name="{=CPcJ2gRF}Spahadi Militia Slinger" occupation="Soldier" is_basic_troop="false" culture="Culture.nahasi">
+	<!-- T3 Nahasi Militia Archer Light Skill 40-70 -->
+	<NPCCharacter id="AR_spa_militia_archer" default_group="Ranged" level="16" name="{=CPcJ2gRF}Nahasi Militia Slinger" occupation="Soldier" is_basic_troop="false" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -759,8 +759,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Spahadi Militia Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_spa_militia_veteran_archer" default_group="Ranged" level="21" name="{=tL6aGah4}Spahadi Militia Veteran Slinger" occupation="Soldier" culture="Culture.nahasi">
+	<!-- T4 Nahasi Militia Archer Medium Skill 60-100 -->
+	<NPCCharacter id="AR_spa_militia_veteran_archer" default_group="Ranged" level="21" name="{=tL6aGah4}Nahasi Militia Veteran Slinger" occupation="Soldier" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -828,8 +828,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Spahadi Militia Archer Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_spa_madina_archer" default_group="Ranged" level="26" name="{=yhBagy1Y}Spahadi Deh Guard Slinger" occupation="Soldier" culture="Culture.nahasi">
+	<!-- T5 Nahasi Militia Archer Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_spa_madina_archer" default_group="Ranged" level="26" name="{=yhBagy1Y}Nahasi Deh Guard Slinger" occupation="Soldier" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -887,8 +887,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Spahadi Militia Light Skill 40-70 -->
-	<NPCCharacter id="AR_spa_militia_spearman" default_group="Infantry" level="16" name="{=ULaNn3pp}Spahadi Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.nahasi">
+	<!-- T3 Nahasi Militia Light Skill 40-70 -->
+	<NPCCharacter id="AR_spa_militia_spearman" default_group="Infantry" level="16" name="{=ULaNn3pp}Nahasi Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -970,8 +970,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Spahadi Militia Medium Skill 60-100 -->
-	<NPCCharacter id="AR_spa_militia_veteran_spearman" default_group="Infantry" level="21" name="{=Pd9qAiOu}Spahadi Militia Veteran Spearman" occupation="Soldier" culture="Culture.nahasi">
+	<!-- T4 Nahasi Militia Medium Skill 60-100 -->
+	<NPCCharacter id="AR_spa_militia_veteran_spearman" default_group="Infantry" level="21" name="{=Pd9qAiOu}Nahasi Militia Veteran Spearman" occupation="Soldier" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1031,8 +1031,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Spahadi Militia Medium Skill 60-130 -->
-	<NPCCharacter id="AR_spa_madina_guard" default_group="Infantry" level="26" name="{=tke6VCV6}Spahadi Deh Guard" occupation="Soldier" culture="Culture.nahasi">
+	<!-- T5 Nahasi Militia Medium Skill 60-130 -->
+	<NPCCharacter id="AR_spa_madina_guard" default_group="Infantry" level="26" name="{=tke6VCV6}Nahasi Deh Guard" occupation="Soldier" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1095,8 +1095,8 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- SPAHADI CARAVANS -->
-	<!-- T5 Spahadi Caravan Master Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_spa_caravan_master" default_group="Infantry" level="26" name="{=nDoENDqD}Spahadi Caravan Master" occupation="CaravanGuard" culture="Culture.nahasi">
+	<!-- T5 Nahasi Caravan Master Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_spa_caravan_master" default_group="Infantry" level="26" name="{=nDoENDqD}Nahasi Caravan Master" occupation="CaravanGuard" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1144,8 +1144,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Spahadi Armed Trader Light Skill 40-70 -->
-	<NPCCharacter id="AR_spa_armed_trader" default_group="Ranged" level="16" name="{=8TdbKFa9}Spahadi Armed Trader" occupation="CaravanGuard" culture="Culture.nahasi" is_basic_troop="true">
+	<!-- T3 Nahasi Armed Trader Light Skill 40-70 -->
+	<NPCCharacter id="AR_spa_armed_trader" default_group="Ranged" level="16" name="{=8TdbKFa9}Nahasi Armed Trader" occupation="CaravanGuard" culture="Culture.nahasi" is_basic_troop="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1208,8 +1208,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Spahadi Caravan Cavalry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_spa_caravan_guard" default_group="Cavalry" level="21" name="{=yG42k5GC}Spahadi Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.nahasi">
+	<!-- T4 Nahasi Caravan Cavalry Medium Skill 60-100 -->
+	<NPCCharacter id="AR_spa_caravan_guard" default_group="Cavalry" level="21" name="{=yG42k5GC}Nahasi Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1285,8 +1285,8 @@
 			<equipment slot="HorseHarness" id="Item.desert_cloth_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Spahadi Caravan Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_spa_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=QlVeZvbv}Spahadi Veteran Caravan Guard" upgrade_requires="ItemCategory.war_horse" occupation="CaravanGuard" culture="Culture.nahasi">
+	<!-- T5 Nahasi Caravan Cavalry Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_spa_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=QlVeZvbv}Nahasi Veteran Caravan Guard" upgrade_requires="ItemCategory.war_horse" occupation="CaravanGuard" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -1479,7 +1479,7 @@
 			<EquipmentSet id="aserai_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_camp_follower_spahad" default_group="Infantry" is_female="true" level="11" name="Spahadi Camp Follower" occupation="CaravanGuard" culture="Culture.nahasi">
+	<NPCCharacter id="AR_camp_follower_spahad" default_group="Infantry" is_female="true" level="11" name="Nahasi Camp Follower" occupation="CaravanGuard" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>

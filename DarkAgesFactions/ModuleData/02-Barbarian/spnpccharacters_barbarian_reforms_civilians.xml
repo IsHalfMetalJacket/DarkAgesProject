@@ -1522,7 +1522,7 @@
 			<EquipmentSet id="bat_bat_template_medium"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townsman_gotarnia" default_group="Infantry" name="{=muu5cofb}Gotarnian Townsman" occupation="Townsfolk" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townsman_gotarnia" default_group="Infantry" name="{=muu5cofb}(SI) Gotarnian Townsman" occupation="Townsfolk" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.villager_battania"/>
 			<hair_tags>
@@ -2041,7 +2041,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_battania"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="village_woman_gotarnia" default_group="Infantry" is_female="true" level="1" name="{=BmYpwIYi}Gotarnian Tribeswoman" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="village_woman_gotarnia" default_group="Infantry" is_female="true" level="1" name="{=BmYpwIYi}(SI) Gotarnian Tribeswoman" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_battania"/>
 		</face>
@@ -2287,7 +2287,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="villager_gotarnia" default_group="Infantry" level="1" name="{=BmYpwIYi}Gotarnian Tribesman" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
+	<NPCCharacter id="villager_gotarnia" default_group="Infantry" level="1" name="{=BmYpwIYi}(SI) Gotarnian Tribesman" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
 		<face>
 			<!--face_key value="0000014440fc1000171771708710887070071888108071070017100010010110000a06550000001000000000000000000000000000000000fffffffffc740000" max_value="000b7ff880fc3914efefe7ffff6feefff77fffee67f6feeff7ef6ffffeffffff000ff65fffefffff000000000000000000000000000000000000000001f41140" /-->
 			<BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000004000002C00160000000116151100771100000100021111101800101000055200305111101000000000000000000000000000000000000000000A00000"/>
@@ -2473,7 +2473,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townswoman_gotarnia" default_group="Infantry" is_female="true" level="1" name="{=Q7wFotYV}Gotarnian Townswoman" occupation="Townsfolk" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townswoman_gotarnia" default_group="Infantry" is_female="true" level="1" name="{=Q7wFotYV}(SI) Gotarnian Townswoman" occupation="Townsfolk" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<BodyProperties version="4" age="22.94" weight="0.3781" build="0.4367" key="00000406007000071172111110111020411871111110211171101100702222110077660307222210000000000000000000000000000000000000000012E40003"/>
 			<BodyPropertiesMax version="4" age="64.92" weight="0.9491" build="0.9614" key="000DD80E40703010EF8EEEEEEEFFEEFFEEEEEEFEEFE6EFEEEFEEFFEDF7EEEEEE06FEE6680FEEFFFE00000000000000000000000000000000000000006BFC40C4"/>
@@ -2562,7 +2562,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="fighter_gotarnia" default_group="Infantry" level="1" name="{=!}Gotarnian Fighter" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="fighter_gotarnia" default_group="Infantry" level="1" name="{=!}(SI) Gotarnian Fighter" occupation="Villager" culture="Culture.oldcalradian" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<!--face_key value="0000014440fc1000171771708710887070071888108071070017100010010110000a06550000001000000000000000000000000000000000fffffffffc740000" max_value="000b7ff880fc3914efefe7ffff6feefff77fffee67f6feeff7ef6ffffeffffff000ff65fffefffff000000000000000000000000000000000000000001f41140" /-->
 			<BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000004000002C00160000000116151100771100000100021111101800101000055200305111101000000000000000000000000000000000000000000A00000"/>

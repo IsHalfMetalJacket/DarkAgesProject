@@ -2,132 +2,8 @@
 <NPCCharacters>
 	<!-- KHUZAIT MILITIAS -->
 	<!-- T3 Khuzait Militia Archer Light Skill 40-70 -->
-	<NPCCharacter id="AR_khu_militia_archer" default_group="Ranged" level="16" name="{=CKoq1wQa}Iltanlar Militia Archer" occupation="Soldier" is_basic_troop="false" culture="Culture.khuzait">
-		<face>
-			<face_key_template value="BodyProperty.fighter_khuzait"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="40"/>
-			<skill id="OneHanded" value="70"/>
-			<skill id="TwoHanded" value="40"/>
-			<skill id="Polearm" value="40"/>
-			<skill id="Bow" value="70"/>
-			<skill id="Crossbow" value="40"/>
-			<skill id="Throwing" value="40"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_khu_militia_veteran_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.falchion_sword_t2"/>
-				<equipment slot="Head" id="Item.upturned_fur_cap"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.simple_sabre_sword_t2"/>
-				<equipment slot="Head" id="Item.nomad_padded_hood"/>
-				<equipment slot="Body" id="Item.khuzait_civil_coat_b"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.simple_back_sword_t2"/>
-				<equipment slot="Head" id="Item.fur_hat"/>
-				<equipment slot="Body" id="Item.steppe_robe"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.steppe_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.simple_back_sword_t2"/>
-				<equipment slot="Head" id="Item.fur_hat"/>
-				<equipment slot="Body" id="Item.steppe_robe"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
-	<!-- T4 Khuzait Militia Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_khu_militia_veteran_archer" default_group="Ranged" level="21" name="{=5JFkQn5U}Iltanlar Militia Veteran Archer" occupation="Soldier" culture="Culture.khuzait">
-		<face>
-			<face_key_template value="BodyProperty.fighter_khuzait"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="70"/>
-			<skill id="Riding" value="60"/>
-			<skill id="OneHanded" value="100"/>
-			<skill id="TwoHanded" value="60"/>
-			<skill id="Polearm" value="60"/>
-			<skill id="Bow" value="100"/>
-			<skill id="Crossbow" value="60"/>
-			<skill id="Throwing" value="60"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_khu_orda_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_heavy_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.khuzait_sword_2_t3"/>
-				<equipment slot="Head" id="Item.AR_khuzait_helmet_d"/>
-				<equipment slot="Body" id="Item.khuzait_sturdy_armor"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_heavy_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.broad_ild_sword_t3"/>
-				<equipment slot="Head" id="Item.AR_khuzait_helmet_a"/>
-				<equipment slot="Body" id="Item.khuzait_belt_leather"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.steppe_heavy_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.light_mace_t3"/>
-				<equipment slot="Head" id="Item.AR_khuzait_helmet_d"/>
-				<equipment slot="Body" id="Item.khuzait_belt_leather"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentRoster civilian="true">
-				<equipment slot="Item0" id="Item.steppe_heavy_bow"/>
-				<equipment slot="Item1" id="Item.default_arrows"/>
-				<equipment slot="Item2" id="Item.default_arrows"/>
-				<equipment slot="Item3" id="Item.light_mace_t3"/>
-				<equipment slot="Head" id="Item.AR_khuzait_helmet_d"/>
-				<equipment slot="Body" id="Item.khuzait_belt_leather"/>
-				<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
-				<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-		</Equipments>
-	</NPCCharacter>
 	<!-- T5 Khuzait Militia Archer Medium Skill 60-130 -->
-	<NPCCharacter id="AR_khu_orda_archer" default_group="Ranged" level="26" name="{=lkrV8jZa}Iltanlar Oguz Sentinel" occupation="Soldier" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_orda_archer" default_group="Ranged" level="26" name="{=lkrV8jZa}(SI) Iltanlar Oguz Sentinel" occupation="Soldier" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -186,7 +62,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Khuzait Militia Light Skill 40-70 -->
-	<NPCCharacter id="AR_khu_militia_spearman" default_group="Infantry" level="16" name="{=MDIuyBHP}Iltanlar Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_militia_spearman" default_group="Infantry" level="16" name="{=MDIuyBHP}(SI) Iltanlar Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -242,7 +118,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Khuzait Militia Medium Skill 60-100 -->
-	<NPCCharacter id="AR_khu_militia_veteran_spearman" default_group="Infantry" level="21" name="{=f2a1fPca}Iltanlar Militia Veteran Spearman" occupation="Soldier" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_militia_veteran_spearman" default_group="Infantry" level="21" name="{=f2a1fPca}(SI) Iltanlar Militia Veteran Spearman" occupation="Soldier" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -303,7 +179,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Khuzait Militia Medium Skill 60-130 -->
-	<NPCCharacter id="AR_khu_orda_guard" default_group="Infantry" level="26" name="{=6UFEfIJV}Iltanlar Oguz Guardsman" occupation="Soldier" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_orda_guard" default_group="Infantry" level="26" name="{=6UFEfIJV}(SI) Iltanlar Oguz Guardsman" occupation="Soldier" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -368,7 +244,7 @@
 	</NPCCharacter>
 	<!-- KHUZAIT CARAVANS -->
 	<!-- T5 Khuzait Caravan Master Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_khu_caravan_master" default_group="Infantry" level="26" name="{=WEHDGbEE}Iltanlar Caravan Master" occupation="CaravanGuard" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_caravan_master" default_group="Infantry" level="26" name="{=WEHDGbEE}(SI) Iltanlar Caravan Master" occupation="CaravanGuard" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -418,7 +294,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Khuzait Armed Trader Light Skill 40-70 -->
-	<NPCCharacter id="AR_khu_armed_trader" default_group="Ranged" level="16" name="{=l6NFOl8c}Iltanlar Armed Trader" occupation="CaravanGuard" culture="Culture.khuzait" is_basic_troop="true">
+	<NPCCharacter id="AR_khu_armed_trader" default_group="Ranged" level="16" name="{=l6NFOl8c}(SI) Iltanlar Armed Trader" occupation="CaravanGuard" culture="Culture.khuzait" is_basic_troop="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -474,7 +350,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Khuzait Caravan Cavalry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_khu_caravan_guard" default_group="Cavalry" level="21" name="{=THOfB9DZ}Iltanlar Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_caravan_guard" default_group="Cavalry" level="21" name="{=THOfB9DZ}(SI) Iltanlar Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -540,7 +416,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Khuzait Caravan Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_khu_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=6hhspFvz}Iltanlar Veteran Caravan Guard" occupation="CaravanGuard" culture="Culture.khuzait">
+	<NPCCharacter id="AR_khu_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=6hhspFvz}(SI) Iltanlar Veteran Caravan Guard" occupation="CaravanGuard" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -614,8 +490,8 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- CIZYGIAN MILITIAS -->
-	<!-- T3 Cizygian Militia Archer Light Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_militia_archer" default_group="Ranged" level="16" name="{=CKoq1wQa}Cizygian Militia Archer" occupation="Soldier" is_basic_troop="false" culture="Culture.darshi">
+	<!-- T3 (PH) Darshi Militia Archer Light Skill 40-70 -->
+	<NPCCharacter id="AR_ciz_militia_archer" default_group="Ranged" level="16" name="{=CKoq1wQa}(PH) Darshi Militia Archer" occupation="Soldier" is_basic_troop="false" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -674,8 +550,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Cizygian Militia Archer Light Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_militia_veteran_archer" default_group="Ranged" level="21" name="{=5JFkQn5U}Cizygian Militia Veteran Archer" occupation="Soldier" culture="Culture.darshi">
+	<!-- T4 (PH) Darshi Militia Archer Light Skill 60-100 -->
+	<NPCCharacter id="AR_ciz_militia_veteran_archer" default_group="Ranged" level="21" name="{=5JFkQn5U}(PH) Darshi Militia Veteran Archer" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -739,8 +615,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Cizygian Militia Archer Medium Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_orda_archer" default_group="Ranged" level="26" name="{=lkrV8jZa}Cizygian Oguz Sentinel" occupation="Soldier" culture="Culture.darshi">
+	<!-- T5 (PH) Darshi Militia Archer Medium Skill 60-130 -->
+	<NPCCharacter id="AR_ciz_orda_archer" default_group="Ranged" level="26" name="{=lkrV8jZa}(PH) Darshi Oguz Sentinel" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -798,8 +674,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Cizygian Militia Light Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_militia_spearman" default_group="Infantry" level="16" name="{=MDIuyBHP}Cizygian Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.darshi">
+	<!-- T3 (PH) Darshi Militia Light Skill 40-70 -->
+	<NPCCharacter id="AR_ciz_militia_spearman" default_group="Infantry" level="16" name="{=MDIuyBHP}(PH) Darshi Militia Spearman" occupation="Soldier" is_basic_troop="false" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -854,8 +730,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Cizygian Militia Medium Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_militia_veteran_spearman" default_group="Infantry" level="21" name="{=f2a1fPca}Cizygian Militia Veteran Spearman" occupation="Soldier" culture="Culture.darshi">
+	<!-- T4 (PH) Darshi Militia Medium Skill 60-100 -->
+	<NPCCharacter id="AR_ciz_militia_veteran_spearman" default_group="Infantry" level="21" name="{=f2a1fPca}(PH) Darshi Militia Veteran Spearman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -915,8 +791,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Cizygian Militia Medium Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_orda_guard" default_group="Infantry" level="26" name="{=6UFEfIJV}Cizygian Oguz Guardsman" occupation="Soldier" culture="Culture.darshi">
+	<!-- T5 (PH) Darshi Militia Medium Skill 60-130 -->
+	<NPCCharacter id="AR_ciz_orda_guard" default_group="Infantry" level="26" name="{=6UFEfIJV}(PH) Darshi Oguz Guardsman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -980,8 +856,8 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- CIZYGIAN CARAVANS -->
-	<!-- T5 Cizygian Caravan Master Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_caravan_master" default_group="Infantry" level="26" name="{=WEHDGbEE}Cizygian Caravan Master" occupation="CaravanGuard" culture="Culture.darshi">
+	<!-- T5 (PH) Darshi Caravan Master Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_ciz_caravan_master" default_group="Infantry" level="26" name="{=WEHDGbEE}(PH) Darshi Caravan Master" occupation="CaravanGuard" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -1030,8 +906,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Cizygian Armed Trader Light Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_armed_trader" default_group="Ranged" level="16" name="{=l6NFOl8c}Cizygian Armed Trader" occupation="CaravanGuard" culture="Culture.darshi" is_basic_troop="true">
+	<!-- T3 (PH) Darshi Armed Trader Light Skill 40-70 -->
+	<NPCCharacter id="AR_ciz_armed_trader" default_group="Ranged" level="16" name="{=l6NFOl8c}(PH) Darshi Armed Trader" occupation="CaravanGuard" culture="Culture.darshi" is_basic_troop="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -1086,8 +962,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Cizygian Caravan Cavalry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_caravan_guard" default_group="Cavalry" level="21" name="{=THOfB9DZ}Cizygian Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.darshi">
+	<!-- T4 (PH) Darshi Caravan Cavalry Medium Skill 60-100 -->
+	<NPCCharacter id="AR_ciz_caravan_guard" default_group="Cavalry" level="21" name="{=THOfB9DZ}(PH) Darshi Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -1152,8 +1028,8 @@
 			<equipment slot="HorseHarness" id="Item.steppe_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Cizygian Caravan Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=6hhspFvz}Cizygian Veteran Caravan Guard" occupation="CaravanGuard" culture="Culture.darshi">
+	<!-- T5 (PH) Darshi Caravan Cavalry Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_ciz_vet_caravan_guard" default_group="HorseArcher" level="26" name="{=6hhspFvz}(PH) Darshi Veteran Caravan Guard" occupation="CaravanGuard" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_khuzait"/>
 		</face>
@@ -1227,7 +1103,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- CAMP FOLLOWERS -->
-	<NPCCharacter id="AR_camp_follower_khuzait" default_group="Infantry" is_female="true" level="11" name="Iltanlar Camp Follower" occupation="CaravanGuard" culture="Culture.khuzait">
+	<NPCCharacter id="AR_camp_follower_khuzait" default_group="Infantry" is_female="true" level="11" name="(SI) Iltanlar Camp Follower" occupation="CaravanGuard" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_khuzait"/>
 		</face>
@@ -1338,7 +1214,7 @@
 			<EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_camp_follower_cizygian" default_group="Infantry" is_female="true" level="11" name="Cizygian Camp Follower" occupation="CaravanGuard" culture="Culture.darshi">
+	<NPCCharacter id="AR_camp_follower_cizygian" default_group="Infantry" is_female="true" level="11" name="(PH) Darshi Camp Follower" occupation="CaravanGuard" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.townswoman_khuzait"/>
 		</face>

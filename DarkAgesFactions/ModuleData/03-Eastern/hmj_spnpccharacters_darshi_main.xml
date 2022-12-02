@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
+	<NPCCharacter id="daylammmi"
+		default_group="Infantry"
+		level="11"
+		name="{=Daylam}Daylam preview"
+		occupation="Soldier"
+		culture="Culture.darshi">
+		<face>
+			<face_key_template value="BodyProperty.villager_darshi"/>
+		</face>
+		<skills >
+			<skill id="Athletics" value="0"/>
+			<skill id="Riding" value="0"/>
+			<skill id="OneHanded" value="0"/>
+			<skill id="TwoHanded" value="0"/>
+			<skill id="Polearm" value="0"/>
+			<skill id="Bow" value="0"/>
+			<skill id="Crossbow" value="0"/>
+			<skill id="Throwing" value="0"/>
+		</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+				<equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+				<equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+				<equipment slot="Item3" id="Item.AR_darshi_short_spear_4_t5"/>
+				<equipment slot="Head" id="Item.AR_aserai_helmet_f"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_o"/>
+				<equipment slot="Body" id="Item.desert_lamellar"/>
+				<equipment slot="Gloves" id="Item.TV_aserai_gloves_b"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+				<equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+				<equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+				<equipment slot="Item3" id="Item.aserai_2haxe_2_t4"/>
+				<equipment slot="Head" id="Item.TV_empire_lord_helmet_h"/>
+				<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+				<equipment slot="Body" id="Item.tv_empire_armor_s2"/>
+				<equipment slot="Gloves" id="Item.TV_aserai_gloves_a"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+				<equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+				<equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+				<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+				<equipment slot="Head" id="Item.AR_aserai_helmet_e"/>
+				<equipment slot="Cape" id="Item.scarf"/>
+				<equipment slot="Body" id="Item.AR_aserai_armor_u"/>
+				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.eastern_throwing_spear_2_t4"/>
+				<equipment slot="Item1" id="Item.khuzait_mace_4_t5"/>
+				<equipment slot="Item2" id="Item.AR_shield_infantry_zo2"/>
+				<equipment slot="Item3" id="Item.aserai_2haxe_2_t4"/>
+				<equipment slot="Head" id="Item.AR_aserai_lord_helmet_j"/>
+				<equipment slot="Cape" id="Item.wrapped_scarf"/>
+				<equipment slot="Body" id="Item.tv_empire_armor_s"/>
+				<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+			</EquipmentRoster>
+			<EquipmentRoster civilian="true">
+				<equipment slot="Item0" id="Item.peasant_2haxe_1_t1"/>
+				<equipment slot="Item2" id="Item.throwing_stone"/>
+				<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+				<equipment slot="Leg" id="Item.wrapped_shoes"/>
+			</EquipmentRoster>
+		</Equipments>
+	</NPCCharacter>
+
 	<!-- Culture: Darshi -->
 	<!-- #region Darshi Common Roster -->
 		<!-- #region Darshi Paighan Line -->
@@ -290,7 +363,7 @@
 
 	<!-- CIZYGIANS -->
 	<!-- T1 Recruit Light Skill 5-20 -->
-	<NPCCharacter id="AR_ciz_recruit" default_group="Infantry" level="6" name="Cizygian Nuudelchin Nomad" occupation="Soldier" is_basic_troop="true" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_recruit" default_group="Infantry" level="6" name="(PH) Darshi Nuudelchin Nomad" occupation="Soldier" is_basic_troop="true" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -343,7 +416,7 @@
 	</NPCCharacter>
 	<!-- INFANTRY -->
 	<!-- T2 Infantry Light Skill 20-40 -->
-	<NPCCharacter id="AR_ciz_t2_axeman" default_group="Infantry" level="11" name="Cizygian Baildagch Young Warrior" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t2_axeman" default_group="Infantry" level="11" name="(PH) Darshi Baildagch Young Warrior" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -394,7 +467,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Infantry Medium Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_t3_axeman" default_group="Infantry" level="16" name="Cizygian Daichin Warrior" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t3_axeman" default_group="Infantry" level="16" name="(PH) Darshi Daichin Warrior" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -446,7 +519,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Infantry Heavy Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_t4_axeman" default_group="Infantry" level="21" name="Cizygian Jadchin Pikeman" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t4_axeman" default_group="Infantry" level="21" name="(PH) Darshi Jadchin Pikeman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -498,7 +571,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Infantry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_t5_axeman" default_group="Infantry" level="26" name="Cizygian Veteran Jadchin Pikeman" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t5_axeman" default_group="Infantry" level="26" name="(PH) Darshi Veteran Jadchin Pikeman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -601,7 +674,7 @@
 	</NPCCharacter>
 	<!-- CAVALRY ARCHER -->
 	<!-- T2 Cavalry Archer Light Skill 20-40 -->
-	<NPCCharacter id="AR_ciz_t2_cav_arch" default_group="HorseArcher" level="11" name="Cizygian Moriton Rider" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t2_cav_arch" default_group="HorseArcher" level="11" name="(PH) Darshi Moriton Rider" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -666,7 +739,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Cavalry Archer Medium Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_t3_cav_arch" default_group="HorseArcher" level="16" name="Cizygian Deeremchin Raider" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t3_cav_arch" default_group="HorseArcher" level="16" name="(PH) Darshi Deeremchin Raider" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -730,7 +803,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Cavalry Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_t4_cav_arch" default_group="HorseArcher" level="21" name="Cizygian Kharvaach Mori Horse Archer" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t4_cav_arch" default_group="HorseArcher" level="21" name="(PH) Darshi Kharvaach Mori Horse Archer" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -784,7 +857,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Cavalry Archer Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_t5_cav_arch" default_group="HorseArcher" level="26" name="Cizygian Veteran Kharvaach Mori" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t5_cav_arch" default_group="HorseArcher" level="26" name="(PH) Darshi Veteran Kharvaach Mori" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -885,7 +958,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Sword Cavalry Medium Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_t3_cavalry" default_group="Cavalry" level="16" name="Cizygian Morin Tsereg Horseman" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t3_cavalry" default_group="Cavalry" level="16" name="(PH) Darshi Morin Tsereg Horseman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -939,7 +1012,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Sword Cavalry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_t4_cavalry" default_group="Cavalry" level="21" name="Cizygian Ildmori Mounted Swordsman" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t4_cavalry" default_group="Cavalry" level="21" name="(PH) Darshi Ildmori Mounted Swordsman" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -993,7 +1066,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Sword Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_t5_cavalry" default_group="Cavalry" level="26" name="Cizygian Veteran Ildmori Swordsman" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t5_cavalry" default_group="Cavalry" level="26" name="(PH) Darshi Veteran Ildmori Swordsman" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1119,7 +1192,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Recruit Elite Recruit Light Skill 20-40 -->
-	<NPCCharacter id="AR_ciz_elite_recruit" default_group="Cavalry" level="11" name="Cizygian A-ge Noble Youth" occupation="Soldier" is_basic_troop="true" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_elite_recruit" default_group="Cavalry" level="11" name="(PH) Darshi A-ge Noble Youth" occupation="Soldier" is_basic_troop="true" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1176,7 +1249,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Elite Cavalry Archer Medium Skill 40-70 -->
-	<NPCCharacter id="AR_ciz_t3_elite_cav" default_group="Cavalry" level="16" name="Cizygian Qanqli Noble Rider" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t3_elite_cav" default_group="Cavalry" level="16" name="(PH) Darshi Qanqli Noble Rider" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1245,7 +1318,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Elite Cavalry Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_t4_elite_lancer" default_group="Cavalry" level="21" name="Cizygian Nokkor Lancer" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t4_elite_lancer" default_group="Cavalry" level="21" name="(PH) Darshi Nokkor Lancer" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1302,7 +1375,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Elite Cavalry Archer Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_t5_elite_lancer" default_group="Cavalry" level="26" name="Cizygian Veteran Nokkor Lancer" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t5_elite_lancer" default_group="Cavalry" level="26" name="(PH) Darshi Veteran Nokkor Lancer" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1418,7 +1491,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Elite Skirmisher Cavalry Heavy Skill 60-100 -->
-	<NPCCharacter id="AR_ciz_t4_elite_cav" default_group="Cavalry" level="21" name="Cizygian Shuurga Charger" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t4_elite_cav" default_group="Cavalry" level="21" name="(PH) Darshi Shuurga Charger" upgrade_requires="ItemCategory.war_horse" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>
@@ -1475,7 +1548,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Elite Skirmisher Cavalry Very Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_ciz_t5_elite_cav" default_group="Cavalry" level="26" name="Cizygian Veteran Shuurga Charger" occupation="Soldier" culture="Culture.darshi">
+	<NPCCharacter id="AR_ciz_t5_elite_cav" default_group="Cavalry" level="26" name="(PH) Darshi Veteran Shuurga Charger" occupation="Soldier" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_darshi"/>
 		</face>

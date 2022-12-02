@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
 	<!-- Mine -->
+		<NPCCharacter id="zhannnnnnn"
+			default_group="Ranged"
+			level="21"
+			name="{=Khuzait Fort Archer}Zhan Preview"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.khuzait">
+			<face>
+				<face_key_template value="BodyProperty.villager_khuzait"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="80"/>
+				<skill id="Riding" value="60"/>
+				<skill id="OneHanded" value="170"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="60"/>
+				<skill id="Bow" value="170"/>
+				<skill id="Crossbow" value="80"/>
+				<skill id="Throwing" value="40"/>
+			</skills>
+		<Equipments>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_polearm_2_t5"/>
+				<equipment slot="Item1" id="Item.crossbow_cavalry_heavy"/>
+				<equipment slot="Item2" id="Item.khuzait_noble_sword_1_t5"/>
+				<equipment slot="Item3" id="Item.hardened_90_gr_bolts"/>
+				<equipment slot="Head" id="Item.khuzait_noble_helmet_with_neckguard"/>
+				<equipment slot="Cape" id="Item.TV_khuzait_shoulder_i"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_eastern"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_cavalry_heavy"/>
+				<equipment slot="Item1" id="Item.khuzait_noble_sword_1_t5"/>
+				<equipment slot="Item2" id="Item.hardened_90_gr_bolts"/>
+				<equipment slot="Item3" id="Item.steel_round_shield"/>
+				<equipment slot="Head" id="Item.TV_khuzait_lord_helmet_k"/>
+				<equipment slot="Cape" id="Item.AR_khuzait_cape_c"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_eastern"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.khuzait_polearm_2_t5"/>
+				<equipment slot="Item2" id="Item.khuzait_mace_4_t5"/>
+				<equipment slot="Item3" id="Item.steel_round_shield"/>
+				<equipment slot="Head" id="Item.TV_khuzait_lord_helmet_h"/>
+				<equipment slot="Cape" id="Item.TV_khuzait_shoulder_i"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_eastern"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
+			</EquipmentRoster>
+			<EquipmentRoster>
+				<equipment slot="Item0" id="Item.crossbow_cavalry_heavy"/>
+				<equipment slot="Item1" id="Item.southern_great_2hsword_t4"/>
+				<equipment slot="Item2" id="Item.hardened_90_gr_bolts"/>
+				<equipment slot="Item3" id="Item.hardened_90_gr_bolts"/>
+				<equipment slot="Head" id="Item.TV_khuzait_lord_helmet_m"/>
+				<equipment slot="Cape" id="Item.AR_khuzait_cape_b"/>
+				<equipment slot="Body" id="Item.TV_khuzait_armor_k"/>
+				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+				<equipment slot="Leg" id="Item.eastern_splint_boots"/>
+				<equipment slot="Horse" id="Item.noble_horse_eastern"/>
+				<equipment slot="HorseHarness" id="Item.studded_steppe_barding"/>
+			</EquipmentRoster>
+			<EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true"/>
+			</Equipments>
+		</NPCCharacter>
+		
 		<NPCCharacter id="khuzait_hmj_rddt4"
 			default_group="Ranged"
 			level="21"
@@ -67,7 +143,6 @@
 					<equipment slot="Leg" id="Item.khuzait_curved_boots"/>
 				</EquipmentRoster>
 			<EquipmentSet id="khuzait_troop_civilian_template_t2" civilian="true"/>
-
 			</Equipments>
 		</NPCCharacter>
 

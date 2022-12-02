@@ -2,7 +2,7 @@
 <NPCCharacters>
 	<!-- QUYAZIC EMPIRE: Levy Troops -->
 	<!-- T1 Recruit Light Skill 5-20 -->
-	<NPCCharacter id="AR_kan_villager" default_group="Infantry" level="6" name="{=si_AR_kan_villager}Quyazic Civis" occupation="Villager" culture="Culture.shariz" is_basic_troop="true">
+	<NPCCharacter id="AR_kan_villager" default_group="Infantry" level="6" name="{=si_AR_kan_villager}(PH) Sharizan Civis" occupation="Villager" culture="Culture.shariz" is_basic_troop="true">
 		<face>
 			<face_key_template value="BodyProperty.villager_kannic"/>
 		</face>
@@ -24,8 +24,8 @@
 	</NPCCharacter>
 
 	<!-- QUYAZIC EMPIRE: Caravans -->
-	<!-- T5 Quyazic Caravan Master Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_kan_caravan_master" default_group="Infantry" level="26" name="{=TpECDErA}Quyazic Caravan Master" occupation="CaravanGuard" culture="Culture.shariz">
+	<!-- T5 (PH) Sharizan Caravan Master Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_kan_caravan_master" default_group="Infantry" level="26" name="{=TpECDErA}(PH) Sharizan Caravan Master" occupation="CaravanGuard" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -73,8 +73,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Quyazic Armed Trader Light Skill 40-70 -->
-	<NPCCharacter id="AR_kan_armed_trader" default_group="Ranged" level="16" name="{=LEJukldW}Quyazic Armed Trader" occupation="CaravanGuard" culture="Culture.shariz" is_basic_troop="true">
+	<!-- T3 (PH) Sharizan Armed Trader Light Skill 40-70 -->
+	<NPCCharacter id="AR_kan_armed_trader" default_group="Ranged" level="16" name="{=LEJukldW}(PH) Sharizan Armed Trader" occupation="CaravanGuard" culture="Culture.shariz" is_basic_troop="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -139,8 +139,8 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Quyazic Caravan Cavalry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_kan_caravan_guard" default_group="Cavalry" level="21" name="{=TbBnWiao}Quyazic Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.shariz">
+	<!-- T4 (PH) Sharizan Caravan Cavalry Medium Skill 60-100 -->
+	<NPCCharacter id="AR_kan_caravan_guard" default_group="Cavalry" level="21" name="{=TbBnWiao}(PH) Sharizan Caravan Guard" upgrade_requires="ItemCategory.horse" occupation="CaravanGuard" is_basic_troop="true" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -205,8 +205,8 @@
 			<equipment slot="HorseHarness" id="Item.stripped_leather_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Quyazic Caravan Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_kan_vet_caravan_guard" default_group="Cavalry" level="26" name="{=bLq2HXMo}Quyazic Veteran Caravan Guard" upgrade_requires="ItemCategory.war_horse" occupation="CaravanGuard" culture="Culture.shariz">
+	<!-- T5 (PH) Sharizan Caravan Cavalry Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_kan_vet_caravan_guard" default_group="Cavalry" level="26" name="{=bLq2HXMo}(PH) Sharizan Veteran Caravan Guard" upgrade_requires="ItemCategory.war_horse" occupation="CaravanGuard" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>

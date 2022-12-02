@@ -1299,7 +1299,7 @@
 			<EquipmentSet id="ase_bat_template_medium"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townsman_spahad" default_group="Infantry" name="{=muu5cofb}Spahadi Townsman" occupation="Townsfolk" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townsman_spahad" default_group="Infantry" name="{=muu5cofb}Nahasi Townsman" occupation="Townsfolk" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<BodyProperties version="4" age="22.57" weight="0.5" build="0.5" key="003FF80F002C20009D8B091487060FFD80CE8EA68986FDDFAFF7FEBF900073A800A776030A9FC4790000000000000000000000000000000000000000074C6004"/>
 			<BodyPropertiesMax version="4" age="22.57" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
@@ -1821,7 +1821,7 @@
 			<EquipmentSet id="npc_armed_wanderer_equipment_template_aserai"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="village_woman_spahad" default_group="Infantry" is_female="true" level="1" name="{=d6vsgKnp}Spahadi Tribeswoman" occupation="Villager" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="village_woman_spahad" default_group="Infantry" is_female="true" level="1" name="{=d6vsgKnp}Nahasi Tribeswoman" occupation="Villager" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<BodyProperties version="4" age="22.57" weight="0.5" build="0.5" key="003FF80F002C20009D8B091487060FFD80CE8EA68986FDDFAFF7FEBF900073A800A776030A9FC4790000000000000000000000000000000000000000074C6004"/>
 			<BodyPropertiesMax version="4" age="22.57" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
@@ -1908,7 +1908,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="gear_practice_dummy_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Spahadi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="gear_practice_dummy_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Nahasi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -1941,7 +1941,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_1_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Spahadi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_1_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Nahasi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -1995,7 +1995,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_2_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Spahadi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_2_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Nahasi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2049,7 +2049,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="weapon_practice_stage_3_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Spahadi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="weapon_practice_stage_3_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Nahasi Weapon Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2111,7 +2111,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_aserai" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="gear_dummy_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Spahadi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="gear_dummy_spahad" default_group="Infantry" is_hero="false" occupation="Special" culture="Culture.nahasi" name="{=!}Nahasi Gear Dummy" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<face_key_template value="BodyProperty.guard"/>
 		</face>
@@ -2127,7 +2127,7 @@
 			<EquipmentSet id="npc_wanderer_equipment_template_khuzait" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="villager_spahad" default_group="Infantry" level="1" age="30" name="{=d6vsgKnp}Spahadi Tribesman" occupation="Villager" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
+	<NPCCharacter id="villager_spahad" default_group="Infantry" level="1" age="30" name="{=d6vsgKnp}Nahasi Tribesman" occupation="Villager" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_basic_troop="true">
 		<face>
 			<BodyProperties version="4" age="22.57" weight="0.5" build="0.5" key="003FF80F002C20009D8B091487060FFD80CE8EA68986FDDFAFF7FEBF900073A800A776030A9FC4790000000000000000000000000000000000000000074C6004"/>
 			<BodyPropertiesMax version="4" age="22.57" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
@@ -2283,7 +2283,7 @@
 			</EquipmentRoster>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="townswoman_spahad" default_group="Infantry" is_female="true" level="1" name="{=ansW4mx2}Spahadi Townswoman" occupation="Townsfolk" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+	<NPCCharacter id="townswoman_spahad" default_group="Infantry" is_female="true" level="1" name="{=ansW4mx2}Nahasi Townswoman" occupation="Townsfolk" culture="Culture.nahasi" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
 		<face>
 			<BodyProperties version="4" age="22.57" weight="0.5" build="0.5" key="003FF80F002C20009D8B091487060FFD80CE8EA68986FDDFAFF7FEBF900073A800A776030A9FC4790000000000000000000000000000000000000000074C6004"/>
 			<BodyPropertiesMax version="4" age="22.57" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
