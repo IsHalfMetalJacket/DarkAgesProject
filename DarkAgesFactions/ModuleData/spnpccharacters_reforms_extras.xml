@@ -115,7 +115,7 @@
 	</NPCCharacter>
 	<!-- PARAOI -->
 	<!-- T3 Naptha Thrower Light Skill 40-70 -->
-	<NPCCharacter id="AR_kan_naptha_thrower" default_group="Ranged" level="16" name="Paraoian Naphtha Thrower" occupation="Soldier" is_basic_troop="true" culture="Culture.shariz">
+	<NPCCharacter id="AR_kan_naptha_thrower" default_group="Ranged" level="16" name="(SI) Sharizan Naphtha Thrower" occupation="Soldier" is_basic_troop="true" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
@@ -166,7 +166,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Naptha Thrower Medium Skill 60-130 -->
-	<NPCCharacter id="AR_kan_veteran_naptha_thrower" default_group="Ranged" level="26" name="Paraoian Veteran Naphtha Thrower" occupation="Soldier" culture="Culture.shariz">
+	<NPCCharacter id="AR_kan_veteran_naptha_thrower" default_group="Ranged" level="26" name="(SI) Sharizan Veteran Naphtha Thrower" occupation="Soldier" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
