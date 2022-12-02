@@ -719,7 +719,7 @@
 
 	<!-- GUARDIANS -->
 	<!-- T3 Guardian Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_guardians_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.empire_w" name="{=rtOJNB6u}Protector Miles Footman">
+	<NPCCharacter id="AR_min_guardians_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.empire_w" name="{=rtOJNB6u}(SI) Protector Miles Footman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_western"/>
 		</face>
@@ -797,7 +797,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Guardian Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_guardians_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.empire_w" name="{=cMcGn6n3}Protector Funditor Slinger">
+	<NPCCharacter id="AR_min_guardians_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.empire_w" name="{=cMcGn6n3}(SI) Protector Funditor Slinger">
 		<face>
 			<face_key_template value="BodyProperty.fighter_western"/>
 		</face>
@@ -852,7 +852,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Guardian Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_guardians_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.empire_w" name="{=WNU7kE5N}Protector Funditor Armatus">
+	<NPCCharacter id="AR_min_guardians_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.empire_w" name="{=WNU7kE5N}(SI) Protector Funditor Armatus">
 		<face>
 			<face_key_template value="BodyProperty.fighter_western"/>
 		</face>
@@ -917,7 +917,7 @@
 	</NPCCharacter>
 	<!-- FORESTERS -->
 	<!-- T3 Forester Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_foresters_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.vakken" name="{=h7nGFImt}Vanni Tribesman">
+	<NPCCharacter id="AR_min_foresters_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.vakken" name="{=h7nGFImt}(SI) Vanni Tribesman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -980,7 +980,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Forester Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_foresters_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vakken" name="{=2HDPaohZ}Vanni Woodsman">
+	<NPCCharacter id="AR_min_foresters_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vakken" name="{=2HDPaohZ}(SI) Vanni Woodsman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -1042,7 +1042,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Forester Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_foresters_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vakken" name="{=ueasbGtd}Vanni Huntsman">
+	<NPCCharacter id="AR_min_foresters_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vakken" name="{=ueasbGtd}(SI) Vanni Huntsman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -1106,7 +1106,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Forester Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_foresters_t4_swordsman" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.vakken" name="{=2HDPaohZ}Vanni Warrior">
+	<NPCCharacter id="AR_min_foresters_t4_swordsman" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.vakken" name="{=2HDPaohZ}(SI) Vanni Warrior">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -1150,7 +1150,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Forester Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_foresters_t5_swordsman" default_group="Infantry" level="26" occupation="Mercenary" culture="Culture.vakken" name="{=ueasbGtd}Vanni Veteran Warrior">
+	<NPCCharacter id="AR_min_foresters_t5_swordsman" default_group="Infantry" level="26" occupation="Mercenary" culture="Culture.vakken" name="{=ueasbGtd}(SI) Vanni Veteran Warrior">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -1214,7 +1214,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Guardian Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_guardians_t4_cavalry" default_group="Cavalry" level="21" occupation="Mercenary" upgrade_requires="ItemCategory.war_horse" culture="Culture.empire_w" name="{=cMcGn6n3}Protector Equite Horseman">
+	<NPCCharacter id="AR_min_guardians_t4_cavalry" default_group="Cavalry" level="21" occupation="Mercenary" upgrade_requires="ItemCategory.war_horse" culture="Culture.empire_w" name="{=cMcGn6n3}(SI) Protector Equite Horseman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_western"/>
 		</face>
@@ -1278,7 +1278,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Guardian Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_guardians_t5_cavalry" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.empire_w" name="{=WNU7kE5N}Protector Contarius">
+	<NPCCharacter id="AR_min_guardians_t5_cavalry" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.empire_w" name="{=WNU7kE5N}(SI) Protector Contarius">
 		<face>
 			<face_key_template value="BodyProperty.fighter_western"/>
 		</face>
@@ -1565,7 +1565,7 @@
 
 	<!-- ELEFTHEROI -->
 	<!-- T3 Eleftheroi Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_eleftheroi_t3" default_group="Cavalry" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.empire_n" name="{=S6BosJUq}Eleftheros Caballarius">
+	<NPCCharacter id="AR_min_eleftheroi_t3" default_group="Cavalry" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.empire_n" name="{=S6BosJUq}(SI) Eleftheros Caballarius">
 		<face>
 			<face_key_template value="BodyProperty.fighter_eleftheroi"/>
 		</face>
@@ -1645,7 +1645,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Eleftheroi Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_eleftheroi_t4_cav" default_group="Cavalry" level="21" occupation="Mercenary" culture="Culture.empire_n" name="{=qBVNIhme}Eleftheros Contarius">
+	<NPCCharacter id="AR_min_eleftheroi_t4_cav" default_group="Cavalry" level="21" occupation="Mercenary" culture="Culture.empire_n" name="{=qBVNIhme}(SI) Eleftheros Contarius">
 		<face>
 			<face_key_template value="BodyProperty.fighter_eleftheroi"/>
 		</face>
@@ -1713,7 +1713,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Eleftheroi Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_eleftheroi_t5_cav" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.empire_n" name="{=cEKbOxRA}Eleftheros Contarius Armatus">
+	<NPCCharacter id="AR_min_eleftheroi_t5_cav" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.empire_n" name="{=cEKbOxRA}(SI) Eleftheros Contarius Armatus">
 		<face>
 			<face_key_template value="BodyProperty.fighter_eleftheroi"/>
 		</face>
@@ -1779,7 +1779,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Eleftheroi Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_eleftheroi_t4_cav_archer" default_group="HorseArcher" level="21" occupation="Mercenary" culture="Culture.empire_n" name="{=qBVNIhme}Eleftheros Hippo Toxotes">
+	<NPCCharacter id="AR_min_eleftheroi_t4_cav_archer" default_group="HorseArcher" level="21" occupation="Mercenary" culture="Culture.empire_n" name="{=qBVNIhme}(SI) Eleftheros Hippo Toxotes">
 		<face>
 			<face_key_template value="BodyProperty.fighter_eleftheroi"/>
 		</face>
@@ -1836,7 +1836,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Eleftheroi Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_eleftheroi_t5_cav_archer" default_group="HorseArcher" level="26" occupation="Mercenary" culture="Culture.empire_n" name="{=cEKbOxRA}Eleftheros Sagittarius Equester">
+	<NPCCharacter id="AR_min_eleftheroi_t5_cav_archer" default_group="HorseArcher" level="26" occupation="Mercenary" culture="Culture.empire_n" name="{=cEKbOxRA}(SI) Eleftheros Sagittarius Equester">
 		<face>
 			<face_key_template value="BodyProperty.fighter_eleftheroi"/>
 		</face>
@@ -1903,7 +1903,7 @@
 	</NPCCharacter>
 	<!-- EXPLORATORES NAHASAE -->
 	<!-- T3 Cavalry Archer Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_exploratores_t3" default_group="HorseArcher" level="16" name="{=LbjxH9yp}Nahasan Explorator" occupation="Mercenary" is_basic_troop="true" culture="Culture.shariz">
+	<NPCCharacter id="AR_min_exploratores_t3" default_group="HorseArcher" level="16" name="{=LbjxH9yp}(SI) Nahasan Explorator" occupation="Mercenary" is_basic_troop="true" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -1972,7 +1972,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Cavalry Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_exploratores_t4_camel" default_group="HorseArcher" level="21" name="{=LbjxH9yp}Nahasan Dromedarius" occupation="Mercenary" culture="Culture.shariz">
+	<NPCCharacter id="AR_min_exploratores_t4_camel" default_group="HorseArcher" level="21" name="{=LbjxH9yp}(SI) Nahasan Dromedarius" occupation="Mercenary" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -2040,7 +2040,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Cavalry Archer Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_exploratores_t5_camel" default_group="HorseArcher" level="26" name="{=LbjxH9yp}Nahasan Dromedarius Armatus" occupation="Mercenary" culture="Culture.shariz">
+	<NPCCharacter id="AR_min_exploratores_t5_camel" default_group="HorseArcher" level="26" name="{=LbjxH9yp}(SI) Nahasan Dromedarius Armatus" occupation="Mercenary" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -2106,7 +2106,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Shock Infantry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_exploratores_t4_cav" default_group="Cavalry" level="21" name="{=ARUvlu42}Nahasan Praeventor Equester" occupation="Mercenary" culture="Culture.shariz">
+	<NPCCharacter id="AR_min_exploratores_t4_cav" default_group="Cavalry" level="21" name="{=ARUvlu42}(SI) Nahasan Praeventor Equester" occupation="Mercenary" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -2182,7 +2182,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Shock Infantry Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_exploratores_t5_cav" default_group="Cavalry" level="26" name="{=ARUvlu43}Nahasan Excubitor Equester" occupation="Mercenary" culture="Culture.shariz">
+	<NPCCharacter id="AR_min_exploratores_t5_cav" default_group="Cavalry" level="26" name="{=ARUvlu43}(SI) Nahasan Excubitor Equester" occupation="Mercenary" culture="Culture.shariz">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -2247,8 +2247,8 @@
 			<equipment slot="HorseHarness" id="Item.stripped_leather_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T3 Aracathan Infantry Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_aracathans_t3" default_group="Infantry" level="16" name="Aracathan Fear Beinne Hillman" occupation="Mercenary" is_basic_troop="true" culture="Culture.dryatic">
+	<!-- T3 (SI) Aracathan Infantry Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_aracathans_t3" default_group="Infantry" level="16" name="(SI) Aracathan Fear Beinne Hillman" occupation="Mercenary" is_basic_troop="true" culture="Culture.dryatic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -2313,8 +2313,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Aracathan Infantry Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_aracathans_t4_infantry" default_group="Infantry" level="21" name="Aracathan Ocaire Warrior" occupation="Mercenary" culture="Culture.dryatic">
+	<!-- T4 (SI) Aracathan Infantry Light Skill 60-100 -->
+	<NPCCharacter id="AR_min_aracathans_t4_infantry" default_group="Infantry" level="21" name="(SI) Aracathan Ocaire Warrior" occupation="Mercenary" culture="Culture.dryatic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -2368,8 +2368,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Aracathan Infantry Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_aracathans_t5_infantry" default_group="Infantry" level="26" name="Aracathan Boaire Veteran" occupation="Mercenary" culture="Culture.dryatic">
+	<!-- T5 (SI) Aracathan Infantry Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_aracathans_t5_infantry" default_group="Infantry" level="26" name="(SI) Aracathan Boaire Veteran" occupation="Mercenary" culture="Culture.dryatic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -2432,8 +2432,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Aracathan Horse Archer Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_aracathans_t4_cavalry" default_group="HorseArcher" level="21" name="Aracathan Marcach Rider" upgrade_requires="ItemCategory.horse" occupation="Mercenary" culture="Culture.dryatic">
+	<!-- T4 (SI) Aracathan Horse Archer Light Skill 60-100 -->
+	<NPCCharacter id="AR_min_aracathans_t4_cavalry" default_group="HorseArcher" level="21" name="(SI) Aracathan Marcach Rider" upgrade_requires="ItemCategory.horse" occupation="Mercenary" culture="Culture.dryatic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -2522,8 +2522,8 @@
 			<equipment slot="HorseHarness" id="Item.battania_horse_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Aracathan Horse Archer Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_aracathans_t5_cavalry" default_group="HorseArcher" level="26" name="Aracathan Riglach Horseman" occupation="Mercenary" culture="Culture.dryatic">
+	<!-- T5 (SI) Aracathan Horse Archer Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_aracathans_t5_cavalry" default_group="HorseArcher" level="26" name="(SI) Aracathan Riglach Horseman" occupation="Mercenary" culture="Culture.dryatic">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -2980,9 +2980,9 @@
 			</Equipments>
 		</NPCCharacter>
 	
-	<!-- Hawlan Rebels -->
+	<!-- (SI) Hawlan Rebels -->
 	<!-- T3 Spear Infantry Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_hawlan_t3" default_group="Infantry" level="16" name="{=0000010}Hawlan Rebel Volunteer" occupation="Mercenary" is_basic_troop="true" culture="Culture.khuzait">
+	<NPCCharacter id="AR_min_hawlan_t3" default_group="Infantry" level="16" name="{=0000010}(SI) Hawlan Rebel Volunteer" occupation="Mercenary" is_basic_troop="true" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_hawlan"/>
 		</face>
@@ -3038,7 +3038,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Spear Infantry Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_hawlan_t4_infantry" default_group="Infantry" level="21" name="{=0000011}Hawlan Rebel Footman" occupation="Mercenary" culture="Culture.khuzait">
+	<NPCCharacter id="AR_min_hawlan_t4_infantry" default_group="Infantry" level="21" name="{=0000011}(SI) Hawlan Rebel Footman" occupation="Mercenary" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_hawlan"/>
 		</face>
@@ -3093,7 +3093,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Spear Infantry Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_hawlan_t5_infantry" default_group="Infantry" level="26" name="{=0000012}Hawlan Rebel Warrior" occupation="Mercenary" culture="Culture.khuzait">
+	<NPCCharacter id="AR_min_hawlan_t5_infantry" default_group="Infantry" level="26" name="{=0000012}(SI) Hawlan Rebel Warrior" occupation="Mercenary" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_hawlan"/>
 		</face>
@@ -3157,7 +3157,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Archer Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_hawlan_t4_archer" default_group="Ranged" level="21" name="{=0000014}Hawlan Rebel Bowman" occupation="Mercenary" culture="Culture.khuzait">
+	<NPCCharacter id="AR_min_hawlan_t4_archer" default_group="Ranged" level="21" name="{=0000014}(SI) Hawlan Rebel Bowman" occupation="Mercenary" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_hawlan"/>
 		</face>
@@ -3209,7 +3209,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Archer Light Skill 60-130 -->
-	<NPCCharacter id="AR_min_hawlan_t5_archer" default_group="Ranged" level="26" name="{=0000015}Hawlan Rebel Archer" occupation="Mercenary" culture="Culture.khuzait">
+	<NPCCharacter id="AR_min_hawlan_t5_archer" default_group="Ranged" level="26" name="{=0000015}(SI) Hawlan Rebel Archer" occupation="Mercenary" culture="Culture.khuzait">
 		<face>
 			<face_key_template value="BodyProperty.fighter_hawlan"/>
 		</face>
@@ -3272,9 +3272,9 @@
 			<EquipmentSet id="khuzait_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- Chosen of the Sky -->
-	<!-- T3 Chosen of the Sky Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_chosensky_t3" default_group="HorseArcher" level="16" name="Chosen Initiate" occupation="Mercenary" is_basic_troop="true" culture="Culture.darshi">
+	<!-- (SI) Chosen of the Sky -->
+	<!-- T3 (SI) Chosen of the Sky Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_chosensky_t3" default_group="HorseArcher" level="16" name="(SI) Chosen Initiate" occupation="Mercenary" is_basic_troop="true" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_chosensky"/>
 		</face>
@@ -3339,8 +3339,8 @@
 			<equipment slot="HorseHarness" id="Item.steppe_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Chosen of the Sky Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_chosensky_t4_cav_archer" default_group="HorseArcher" level="21" name="Chosen Rider" occupation="Mercenary" culture="Culture.darshi">
+	<!-- T4 (SI) Chosen of the Sky Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_chosensky_t4_cav_archer" default_group="HorseArcher" level="21" name="(SI) Chosen Rider" occupation="Mercenary" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_chosensky"/>
 		</face>
@@ -3407,8 +3407,8 @@
 			<equipment slot="HorseHarness" id="Item.steppe_fur_harness"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Chosen of the Sky Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_chosensky_t5_cav_archer" default_group="HorseArcher" level="26" name="Chosen Stormshield" occupation="Mercenary" culture="Culture.darshi">
+	<!-- T5 (SI) Chosen of the Sky Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_chosensky_t5_cav_archer" default_group="HorseArcher" level="26" name="(SI) Chosen Stormshield" occupation="Mercenary" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_chosensky"/>
 		</face>
@@ -3463,7 +3463,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Spear Cavalry Heavy Skill 60-100 -->
-	<NPCCharacter id="AR_min_chosensky_t4_lancer" default_group="Cavalry" level="21" name="Chosen Lancer" occupation="Mercenary" culture="Culture.darshi">
+	<NPCCharacter id="AR_min_chosensky_t4_lancer" default_group="Cavalry" level="21" name="(SI) Chosen Lancer" occupation="Mercenary" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_chosensky"/>
 		</face>
@@ -3531,7 +3531,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Spear Cavalry Very Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_chosensky_t5_lancer" default_group="Cavalry" level="26" name="Chosen Sunspear" occupation="Mercenary" culture="Culture.darshi">
+	<NPCCharacter id="AR_min_chosensky_t5_lancer" default_group="Cavalry" level="26" name="(SI) Chosen Sunspear" occupation="Mercenary" culture="Culture.darshi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_chosensky"/>
 		</face>
@@ -4268,8 +4268,8 @@
 			</Equipments>
 		</NPCCharacter>
 
-	<!-- T3 Seax Infantry Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_seax_t3" default_group="Infantry" level="16" name="Seax Farmadr Sailor" occupation="Mercenary" is_basic_troop="true" culture="Culture.nord">
+	<!-- T3 (SI) Seax Infantry Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_seax_t3" default_group="Infantry" level="16" name="(SI) Seax Farmadr Sailor" occupation="Mercenary" is_basic_troop="true" culture="Culture.nord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4324,8 +4324,8 @@
 			<EquipmentSet id="sturgia_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Seax Infantry Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_seax_t4_infantry" default_group="Infantry" level="21" name="Seax Vigmandr Raider" occupation="Mercenary" culture="Culture.nord">
+	<!-- T4 (SI) Seax Infantry Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_seax_t4_infantry" default_group="Infantry" level="21" name="(SI) Seax Vigmandr Raider" occupation="Mercenary" culture="Culture.nord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4379,8 +4379,8 @@
 			<EquipmentSet id="sturgia_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Seax Infantry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_seax_t5_infantry" default_group="Infantry" level="26" name="Seax Vikingr Marauder" occupation="Mercenary" culture="Culture.nord">
+	<!-- T5 (SI) Seax Infantry Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_min_seax_t5_infantry" default_group="Infantry" level="26" name="(SI) Seax Vikingr Marauder" occupation="Mercenary" culture="Culture.nord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4432,8 +4432,8 @@
 			<EquipmentSet id="sturgia_troop_civilian_template_t3" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Seax Berserker Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_seax_t4_shock_inf" default_group="Infantry" level="21" name="Seax Berserkr Axeman" occupation="Mercenary" culture="Culture.nord">
+	<!-- T4 (SI) Seax Berserker Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_seax_t4_shock_inf" default_group="Infantry" level="21" name="(SI) Seax Berserkr Axeman" occupation="Mercenary" culture="Culture.nord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4474,8 +4474,8 @@
 			<EquipmentSet id="sturgia_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Seax Berserker Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_seax_t5_shock_inf" default_group="Infantry" level="26" name="Seax Huskarl Guardsman" occupation="Mercenary" culture="Culture.nord">
+	<!-- T5 (SI) Seax Berserker Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_seax_t5_shock_inf" default_group="Infantry" level="26" name="(SI) Seax Huskarl Guardsman" occupation="Mercenary" culture="Culture.nord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4946,10 +4946,10 @@
 							  civilian="true" />
 			</Equipments>
 		</NPCCharacter>
-	
+
 	<!-- BROTHERHOOD OF THE WOODS -->
-	<!-- T3 Brotherhood of the Woods Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_brotherhood_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.vlandia" name="{=DIt9SuMb}Brotherhood Theof">
+	<!-- T3 (PH) Brotherhood of the Woods Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_brotherhood_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.vlandia" name="{=DIt9SuMb}(PH) Brotherhood Theof">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5014,8 +5014,8 @@
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Brotherhood of the Woods Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_brotherhood_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vlandia" name="{=riT39wKu}Brotherhood Ahithend Thug">
+	<!-- T4 (PH) Brotherhood of the Woods Light Skill 60-100 -->
+	<NPCCharacter id="AR_min_brotherhood_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vlandia" name="{=riT39wKu}(PH) Brotherhood Ahithend Thug">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5080,8 +5080,8 @@
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Brotherhood of the Woods Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_brotherhood_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vlandia" name="{=u3K1SozQ}Brotherhood Sceatha Outlaw">
+	<!-- T5 (PH) Brotherhood of the Woods Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_brotherhood_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vlandia" name="{=u3K1SozQ}(PH) Brotherhood Sceatha Outlaw">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5133,8 +5133,8 @@
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Brotherhood of the Woods Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_brotherhood_t4_skirm" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vlandia" name="{=riT39wKu}Brotherhood Beeacere Robber">
+	<!-- T4 (PH) Brotherhood of the Woods Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_brotherhood_t4_skirm" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.vlandia" name="{=riT39wKu}(PH) Brotherhood Beeacere Robber">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5177,8 +5177,8 @@
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Brotherhood of the Woods Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_brotherhood_t5_skirm" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vlandia" name="{=u3K1SozQ}Brotherhood Hergend Plunderer">
+	<!-- T5 (PH) Brotherhood of the Woods Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_min_brotherhood_t5_skirm" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.vlandia" name="{=u3K1SozQ}(PH) Brotherhood Hergend Plunderer">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5219,9 +5219,9 @@
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- Biscani -->
+	<!-- (SI) Biscani -->
 	<!-- T3 Archer Medium Skill 40-70 -->
-	<NPCCharacter id="AR_min_swadician_t3" default_group="Ranged" level="16" name="Biscani Kotselta Tribesman" occupation="Mercenary" is_basic_troop="true" culture="Culture.zwadane">
+	<NPCCharacter id="AR_min_swadician_t3" default_group="Ranged" level="16" name="(SI) Biscani Kotselta Tribesman" occupation="Mercenary" is_basic_troop="true" culture="Culture.zwadane">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5284,7 +5284,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Archer Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_swadician_t4_archer" default_group="Ranged" level="21" name="Biscani Draefend Huntsman" occupation="Mercenary" culture="Culture.zwadane">
+	<NPCCharacter id="AR_min_swadician_t4_archer" default_group="Ranged" level="21" name="(SI) Biscani Draefend Huntsman" occupation="Mercenary" culture="Culture.zwadane">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5346,7 +5346,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Archer Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_swadician_t5_archer" default_group="Ranged" level="26" name="Biscani Gargetrum Slinger" occupation="Mercenary" culture="Culture.zwadane">
+	<NPCCharacter id="AR_min_swadician_t5_archer" default_group="Ranged" level="26" name="(SI) Biscani Gargetrum Slinger" occupation="Mercenary" culture="Culture.zwadane">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5406,7 +5406,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Sword Cavalry Heavy Skill 60-100 -->
-	<NPCCharacter id="AR_min_swadician_t4_melee" default_group="HorseArcher" level="21" name="Biscani Eoredmann Rider" occupation="Mercenary" upgrade_requires="ItemCategory.war_horse" culture="Culture.zwadane">
+	<NPCCharacter id="AR_min_swadician_t4_melee" default_group="HorseArcher" level="21" name="(SI) Biscani Eoredmann Rider" occupation="Mercenary" upgrade_requires="ItemCategory.war_horse" culture="Culture.zwadane">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5485,7 +5485,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Sword Cavalry Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_swadician_t5_melee" default_group="HorseArcher" level="26" name="Biscani Gehorsod Horseman" occupation="Mercenary" culture="Culture.zwadane">
+	<NPCCharacter id="AR_min_swadician_t5_melee" default_group="HorseArcher" level="26" name="(SI) Biscani Gehorsod Horseman" occupation="Mercenary" culture="Culture.zwadane">
 		<face>
 			<face_key_template value="BodyProperty.fighter_vlandia"/>
 		</face>
@@ -5541,247 +5541,6 @@
 				<equipment slot="HorseHarness" id="Item.halfchain_barding"/>
 			</EquipmentRoster>
 			<EquipmentSet id="vlandia_troop_civilian_template_t1" civilian="true"/>
-		</Equipments>
-	</NPCCharacter>
-	<!-- DARSHI -->
-	<!-- T3 Darshi Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_ghilman_t3" default_group="Cavalry" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.nahasi" name="{=KnhpjA7Y}Kolemen Slave">
-		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="100"/>
-			<skill id="Riding" value="100"/>
-			<skill id="OneHanded" value="70"/>
-			<skill id="TwoHanded" value="40"/>
-			<skill id="Polearm" value="70"/>
-			<skill id="Bow" value="40"/>
-			<skill id="Crossbow" value="40"/>
-			<skill id="Throwing" value="40"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_min_ghilman_t4_lancer"/>
-			<upgrade_target id="NPCCharacter.AR_min_ghilman_t4_cav_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_1_t3"/>
-				<equipment slot="Item1" id="Item.aserai_mace_3_t3"/>
-				<equipment slot="Item2" id="Item.bound_desert_round_shield"/>
-				<equipment slot="Body" id="Item.eastern_silk_clothing"/>
-				<equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-				<equipment slot="Leg" id="Item.fine_town_boots"/>
-				<equipment slot="Head" id="Item.desert_headdress"/>
-				<equipment slot="Cape" id="Item.tv_battania_cloak_a"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_1_t3"/>
-				<equipment slot="Item1" id="Item.aserai_sword_3_t3"/>
-				<equipment slot="Item2" id="Item.bound_desert_round_shield"/>
-				<equipment slot="Body" id="Item.tassled_southern_robes"/>
-				<equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
-				<equipment slot="Leg" id="Item.fine_town_boots"/>
-				<equipment slot="Head" id="Item.aserai_civil_d_hscarf"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true"/>
-			<equipment slot="Horse" id="Item.aserai_horse"/>
-			<equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
-		</Equipments>
-	</NPCCharacter>
-	<!-- T4 Darshi Heavy Skill 60-100 -->
-	<NPCCharacter id="AR_min_ghilman_t4_lancer" default_group="Cavalry" level="21" occupation="Mercenary" culture="Culture.nahasi" upgrade_requires="ItemCategory.war_horse" name="{=H5iWxbbl}Kolemen Lancer">
-		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="40"/>
-			<skill id="Riding" value="130"/>
-			<skill id="OneHanded" value="100"/>
-			<skill id="TwoHanded" value="60"/>
-			<skill id="Polearm" value="100"/>
-			<skill id="Bow" value="60"/>
-			<skill id="Crossbow" value="60"/>
-			<skill id="Throwing" value="60"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_min_ghilman_t5_lancer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_2_t4"/>
-				<equipment slot="Item1" id="Item.aserai_mace_4_t4"/>
-				<equipment slot="Item2" id="Item.studded_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_archer_helmet_c"/>
-				<equipment slot="Body" id="Item.tv_aserai_lamellar_a"/>
-				<equipment slot="Gloves" id="Item.AR_empire_gloves_c"/>
-				<equipment slot="Leg" id="Item.AR_empire_boots_b"/>
-				<equipment slot="Cape" id="Item.tv_battania_cloak_a"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.AR_horse_armor_d"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_2_t4"/>
-				<equipment slot="Item1" id="Item.aserai_sword_4_t4"/>
-				<equipment slot="Item2" id="Item.studded_round_shield"/>
-				<equipment slot="Head" id="Item.emirs_helmet"/>
-				<equipment slot="Body" id="Item.aserai_armor_02_b"/>
-				<equipment slot="Gloves" id="Item.AR_empire_gloves_c"/>
-				<equipment slot="Leg" id="Item.AR_empire_boots_b"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.half_mail_and_plate_barding"/>
-			</EquipmentRoster>
-			<EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true"/>
-		</Equipments>
-	</NPCCharacter>
-	<!-- T5 Darshi Very Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_ghilman_t5_lancer" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.nahasi" name="{=7EUhAv8b}Kolemen Grivpanvar">
-		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="20"/>
-			<skill id="Riding" value="180"/>
-			<skill id="OneHanded" value="100"/>
-			<skill id="TwoHanded" value="60"/>
-			<skill id="Polearm" value="130"/>
-			<skill id="Bow" value="60"/>
-			<skill id="Crossbow" value="60"/>
-			<skill id="Throwing" value="60"/>
-		</skills>
-		<upgrade_targets/>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-				<equipment slot="Item1" id="Item.shishpar_mace_t4"/>
-				<equipment slot="Item2" id="Item.AR_shield_infantry_zc"/>
-				<equipment slot="Head" id="Item.AR_aserai_archer_helmet_d"/>
-				<equipment slot="Body" id="Item.tv_aserai_lamellar_b"/>
-				<equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-				<equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-				<equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.AR_horse_armor_c"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.aserai_lance_5_t5"/>
-				<equipment slot="Item1" id="Item.aserai_sword_5_t4"/>
-				<equipment slot="Item2" id="Item.steel_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_lord_helmet_b"/>
-				<equipment slot="Body" id="Item.AR_aserai_armor_g"/>
-				<equipment slot="Leg" id="Item.AR_empire_boots_c"/>
-				<equipment slot="Gloves" id="Item.AR_empire_gloves_d"/>
-				<equipment slot="Cape" id="Item.brass_lamellar_cape"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.mail_and_plate_barding"/>
-			</EquipmentRoster>
-			<EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true"/>
-		</Equipments>
-	</NPCCharacter>
-	<!-- T4 Darshi Skirmisher Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_ghilman_t4_cav_archer" default_group="HorseArcher" level="21" occupation="Mercenary" culture="Culture.nahasi" upgrade_requires="ItemCategory.war_horse" name="{=H5iWxbbl}Kolemen Mounted Archer">
-		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="70"/>
-			<skill id="Riding" value="100"/>
-			<skill id="OneHanded" value="100"/>
-			<skill id="TwoHanded" value="60"/>
-			<skill id="Polearm" value="60"/>
-			<skill id="Bow" value="100"/>
-			<skill id="Crossbow" value="60"/>
-			<skill id="Throwing" value="60"/>
-		</skills>
-		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_min_ghilman_t5_cav_archer"/>
-		</upgrade_targets>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.composite_bow"/>
-				<equipment slot="Item1" id="Item.barbed_arrows"/>
-				<equipment slot="Item2" id="Item.aserai_sword_4_t4"/>
-				<equipment slot="Item3" id="Item.bound_desert_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_helmet_c"/>
-				<equipment slot="Body" id="Item.TV_aserai_robe_a"/>
-				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
-				<equipment slot="Leg" id="Item.AR_vlandia_boots_a"/>
-				<equipment slot="Cape" id="Item.tv_battania_cloak_a"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.composite_bow"/>
-				<equipment slot="Item1" id="Item.barbed_arrows"/>
-				<equipment slot="Item2" id="Item.imperial_axe_t3"/>
-				<equipment slot="Item3" id="Item.bound_desert_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_helmet_d"/>
-				<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
-				<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
-				<equipment slot="Leg" id="Item.AR_vlandia_boots_a"/>
-				<equipment slot="Cape" id="Item.wrapped_scarf"/>
-			</EquipmentRoster>
-			<EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true"/>
-			<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-			<equipment slot="HorseHarness" id="Item.aseran_village_harness"/>
-		</Equipments>
-	</NPCCharacter>
-	<!-- T5 Darshi Skirmisher Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_ghilman_t5_cav_archer" default_group="HorseArcher" level="26" occupation="Mercenary" culture="Culture.nahasi" name="{=7EUhAv8b}Kolemen Marksman">
-		<face>
-			<face_key_template value="BodyProperty.fighter_aserai"/>
-		</face>
-		<skills>
-			<skill id="Athletics" value="40"/>
-			<skill id="Riding" value="130"/>
-			<skill id="OneHanded" value="100"/>
-			<skill id="TwoHanded" value="60"/>
-			<skill id="Polearm" value="60"/>
-			<skill id="Bow" value="130"/>
-			<skill id="Crossbow" value="60"/>
-			<skill id="Throwing" value="60"/>
-		</skills>
-		<upgrade_targets/>
-		<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.composite_steppe_bow"/>
-				<equipment slot="Item1" id="Item.piercing_arrows"/>
-				<equipment slot="Item2" id="Item.aserai_sword_5_t4"/>
-				<equipment slot="Item3" id="Item.desert_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_helmet_e"/>
-				<equipment slot="Body" id="Item.aserai_archer_armor"/>
-				<equipment slot="Leg" id="Item.AR_vlandia_boots_c"/>
-				<equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_b"/>
-				<equipment slot="Cape" id="Item.pauldron_cape_a"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.AR_horse_armor_q2"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.composite_steppe_bow"/>
-				<equipment slot="Item1" id="Item.piercing_arrows"/>
-				<equipment slot="Item2" id="Item.AR_imperial_axe_t4"/>
-				<equipment slot="Item3" id="Item.desert_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_helmet_f"/>
-				<equipment slot="Body" id="Item.aserai_archer_armor"/>
-				<equipment slot="Leg" id="Item.AR_vlandia_boots_c"/>
-				<equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_b"/>
-				<equipment slot="Cape" id="Item.pauldron_cape_a"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.AR_horse_armor_r"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.composite_steppe_bow"/>
-				<equipment slot="Item1" id="Item.piercing_arrows"/>
-				<equipment slot="Item2" id="Item.aserai_sword_5_t4"/>
-				<equipment slot="Item3" id="Item.desert_round_shield"/>
-				<equipment slot="Head" id="Item.AR_aserai_helmet_e"/>
-				<equipment slot="Body" id="Item.aserai_archer_armor"/>
-				<equipment slot="Leg" id="Item.AR_vlandia_boots_c"/>
-				<equipment slot="Gloves" id="Item.AO_durkhan_gauntlets_b"/>
-				<equipment slot="Cape" id="Item.pauldron_cape_a"/>
-				<equipment slot="Horse" id="Item.t2_aserai_horse"/>
-				<equipment slot="HorseHarness" id="Item.AR_horse_armor_q"/>
-			</EquipmentRoster>
-			<EquipmentSet id="aserai_troop_civilian_template_t3" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
 	
@@ -6114,8 +5873,8 @@
 		</NPCCharacter>
 
 	<!-- JAWWAL -->
-	<!-- T3 Jawwal Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_jawwal_t3" default_group="Cavalry" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.aserai" name="{=vxlAJIiU}Jawwal Bedouin Tribesman">
+	<!-- T3 (SI) Jawwal Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_jawwal_t3" default_group="Cavalry" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.aserai" name="{=vxlAJIiU}(SI) Jawwal Bedouin Tribesman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_nahasar"/>
 		</face>
@@ -6187,8 +5946,8 @@
 			<equipment slot="HorseHarness" id="Item.camel_saddle"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Jawwal Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_jawwal_t4_lancer" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.aserai" name="{=Mcbjdntz}Jawwal Bedouin Warrior">
+	<!-- T4 (SI) Jawwal Light Skill 60-100 -->
+	<NPCCharacter id="AR_min_jawwal_t4_lancer" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.aserai" name="{=Mcbjdntz}(SI) Jawwal Bedouin Warrior">
 		<face>
 			<face_key_template value="BodyProperty.fighter_nahasar"/>
 		</face>
@@ -6255,8 +6014,8 @@
 			<equipment slot="HorseHarness" id="Item.camel_saddle"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Jawwal Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_jawwal_t5_lancer" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.aserai" name="{=qAvxmnav}Jawwal Bedouin Veteran">
+	<!-- T5 (SI) Jawwal Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_jawwal_t5_lancer" default_group="Cavalry" level="26" occupation="Mercenary" culture="Culture.aserai" name="{=qAvxmnav}(SI) Jawwal Bedouin Veteran">
 		<face>
 			<face_key_template value="BodyProperty.fighter_nahasar"/>
 		</face>
@@ -6310,8 +6069,8 @@
 			<equipment slot="HorseHarness" id="Item.camel_saddle"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Jawwal Archer Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_jawwal_t4_cav_archer" default_group="HorseArcher" level="21" name="Jawwal Bedouin Hunter" occupation="Mercenary" culture="Culture.aserai">
+	<!-- T4 (SI) Jawwal Archer Light Skill 60-100 -->
+	<NPCCharacter id="AR_min_jawwal_t4_cav_archer" default_group="HorseArcher" level="21" name="(SI) Jawwal Bedouin Hunter" occupation="Mercenary" culture="Culture.aserai">
 		<face>
 			<face_key_template value="BodyProperty.fighter_nahasar"/>
 		</face>
@@ -6378,8 +6137,8 @@
 			<equipment slot="HorseHarness" id="Item.camel_saddle"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Jawwal Archer Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_jawwal_t5_cav_archer" default_group="HorseArcher" level="26" name="Jawwal Bedouin Raider" occupation="Mercenary" culture="Culture.aserai">
+	<!-- T5 (SI) Jawwal Archer Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_jawwal_t5_cav_archer" default_group="HorseArcher" level="26" name="(SI) Jawwal Bedouin Raider" occupation="Mercenary" culture="Culture.aserai">
 		<face>
 			<face_key_template value="BodyProperty.fighter_nahasar"/>
 		</face>
@@ -6445,7 +6204,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T3 Spear Infantry Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_ethawian_t3" default_group="Infantry" level="16" name="{=wtmCSMrC}Ethawian Tribesman" occupation="Mercenary" is_basic_troop="true" culture="Culture.nahasi">
+	<NPCCharacter id="AR_min_ethawian_t3" default_group="Infantry" level="16" name="{=wtmCSMrC}(SI) Ethawian Tribesman" occupation="Mercenary" is_basic_troop="true" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -6513,7 +6272,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Spear Infantry Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_ethawian_t4_infantry" default_group="Infantry" level="21" name="{=tke6VCV6}Ethawian Warrior" occupation="Mercenary" culture="Culture.nahasi">
+	<NPCCharacter id="AR_min_ethawian_t4_infantry" default_group="Infantry" level="21" name="{=tke6VCV6}(SI) Ethawian Warrior" occupation="Mercenary" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -6579,7 +6338,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Spear Infantry Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_ethawian_t5_infantry" default_group="Infantry" level="26" name="{=g1zvdEE3}Ethawian Veteran Warrior" occupation="Mercenary" culture="Culture.nahasi">
+	<NPCCharacter id="AR_min_ethawian_t5_infantry" default_group="Infantry" level="26" name="{=g1zvdEE3}(SI) Ethawian Veteran Warrior" occupation="Mercenary" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -6643,7 +6402,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T4 Skirmisher Light Skill 60-100 -->
-	<NPCCharacter id="AR_min_ethawian_t4_skirmisher" default_group="Ranged" level="21" name="{=vZlMfmng}Ethawian Hunter" occupation="Mercenary" culture="Culture.nahasi">
+	<NPCCharacter id="AR_min_ethawian_t4_skirmisher" default_group="Ranged" level="21" name="{=vZlMfmng}(SI) Ethawian Hunter" occupation="Mercenary" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -6695,7 +6454,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- T5 Skirmisher Light Skill 60-130 -->
-	<NPCCharacter id="AR_min_ethawian_t5_skirmisher" default_group="Ranged" level="26" name="{=g1zvdEE3}Ethawian Bowman" occupation="Mercenary" culture="Culture.nahasi">
+	<NPCCharacter id="AR_min_ethawian_t5_skirmisher" default_group="Ranged" level="26" name="{=g1zvdEE3}(SI) Ethawian Bowman" occupation="Mercenary" culture="Culture.nahasi">
 		<face>
 			<face_key_template value="BodyProperty.fighter_spahad"/>
 		</face>
@@ -6745,8 +6504,8 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- LOCHANIANS -->
-	<!-- T3 Lochanian Light Skill 40-70 -->
-	<NPCCharacter id="AR_min_lochanian_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.oldcalradian" name="Lochanian Widousguma Hillman">
+	<!-- T3 (SI) Lochanian Light Skill 40-70 -->
+	<NPCCharacter id="AR_min_lochanian_t3" default_group="Ranged" level="16" occupation="Mercenary" is_basic_troop="true" culture="Culture.oldcalradian" name="(SI) Lochanian Widousguma Hillman">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -6808,8 +6567,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t1" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Lochanian Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_lochanian_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.oldcalradian" name="Lochanian Waithja Hunter">
+	<!-- T4 (SI) Lochanian Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_lochanian_t4_archer" default_group="Ranged" level="21" occupation="Mercenary" culture="Culture.oldcalradian" name="(SI) Lochanian Waithja Hunter">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -6860,8 +6619,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Lochanian Medium Skill 60-130 -->
-	<NPCCharacter id="AR_min_lochanian_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.oldcalradian" name="Lochanian Ferja Slinger">
+	<!-- T5 (SI) Lochanian Medium Skill 60-130 -->
+	<NPCCharacter id="AR_min_lochanian_t5_archer" default_group="Ranged" level="26" occupation="Mercenary" culture="Culture.oldcalradian" name="(SI) Lochanian Ferja Slinger">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -6910,8 +6669,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T4 Lochanian Melee Medium Skill 60-100 -->
-	<NPCCharacter id="AR_min_lochanian_t4_swordsman" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.oldcalradian" name="Lochanian Militonds Warrior">
+	<!-- T4 (SI) Lochanian Melee Medium Skill 60-100 -->
+	<NPCCharacter id="AR_min_lochanian_t4_swordsman" default_group="Infantry" level="21" occupation="Mercenary" culture="Culture.oldcalradian" name="(SI) Lochanian Militonds Warrior">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
@@ -6976,8 +6735,8 @@
 			<EquipmentSet id="battania_troop_civilian_template_t2" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- T5 Lochanian Melee Heavy Skill 60-130 -->
-	<NPCCharacter id="AR_min_lochanian_t5_swordsman" default_group="Infantry" level="26" occupation="Mercenary" culture="Culture.oldcalradian" name="Lochanian Gaisfatha Oathsworn">
+	<!-- T5 (SI) Lochanian Melee Heavy Skill 60-130 -->
+	<NPCCharacter id="AR_min_lochanian_t5_swordsman" default_group="Infantry" level="26" occupation="Mercenary" culture="Culture.oldcalradian" name="(SI) Lochanian Gaisfatha Oathsworn">
 		<face>
 			<face_key_template value="BodyProperty.fighter_gotarni"/>
 		</face>
