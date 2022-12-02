@@ -2919,10 +2919,10 @@
 				<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
 				<Equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
 				<Equipment slot="Item2" id="Item.empire_lance_1_t3"/>
-				<Equipment slot="Head" id="Item.ironlame_nasalhelm_over_imperial_cloth"/>
-				<Equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<Equipment slot="Head" id="Item.imperial_open_mail_coif"/>
+				<Equipment slot="Cape" id="Item.ao_focale"/>
+				<Equipment slot="Body" id="Item.AR_empire_armor_k"/>
+				<Equipment slot="Leg" id="Item.fine_town_boots"/>
 				<Equipment slot="Horse" id="Item.sumpter_horse"/>
 				<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
 			</EquipmentSet>
@@ -2941,10 +2941,10 @@
 				<Equipment slot="Item0" id="Item.empire_sword_1_t2"/>
 				<Equipment slot="Item1" id="Item.AR_shield_infantry_m"/>
 				<Equipment slot="Item2" id="Item.empire_lance_1_t3"/>
-				<Equipment slot="Head" id="Item.ironlame_nasalhelm_over_imperial_cloth"/>
-				<Equipment slot="Body" id="Item.layered_leather_tunic"/>
-				<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
-				<Equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+				<Equipment slot="Head" id="Item.imperial_open_mail_coif"/>
+				<Equipment slot="Cape" id="Item.ao_focale"/>
+				<Equipment slot="Body" id="Item.AR_empire_armor_k"/>
+				<Equipment slot="Leg" id="Item.fine_town_boots"/>
 				<Equipment slot="Horse" id="Item.sumpter_horse"/>
 				<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
 			</EquipmentSet>
@@ -2964,10 +2964,9 @@
 				<Equipment slot="Item0" id="Item.crossbow_a"/>
 				<Equipment slot="Item1" id="Item.bolt_e"/>
 				<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-				<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<Equipment slot="Head" id="Item.AR_roman_hat_a"/>
-				<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-				<Equipment slot="Cape" id="Item.ao_focale"/>
+				<Equipment slot="Head" id="Item.imperial_cloth_coif"/>
+				<Equipment slot="Body" id="Item.footmans_tunic"/>
+				<Equipment slot="Leg" id="Item.folded_town_boots"/>
 			</EquipmentSet>
 			<EquipmentSet civilian="true">
 				<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
@@ -2985,10 +2984,9 @@
 				<Equipment slot="Item0" id="Item.crossbow_a"/>
 				<Equipment slot="Item1" id="Item.bolt_e"/>
 				<Equipment slot="Item3" id="Item.peasant_hatchet_1_t1"/>
-				<Equipment slot="Body" id="Item.bandit_leather_water_flask"/>
-				<Equipment slot="Head" id="Item.AR_roman_hat_a"/>
-				<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-				<Equipment slot="Cape" id="Item.ao_focale"/>
+				<Equipment slot="Head" id="Item.imperial_cloth_coif"/>
+				<Equipment slot="Body" id="Item.footmans_tunic"/>
+				<Equipment slot="Leg" id="Item.folded_town_boots"/>
 			</EquipmentSet>
 			<EquipmentSet civilian="true">
 				<Equipment slot="Item0" id="Item.peasant_hatchet_1_t1"/>
@@ -3007,11 +3005,11 @@
 				<Equipment slot="Item3" id="Item.iron_spatha_sword_t2"/>
 				<Equipment slot="Item0" id="Item.composite_bow"/>
 				<Equipment slot="Item1" id="Item.barbed_arrows"/>
-				<Equipment slot="Head" id="Item.AR_roman_hat_b"/>
-				<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<Equipment slot="Head" id="Item.AR_roman_hat_b2"/>
 				<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-				<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-				<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+				<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<Equipment slot="Gloves" id="Item.armwraps"/>
+				<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
 				<Equipment slot="Horse" id="Item.sumpter_horse"/>
 				<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
 			</EquipmentSet>
@@ -3031,11 +3029,11 @@
 				<Equipment slot="Item3" id="Item.iron_spatha_sword_t2"/>
 				<Equipment slot="Item0" id="Item.composite_bow"/>
 				<Equipment slot="Item1" id="Item.barbed_arrows"/>
-				<Equipment slot="Head" id="Item.AR_roman_hat_b"/>
-				<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<Equipment slot="Head" id="Item.AR_roman_hat_b2"/>
 				<Equipment slot="Cape" id="Item.wrapped_scarf"/>
-				<Equipment slot="Gloves" id="Item.guarded_padded_vambrace"/>
-				<Equipment slot="Leg" id="Item.leather_cavalier_boots"/>
+				<Equipment slot="Body" id="Item.tunic_with_rolled_cloth"/>
+				<Equipment slot="Gloves" id="Item.armwraps"/>
+				<Equipment slot="Leg" id="Item.steppe_leather_boots"/>
 				<Equipment slot="Horse" id="Item.sumpter_horse"/>
 				<Equipment slot="HorseHarness" id="Item.imperial_riding_harness"/>
 			</EquipmentSet>
@@ -3057,11 +3055,11 @@
 				<Equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
 				<Equipment slot="Item0" id="Item.imperial_throwing_spear_1_t4"/>
 				<Equipment slot="Item3" id="Item.AR_plumbata"/>
-				<Equipment slot="Head" id="Item.AR_roman_helmet_a"/>
-				<Equipment slot="Body" id="Item.AR_empire_armor_k"/>
-				<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-				<Equipment slot="Gloves" id="Item.padded_vambrace"/>
-				<Equipment slot="Cape" id="Item.AR_imperial_shoulders_s"/>
+				<Equipment slot="Head" id="Item.ao_imperial_spangenhelm_with_leather"/>
+				<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+				<Equipment slot="Body" id="Item.empire_warrior_padded_armor_b"/>
+				<Equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+				<Equipment slot="Leg" id="Item.strapped_leather_boots"/>
 			</EquipmentSet>
 			<EquipmentSet civilian="true">
 				<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
@@ -3080,11 +3078,11 @@
 				<Equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
 				<Equipment slot="Item0" id="Item.imperial_throwing_spear_1_t4"/>
 				<Equipment slot="Item3" id="Item.AR_plumbata"/>
-				<Equipment slot="Head" id="Item.AR_roman_helmet_a"/>
-				<Equipment slot="Body" id="Item.AR_empire_armor_k"/>
-				<Equipment slot="Leg" id="Item.empire_horseman_boots"/>
-				<Equipment slot="Gloves" id="Item.padded_vambrace"/>
-				<Equipment slot="Cape" id="Item.AR_imperial_shoulders_s"/>
+				<Equipment slot="Head" id="Item.ao_imperial_spangenhelm_with_leather"/>
+				<Equipment slot="Cape" id="Item.wrapped_scarf"/>
+				<Equipment slot="Body" id="Item.empire_warrior_padded_armor_b"/>
+				<Equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+				<Equipment slot="Leg" id="Item.strapped_leather_boots"/>
 			</EquipmentSet>
 			<EquipmentSet civilian="true">
 				<Equipment slot="Item0" id="Item.iron_spatha_sword_t2"/>
