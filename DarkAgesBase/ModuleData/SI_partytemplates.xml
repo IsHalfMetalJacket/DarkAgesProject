@@ -1172,17 +1172,17 @@
 	<MBPartyTemplate id="kingdom_hero_party_gotarni_template">
 		<stacks>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_recruit"/>
-			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.AR_got_t2_pikeman"/>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_got_t3_pikeman"/>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.zend_hmj_mit2"/>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.dryatic_hmj_hit3"/>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_t4_pikeman"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_t5_pikeman"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_got_t3_shock_inf"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_t5_shock_inf"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_t3_crossbowman"/>
-			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_t4_crossbowman"/>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AR_got_t5_crossbowman"/>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_got_t3_cavalry"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_t5_cavalry"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.dryatic_hmj_mst2"/>
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.myzean_hmj_at3"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.myzean_hmj_at4"/>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.myzean_hmj_ht4"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.myzean_hmj_ht5"/>
 			<PartyTemplateStack min_value="2" max_value="4" troop="NPCCharacter.AR_got_t4_cavalry"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_t5_lance_cav"/>
 			<PartyTemplateStack min_value="2" max_value="4" troop="NPCCharacter.AR_got_t4_lance_cav"/>
@@ -1193,7 +1193,7 @@
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_got_armed_trader"/>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_caravan_guard"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_vet_caravan_guard"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_t3_pikeman"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.dryatic_hmj_hit3"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.villager_gotarnia"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_gotarnia"/>
 		</stacks>
@@ -1204,7 +1204,7 @@
 			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AR_got_caravan_guard"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_got_vet_caravan_guard"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.AR_got_t3_pikeman"/>
+			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.dryatic_hmj_hit3"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_t3_crossbowman"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.villager_gotarnia"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_camp_follower_gotarnia"/>
@@ -1216,19 +1216,15 @@
 			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AR_got_caravan_guard"/>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_got_vet_caravan_guard"/>
 			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.AR_got_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.AR_got_t3_pikeman"/>
+			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.dryatic_hmj_hit3"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.villager_gotarnia"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_gotarnia"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="militia_gotarni_template">
 		<stacks>
-			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.AR_got_militia_spearman"/>
-			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.AR_got_militia_archer"/>
-			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_militia_veteran_spearman"/>
-			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_got_militia_veteran_archer"/>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AR_got_clann_guard"/>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.AR_got_clann_archer"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.zend_hmj_mit2"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.dryatic_hmj_mst2"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="rebels_gotarni_template">
