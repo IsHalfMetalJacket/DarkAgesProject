@@ -259,8 +259,8 @@
 		<!-- Standard Quyazic configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -271,8 +271,8 @@
 		<Culture id="empire">
 			<!-- Quyazic for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -283,8 +283,8 @@
 		<Culture id="empire_n">
 			<!-- Quyazic for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -295,8 +295,8 @@
 		<Culture id="empire_w">
 			<!-- Quyazic for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -307,8 +307,8 @@
 		<Culture id="aserai">
 			<!-- Quyazic for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -319,8 +319,8 @@
 		<Culture id="darshi">
 			<!-- Quyazic for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -331,8 +331,8 @@
 		<Culture id="khuzait">
 			<!-- Quyazic for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -343,8 +343,8 @@
 		<Culture id="nahasi">
 			<!-- Quyazic for captured Nahasan settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -355,8 +355,8 @@
 		<Culture id="vlandia">
 			<!-- Quyazic for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -367,8 +367,8 @@
 		<Culture id="zwadane">
 			<!-- Quyazic for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -379,8 +379,8 @@
 		<Culture id="battania">
 			<!-- Quyazic for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -391,8 +391,8 @@
 		<Culture id="oldcalradian">
 			<!-- Quyazic for captured Old Calradian settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -403,8 +403,8 @@
 		<Culture id="sturgia">
 			<!-- Quyazic for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>
@@ -415,8 +415,8 @@
 		<Culture id="vakken">
 			<!-- Quyazic for captured Vakken settlements -->
 			<basicTroops>
-				<volunteer id="aserai_hmj_mit1" percent="50"/>
-				<volunteer id="aserai_hmj_mst2" percent="20"/>
+				<volunteer id="shariz_hmj_mit1" percent="50"/>
+				<volunteer id="shariz_hmj_mst2" percent="20"/>
 				<volunteer id="shariz_hmj_st2" percent="20"/>
 				<volunteer id="shariz_hmj_rt3" percent="10"/>
 			</basicTroops>

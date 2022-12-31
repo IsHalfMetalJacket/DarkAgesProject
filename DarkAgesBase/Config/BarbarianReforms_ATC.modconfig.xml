@@ -291,9 +291,11 @@
 		<!-- Standard Old Calradia configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -302,9 +304,11 @@
 		<Culture id="empire_n">
 			<!-- Gotarnia for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -313,9 +317,11 @@
 		<Culture id="empire">
 			<!-- Gotarnia for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -324,9 +330,11 @@
 		<Culture id="empire_w">
 			<!-- Gotarnia for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -335,9 +343,11 @@
 		<Culture id="shariz">
 			<!-- Gotarnia for captured Sharizan settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -346,9 +356,11 @@
 		<Culture id="aserai">
 			<!-- Gotarnia for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -357,9 +369,11 @@
 		<Culture id="darshi">
 			<!-- Gotarnia for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -368,9 +382,11 @@
 		<Culture id="khuzait">
 			<!-- Gotarnia for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -379,9 +395,11 @@
 		<Culture id="nahasi">
 			<!-- Gotarnia for captured Nahasi settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -390,9 +408,11 @@
 		<Culture id="vlandia">
 			<!-- Gotarnia for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -401,9 +421,11 @@
 		<Culture id="zwadane">
 			<!-- Gotarnia for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -412,9 +434,11 @@
 		<Culture id="battania">
 			<!-- Gotarnia for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -423,9 +447,11 @@
 		<Culture id="sturgia">
 			<!-- Gotarnia for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="70"/>
-				<volunteer id="AR_got_aux_recruit" percent="20"/>
-				<volunteer id="AR_bat_aux_recruit" percent="10"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
@@ -434,9 +460,11 @@
 		<Culture id="vakken">
 			<!-- Gotarnia for captured Vakken settlements -->
 			<basicTroops>
-				<volunteer id="AR_got_recruit" percent="50"/>
-				<volunteer id="AR_vae_aux_recruit" percent="45"/>
-				<volunteer id="AR_bat_aux_recruit" percent="4"/>
+				<volunteer id="zend_hmj_mit1" percent="30"/>
+				<volunteer id="dryatic_hmj_mst2" percent="30"/>
+				<volunteer id="dryatic_hmj_hit3" percent="20"/>
+				<volunteer id="myzean_hmj_at3" percent="10"/>
+				<volunteer id="myzean_hmj_ht4" percent="10"/>
 			</basicTroops>
 			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
 				<volunteer id="AR_got_elite_recruit"/>
