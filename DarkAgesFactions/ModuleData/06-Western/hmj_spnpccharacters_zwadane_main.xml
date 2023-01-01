@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NPCCharacters>
-	<!-- Culture: Nord -->
-	<!-- #region Nord Common Roster -->
+	<!-- Culture: Zwadane -->
+	<!-- #region Zwadane Common Roster -->
 		<!-- #region Northern Spear Line -->
 		<NPCCharacter id="zwadlords"
 			default_group="Infantry"
@@ -134,10 +134,10 @@
 			</Equipments>
 		</NPCCharacter>
 		
-		<NPCCharacter id="northern_hmj_it2"
+		<NPCCharacter id="zwadane_hmj_mit2"
 			default_group="Infantry"
 			level="11"
-			name="{=Northern Levy}Northern Levy"
+			name="{=Northern Levy}Zwadane Levy"
 			occupation="Soldier"
 			is_basic_troop="true"
 			culture="Culture.zwadane">
@@ -145,17 +145,17 @@
 				<face_key_template value="BodyProperty.villager_sturgia"/>
 			</face>
 			<skills >
-				<skill id="Athletics" value="40"/>
-				<skill id="Riding" value="5"/>
-				<skill id="OneHanded" value="50"/>
-				<skill id="TwoHanded" value="20"/>
-				<skill id="Polearm" value="50"/>
-				<skill id="Bow" value="10"/>
-				<skill id="Crossbow" value="10"/>
+				<skill id="Athletics" value="10"/>
+				<skill id="Riding" value="0"/>
+				<skill id="OneHanded" value="30"/>
+				<skill id="TwoHanded" value="10"/>
+				<skill id="Polearm" value="30"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="0"/>
 				<skill id="Throwing" value="10"/>
 			</skills>
 			<upgrade_targets>
-				<upgrade_target id="NPCCharacter.northern_hmj_it3"/>
+				<upgrade_target id="NPCCharacter.zwadane_hmj_mit3"/>
 			</upgrade_targets>
 			<Equipments>
 				<EquipmentRoster>
@@ -198,41 +198,40 @@
 							  civilian="true" />
 			</Equipments>
 		</NPCCharacter>
-		<NPCCharacter id="northern_hmj_it3"
+		<NPCCharacter id="zwadane_hmj_mit3"
 			default_group="Infantry"
 			level="16"
-			name="{=Northern Spearman}Northern Spearman"
+			name="{=Northern Spearman}Zwadane Spearman"
 			occupation="Soldier"
 			culture="Culture.zwadane">
 			<face>
 				<face_key_template value="BodyProperty.villager_sturgia"/>
 			</face>
 			<skills >
-				<skill id="Athletics" value="60"/>
-				<skill id="Riding" value="20"/>
-				<skill id="OneHanded" value="80"/>
-				<skill id="TwoHanded" value="40"/>
-				<skill id="Polearm" value="100"/>
-				<skill id="Bow" value="20"/>
-				<skill id="Crossbow" value="20"/>
-				<skill id="Throwing" value="20"/>
+				<skill id="Athletics" value="20"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="40"/>
+				<skill id="TwoHanded" value="20"/>
+				<skill id="Polearm" value="50"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="10"/>
 			</skills>
 			<Equipments>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
 					<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
-					<equipment slot="Head" id="Item.nasal_helmet"/>
+					<equipment slot="Head" id="Item.simple_helmet_headcloth"/>
 					<equipment slot="Cape" id="Item.hood"/>
 					<equipment slot="Body" id="Item.cloth_tunic"/>
-					<equipment slot="Gloves" id="Item.ragged_armwraps"/>
 					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
 				</EquipmentRoster>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
 					<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 					<equipment slot="Item2" id="Item.longseax"/>
-					<equipment slot="Head" id="Item.AR_sturgia_helmet_f"/>
+					<equipment slot="Head" id="Item.battania_skull_cap"/>
 					<equipment slot="Cape" id="Item.wrapped_scarf"/>
 					<equipment slot="Body" id="Item.leather_coat_over_cloth"/>
 					<equipment slot="Gloves" id="Item.armwraps"/>
@@ -242,7 +241,7 @@
 					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
 					<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
-					<equipment slot="Head" id="Item.spangenhelm_with_leather"/>
+					<equipment slot="Head" id="Item.battania_simple_spangenhelm"/>
 					<equipment slot="Cape" id="Item.green_hood"/>
 					<equipment slot="Body" id="Item.sackcloth_tunic"/>
 					<equipment slot="Gloves" id="Item.ragged_armwraps"/>
@@ -252,10 +251,9 @@
 					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
 					<equipment slot="Item1" id="Item.sturgia_old_shield_a"/>
 					<equipment slot="Item2" id="Item.longseax"/>
-					<equipment slot="Head" id="Item.nasal_helmet_with_leather"/>
+					<equipment slot="Head" id="Item.ao_battanian_segmented_helmet"/>
 					<equipment slot="Cape" id="Item.scarf"/>
 					<equipment slot="Body" id="Item.long_woolen_tunic"/>
-					<equipment slot="Gloves" id="Item.armwraps"/>
 					<equipment slot="Leg" id="Item.wrapped_shoes"/>
 				</EquipmentRoster>
 				<EquipmentSet id="sturgia_troop_civilian_template_t2"
