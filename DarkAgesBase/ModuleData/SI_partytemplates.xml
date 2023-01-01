@@ -943,7 +943,7 @@
 	<!-- party templates for Massa minor faction (1) -->
 	<MBPartyTemplate id="kingdom_hero_party_massa_template">
 		<stacks>
-			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.zwadane_hmj_mit3"/>
 			<PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.northern_hmj_rt2"/>
 			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.northern_hmj_rt3"/>
 			<PartyTemplateStack min_value="8" max_value="12" troop="NPCCharacter.zwadane_hmj_it3"/>
@@ -956,7 +956,7 @@
 	</MBPartyTemplate>
 	<MBPartyTemplate id="militia_massa_template">
 		<stacks>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.northern_hmj_it2"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.zwadane_hmj_mit2"/>
 			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.northern_hmj_rt2"/>
 		</stacks>
 	</MBPartyTemplate>
@@ -968,7 +968,7 @@
 	</MBPartyTemplate>
 	<MBPartyTemplate id="rebels_massa_template">
 		<stacks>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.northern_hmj_it2"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.zwadane_hmj_mit2"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="caravan_template_massa">
@@ -976,7 +976,7 @@
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_mas_armed_trader"/>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_mas_caravan_guard"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_mas_vet_caravan_guard"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.zwadane_hmj_mit3"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.villager_massa"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_massa"/>
 		</stacks>
@@ -987,7 +987,7 @@
 			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AR_mas_caravan_guard"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_mas_vet_caravan_guard"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_mas_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.zwadane_hmj_mit3"/>
 			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.northern_hmj_rt3"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.villager_massa"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_camp_follower_massa"/>
@@ -999,7 +999,7 @@
 			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AR_mas_caravan_guard"/>
 			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.AR_mas_vet_caravan_guard"/>
 			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AR_mas_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.zwadane_hmj_mit3"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.villager_massa"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_massa"/>
 		</stacks>
@@ -1020,7 +1020,7 @@
 	<MBPartyTemplate id="kingdom_hero_party_nord_template">
 		<stacks>
 			<PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.viking_hmj_it2"/>
-			<PartyTemplateStack min_value="9" max_value="9" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="9" max_value="9" troop="NPCCharacter.nord_hmj_mit3"/>
 			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.northern_hmj_rt2"/>
 			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.northern_hmj_rt3"/>
 			<PartyTemplateStack min_value="6" max_value="10" troop="NPCCharacter.viking_hmj_it3"/>
@@ -1035,13 +1035,13 @@
 	</MBPartyTemplate>
 	<MBPartyTemplate id="militia_nord_template">
 		<stacks>
-			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.northern_hmj_it2"/>
+			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.nord_hmj_mit2"/>
 			<PartyTemplateStack min_value="1" max_value="1" troop="NPCCharacter.northern_hmj_rt2"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="char_creation_player_party_template_nord">
 		<stacks>
-			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.northern_hmj_it3"/>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.nord_hmj_mit3"/>
 			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.viking_hmj_it4"/>
 		</stacks>
 	</MBPartyTemplate>
