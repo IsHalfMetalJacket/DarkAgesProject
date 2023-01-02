@@ -721,14 +721,14 @@
 				<face_key_template value="BodyProperty.fighter_vlandia"/>
 			</face>
 			<skills >
-				<skill id="Athletics" value="190"/>
+				<skill id="Athletics" value="75"/>
 				<skill id="Riding" value="40"/>
-				<skill id="OneHanded" value="190"/>
-				<skill id="TwoHanded" value="80"/>
-				<skill id="Polearm" value="190"/>
+				<skill id="OneHanded" value="95"/>
+				<skill id="TwoHanded" value="40"/>
+				<skill id="Polearm" value="95"/>
 				<skill id="Bow" value="20"/>
 				<skill id="Crossbow" value="20"/>
-				<skill id="Throwing" value="190"/>
+				<skill id="Throwing" value="95"/>
 			</skills>
 			<upgrade_targets>
 				<upgrade_target id="NPCCharacter.shariz_hmj_nst6"/>
@@ -738,8 +738,8 @@
 					<equipment slot="Item0" id="Item.broad_falchion_sword_t3"/>
 					<equipment slot="Item1" id="Item.AR_shield_infantry_t"/>
 					<equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3"/>
-					<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
-					<equipment slot="Head" id="Item.imperial_mail_coif"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
+					<equipment slot="Head" id="Item.saracen_helmet_d_ii"/>
 					<equipment slot="Cape" id="Item.wrapped_scarf"/>
 					<equipment slot="Body" id="Item.ao_mail_shirt_sleeveless"/>
 					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
@@ -749,10 +749,10 @@
 					<equipment slot="Item0" id="Item.aserai_axe_2_t2"/>
 					<equipment slot="Item1" id="Item.AR_shield_infantry_t"/>
 					<equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3"/>
-					<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
-					<equipment slot="Head" id="Item.open_mail_coif"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
+					<equipment slot="Head" id="Item.TV_vlandia_helmet_o"/>
 					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
-					<equipment slot="Body" id="Item.hauberk"/>
+					<equipment slot="Body" id="Item.desert_robe_over_mail"/>
 					<equipment slot="Gloves" id="Item.armwraps"/>
 					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
 				</EquipmentRoster>
@@ -760,7 +760,7 @@
 					<equipment slot="Item0" id="Item.aserai_sword_3_t3"/>
 					<equipment slot="Item1" id="Item.AR_shield_infantry_t"/>
 					<equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3"/>
-					<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
 					<equipment slot="Head" id="Item.imperial_open_mail_coif"/>
 					<equipment slot="Cape" id="Item.hood"/>
 					<equipment slot="Body" id="Item.mail_shirt"/>
@@ -771,10 +771,10 @@
 					<equipment slot="Item0" id="Item.vlandia_axe_1_t4"/>
 					<equipment slot="Item1" id="Item.AR_shield_infantry_t"/>
 					<equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3"/>
-					<equipment slot="Item3" id="Item.western_javelin_2_t3"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
 					<equipment slot="Head" id="Item.mail_coif"/>
 					<equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
-					<equipment slot="Body" id="Item.mercenary_mail_armor"/>
+					<equipment slot="Body" id="Item.AR_aserai_armor_b"/>
 					<equipment slot="Gloves" id="Item.armwraps"/>
 					<equipment slot="Leg" id="Item.ragged_boots"/>
 				</EquipmentRoster>
@@ -792,60 +792,60 @@
 				<face_key_template value="BodyProperty.fighter_vlandia"/>
 			</face>
 			<skills >
-				<skill id="Athletics" value="220"/>
+				<skill id="Athletics" value="150"/>
 				<skill id="Riding" value="80"/>
-				<skill id="OneHanded" value="260"/>
-				<skill id="TwoHanded" value="160"/>
-				<skill id="Polearm" value="260"/>
+				<skill id="OneHanded" value="190"/>
+				<skill id="TwoHanded" value="80"/>
+				<skill id="Polearm" value="190"/>
 				<skill id="Bow" value="40"/>
 				<skill id="Crossbow" value="40"/>
-				<skill id="Throwing" value="220"/>
+				<skill id="Throwing" value="190"/>
 			</skills>
 			<Equipments>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
-				<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
-				<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
-				<equipment slot="Item3" id="Item.eastern_infantry_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_b"/>
-				<equipment slot="Cape" id="Item.tv_battania_cloak_a"/>
-				<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
-				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
-				<equipment slot="Leg" id="Item.plated_strip_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_axe_2_t4"/>
-				<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
-				<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
-				<equipment slot="Item3" id="Item.eastern_infantry_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.tv_vlandia_helmet_c2"/>
-				<equipment slot="Cape" id="Item.leopard_pelt"/>
-				<equipment slot="Body" id="Item.desert_robe_over_mail"/>
-				<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
-				<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
-				<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
-				<equipment slot="Item3" id="Item.eastern_infantry_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.tv_vlandia_lord_helmet_b"/>
-				<equipment slot="Cape" id="Item.scarf"/>
-				<equipment slot="Body" id="Item.white_coat_over_mail"/>
-				<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
-				<equipment slot="Leg" id="Item.plated_strip_boots"/>
-			</EquipmentRoster>
-			<EquipmentRoster>
-				<equipment slot="Item0" id="Item.vlandia_axe_2_t4"/>
-				<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
-				<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
-				<equipment slot="Item3" id="Item.eastern_infantry_javelin_3_t4"/>
-				<equipment slot="Head" id="Item.visored_helmet_over_padded_coif"/>
-				<equipment slot="Cape" id="Item.bearskin"/>
-				<equipment slot="Body" id="Item.AR_aserai_armor_e"/>
-				<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
-				<equipment slot="Leg" id="Item.mail_chausses"/>
-			</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
+					<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.dz_shariz_helm_2"/>
+					<equipment slot="Cape" id="Item.TV_vlandia_shoulders_h"/>
+					<equipment slot="Body" id="Item.aserai_robe_c_chain"/>
+					<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+					<equipment slot="Leg" id="Item.plated_strip_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_axe_2_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
+					<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.tv_vlandia_helmet_i4"/>
+					<equipment slot="Cape" id="Item.leopard_pelt"/>
+					<equipment slot="Body" id="Item.desert_robe_over_mail"/>
+					<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+					<equipment slot="Leg" id="Item.mail_chausses"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_sword_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
+					<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.TV_vlandia_helmet_p2"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.vlandia_chainmail"/>
+					<equipment slot="Gloves" id="Item.plated_strip_gauntlets"/>
+					<equipment slot="Leg" id="Item.plated_strip_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.vlandia_axe_2_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_u"/>
+					<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.tv_vlandia_helmet_o4"/>
+					<equipment slot="Cape" id="Item.TV_vlandia_shoulders_i"/>
+					<equipment slot="Body" id="Item.mail_with_tabbard3"/>
+					<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+					<equipment slot="Leg" id="Item.mail_chausses"/>
+				</EquipmentRoster>
 				<EquipmentSet id="vlandia_troop_civilian_template_t3"
 							  civilian="true" />
 			</Equipments>
