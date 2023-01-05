@@ -6,7 +6,7 @@
 		<NPCCharacter id="sturgia_hmj_mpt1"
 			default_group="Infantry"
 			level="6"
-			name="{=Sturgian Voi Soldier}Sturgian Voi Soldier"
+			name="{=Sturgian Voi Soldier}Sturgian Voi Conscript"
 			occupation="Soldier"
 			is_basic_troop="true"
 			culture="Culture.sturgia">
