@@ -1685,7 +1685,7 @@
 			</skills>
 			<upgrade_targets>
 				<upgrade_target id="NPCCharacter.battanian_hmj_nat3"/>
-				<upgrade_target id="NPCCharacter.battanian_hmj_nit3"/>
+				<upgrade_target id="NPCCharacter.battanian_hmj_nct3"/>
 			</upgrade_targets>
 			<Equipments>
 				<EquipmentRoster>
@@ -1936,7 +1936,7 @@
 			</Equipments>
 		</NPCCharacter>
 
-		<NPCCharacter id="battanian_hmj_nit3"
+		<NPCCharacter id="battanian_hmj_nct3"
 			default_group="Infantry"
 			level="16"
 			name="{=Battanian Highborn Warrior}Battanian Highborn Warrior"
