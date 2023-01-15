@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+	<Item id="diamond_fluted_helm_heavy" name="{=osa_fluted_helm_heavy}Fluted Helmet with Mail Coif" mesh="fluted_nasal_helm_v1" culture="Culture.vlandia" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+
+<!-- DZOR Gear -->
+	<Item id="dz_imp_helm_1" name="{=osa_fluted_helm_heavy}dzor1" mesh="dz_impe_helm_1" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+	<Item id="dz_imp_helm_2" name="{=osa_fluted_helm_heavy}dzor2" mesh="dz_impe_helm_2" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_imp_helm_3" name="{=osa_fluted_helm_heavy}dzor3" mesh="dz_impe_helm_3" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+	<Item id="dz_imp_helm_4" name="{=osa_fluted_helm_heavy}dzor4" mesh="dz_impe_helm_4" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_emp_helm8" name="{=osa_fluted_helm_heavy}dzor5" mesh="dz_emp_helm8" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+	<Item id="dz_emp_helm8_b" name="{=osa_fluted_helm_heavy}dzor6" mesh="dz_emp_helm8_b" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+	<Item id="dz_emp_helm8_c" name="{=osa_fluted_helm_heavy}dzor7" mesh="dz_emp_helm8_c" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+	
+	<Item id="dz_imp_armor_1" name="{=VQSdhQE3}dzorbody" mesh="dz_imp_armor_1" subtype="body_armor" culture="Culture.empire" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="57" leg_armor="20" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_impe_shoulder_1" name="{=XGX6DbFL}dzorshoulders" mesh="dz_impe_shoulder_1" culture="Culture.empire" weight="1.8" appearance="3" Type="Cape">
+		<ItemComponent>
+			<Armor arm_armor="23" modifier_group="plate"  material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_splint_boot1" name="{=Fb7PrJuc}dzorboots" mesh="dz_splint_boot1" culture="Culture.empire" weight="2.7" appearance="2" Type="LegArmor">
+		<ItemComponent>
+		  <Armor leg_armor="22" covers_legs="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+    <Flags />
+    </Item>
+
+	<Item id="dz_shariz_helm_2" name="{=osa_fluted_helm_heavy}dzor8" mesh="dz_shariz_helm_3" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_shariz_helm_3" name="{=osa_fluted_helm_heavy}dzor9" mesh="dz_shariz_helm_3" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+
+
+	<Item id="dz_khuzopole_armor_1" name="{=VQSdhQE3}dzorkhubody" mesh="dz_khuzopole_armor_1" subtype="body_armor" culture="Culture.shariz" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="57" leg_armor="20" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_khuzopol_helm_2" name="{=osa_fluted_helm_heavy}dzor11" mesh="dz_khuzopol_helm_2" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_khuzopol_helm_1" name="{=osa_fluted_helm_heavy}dzor10" mesh="dz_khuzopol_helm_1" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+
+<!-- Extras -->
+<!--Unique Head Armor-->
+  <Item id="desert_mail_coif" 
+		name="{=sQAXkEQ7}Southern Mail Coif" 
+		subtype="head_armor" 
+		mesh="aserai_helmet_j" 
+		culture="Culture.aserai" 
+		weight="3.0" 
+		difficulty="0" 
+		appearance="1" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="26" 
+			 has_gender_variations="false" 
+			 hair_cover_type="all" 
+			 modifier_group="chain" 
+			 material_type="Chainmail" 
+			 beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+
+  <Item id="aserai_nasalhelm_cloth" 
+		name="{=xkX9T0yT}Loose Wrapped Nasal Helmet"
+		mesh="aserai_nasalhelm_cloth" 
+		culture="Culture.aserai" 
+		weight="1.4" 
+		appearance="1" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="31" 
+			 has_gender_variations="false"
+			 hair_cover_type="all"
+			 beard_cover_type="type2" 
+			 modifier_group="plate" 
+			 material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+ <Item id="aserai_nasalhelm_mailcoif" 
+		name="{=sQAXkEQ7}Southern Nasalhelm with Mail Coif" 
+		subtype="head_armor" 
+		mesh="aserai_nasalhelm_mailcoif" 
+		culture="Culture.aserai" 
+		weight="3.1" 
+		difficulty="0" 
+		appearance="1" 
+		Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50" 
+			 has_gender_variations="false" 
+			 hair_cover_type="all" 
+			 modifier_group="chain" 
+			 material_type="Chainmail" 
+			 beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+<!--Unique Camel Armor-->
+	<Item id="heavy_camel_saddle" 
+		  name="{=q1z4FQub}Heavy Camel Saddle" 
+		  mesh="camel_saddle1" 
+		  weight="25" 
+		  appearance="1" 
+		  Type="HorseHarness">
+		<ItemComponent>
+			<Armor body_armor="58" 
+				   mane_cover_type="none" 
+				   family_type="2" 
+				   modifier_group="leather" 
+				   material_type="Leather" />
+		</ItemComponent>
+		<Flags />
+	</Item>
+ <!-- </Unique Weapons> -->
+ 	<CraftedItem id="southern_makhaira_dagger"
+			   name="Southern Makhaira Dagger"
+			   crafting_template="Dagger"
+			   culture="Culture.aserai">
+		<Pieces>
+			<Piece id="dagger_blade_4"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="aserai_dagger_guard_6"
+				   Type="Guard"
+				   scale_factor="90" />
+			<Piece id="aserai_grip_1"
+				   Type="Handle"
+				   scale_factor="100" />
+			<Piece id="aserai_pommel_2"
+				   Type="Pommel" />
+		</Pieces>
+	</CraftedItem>
+  <CraftedItem id="eastern_infantry_javelin_3_t4" 
+			   name="Infantry Jereed" 
+			   crafting_template="Javelin" 
+			   culture="Culture.aserai">
+    <Pieces>
+      <Piece id="spear_blade_27" Type="Blade" scale_factor="95" />
+      <Piece id="default_polearm_guard" Type="Guard" scale_factor="100" />
+      <Piece id="spear_handle_9" Type="Handle" scale_factor="95" />
+      <Piece id="spear_pommel_12" Type="Pommel" scale_factor="95" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="aserai_heavy_javelin_1_t5" 
+			   name="Heavy Jereed" 
+			   crafting_template="TwoHandedPolearm" 
+			   culture="Culture.aserai">
+    <Pieces>
+      <Piece id="spear_blade_27" Type="Blade" scale_factor="110" />
+      <Piece id="spear_guard_15" Type="Guard" scale_factor="110" />
+      <Piece id="spear_handle_14" Type="Handle" scale_factor="100" />
+      <Piece id="spear_pommel_12" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="southern_great_2hsword_t4" name="{=59TEk33X}Southern Greatsword" crafting_template="TwoHandedSword" culture="Culture.aserai">
+    <Pieces>
+      <Piece id="cleaver_blade_2" Type="Blade" scale_factor="110" />
+      <Piece id="aserai_guard_2" Type="Guard" scale_factor="109" />
+      <Piece id="aserai_grip_19" Type="Handle" scale_factor="107" />
+      <Piece id="aserai_pommel_8" Type="Pommel" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+
+	<!-- #region Battania Head Armor-->
+
+	<Item id="dire_wolfhead" 
+		  name="Direwolf Head" 
+		  subtype="head_armor" 
+		  mesh="battania_helmet_i" 
+		  culture="Culture.battania" 
+		  weight="1.2" 
+		  difficulty="0" 
+		  appearance="1.0" 
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="30" 
+				   has_gender_variations="false" 
+				   hair_cover_type="all" 
+				   modifier_group="leather" 
+				   material_type="Leather" />
+		</ItemComponent>
+	<Flags />
+	</Item>	
+	<!-- #region Battania Cape Armor-->
+	<Item id="armoured_battania_cloak_furr"
+		  name="Highland Shoulder Fur with Mail"
+		  mesh="battania_shoulder_furr"
+		  culture="Culture.battania"
+		  weight="1.6"
+		  difficulty="0"
+		  appearance="1"
+          Type="Cape"
+  		  value="2000" >
+		<ItemComponent>
+			<Armor body_armor="20"
+				   arm_armor="6"
+				   modifier_group="chain"
+				   material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	<Item id="armoured_battania_shoulder_strap_cloak"
+		  name="Highland Mantle with Shoulder Guard"
+		  mesh="battania_shoulder_strap_cloak"
+		  culture="Culture.battania"
+		  weight="2"
+		  difficulty="0"
+		  appearance="1"
+          Type="Cape"
+		  value="1875" >
+		<ItemComponent>
+			<Armor body_armor="19"
+				   arm_armor="4"
+				   modifier_group="chain"
+				   material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	
+	<!-- #region Battania Body Armor -->
+	<Item id="kilt_over_leather"
+		  name="Kilt over Leather Coat"
+		  mesh="leather_armor_kilt"
+		  subtype="body_armor"
+		  culture="Culture.battania"
+		  weight="7.8"
+		  difficulty="0"
+		  appearance="1"
+		  Type="BodyArmor"
+		  value="32500">
+		<ItemComponent>
+			<Armor body_armor="34"
+				   arm_armor="14"
+				   leg_armor="22"
+				   covers_body="true"
+				   modifier_group="leather"
+				   material_type="Leather" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	<Item id="battanian_gambeson_a" 
+		  name="{=aDDTouCQ}Highland Gambeson" 
+		  mesh="battanian_gambeson_a" 
+		  culture="Culture.battania" 
+		  weight="2.8" 
+		  appearance="1" 
+		  Type="BodyArmor">
+	<ItemComponent>
+	<Armor body_armor="16" leg_armor="8" arm_armor="6" covers_body="true" modifier_group="cloth" material_type="Cloth" />
+	</ItemComponent>
+	<Flags UseTeamColor="true" />
+	</Item>
+  
+	<!-- #region Battania Weapons -->
+	<CraftedItem id="long_knife_t2" 
+				 name="Woodland Long Knife" 
+				 crafting_template="OneHandedSword"
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="khuzait_noble_blade_3" Type="Blade" scale_factor="80" />
+			<Piece id="cleaver_guard_3" Type="Guard" scale_factor="80" />
+			<Piece id="sturgian_grip_12" Type="Handle" scale_factor="90" />
+			<Piece id="cleaver_pommel_3" Type="Pommel" scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_sickle_t4" 
+				 name="Highland Sica Blade" 
+				 crafting_template="OneHandedSword"
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="battania_blade_6" Type="Blade" scale_factor="80" />
+			<Piece id="battania_guard_1" Type="Guard" scale_factor="90" />
+			<Piece id="battania_grip_3" Type="Handle" scale_factor="90" />
+			<Piece id="battania_noble_pommel_1" Type="Pommel" scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_axe_1_t2" name="{=ljOwXClb}Woodland Hatchet" crafting_template="OneHandedAxe" culture="Culture.battania">
+		<Pieces>
+			<Piece id="axe_craft_20_head" Type="Blade" scale_factor="90" />
+			<Piece id="axe_craft_2_handle" Type="Handle" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="woodland_axe_t3" name="{=6q0nmVtg}Highland axe" crafting_template="OneHandedAxe" culture="Culture.battania">
+		<Pieces>
+			<Piece id="axe_craft_21_head" Type="Blade" scale_factor="100" />
+			<Piece id="axe_craft_19_handle" Type="Handle" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_axe_2_t4" 
+				 name="{=pjvwuVuc}One Handed Gallowglass Axe" 
+				 crafting_template="OneHandedAxe" 
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="axe_craft_11_head" 
+				   Type="Blade" 
+				   scale_factor="100" />
+			<Piece id="axe_craft_21_handle" 
+				   Type="Handle" 
+				   scale_factor="110" />
+		</Pieces>
+		</CraftedItem>
+	<CraftedItem id="battania_spear_t3"
+				 name="Woodland Spear"
+				 crafting_template="TwoHandedPolearm"
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="spear_blade_20"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="spear_guard_7"
+				   Type="Guard"
+				   scale_factor="100" />
+			<Piece id="spear_handle_21"
+				   Type="Handle"
+				   scale_factor="100" />
+			<Piece id="spear_pommel_8"
+				   Type="Pommel"
+				   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_fine_war_spear_t5"
+				 name="Highland Fine War Spear"
+				 crafting_template="TwoHandedPolearm"
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="spear_blade_41"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="spear_guard_3"
+				   Type="Guard"
+				   scale_factor="100" />
+			<Piece id="spear_handle_8"
+				   Type="Handle"
+				   scale_factor="110" />
+			<Piece id="spear_pommel_8"
+				   Type="Pommel"
+				   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="highland_throwing_spear_1_t3"
+				 name="{=newbattthing1}Woodland Throwing Spear" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="spear_blade_15" 
+				   Type="Blade" 
+				   scale_factor="90" />
+			<Piece id="default_polearm_guard" 
+				   Type="Guard" 
+				   scale_factor="100" />
+			<Piece id="spear_handle_14"
+				   Type="Handle" 
+				   scale_factor="80" />
+			<Piece id="default_polearm_pommel"
+				   Type="Pommel"
+				   scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+	<CraftedItem id="highland_throwing_spear_1_t4"
+				 name="{=newbattthing2}Highland Throwing Spear" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="spear_blade_42" 
+				   Type="Blade" 
+				   scale_factor="90" />
+			<Piece id="default_polearm_guard" 
+				   Type="Guard" 
+				   scale_factor="100" />
+			<Piece id="spear_handle_14"
+				   Type="Handle" 
+				   scale_factor="90" />
+			<Piece id="spear_pommel_5"
+				   Type="Pommel"
+				   scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_2hsword_6_t5" 
+				 name="{=62nIvqbA}Highland Gallowglass Claymore" 
+				 crafting_template="TwoHandedSword" 
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="vlandian_blade_3" 
+				   Type="Blade" 
+				   scale_factor="100" />
+			<Piece id="battania_guard_9" 
+				   Type="Guard" 
+				   scale_factor="130" />
+			<Piece id="vlandian_grip_7" 
+				   Type="Handle" 
+				   scale_factor="80" />
+			<Piece id="vlandian_pommel_4" 
+				   Type="Pommel" 
+				   scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="battania_lance_1t5" 
+				 name="{=6eO6QDoE}Highland Heavy Lance" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.battania">
+		<Pieces>
+			<Piece id="spear_blade_41" Type="Blade" scale_factor="110" />
+			<Piece id="spear_handle_19" Type="Handle" scale_factor="110" />
+		</Pieces>
+	</CraftedItem>
+
+	<!-- Chest-->
+	<Item id="mailed_monk_robe" 
+		  name="{=spepepe}Scholars Robe over Mail" 
+		  mesh="monk_robe" 
+		  culture="Culture.vlandia" 
+		  weight="12.0" 
+		  appearance="2.0" 
+		  Type="BodyArmor">
+		<ItemComponent>
+		<Armor body_armor="68" 
+			   leg_armor="26" 
+			   arm_armor="26" 
+			   covers_body="true" 
+			   modifier_group="cloth_unarmoured" 
+			   material_type="Cloth" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" Civilian="true" />
+	</Item>
+	<!-- Weapons-->
+	<CraftedItem id="peasant_maul_t1_4" 
+				 name="{=gYpNILVC}Reinforced Maul" 
+				 crafting_template="TwoHandedMace" 
+				 culture="Culture.battania">
+		<Pieces>
+		<Piece id="hammer_head_11" Type="Blade" scale_factor="110" />
+		<Piece id="axe_craft_1_handle" Type="Handle" scale_factor="109" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="imperial_spear_4_t4" 
+				 name="{=t28VYqjP}Imperial Skotatoi Spear" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.empire">
+	<Pieces>
+		<Piece id="spear_blade_27" Type="Blade" scale_factor="90" />
+		<Piece id="spear_guard_7" Type="Guard" scale_factor="100" />
+		<Piece id="spear_handle_4" Type="Handle" scale_factor="100" />
+		<Piece id="spear_pommel_9" Type="Pommel" scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+	<CraftedItem id="empire_polearm_2_t4" 
+				 name="{=t28VYqjP}Imperial Swordstaff" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.empire">
+	<Pieces>
+		<Piece id="spear_blade_7" Type="Blade" scale_factor="110" />
+		<Piece id="spear_guard_6" Type="Guard" scale_factor="100" />
+		<Piece id="spear_handle_15" Type="Handle" scale_factor="100" />
+		<Piece id="spear_pommel_10" Type="Pommel" scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+  <CraftedItem id="imperial_darts_t4" name="{=plmplm}Plumbata" crafting_template="Javelin" culture="Culture.empire">
+    <Pieces>
+      <Piece id="spear_blade_38" Type="Blade" scale_factor="100" />
+      <Piece id="spear_guard_7" Type="Guard" scale_factor="110" />
+      <Piece id="spear_handle_11" Type="Handle" scale_factor="90" />
+      <Piece id="spear_pommel_5" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="imperial_throwing_spear_1_t2" 
+			   name="{=v3lIxLvX}Light Pila" 
+			   crafting_template="TwoHandedPolearm" 
+			   culture="Culture.empire">
+    <Pieces>
+      <Piece id="spear_blade_9" Type="Blade" scale_factor="90" />
+      <Piece id="default_polearm_guard" Type="Guard" scale_factor="100" />
+      <Piece id="spear_handle_14" Type="Handle" scale_factor="90" />
+      <Piece id="default_polearm_pommel" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+  <CraftedItem id="imperial_throwing_spear_2_t4"
+               name="{=rkqaCud5}Long Pilum"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="spear_blade_38"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_14"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+	<!-- Khuzait Weapons-->
+	<CraftedItem id="khuzait_khanjar"
+			   name="Eastern Khanjar"
+			   crafting_template="Dagger"
+			   culture="Culture.khuzait">
+		<Pieces>
+			<Piece id="dagger_blade_8"
+				   Type="Blade"
+				   scale_factor="100" />
+			<Piece id="aserai_dagger_guard_8"
+				   Type="Guard"
+				   scale_factor="90" />
+			<Piece id="vlandian_grip_4"
+				   Type="Handle"
+				   scale_factor="100" />
+			<Piece id="khuzait_pommel_7"
+				   Type="Pommel" />
+		</Pieces>
+	</CraftedItem>
+ <!-- </Shield Fixes> -->
+	<Item id="eastern_wicker_shield" 
+		  name="{=pEaYQqG9}Wicker Square Shield" 
+		  body_name="bo_cap_shield_khuzait_infantary_a" 
+		  shield_body_name="bo_shield_khuzait_infantary_a" 
+		  recalculate_body="false" 
+		  mesh="shield_khuzait_infantary_a" 
+		  using_tableau="true" 
+		  weight="2.7" 
+		  appearance="1" 
+		  Type="Shield" 
+		  item_holsters="shield:shield_2:shield_3:shield_4" 
+		  has_lower_holster_priority="true" 
+		  holster_position_shift="-0.1,-0.1,0.01">
+	<ItemComponent>
+		<Weapon weapon_class="LargeShield" 
+				body_armor="1" 
+				thrust_speed="82" 
+				thrust_damage_type="Blunt" 
+				speed_rating="82" 
+				physics_material="wood_shield" 
+				item_usage="shield" 
+				position="0.0, 0.00, 0.00" 
+				rotation="0.0,10.0,40.00" 
+				weapon_length="90" 
+				center_of_mass="-0.0,0.25,0.05" 
+				hit_points="260">
+	<WeaponFlags CanBlockRanged="true" 
+				 HasHitPoints="true" />
+	</Weapon>
+	</ItemComponent>
+		<Flags WoodenParry="true" 
+			   HeldInOffHand="true" 
+			   ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+	<Item id="footmans_wicker_shield" 
+		  name="{=1w5StEM1}Wicker Shield" 
+		  body_name="bo_cap_shield_khuzait_infantary_a" 
+		  shield_body_name="bo_shield_khuzait_infantary_b" 
+		  recalculate_body="false" 
+		  mesh="shield_khuzait_infantary_a" 
+		  using_tableau="true" 
+		  weight="4.7" 
+		  appearance="0.7" 
+		  Type="Shield" 
+		  item_holsters="shield:shield_2:shield_3:shield_4" 
+		  has_lower_holster_priority="true" 
+		  holster_position_shift="-0.1,-0.1,0.01">
+	<ItemComponent>
+		<Weapon weapon_class="LargeShield" 
+				body_armor="1" 
+				thrust_speed="82" 
+				thrust_damage_type="Blunt" 
+				speed_rating="82" 
+				physics_material="wood_shield" 
+				item_usage="shield" 
+				position="0.0, 0.00, 0.00" 
+				rotation="0.0,10.0,40.00" 
+				weapon_length="95" 
+				center_of_mass="-0.0,0.25,0.05" 
+				hit_points="300">
+	<WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+	</Weapon>
+	</ItemComponent>
+	<Flags WoodenParry="true" 
+		   HeldInOffHand="true" 
+		   ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+	<Item id="stronger_eastern_wicker_shield" 
+		  name="{=F9HQABfN}Reinforced Wicker Square Shield" 
+		  body_name="bo_cap_shield_khuzait_infantary_a" 
+		  shield_body_name="bo_shield_khuzait_infantary_a" 
+		  recalculate_body="false" 
+		  mesh="shield_khuzait_infantary_b" 
+		  using_tableau="true" 
+		  weight="2.7" 
+		  appearance="1" 
+		  Type="Shield" 
+		  item_holsters="shield:shield_2:shield_3:shield_4" 
+		  has_lower_holster_priority="true" 
+		  holster_position_shift="-0.1,-0.1,0.01">
+	<ItemComponent>
+		<Weapon weapon_class="LargeShield" 
+				body_armor="1" 
+				thrust_speed="82" 
+				thrust_damage_type="Blunt" 
+				speed_rating="82" 
+				physics_material="wood_shield" 
+				item_usage="shield" 
+				position="0.0, 0.00, 0.00" 
+				rotation="0.0,10.0,40.00" 
+				weapon_length="90" 
+				center_of_mass="-0.0,0.25,0.05" 
+				hit_points="370">
+	<WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+	</Weapon>
+	</ItemComponent>
+	<Flags WoodenParry="true" 
+		   HeldInOffHand="true" 
+		   ForceAttachOffHandSecondaryItemBone="true" />
+	</Item>
+
+<!-- Helmets -->
+
+<!-- End of Helmets -->
+<!-- Melee Weapons -->
+	<CraftedItem id="sturgia_axe_2_t2" name="{=hQrLHkaU}Northern Hatchet" crafting_template="OneHandedAxe" culture="Culture.sturgia">
+		<Pieces>
+			<Piece id="axe_craft_2_head" Type="Blade" scale_factor="110" />
+			<Piece id="axe_craft_2_handle" Type="Handle" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sturgia_axe_4_t4" 
+				 name="{=Qpl5aCb0}Warrior's Bearded Axe" 
+				 crafting_template="OneHandedAxe" 
+				 culture="Culture.sturgia">
+		<Pieces>
+		  <Piece id="axe_craft_23_head" 
+				 Type="Blade" 
+				 scale_factor="110" />
+		  <Piece id="axe_craft_24_handle" 
+				 Type="Handle" 
+				 scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="sturgia_axe_3_t3" name="{=Mx1MQYHl}Northern Common Axe" crafting_template="OneHandedAxe" culture="Culture.sturgia">
+		<Pieces>
+			<Piece id="axe_craft_28_head" Type="Blade" scale_factor="100" />
+			<Piece id="axe_craft_5_handle" Type="Handle" scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="northern_throwing_spear_t3" 
+				name="{=kJzIZMBR}Nord Throwing Spear" 
+				crafting_template="TwoHandedPolearm"
+				culture="Culture.sturgia">
+	<Pieces>
+	  <Piece id="spear_blade_2" 
+			 Type="Blade" 
+			 scale_factor="110" />
+	  <Piece id="spear_guard_7" 
+			 Type="Guard" 
+			 scale_factor="100" />
+	  <Piece id="spear_handle_14" 
+			 Type="Handle" 
+			 scale_factor="100" />
+	  <Piece id="default_polearm_pommel" 
+			 Type="Pommel" 
+			 scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+	
+<!--Unique Head Armor-->
+
+<!--Unique Shoulder Armor-->
+	<Item id="armoured_hood" 
+		  name="Western Mail under Hood" 
+		  culture="Culture.vlandia" 
+		  mesh="shoulder_cape_multicolor" 
+		  subtype="body_armor" 
+		  weight="2.4" 
+		  difficulty="0" 
+		  appearance="1" 
+		  Type="Cape">
+	<ItemComponent>
+		<Armor body_armor="20" 
+			   modifier_group="cloth_unarmoured" 
+			   material_type="Cloth" />
+	</ItemComponent>
+	<Flags Civilian="true" UseTeamColor="true" />
+	</Item>
+
+<!--Unique Body Armor-->
+  <Item id="vlandia_heavy_chainmail" 
+		name="{=8TbraEGR}Western Heavy Chainmail" 
+		mesh="vlandia_chainmail_a" 
+		culture="Culture.vlandia" 
+		weight="10.0" 
+		appearance="1" 
+		Type="BodyArmor"
+		value="14100">
+    <ItemComponent>
+      <Armor body_armor="70" 
+			 leg_armor="40" 
+			 arm_armor="40"  
+			 has_gender_variations="false" 
+			 covers_body="true" 
+			 modifier_group="chain" 
+			 material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+ <!-- </Unique Weapons> -->
+	<CraftedItem id="western_dagger_t1" 
+				 name="Western Dagger" 
+				 crafting_template="Dagger"
+				 culture="Culture.vlandia">
+			<Pieces>
+				<Piece id="dagger_blade_6" 
+					   Type="Blade" 
+					   scale_factor="100" />
+				<Piece id="vlandian_dagger_guard_4" 
+					   Type="Guard" 
+					   scale_factor="100" />
+				<Piece id="vlandian_grip_1" 
+					   Type="Handle" 
+					   scale_factor="100" />
+				<Piece id="vlandian_pommel_6" 
+					   Type="Pommel"
+					   scale_factor="100" />
+			</Pieces>
+	</CraftedItem>
+	<CraftedItem id="vlandia_axe_1_t4" name="{=4okauhMv}Western Sergeant Axe" crafting_template="OneHandedAxe" culture="Culture.vlandia">
+		<Pieces>
+			<Piece id="axe_craft_36_head" Type="Blade" scale_factor="90" />
+			<Piece id="axe_craft_16_handle" Type="Handle" scale_factor="90" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="western_hunting_pike"
+		name="Western Boar Pike"
+		crafting_template="TwoHandedPolearm"
+		culture="Culture.vlandia">
+		<Pieces>
+			<Piece id="spear_blade_5"
+				Type="Blade"
+				scale_factor="100" />
+			<Piece id="spear_guard_6"
+				Type="Guard"
+				scale_factor="100" />
+			<Piece id="spear_handle_26"
+				Type="Handle"
+				scale_factor="110" />
+			<Piece id="spear_pommel_12"
+				Type="Pommel"
+				scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	<CraftedItem id="western_throwing_spear_1_t2" 
+				 name="{=v3lIxLvX}Throwing Spear" 
+				 crafting_template="TwoHandedPolearm" 
+				 culture="Culture.vlandia">
+	<Pieces>
+	<Piece id="spear_blade_15" Type="Blade" scale_factor="100" />
+	<Piece id="default_polearm_guard" Type="Guard" scale_factor="100" />
+	<Piece id="spear_handle_14" Type="Handle" scale_factor="100" />
+	<Piece id="default_polearm_pommel" Type="Pommel" scale_factor="100" />
+	</Pieces>
+	</CraftedItem>
+	<CraftedItem id="vlandia_2haxe_t4" 
+				 name="{=2dJ5HB8a}Vlandian Nord Axe" 
+				 crafting_template="TwoHandedAxe" 
+				 culture="Culture.vlandia">
+		<Pieces>
+		<Piece id="axe_craft_34_head" Type="Blade" scale_factor="109" />
+		<Piece id="axe_craft_1_handle" Type="Handle" scale_factor="105" />
+	</Pieces>
+	</CraftedItem>
+  
+<!--Horse Armour Custom-->
+	<Item id="imperial_half_chain_harness" 
+		  name="{=imperial_half_chain}Imperial Half Chain Harness" 
+		  mesh="horse_harness_vlandia_b_clotest" 
+		  is_merchandise="true" 
+		  culture="Culture.empire" 
+		  subtype="body_armor" 
+		  weight="16" 
+		  difficulty="0" 
+		  appearance="1" 
+		  Type="HorseHarness">
+	<ItemComponent>
+		<Armor body_armor="50" 
+			   mane_cover_type="all" 
+			   family_type="1" 
+			   modifier_group="chain" 
+			   reins_mesh="horse_harness_imperial_b_rein" 
+			   material_type="Chainmail" />
+	</ItemComponent>
+	<Flags />
+	</Item>
+	<Item id="plain_headcloth" 
+		  name="{=Pv3YQMk1}Plain Wrapped Headcloth" 
+		  subtype="head_armor" 
+		  mesh="battania_helmet_b" 
+		  culture="Culture.battania" 
+		  weight="0.2" 
+		  difficulty="0" 
+		  appearance="1" 
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="9" 
+				   has_gender_variations="false" 
+				   hair_cover_type="all" 
+				   modifier_group="cloth_unarmoured"
+				   material_type="Cloth" />
+		</ItemComponent>
+		<Flags Civilian="true" UseTeamColor="false" />
+	</Item>
+
+<!--Fresh New Digs-->
+  <Item id="vlandia_helmet_s_ii" name="{=7dAy51ln}Flat Top Over Arming Cap" mesh="vlandia_helmet_s_ii" culture="Culture.vlandia" weight="0.9" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="vlandia_helmet_s_iii" name="{=mRGIxvYh}Flat Top Over Mail Coif" mesh="vlandia_helmet_s_iii" culture="Culture.vlandia" weight="2.6" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="70" has_gender_variations="false" hair_cover_type="all" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+	<Item id="hmj_imperial_helm_cheek_pteurges" 
+		  name="{=ZqbyJ5Pl}Mailed Roundkettle with Pteurges" 
+		  subtype="head_armor" 
+		  mesh="hmj_imperial_helm_cheek_pteurges" 
+		  culture="Culture.empire" 
+		  weight="2.8" 
+		  difficulty="0" 
+		  appearance="1" 
+		  Type="HeadArmor">
+		<ItemComponent>
+		<Armor head_armor="100" 
+			   has_gender_variations="false" 
+			   hair_cover_type="all" 
+			   modifier_group="plate" 
+			   material_type="Plate" />
+		</ItemComponent>
+		<Flags />
+	</Item>
+
+   <CraftedItem id="longseax"
+               name="{=3Pv0SlYj}Long Seax"
+               crafting_template="Dagger"
+               culture="Culture.sturgia">
+    <Pieces>
+      <Piece id="dagger_blade_3"
+             Type="Blade"
+             scale_factor="140" />
+      <Piece id="sturgian_dagger_guard_8"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="sturgian_grip_10"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="khuzait_pommel_2"
+             Type="Pommel"
+			 scale_factor="110" />
+    </Pieces>
+    </CraftedItem>
+   <CraftedItem id="broadseax"
+               name="{=2g33ffr}Broad Seax"
+               crafting_template="Dagger"
+               culture="Culture.sturgia">
+    <Pieces>
+      <Piece id="dagger_blade_2"
+             Type="Blade"
+             scale_factor="180" />
+      <Piece id="sturgian_dagger_guard_8"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_25"
+             Type="Handle"
+             scale_factor="110" />
+      <Piece id="sturgian_pommel_8"
+             Type="Pommel"
+			 scale_factor="110" />
+    </Pieces>
+    </CraftedItem>
+  <CraftedItem id="imperial_axe_t5"
+               name="{=tsaSBPKu}Heavy Tzikourion"
+               crafting_template="OneHandedAxe"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="axe_craft_29_head"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="axe_craft_16_handle"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+    </CraftedItem>
+  <CraftedItem id="imperial_axe_t6"
+               name="{=tsaSBPKu}Guard Tzikourion"
+               crafting_template="OneHandedAxe"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="axe_craft_18_head"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="axe_craft_16_handle"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+    </CraftedItem>
+   <CraftedItem id="warskene"
+               name="{=0pr10rr1}War Skene"
+               crafting_template="Dagger"
+               culture="Culture.battania">
+    <Pieces>
+      <Piece id="dagger_blade_7"
+             Type="Blade"
+             scale_factor="180" />
+      <Piece id="sturgian_dagger_guard_9"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_25"
+             Type="Handle"
+             scale_factor="110" />
+      <Piece id="sturgian_pommel_8"
+             Type="Pommel"
+			 scale_factor="110" />
+    </Pieces>
+    </CraftedItem>
+   <CraftedItem id="small_sica"
+               name="{=0pr10rr1}Small Sica"
+               crafting_template="Dagger"
+               culture="Culture.battania">
+    <Pieces>
+      <Piece id="dagger_blade_9"
+             Type="Blade"
+             scale_factor="160" />
+      <Piece id="sturgian_dagger_guard_9"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_25"
+             Type="Handle"
+             scale_factor="110" />
+      <Piece id="cleaver_pommel_3"
+             Type="Pommel"
+			 scale_factor="90" />
+    </Pieces>
+    </CraftedItem>
+   <CraftedItem id="long_makhaira"
+               name="{=fdaf3rss}Long Makhaira"
+               crafting_template="Dagger"
+               culture="Culture.aserai">
+    <Pieces>
+      <Piece id="dagger_blade_4"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="aserai_dagger_guard_7"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="empire_grip_16"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="aserai_pommel_8"
+             Type="Pommel"
+			 scale_factor="100" />
+    </Pieces>
+    </CraftedItem>
+  <CraftedItem id="peasant_club_hmj_t1"
+               name="{=tsaSBPKu}Watchman's Truncheon"
+               crafting_template="Mace"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="mace_head_6"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="mace_handle_14"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+    </CraftedItem>
+	<CraftedItem id="aserai_spear_hmj_t2"
+				  name="{=hyq1zBg5}Commoner's Bamboo Spear"
+				  crafting_template="TwoHandedPolearm"
+				  culture="Culture.aserai">
+		<Pieces>
+			<Piece id="spear_blade_9"
+				   Type="Blade"
+				   scale_factor="90" />
+			<Piece id="spear_handle_3"
+				   Type="Handle"
+				   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+  <CraftedItem id="makeshift_hmj_javelin_1_t1"
+               name="{=g45g4499}Peasant Javelins"
+               crafting_template="Javelin"
+               culture="Culture.neutral_culture"
+               modifier_group="spear_dart_throwing">
+    <Pieces>
+      <Piece id="spear_blade_9"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="90" />
+      <Piece id="spear_handle_12"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="battania_halberd_1_t5"
+               name="{=V4b2ZRTH}Lochalberd"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.battania">
+    <Pieces>
+      <Piece id="spear_blade_45"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="spear_guard_7"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_4"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="spear_pommel_5"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="vlandia_scythe_t1"
+               name="{=V4b2ZRTH}War Scythe"
+               crafting_template="TwoHandedPolearm"
+               culture="Culture.vlandia">
+    <Pieces>
+      <Piece id="spear_blade_12"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="default_polearm_guard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="spear_handle_1"
+             Type="Handle"
+             scale_factor="90" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+   <CraftedItem id="hmj_imperial_dagger"
+               name="{=fdaf3rss}Imperial Long Knife"
+               crafting_template="Dagger"
+               culture="Culture.empire">
+    <Pieces>
+      <Piece id="dagger_blade_6"
+             Type="Blade"
+             scale_factor="120" />
+      <Piece id="empire_dagger_guard_4"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="vlandian_grip_1"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="vlandian_pommel_1"
+             Type="Pommel"
+			 scale_factor="100" />
+    </Pieces>
+    </CraftedItem>
+  <CraftedItem id="peasant_wood_axe_t1"
+               name="{=bNABNs8O}Forester's Hatchet"
+               crafting_template="TwoHandedAxe"
+               culture="Culture.battania">
+    <Pieces>
+      <Piece id="axe_craft_14_head"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="axe_craft_14_handle"
+             Type="Handle"
+             scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+
+
+<!-- New Armour -->
+   <Item id="northern_lamellar_armor"
+        name="{=hXB6gvD2}Cured Leather Lamellar Vest "
+        subtype="body_armor"
+        mesh="sturgia_costume_h"
+        culture="Culture.sturgia"
+        weight="4.2"
+        difficulty="0"
+        appearance="1.6"
+        Type="BodyArmor"
+		value="15740">
+    <ItemComponent>
+      <Armor body_armor="37"
+             leg_armor="8"
+             arm_armor="9"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+   <Item id="nordic_lamellar_vest"
+        name="{=QaTkvy56}Bronze Scale Vest"
+        mesh="sturgia_costume_k"
+        culture="Culture.sturgia"
+        weight="10"
+        appearance="1.2"
+        Type="BodyArmor"
+		value="19740">
+    <ItemComponent>
+      <Armor body_armor="42"
+             leg_armor="8"
+             arm_armor="10"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+   <Item id="leather_strips_over_padded_robe"
+        name="{=iVataLxL}Leather Strips over Padded Robe"
+        lod_atlas_index="9"
+        subtype="body_armor"
+        mesh="sarranid_gambeson_v1"
+        culture="Culture.aserai"
+        weight="14"
+        difficulty="0"
+        appearance="4"
+        Type="BodyArmor"
+		value="5400">
+    <ItemComponent>
+      <Armor body_armor="32"
+             leg_armor="28"
+             arm_armor="10"
+             has_gender_variations="false"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+	<Item id="legionary_mail" 
+		  name="{=PTKyNh2O}Legionary Mail" 
+		  mesh="empire_armor_b" 
+		  culture="Culture.empire" 
+		  weight="10.5" 
+		  Type="BodyArmor" 
+		  value="20800" 
+		  appearance="1.3" 
+		  difficulty="0" 
+		  subtype="body_armor">
+		<ItemComponent>
+			<Armor body_armor="45" 
+				   leg_armor="45" 
+				   covers_body="true" 
+				   modifier_group="chain" 
+				   material_type="Chainmail" 
+				   arm_armor="45"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="nordic_lamellar_armor" 
+		  name="{=uHIVkxVt}Northern Bronze Scale Vest Over Gambeson" 
+		  mesh="sturgia_costume_i" 
+		  culture="Culture.sturgia" 
+		  weight="15" 
+		  Type="BodyArmor" 
+		  value="20250" 
+		  appearance="1.3" 
+		  difficulty="0" 
+		  subtype="body_armor">
+		<ItemComponent>
+			<Armor body_armor="55" 
+				   leg_armor="24" 
+				   covers_body="true" 
+				   modifier_group="plate" 
+				   material_type="Plate" 
+				   has_gender_variations="true" 
+				   arm_armor="41"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+
+ <!-- ADamnSexyName Stuff -->
+  <Item id="vlandian_helm_with_faceplate" name="Western Full Plate Helmet" subtype="head_armor" mesh="vlandian_helm_with_faceplate" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="25300" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+  
+	<Item id="vlandian_helm_with_faceplate_blackend_brass" 
+		  name="Western Ornate Full Plate Helmet" 
+		  subtype="head_armor" 
+		  mesh="vlandian_helm_with_faceplate_black" 
+		  culture="Culture.vlandia" 
+		  weight="4" 
+		  difficulty="0" 
+		  appearance="1" 
+		  value="26300" 
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="160" 
+				   has_gender_variations="false" 
+				   hair_cover_type="all" 
+				   modifier_group="plate" 
+				   material_type="Plate" 
+				   beard_cover_type="all" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />	
+	</Item>
+  
+  <Item id="vlandian_helm_with_faceplate_brass" name="Western Ornate Full Plate Helmet" subtype="head_armor" mesh="vlandian_helm_with_faceplate_brass" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="26300" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+  
+  <Item id="vlandian_helm_with_faceplate_painted" name="Western Painted Full Plate Helmet" subtype="head_armor" mesh="vlandian_helm_with_faceplate_paint" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="26300" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+
+  <Item id="italio_norman_helm_crown" name="Western Crowned Helmet with Faceplate" subtype="head_armor" mesh="italio_norman_helm_crown" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="25700" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="158" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+  <Item id="italio_norman_helm_bronze" name="Western Helm With brass Faceplate" subtype="head_armor" mesh="italio_norman_helm_bronze" culture="Culture.vlandia" weight="3.5" difficulty="0" appearance="1" value="25200" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="158" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+<Item id="italio_norman_helm" name="Western Helm With Faceplate" subtype="head_armor" mesh="italio_norman_helm" culture="Culture.vlandia" weight="3.5" difficulty="0" appearance="1" value="25200" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="158" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+ 
+  <Item id="crowned_helm_with_brass_faceplate" name="Crowned Helm With Brass Faceplate" subtype="head_armor" mesh="crowned_helm_with_brass_faceplate" culture="Culture.vlandia" weight="3.7" difficulty="0" appearance="1" value="24100" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="156" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />	
+  </Item> 
+  
+  <Item id="crowned_helm_with_faceplate" name="Crowned Helm With Faceplate" subtype="head_armor" mesh="crowned_helm_with_faceplate" culture="Culture.vlandia" weight="3.7" difficulty="0" appearance="1" value="24100" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="156" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>  
+  
+  <Item id="fluted_helm_with_brass_faceplate" name="Fluted Helm With Brass Faceplate" subtype="head_armor" mesh="fluted_helm_with_brass_faceplate" culture="Culture.vlandia" weight="3.4" value="23500" difficulty="0" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="155" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>  
+  
+  <Item id="fluted_helm_with_faceplate" name="Fluted Helm With Faceplate" subtype="head_armor" mesh="fluted_helm_with_faceplate" culture="Culture.vlandia" weight="3.4" difficulty="0" value="23500" appearance="1" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="155" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+  <Item id="Western_chain_shoulders" name="Western chain shoulders" mesh="chain_shoulders" is_merchandise="true" value="4000" culture="Culture.vlandia" weight="3.5" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="34" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+ </Item>
+
+ <Item id="mail_with_tabbard1" name="Mail With Surcoat" mesh="mail_with_tabbard1" is_merchandise="true" subtype="body_armor" value="24000" culture="Culture.vlandia" weight="9.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50" leg_armor="40" arm_armor="58" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+    
+  <Item id="mail_with_tabbard2" name="Mail With Surcoat" mesh="mail_with_tabbard2" is_merchandise="true" subtype="body_armor" value="24000" culture="Culture.vlandia" weight="9.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+       <Armor body_armor="50" leg_armor="40" arm_armor="58" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+  <Item id="mail_with_tabbard3" name="Mail With Surcoat" mesh="mail_with_tabbard3" is_merchandise="true" subtype="body_armor" value="24000" culture="Culture.vlandia" weight="9.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+    <Armor body_armor="50" leg_armor="40" arm_armor="58" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+  <Item id="mail_with_tabbard4" name="Mail With Surcoat" mesh="mail_with_tabbard4" is_merchandise="true" subtype="body_armor" value="24000" culture="Culture.vlandia" weight="9.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+       <Armor body_armor="50" leg_armor="40" arm_armor="58" covers_body="true" modifier_group="Chainmail" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+  
+  <Item id="engraved_swadian_shoulders" name="Western Ornate Shoulder Plates" mesh="engraved_swadian_shoulders" is_merchandise="true" value="9000" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="48" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+  <Item id="swadian_shoulders" name="Western Shoulder Plates" mesh="swadian_shoulders" value="8000" culture="Culture.vlandia" weight="3.6" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="48" arm_armor="0" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+  <Item id="coat_of_plates1_c" name="coat of plates" mesh="coat_of_plates1_c" is_merchandise="true" subtype="body_armor" culture="Culture.vlandia" value="44450" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="95" leg_armor="60" arm_armor="90" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+  <Item id="coat_of_plates2_c" name="coat of plates royal pattern" mesh="coat_of_plates2_c" is_merchandise="true" subtype="body_armor"  value="44450" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="95" leg_armor="60" arm_armor="90" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="coat_of_plates3_c" name="coat of plates lys pattern" mesh="coat_of_plates3_c" is_merchandise="true" subtype="body_armor" value="44450" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="95" leg_armor="60" arm_armor="90" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="coat_of_plates4_c" name="coat of plates checker pattern" mesh="coat_of_plates4_c" is_merchandise="true" subtype="body_armor" value="44450" culture="Culture.vlandia" weight="25.11" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="95" leg_armor="60" arm_armor="90" covers_body="true" modifier_group="chain" material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+   <Item id="swadian_brass_plate_armor" name="Western Brass Plate Armor" mesh="swadian_brass_plate_armor" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="150" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="swadian_leather_plate_armor" name="Western Leather Plate Armor" mesh="swadian_leather_plate_armor" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="150" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+      <Item id="swadian_plate_armor" name="Western Plate Armor" mesh="swadian_plate_armor" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="150" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item> 
+   <Item id="swadian_striped_plate_armor" name="Western Plate Armor" mesh="swadian_striped_plate_armor" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.vlandia" weight="29" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="150" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+    <Item id="swadian_plate_with_armguards" name="Western Cuirass With Armguards" mesh="swadian_plate_with_armguards" is_merchandise="true" subtype="body_armor" value="85000" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="110" arm_armor="100" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+   <Item id="swadian_leather_plate_with_armguards" name="Western Leather Plate Armor With Armguards" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" value="85000" culture="Culture.vlandia" weight="26.5" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="110" arm_armor="100" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+     
+	 
+    <Item id="swadian_striped_cuirass" name="Western Cuirass" mesh="swadian_striped_cuirass" is_merchandise="true" subtype="body_armor" value="78000" culture="Culture.vlandia" weight="25" difficulty="1" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="100" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="swadian_cuirass" name="Western Cuirass" mesh="swadian_leather_plate_with_armguards" is_merchandise="true" subtype="body_armor" value="78000" culture="Culture.vlandia" weight="25" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="170" leg_armor="150" arm_armor="100" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+  
+  
+  <Item id="great_helm_base" name="Great Helmet" subtype="head_armor" mesh="great_helm_base" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  	 <Item id="winged_great_helm_base" name="Winged Great Helmet" subtype="head_armor" mesh="winged_great_helm_base" culture="Culture.vlandia" weight="4.8" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  <Item id="great_helm_brass" name="Brass Great Helmet" subtype="head_armor" mesh="great_helm_brass" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  <Item id="winged_great_helm_brass" name="Winged  Great Helmet" subtype="head_armor" mesh="winged_great_helm_brass" culture="Culture.vlandia" weight="4.8" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+   <Item id="great_helm_dark" name="Blackened Great Helmet" subtype="head_armor" mesh="great_helm_dark" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+   <Item id="winged_great_helm_dark" name="Winged Blackened Great Helmet" subtype="head_armor" mesh="winged_great_helm_dark" culture="Culture.vlandia" weight="4.8" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+    <Item id="royal_great_helm" name="Ornate Great Helmet" subtype="head_armor" mesh="royal_great_helm" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+      <Item id="royal_great_helm_brass" name="Ornate Brass Great Helmet" subtype="head_armor" mesh="royal_great_helm_brass" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+
+ 
+      <Item id="sallet_base" name="Western Sallet" subtype="head_armor" mesh="sallet_base" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="190" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+      <Item id="sallet_crowned" name="Western Crowned Sallet" subtype="head_armor" mesh="sallet_crowned" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="55000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="190" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>  
+      <Item id="sallet_wings" name="Western Winged Sallet" subtype="head_armor" mesh="sallet_winged" culture="Culture.vlandia" weight="4.6" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="190" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+  
+  
+    <Item id="pigface_bascinet" name="Western Bascinet" subtype="head_armor" mesh="pigface_bascinet" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="58000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+    <Item id="pigface_bascinet_feather" name="Western Bascinet with Plumes" subtype="head_armor" mesh="pigface_bascinet_feather" culture="Culture.vlandia" weight="4.6" difficulty="0" appearance="1" value="58000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item> 
+  <Item id="pigface_bascinet_tail" name="Western Bascinet with mane" subtype="head_armor" mesh="pigface_bascinet_tail" culture="Culture.vlandia" weight="4.6" difficulty="0" appearance="1" value="58000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+ 
+   <Item id="vlandian_helm_with_visor" name="Western Helmet With Visor" subtype="head_armor" mesh="vlandian_helm_with_visor" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />	
+  </Item>   
+      <Item id="engraved_vlandian_helm_with_visor" name="Ornate Western Helmet With Visor" subtype="head_armor" mesh="engraved_vlandian_helm_with_visor" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />	
+  </Item>
+    <Item id="crowned_royal_vlandian_helm_with_visor" name="Ornate Western Helmet With Visor" subtype="head_armor" mesh="crowned_royal_vlandian_helm_with_visor" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />	
+  </Item>  
+  
+   <Item id="crowned_vlandian_helm_with_visor" name="Crowned Western Helmet With Visor" subtype="head_armor" mesh="crowned_vlandian_helm_with_visor" culture="Culture.vlandia" weight="4" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags Civilian="true" />	
+  </Item>
+	
+	
+	
+	
+	<Item id="great_prankh_helm" name="Round Top Great Helmet" subtype="head_armor" mesh="great_prankh_helm" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="60000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>	
+	    <Flags UseTeamColor="false" />
+  </Item>
+  
+  <Item id="great_prankh_helm_crest" name="Round Top Great Helmet with crest" subtype="head_armor" mesh="great_prankh_helm_crest" culture="Culture.vlandia" weight="5" difficulty="0" appearance="1" value="65000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+	
+ 
+  <Item id="great_prankh_helm_winged" name="Round Top Great Helmet with wings" subtype="head_armor" mesh="great_prankh_helm_winged" culture="Culture.vlandia" weight="5" difficulty="0" appearance="1" value="62000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+   <Item id="great_prankh_helm_horns" name="Round Top Great Helmet with horns" subtype="head_armor" mesh="great_prankh_helm_horns" culture="Culture.vlandia" weight="5" difficulty="0" appearance="1" value="62000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  
+     <Item id="great_prankh_helm_royal" name="Royal Round Top Great Helmet" subtype="head_armor" mesh="great_prankh_helm_royal" culture="Culture.vlandia" weight="5" difficulty="0" appearance="1" value="65000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="160" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+	
+	
+
+   <Item id="Pothelm" name="Roundtop Full Helm" subtype="head_armor" mesh="pothelm" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="150" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+    
+   <Item id="Pothelm2" name="Painted Roundtop Full Helm" subtype="head_armor" mesh="pothelm2" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="35000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="150" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  
+ <Item id="Sugarloaf_helm" name="Banded Sugarloaf Greathelm" subtype="head_armor" mesh="sugarloaf_helm" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="47000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+  <Item id="Sugarloaf_helm2" name="Banded Sugarloaf Greathelm" subtype="head_armor" mesh="sugarloaf_helm2" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="47000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />	
+  </Item>
+   <Item id="Sugarloaf_helm3" name="Sugarloaf Greathelm" subtype="head_armor" mesh="sugarloaf_helm3" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="47000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+     <Item id="Sugarloaf_helm4" name="Sugarloaf Greathelm" subtype="head_armor" mesh="sugarloaf_helm4" culture="Culture.vlandia" weight="4.2" difficulty="0" appearance="1" value="47000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="170" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+  
+   <Item id="plate_boots" name="Plate Boots" mesh="plateboot" culture="Culture.vlandia" weight="1.8" difficulty="0" appearance="1" value="30000" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="100" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+     <Item id="plate_boots2" name="Brass Plate Boots" mesh="plateboot2" culture="Culture.vlandia" weight="1.8" difficulty="0" appearance="1" value="35000" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="100" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+       <Item id="sa_bacinet_with_facemask" name="bacinet with facemask" subtype="head_armor" mesh="sa_bacinet_with_facemask" culture="Culture.vlandia" weight="4.5" difficulty="0" appearance="1" value="40000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="180" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />	
+  </Item>
+  
+     <Item id="Rus_helm_icon" name="Vaegir Decorated Helmet" subtype="head_armor" mesh="rus_helm_icon" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="60000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="140" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+    <Item id="Rus_helm_noble" name="Vaegir Noble Helmet" subtype="head_armor" mesh="rus_helm_noble" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="55000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="140" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+
+    <Item id="Rus_helm_noble_icon" name="Vaegir Decorated Noble Helmet" subtype="head_armor" mesh="rus_helm_noble_icon" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="65000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="140" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+  
+    <Item id="Rus_helm_regular" name="Vaegir Helmet" subtype="head_armor" mesh="rus_helm_regular" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="140" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+     <Item id="Rus_helm_regular2" name="Vaegir Helmet" subtype="head_armor" mesh="rus_helm_regular2" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="50000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="140" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+     <Item id="Rus_open_helm" name="Vaegir Helmet" subtype="head_armor" mesh="rus_open_helm" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="45000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+ 
+    <Item id="Vaegir_helm" name="War Mask" subtype="head_armor" mesh="vaegir_helm" culture="Culture.sturgia" weight="4" difficulty="0" appearance="1" value="65000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="150" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+   <Item id="Vaegir_helm_open" name="War helmet" subtype="head_armor" mesh="vaegir_helm_open" culture="Culture.sturgia" weight="3.5" difficulty="0" appearance="1" value="65000" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="150" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+    </ItemComponent>
+    <Flags UseTeamColor="false" />
+  </Item>
+ 
+ 
+  <Item id="Rus_armour" name="Vaegir coat of plates" mesh="Rus_armour" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="140" leg_armor="120" arm_armor="120" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item> 
+  <Item id="Rus_armour1" name="Vaegir coat of plates" mesh="Rus_armour1" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="140" leg_armor="120" arm_armor="120" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item> 
+    <Item id="Rus_armour2" name="Vaegir coat of plates" mesh="Rus_armour2" is_merchandise="true" subtype="body_armor" value="100000" culture="Culture.sturgia" weight="24" difficulty="0" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="140" leg_armor="120" arm_armor="120" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item> 
+</Items>
