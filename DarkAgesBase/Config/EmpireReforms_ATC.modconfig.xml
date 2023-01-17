@@ -744,18 +744,6 @@
 			</eliteTroops>
 		</Culture>
 	</Clan>
-	<Clan id="exploratores_nahasae">
-		<Culture id="default">
-			<basicTroops>
-				<volunteer id="AR_min_exploratores_t3" percent="50"/>
-				<volunteer id="AR_min_exploratores_t4_camel" percent="25"/>
-				<volunteer id="AR_min_exploratores_t4_cav" percent="25"/>
-			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_min_exploratores_t5_cav" percent="50"/>
-			</eliteTroops>
-		</Culture>
-	</Clan>
 	<Clan id="diamonds">
 		<Culture id="default">
 			<basicTroops>

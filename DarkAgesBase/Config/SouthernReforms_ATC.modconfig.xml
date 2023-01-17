@@ -764,6 +764,19 @@
 		</Culture>
 	</MapFaction>
 	<!-- MINOR FACTIONS -->
+	<Clan id="khuzopole">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="khuzopole_hmj_hat2" percent="60"/>
+				<volunteer id="khuzopole_hmj_ct3" percent="30"/>
+				<volunteer id="khuzopole_hmj_ct4" percent="10"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+				<volunteer id="khuzopole_hmj_hat4" percent="70"/>
+				<volunteer id="khuzopole_hmj_ct5" percent="30"/>
+			</eliteTroops>
+		</Culture>
+	</Clan>
 	<Clan id="ethawians">
 		<Culture id="default">
 			<basicTroops>
