@@ -378,8 +378,12 @@
 			<tag tag_name="KhuzaitTag"/>
 		</tags>
 	</string>
-	<string id="str_comment_special_clan_intro_diamonds.default" text="{=QpBmbygb}Know of the Diamond Guild? Then maybe you've heard that the Empire rid of us because were too warlike. Rubbish- everyone knows they cast us out because we were winning all their wars for them and making their legions look weak. So don't try anything rash.
-">
+	<string id="str_comment_special_clan_intro_diamonds.default" text="{=QpBmbygb}Know of the Diamond Guild? Then maybe you've heard that the Empire rid of us because were too warlike. Rubbish- everyone knows they cast us out because we were winning all their wars for them and making their legions look weak. So don't try anything rash.">
+		<tags>
+		<tag tag_name="DefaultTag" />
+		</tags>
+	</string>
+	<string id="str_comment_special_clan_intro_khuzopole.default" text="{=ge3FF3dd}I'm tired of explaining ourselves to strangers, so I'll tell you this much. It doesn't matter if we're Khuzait, Aserai, Calradian or- heavens forbid, Vlandian- we can ride as well as any nomad! I'll be happy to demonstrate if you don't believe me.">
 		<tags>
 		<tag tag_name="DefaultTag" />
 		</tags>

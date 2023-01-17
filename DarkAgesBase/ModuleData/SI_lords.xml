@@ -4487,8 +4487,8 @@
 			<EquipmentSet id="ase_civ_template_bedouin" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<!-- exploratores nahasae -->
-	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_0" name="of the Nahasa" age="52" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
+	<!-- khuzopoliers -->
+	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_0" name="the Khuzopolier" age="52" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -4498,15 +4498,15 @@
 			<Trait id="Mercy" value="-1"/>
 			<Trait id="Calculating" value="1"/>
 			<Trait id="Commander" value="6"/>
-			<Trait id="BalancedFightingSkills" value="5"/>
-			<Trait id="KnightFightingSkills" value="3"/>
+			<Trait id="BalancedFightingSkills" value="8"/>
+			<Trait id="HorseArcherFightingSkills" value="5"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="emp_bat_template_southfrontier"/>
+			<EquipmentSet id="hmj_spc_khuzopole_leaders"/>
 			<EquipmentSet id="emp_civ_template_flamboyant" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_1" name="of the Nahasa" age="28" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
+	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_1" name="the Khuzopolier" age="28" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -4518,14 +4518,14 @@
 			<Trait id="Calculating" value="-1"/>
 			<Trait id="Commander" value="6"/>
 			<Trait id="BalancedFightingSkills" value="4"/>
-			<Trait id="KnightFightingSkills" value="2"/>
+			<Trait id="HorseArcherFightingSkills" value="2"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="emp_bat_template_southfrontier"/>
+			<EquipmentSet id="hmj_spc_khuzopole_leaders"/>
 			<EquipmentSet id="emp_civ_template_flamboyant" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_2" name="of the Nahasa" voice="softspoken" age="22" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
+	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_2" name="the Khuzopolier" voice="softspoken" age="22" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -4534,14 +4534,14 @@
 			<Trait id="Calculating" value="1"/>
 			<Trait id="Commander" value="6"/>
 			<Trait id="BalancedFightingSkills" value="4"/>
-			<Trait id="KnightFightingSkills" value="2"/>
+			<Trait id="HorseArcherFightingSkills" value="2"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="emp_bat_template_southfrontier"/>
+			<EquipmentSet id="hmj_spc_khuzopole_leaders"/>
 			<EquipmentSet id="emp_civ_template_flamboyant" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_3" name="of the Nahasa" voice="softspoken" is_template="true" age="35" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
+	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_3" name="the Khuzopolier" voice="softspoken" is_template="true" age="35" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
 			<face_key_template value="BodyProperty.fighter_kannic"/>
 		</face>
@@ -4551,11 +4551,11 @@
 			<Trait id="Honor" value="1"/>
 			<Trait id="Calculating" value="-1"/>
 			<Trait id="Commander" value="6"/>
-			<Trait id="BalancedFightingSkills" value="4"/>
-			<Trait id="KnightFightingSkills" value="2"/>
+			<Trait id="BalancedFightingSkills" value="2"/>
+			<Trait id="HorseArcherFightingSkills" value="6"/>
 		</Traits>
 		<Equipments>
-			<EquipmentSet id="emp_bat_template_southfrontier"/>
+			<EquipmentSet id="hmj_spc_khuzopole_leaders"/>
 			<EquipmentSet id="emp_civ_template_flamboyant" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>

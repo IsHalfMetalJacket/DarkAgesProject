@@ -1456,13 +1456,13 @@
 			<PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.AR_min_ethawian_t4_skirmisher"/>
 		</stacks>
 	</MBPartyTemplate>
-	<MBPartyTemplate id="party_template_exploratores_nahasae">
+	<MBPartyTemplate id="party_template_khuzopole">
 		<stacks>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_min_exploratores_t5_cav"/>
-			<PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.AR_min_exploratores_t4_cav"/>
-			<PartyTemplateStack min_value="20" max_value="20" troop="NPCCharacter.AR_min_exploratores_t3"/>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_min_exploratores_t5_camel"/>
-			<PartyTemplateStack min_value="12" max_value="12" troop="NPCCharacter.AR_min_exploratores_t4_camel"/>
+			<PartyTemplateStack min_value="20" max_value="20" troop="NPCCharacter.khuzopole_hmj_hat2"/>
+			<PartyTemplateStack min_value="16" max_value="16" troop="NPCCharacter.khuzopole_hmj_ct3"/>
+			<PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.khuzopole_hmj_hat4"/>
+			<PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.khuzopole_hmj_ct4"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.khuzopole_hmj_ct5"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="party_template_aracathans">

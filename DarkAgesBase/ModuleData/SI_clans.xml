@@ -757,7 +757,7 @@
 			<template id="NPCCharacter.AR_spc_ethawians_leader_3"/>
 		</minor_faction_character_templates>
 	</Faction>
-	<Faction id="exploratores_nahasae"
+	<Faction id="khuzopole"
 	         initial_posX="692.0"
 	         initial_posY="217.0"
 	         banner_key="29.125.142.1500.1500.764.764.0.0.90.504.2.2.1357.1357.380.764.0.1.270.504.2.2.1357.1357.1148.764.0.0.90.152.112.112.167.167.589.749.1.0.0.152.35.35.167.167.589.749.0.0.0.152.112.112.167.167.938.749.1.1.0.152.35.35.167.167.938.749.0.1.0"
@@ -767,15 +767,14 @@
 	         alternative_color="FF965228"
 	         alternative_color2="FF4F2212"
 	         culture="Culture.shariz"
-	         default_party_template="PartyTemplate.party_template_exploratores_nahasae"
+	         default_party_template="PartyTemplate.party_template_khuzopole"
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
-	         is_nomad="true"
-	         is_outlaw="true"
-	         name="Tattered Sons"
-	         short_name="Tattered"
+	         is_clan_type_mercenary="true"
+	         name="Khuzopoles"
+	         short_name="Khuzopole"
 	         tier="4"
-	         text="Based on the Catalan Company and similar Almogavars">
+	         text="The Khuzopoles, (literally Sons of Khuzaits) can hardly be called Khuzait anymore. Originally a term given to steppe auxiliary troops in service of the Empire, they have since grown to encompass Aserai horsemen and Calradian wildmen. Having found themselves employed in Vlandian forces, a Khuzopole could even be of Vlandian blood. But regardless of their ancestry, none can deny their equestrian talent. Indeed, Khuzait or not, they may as well have been born on the saddle.">
 		<minor_faction_character_templates>
 			<template id="NPCCharacter.AR_spc_exploratores_nahasae_leader_0"/>
 			<template id="NPCCharacter.AR_spc_exploratores_nahasae_leader_1"/>
