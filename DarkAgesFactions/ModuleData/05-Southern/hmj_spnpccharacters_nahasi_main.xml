@@ -1378,6 +1378,216 @@
 		</NPCCharacter>
 
 	<!-- #region Nahasi Noble Roster -->
+		<!-- #region Nahasi Aqaytat Archer Line -->
+		<NPCCharacter id="nahasi_hmj_nrt3"
+			default_group="Ranged"
+			level="16"
+			name="{=Nahasi Aqaytat Archer}Nahasi Aqaytat Archer"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nahasi">
+			<face>
+				<face_key_template value="BodyProperty.fighter_spahad"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="60"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="20"/>
+				<skill id="TwoHanded" value="20"/>
+				<skill id="Polearm" value="20"/>
+				<skill id="Bow" value="60"/>
+				<skill id="Crossbow" value="20"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nahasi_hmj_nrt4"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.AR_imperial_axe_t2"/>
+					<equipment slot="Item2" id="Item.range_arrows"/>
+					<equipment slot="Item3" id="Item.range_arrows"/>
+					<equipment slot="Head" id="Item.ao_mabili_leather_headband"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.empire_warrior_padded_armor_a"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.AR_imperial_axe_t2"/>
+					<equipment slot="Item2" id="Item.range_arrows"/>
+					<equipment slot="Item3" id="Item.range_arrows"/>
+					<equipment slot="Head" id="Item.desert_cap"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.empire_warrior_padded_armor_e"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.AR_imperial_axe_t2"/>
+					<equipment slot="Item2" id="Item.range_arrows"/>
+					<equipment slot="Item3" id="Item.range_arrows"/>
+					<equipment slot="Head" id="Item.wrapped_headcloth"/>
+					<equipment slot="Body" id="Item.AR_aserai_armor_p"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.AR_imperial_axe_t2"/>
+					<equipment slot="Item2" id="Item.range_arrows"/>
+					<equipment slot="Item3" id="Item.range_arrows"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.short_padded_robe"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="aserai_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nahasi_hmj_nrt4"
+			default_group="Ranged"
+			level="16"
+			name="{=Nahasi Chosen Archer}Nahasi Chosen Archer"
+			occupation="Soldier"
+			culture="Culture.nahasi">
+			<face>
+				<face_key_template value="BodyProperty.fighter_spahad"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="110"/>
+				<skill id="Riding" value="20"/>
+				<skill id="OneHanded" value="60"/>
+				<skill id="TwoHanded" value="40"/>
+				<skill id="Polearm" value="40"/>
+				<skill id="Bow" value="130"/>
+				<skill id="Crossbow" value="40"/>
+				<skill id="Throwing" value="40"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nahasi_hmj_nrt5"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.lowland_longbow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t3"/>
+					<equipment slot="Item2" id="Item.steppe_arrows"/>
+					<equipment slot="Item3" id="Item.steppe_arrows"/>
+					<equipment slot="Head" id="Item.ao_imperial_pointed_helmet_with_leather"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.empire_warrior_padded_armor_f"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.lowland_longbow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t3"/>
+					<equipment slot="Item2" id="Item.steppe_arrows"/>
+					<equipment slot="Item3" id="Item.steppe_arrows"/>
+					<equipment slot="Head" id="Item.loose_wrapped_desert_helmet"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.empire_warrior_padded_armor_c"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.lowland_longbow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t3"/>
+					<equipment slot="Item2" id="Item.steppe_arrows"/>
+					<equipment slot="Item3" id="Item.steppe_arrows"/>
+					<equipment slot="Head" id="Item.trailed_desert_helmet"/>
+					<equipment slot="Body" id="Item.AR_aserai_armor_p"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.lowland_longbow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t3"/>
+					<equipment slot="Item2" id="Item.steppe_arrows"/>
+					<equipment slot="Item3" id="Item.steppe_arrows"/>
+					<equipment slot="Head" id="Item.loose_wrapped_desert_helmet"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.long_padded_robe"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="aserai_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nahasi_hmj_nrt5"
+			default_group="Ranged"
+			level="26"
+			name="{=Nahasi Royal Sharpshooter}Nahasi Royal Sharpshooter"
+			occupation="Soldier"
+			culture="Culture.nahasi">
+			<face>
+				<face_key_template value="BodyProperty.fighter_spahad"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="240"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="80"/>
+				<skill id="TwoHanded" value="80"/>
+				<skill id="Polearm" value="80"/>
+				<skill id="Bow" value="240"/>
+				<skill id="Crossbow" value="80"/>
+				<skill id="Throwing" value="80"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.nomad_bow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t5"/>
+					<equipment slot="Item2" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Item3" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Head" id="Item.AR_aserai_helmet_k"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.ao_imperial_lamellar_vest"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.nomad_bow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t5"/>
+					<equipment slot="Item2" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Item3" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Head" id="Item.AR_aserai_helmet_l"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.TV_empire_armor_l"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.nomad_bow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t5"/>
+					<equipment slot="Item2" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Item3" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Head" id="Item.AR_aserai_helmet_k2"/>
+					<equipment slot="Cape" id="Item.ao_focale"/>
+					<equipment slot="Body" id="Item.ao_imperial_lamellar_vest_b"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.nomad_bow"/>
+					<equipment slot="Item1" id="Item.imperial_axe_t5"/>
+					<equipment slot="Item2" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Item3" id="Item.GRE_heavy_steppe_arrows"/>
+					<equipment slot="Head" id="Item.AR_aserai_helmet_l2"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.TV_empire_armor_l2"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentSet id="aserai_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
 		<!-- #region Nahasi Knight Line -->
 		<NPCCharacter id="nahasi_hmj_nct4"
 			default_group="Cavalry"
