@@ -590,7 +590,7 @@
 	<Hero id="hmj_lord_11_10" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
 	<Hero id="hmj_lord_11_11" spouse="Hero.hmj_lord_11_8" faction="Faction.clan_massa_2"/>
 	<!-- SPAHAD - Banu Spahan -->
-	<Hero id="AR_lord_12_1" spouse="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1" text="Nuldan is the current Shah of the Spahad Satrapy. A proven commander, known for fighting at the head of his armies, he has led the Spahadi to great victories over the Aserai and Calradian Empire, ensuring the protection of his foothold in the Nahasa. Though he recognizes the authority of the Padishah, he knows that to maintain his own power, he must be every bit the stalwart monarch."/>
+	<Hero id="AR_lord_12_1" spouse="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1" text="Athenais of Clan Amensios is the current queen of the Nahasi. Intelligent and charismatic, many saw her potential as a great peace time ruler. But with the death of her father Ashabios, wars still raging on and no other heir, Athenais is now regent. Though she lacks her father's might and experience, she was quick to establish her authority- with help from her father's generals. Still, her people remain unclear about her direction for the kingdom- whether that is with the Empire or without."/>
 	<Hero id="AR_lord_12_2" spouse="Hero.AR_lord_12_1" faction="Faction.clan_spahad_1"/>
 	<Hero id="AR_lord_12_3" spouse="Hero.AR_lord_12_4" father="Hero.AR_lord_12_1" mother="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1"/>
 	<Hero id="AR_lord_12_4" spouse="Hero.AR_lord_12_3" faction="Faction.clan_spahad_1"/>

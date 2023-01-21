@@ -2215,9 +2215,9 @@
 			<EquipmentSet id="vla_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_12_1" name="Nuldan" voice="ironic" age="48" default_group="Cavalry" is_hero="true" culture="Culture.nahasi" occupation="Lord">
+	<NPCCharacter id="AR_lord_12_1" name="Athenais" voice="softspoken" age="21" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.nahasi" occupation="Lord">
 		<face>
-			<BodyProperties version="4" age="48" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
+			<BodyProperties version="4" age="21" weight="0.5" build="0.5" key="003FF40FC0B40A593888B78E7777187656FA7BCBE044FFAF8FFFE6EE8001677A0067760306F3E7F722246678787787F70000000000001577000000002ECC4043"/>
 		</face>
 		<skills/>
 		<Traits>
@@ -4490,7 +4490,7 @@
 	<!-- khuzopoliers -->
 	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_0" name="the Khuzopolier" age="52" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_kannic"/>
+			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
 		<skills/>
 		<Traits>
@@ -4508,7 +4508,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_1" name="the Khuzopolier" age="28" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_kannic"/>
+			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
 		<skills/>
 		<Traits>
@@ -4527,7 +4527,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_2" name="the Khuzopolier" voice="softspoken" age="22" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_kannic"/>
+			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
 		<skills/>
 		<Traits>
@@ -4543,7 +4543,7 @@
 	</NPCCharacter>
 	<NPCCharacter id="AR_spc_exploratores_nahasae_leader_3" name="the Khuzopolier" voice="softspoken" is_template="true" age="35" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.shariz" occupation="Lord">
 		<face>
-			<face_key_template value="BodyProperty.fighter_kannic"/>
+			<face_key_template value="BodyProperty.fighter_empire"/>
 		</face>
 		<skills/>
 		<Traits>
