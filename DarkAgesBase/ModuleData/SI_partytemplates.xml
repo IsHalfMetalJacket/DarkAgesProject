@@ -43,32 +43,27 @@
 	</MBPartyTemplate>
 	<MBPartyTemplate id="caravan_template_aserai">
 		<stacks>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_ase_armed_trader"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_ase_caravan_guard"/>
-			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_ase_vet_caravan_guard"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.aserai_hmj_mst3"/>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.aserai_hmj_tt3"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.aserai_hmj_cgt3"/>
+			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.aserai_hmj_cgt4"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_villager_aserai"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_aserai"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="elite_caravan_template_aserai">
 		<stacks>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_ase_armed_trader"/>
-			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.AR_ase_caravan_guard"/>
-			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_ase_vet_caravan_guard"/>
-			<PartyTemplateStack min_value="2" max_value="2" troop="NPCCharacter.AR_ase_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.aserai_hmj_mst3"/>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.aserai_hmj_tt3"/>
+			<PartyTemplateStack min_value="7" max_value="7" troop="NPCCharacter.aserai_hmj_cgt3"/>
+			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.aserai_hmj_cgt4"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_villager_aserai"/>
 			<PartyTemplateStack min_value="8" max_value="8" troop="NPCCharacter.AR_camp_follower_aserai"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="char_creation_caravan_template_aserai">
 		<stacks>
-			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AR_ase_armed_trader"/>
-			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.AR_ase_caravan_guard"/>
-			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.AR_ase_vet_caravan_guard"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.AR_ase_caravan_master"/>
-			<PartyTemplateStack min_value="6" max_value="6" troop="NPCCharacter.aserai_hmj_mst3"/>
+			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.aserai_hmj_tt3"/>
+			<PartyTemplateStack min_value="5" max_value="5" troop="NPCCharacter.aserai_hmj_cgt3"/>
+			<PartyTemplateStack min_value="4" max_value="4" troop="NPCCharacter.aserai_hmj_cgt4"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_villager_aserai"/>
 			<PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.AR_camp_follower_aserai"/>
 		</stacks>
@@ -1496,16 +1491,16 @@
 	</MBPartyTemplate>
 	<MBPartyTemplate id="looters_template">
 		<stacks>
-			<PartyTemplateStack min_value="8" max_value="42" troop="NPCCharacter.looter_hmj_it1"/>
-			<PartyTemplateStack min_value="4" max_value="12" troop="NPCCharacter.looter_hmj_it3"/>
-			<PartyTemplateStack min_value="1" max_value="3" troop="NPCCharacter.looter_hmj_it4"/>
+			<PartyTemplateStack min_value="4" max_value="24" troop="NPCCharacter.looter_hmj_it1"/>
+			<PartyTemplateStack min_value="2" max_value="8" troop="NPCCharacter.looter_hmj_it3"/>
+			<PartyTemplateStack min_value="0" max_value="4" troop="NPCCharacter.looter_hmj_it4"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="slavers_template">
 		<stacks>
 			<PartyTemplateStack min_value="6" max_value="12" troop="NPCCharacter.slave_hmj_it2"/>
 			<PartyTemplateStack min_value="3" max_value="6" troop="NPCCharacter.slave_hmj_it3"/>
-			<PartyTemplateStack min_value="1" max_value="2" troop="NPCCharacter.slave_hmj_it4"/>
+			<PartyTemplateStack min_value="1" max_value="2" troop="NPCCharacter.slave_hmj_it5"/>
 		</stacks>
 	</MBPartyTemplate>
 	<MBPartyTemplate id="slavers_boss_party_template">
