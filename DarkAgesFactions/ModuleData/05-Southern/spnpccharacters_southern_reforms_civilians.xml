@@ -9,8 +9,7 @@
 		</face>
 		<skills/>
 		<upgrade_targets>
-			<upgrade_target id="NPCCharacter.AR_ase_militia_spearman"/>
-			<upgrade_target id="NPCCharacter.AR_ase_militia_archer"/>
+			<upgrade_target id="NPCCharacter.aserai_hmj_tt3"/>
 		</upgrade_targets>
 		<Equipments>
 			<EquipmentRoster civilian="true">
