@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="Adonnay's Troop Changer"/>
+	<Id value="AdonnaysTroopChanger"/>
+	<Version value="v1.8.8"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="e1.0.2"/>
+		<DependedModule Id="SandBoxCore"  DependentVersion="e1.0.2"/>
+		<DependedModule Id="Sandbox"  DependentVersion="e1.0.2"/>
+		<DependedModule Id="CustomBattle"  DependentVersion="e1.0.2"/>
+		<DependedModule Id="StoryMode"  DependentVersion="e1.0.2"/>
+	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="AdonnaysTroopChanger"/>
+			<DLLName value="AdonnaysTroopChanger.dll"/>
+			<SubModuleClassType value="AdonnaysTroopChanger.SubModule"/>
+			<Tags>
+			<Tag key="DedicatedServerType" value="none" />
+			<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="partyTemplates" path="atc_partyTemplate"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>
+	</Xmls>
+</Module>
