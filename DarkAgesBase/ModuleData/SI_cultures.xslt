@@ -141,7 +141,7 @@
 		<xsl:attribute name="villager">NPCCharacter.AR_villager_sturgia</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Culture[@id='sturgia']/@caravan_master">
-		<xsl:attribute name="caravan_master">NPCCharacter.AR_stu_caravan_master</xsl:attribute>
+		<xsl:attribute name="caravan_master">NPCCharacter.sturgia_hmj_cgt5</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Culture[@id='sturgia']/@armed_trader">
 		<xsl:attribute name="armed_trader">NPCCharacter.AR_stu_armed_trader</xsl:attribute>
@@ -304,5 +304,9 @@
 	</xsl:template>
 	<xsl:template match="Culture[@id='khuzait']/@village_woman">
 		<xsl:attribute name="village_woman">NPCCharacter.AR_village_woman_khuzait</xsl:attribute>
+	</xsl:template>
+	
+	<xsl:template match="Culture[@id='nord']/@caravan_master">
+		<xsl:attribute name="caravan_master">NPCCharacter.nord_hmj_cgt5</xsl:attribute>
 	</xsl:template>
 </xsl:stylesheet>

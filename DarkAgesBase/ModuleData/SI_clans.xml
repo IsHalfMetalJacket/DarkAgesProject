@@ -554,7 +554,7 @@
 	         name="Kaldaving"
 	         tier="5"
 	         owner="Hero.lord_2_5"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         super_faction="Kingdom.vaegiria"
 	         is_noble="true"
 	         banner_key="11.33.33.4345.4345.776.778.1.0.0.428.148.148.500.500.764.804.0.1.0.521.148.148.208.211.764.538.0.1.90.124.148.148.300.300.764.754.0.1.0"/>
@@ -816,7 +816,7 @@
 	         name="Vagiraving"
 	         tier="6"
 	         owner="Hero.AR_lord_8_1"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         super_faction="Kingdom.vaegiria"
 	         is_noble="true"
 	         banner_key="11.33.33.4345.4345.776.778.1.0.0.306.148.148.312.479.770.930.0.1.-90.503.148.148.124.126.765.619.0.1.90.144.148.148.441.407.773.803.0.1.0"/>
@@ -824,7 +824,7 @@
 	         name="Alkit"
 	         tier="5"
 	         owner="Hero.AR_lord_8_5"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         super_faction="Kingdom.vaegiria"
 	         is_noble="true"
 	         banner_key="11.33.33.4345.4345.776.778.1.0.0.309.148.148.312.479.764.949.0.0.241.220.148.148.150.150.765.599.0.1.0.145.148.148.400.300.784.774.0.0.0"
@@ -833,7 +833,7 @@
 	         name="Zhanoving"
 	         tier="4"
 	         owner="Hero.AR_lord_8_10"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         super_faction="Kingdom.vaegiria"
 	         is_noble="true"
 	         banner_key="11.35.35.2000.2000.776.778.1.0.0.426.148.148.137.129.687.578.0.0.0.306.148.148.311.391.764.943.0.1.-90.129.148.148.310.300.748.795.0.0.359.515.148.148.105.100.804.544.0.0.0.515.148.148.81.77.872.602.0.0.0.515.148.148.67.63.817.646.0.0.0"/>
@@ -841,7 +841,7 @@
 	         name="Sarapisthes"
 	         tier="4"
 	         owner="Hero.AR_lord_8_17"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         super_faction="Kingdom.vaegiria"
 	         is_noble="true"
 	         banner_key="11.35.35.2000.2000.764.764.1.0.0.411.148.148.92.87.764.532.0.0.0.426.148.148.311.391.764.943.0.1.-90.100.148.148.350.350.764.744.0.0.359"/>

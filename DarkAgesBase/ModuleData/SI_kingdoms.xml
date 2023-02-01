@@ -130,8 +130,9 @@
 	         text="{=qggtvf8Y}The Empire always preferred not to send its legions into the army-devouring wastes of the Nahasa. Instead, it projected its power into this borderland by cultivating client rulers among the clans, who competed in an endless dance of power. Those clans that could secure a hold on the oases won an imperial subsidy to protect passing caravans and grew rich. Those who could not were pushed into the desert, left to raise goats and raid caravans until they could plot a comeback. Today, with the waning of the empire, the Aserai have agreed to form a confederacy under a sultan chosen from richest of the clans, the Banu Hulyan. But everyone knows that the dance has only temporarily been stopped, and at the right moment it will begin again.">
 		<relationships>
 			<relationship kingdom="Kingdom.empire_s"
-			              value="-1"
-			              isAtWar="true"/>
+			              value="-1"/>
+			<relationship kingdom="Kingdom.alshariz"
+			              value="-1"/>					
 		</relationships>
 		<policies>
 			<policy id="policy_council_of_the_commons"/>
@@ -235,7 +236,7 @@
 	         color2="0xffffb53e"
 	         alternative_color="0xff4E1A13"
 	         alternative_color2="0xffffb53e"
-	         culture="Culture.vakken"
+	         culture="Culture.byalic"
 	         settlement_banner_mesh="encounter_flag_b"
 	         flag_mesh="info_screen_flags_c"
 	         name="{=hmj_kingdom_vaegiria_name}Byalic Union"
@@ -356,11 +357,14 @@
 	         short_name="{=hmj_kingdom_spahad_short_name}Nahasi"
 	         title="{=hmj_kingdom_spahad_title}The Exarchate of the Nahasa"
 	         ruler_title="{=hmj_kingdom_spahad_ruler_title}Exarch"
-	         text="{=hmj_kingdom_spahad_text}Think Kingdom of Makuria. Africans inspired by Roman culture.">
+	         text="{=hmj_kingdom_spahad_text}Though they are one of the oldest peoples of the known world, the Nahasi remain an overlooked peoples. Yet the Nahasi themselves have been anything but isolated, their immediate neighbours value them for their skilled hunters and the exotic animals they capture. Independent from the Calradians, they have long maintained strong connections to their traditions and institutions, so much so that they consider themselves an Exarchate. That is not to say that the Nahasi had not considered taking after their Aserai or Darshi neighbours instead- up until King Ashabios reminded them of the Calradian way. But with his death and the ascension of an inexperienced Queen, talk of a new Nahasi identity has made its return.">
 		<relationships>
+			<relationship kingdom="Kingdom.empire_s"
+			              value="+1"/>
+			<relationship kingdom="Kingdom.shahdom"
+			              value="-1"/>
 			<relationship kingdom="Kingdom.aserai"
-			              value="-1"
-			              isAtWar="true"/>
+			              value="-1"/>						 
 		</relationships>
 		<policies>
 			<policy id="policy_royal_privilege"/>

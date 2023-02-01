@@ -360,19 +360,19 @@
 		<xsl:attribute name="culture">Culture.zwadane</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_5']/@culture">
-		<xsl:attribute name="culture">Culture.vakken</xsl:attribute>
+		<xsl:attribute name="culture">Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_6']/@culture">
-		<xsl:attribute name="culture">Culture.vakken</xsl:attribute>
+		<xsl:attribute name="culture">Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_9']/@culture">
-		<xsl:attribute name="culture">Culture.vakken</xsl:attribute>
+		<xsl:attribute name="culture">Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_12']/@culture">
-		<xsl:attribute name="culture">Culture.vakken</xsl:attribute>
+		<xsl:attribute name="culture">Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_121']/@culture">
-		<xsl:attribute name="culture">Culture.vakken</xsl:attribute>
+		<xsl:attribute name="culture">Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="NPCCharacter[@id='lord_2_20']/@culture">
 		<xsl:attribute name="culture">Culture.nord</xsl:attribute>

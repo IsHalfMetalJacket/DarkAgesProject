@@ -823,10 +823,10 @@
 	         text="{=Ud1AMybr}The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."
 	         tournament_master="NPCCharacter.tournament_master_sturgia"
 	         villager="NPCCharacter.AR_villager_sturgia"
-	         caravan_master="NPCCharacter.AR_stu_caravan_master"
-	         armed_trader="NPCCharacter.AR_stu_armed_trader"
-	         caravan_guard="NPCCharacter.AR_stu_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_stu_vet_caravan_guard"
+	         caravan_master="NPCCharacter.sturgia_hmj_cgt5"
+	         armed_trader="NPCCharacter.sturgia_hmj_tt3"
+	         caravan_guard="NPCCharacter.sturgia_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.sturgia_hmj_cgt4"
 	         duel_preset="NPCCharacter.sturgia_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_sturgia"
 	         guard="NPCCharacter.guard_sturgia"
@@ -1154,10 +1154,10 @@
 	         text="{=1Ww5lg6I}The first Vlandians arrived from overseas, mercenaries and adventurers, speaking the tongues of many lands, taking the empire's silver to guard the frontiers against the unsubdued tribes of the interior. They took their name from one of their first warlords, Wilund the Bold - Valandion, in Calradic - and became known as the Vlandians. Their heavy cavalry, second to none, ran down the Emperor's foes from the Aserai wastes to the distant steppes. But cash-strapped officials soon began to pay them with land grants and titles instead of silver, perhaps not the most far-sighted of policies. The Vlandians settled, married, planted farms, and seized nearby imperial fortresses as their own. Now they are an independent kingdom, their traditions drawing from both Calradia and their distant homelands."
 	         tournament_master="NPCCharacter.tournament_master_vlandia"
 	         villager="NPCCharacter.AR_villager_vlandia"
-	         caravan_master="NPCCharacter.AR_vla_caravan_master"
-	         armed_trader="NPCCharacter.AR_vla_armed_trader"
-	         caravan_guard="NPCCharacter.AR_vla_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_vla_vet_caravan_guard"
+	         caravan_master="NPCCharacter.vlandia_hmj_cgt5"
+	         armed_trader="NPCCharacter.vlandia_hmj_tt3"
+	         caravan_guard="NPCCharacter.vlandia_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.vlandia_hmj_cgt4"
 	         duel_preset="NPCCharacter.vlandia_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_vlandia"
 	         guard="NPCCharacter.guard_vlandia"
@@ -3020,10 +3020,10 @@
 	         text="The Kannic people descend from the ancient settlers of the coastal regions along the southern Perassic Sea. Originally settling in the city of Quyaz; from where they draw their name, their coastal colonies soon grew into impressive cities through trade between the nascent Calradic Republic and the tribes of the Nahasa desert, until the Quyazic Empire eventually grew to be the wealthiest realm in Calradia. However, this wealth attracted the attentions of neighboring states, and soon the Kannics were conquered and forced to pay tribute to the Calradians, eventually being incorporated into the Empire as its southernmost province. Though not as renowned for their military prowess as their northern and southern neighbors, the Kannics have gained a reputation as skilled sailors, often being employed by the Empire as crews for their fleet. Now, however, with Calradia thrown into crisis, the Kannics have broken away from imperial rule and mobilized their substantial wealth towards the business of war."
 	         tournament_master="NPCCharacter.tournament_master_kannic"
 	         villager="NPCCharacter.AR_kan_villager"
-	         caravan_master="NPCCharacter.AR_kan_caravan_master"
-	         armed_trader="NPCCharacter.AR_kan_armed_trader"
-	         caravan_guard="NPCCharacter.AR_kan_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_kan_vet_caravan_guard"
+	         caravan_master="NPCCharacter.shariz_hmj_cgt5"
+	         armed_trader="NPCCharacter.shariz_hmj_tt3"
+	         caravan_guard="NPCCharacter.shariz_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.shariz_hmj_cgt4"
 	         duel_preset="NPCCharacter.kannic_duel_preset"
 	         prison_guard="NPCCharacter.AR_kan_prison_guard"
 	         guard="NPCCharacter.guard_kannic"
@@ -3408,10 +3408,10 @@
 	         text="{=Ud1AMybr}The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."
 	         tournament_master="NPCCharacter.tournament_master_sturgia"
 	         villager="NPCCharacter.AR_villager_sturgia"
-	         caravan_master="NPCCharacter.AR_stu_caravan_master"
-	         armed_trader="NPCCharacter.AR_stu_armed_trader"
-	         caravan_guard="NPCCharacter.AR_stu_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_stu_vet_caravan_guard"
+	         caravan_master="NPCCharacter.nord_hmj_cgt5"
+	         armed_trader="NPCCharacter.nord_hmj_tt3"
+	         caravan_guard="NPCCharacter.nord_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.nord_hmj_cgt4"
 	         duel_preset="NPCCharacter.sturgia_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_sturgia"
 	         guard="NPCCharacter.guard_sturgia"
@@ -3726,10 +3726,10 @@
 	         text="The Vaegirians come from the lush grasslands bordering the eastern Calradian Steppe and the dark forests of the Sturgians. Growing wealthy as middlemen off the trade in honey, bog iron and furs between Sturgia and the Calradian Empire, the Vaegirians have always walked the tenuous line between the ambitions of the Empire and Sturgians. However, with the Empire thrown into turmoil, the boyars of Vaegiria have turned their eyes to warfare."
 	         tournament_master="NPCCharacter.tournament_master_vaegiria"
 	         villager="NPCCharacter.villager_vaegiria"
-	         caravan_master="NPCCharacter.AR_vae_caravan_master"
-	         armed_trader="NPCCharacter.AR_vae_armed_trader"
-	         caravan_guard="NPCCharacter.AR_vae_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_vae_vet_caravan_guard"
+	         caravan_master="NPCCharacter.byal_hmj_cgt5"
+	         armed_trader="NPCCharacter.byal_hmj_tt3"
+	         caravan_guard="NPCCharacter.byal_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.byal_hmj_cgt4"
 	         duel_preset="NPCCharacter.vaegiria_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_vaegiria"
 	         guard="NPCCharacter.guard_vaegiria"
@@ -4037,340 +4037,43 @@
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture id="vakken"
-	         name="{=AR_vaegiri_culture_name}Vakken"
-	         is_main_culture="false"
-	         color="0xff4E1A13"
-	         color2="0xffffb53e"
-	         elite_basic_troop="NPCCharacter.AR_vae_cavalry_recruit"
-	         basic_troop="NPCCharacter.AR_vaegirian_recruit"
-	         melee_militia_troop="NPCCharacter.AR_vae_militia_spearman"
-	         ranged_militia_troop="NPCCharacter.AR_vae_militia_archer"
-	         melee_elite_militia_troop="NPCCharacter.AR_vae_militia_veteran_spearman"
-	         ranged_elite_militia_troop="NPCCharacter.AR_vae_militia_veteran_archer"
-	         can_have_settlement="true"
-	         town_edge_number="16"
-	         villager_party_template="PartyTemplate.villager_vaegiri_template"
-	         default_party_template="PartyTemplate.kingdom_hero_party_vaegiri_template"
-	         encounter_background_mesh="encounter_sturgia"
-	         elite_caravan_party_template="PartyTemplate.elite_caravan_template_vaegiri"
-	         caravan_party_template="PartyTemplate.caravan_template_vaegiri"
-	         militia_party_template="PartyTemplate.militia_vaegiria_template"
-	         rebels_party_template="PartyTemplate.rebels_vaegiri_template"
-	         vassal_reward_party_template="PartyTemplate.vassal_reward_troops_vaegiri"
-	         faction_banner_key="11.45.126.4345.4345.764.764.1.0.0.462.0.13.512.512.764.764.1.0.0"
-	         default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
-	         text="The Vaegirians come from the lush grasslands bordering the eastern Calradian Steppe and the dark forests of the Sturgians. Growing wealthy as middlemen off the trade in honey, bog iron and furs between Sturgia and the Calradian Empire, the Vaegirians have always walked the tenuous line between the ambitions of the Empire and Sturgians. However, with the Empire thrown into turmoil, the boyars of Vaegiria have turned their eyes to warfare."
-	         tournament_master="NPCCharacter.tournament_master_vaegiria"
-	         villager="NPCCharacter.villager_vaegiria"
-	         caravan_master="NPCCharacter.AR_vae_caravan_master"
-	         armed_trader="NPCCharacter.AR_vae_armed_trader"
-	         caravan_guard="NPCCharacter.AR_vae_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_vae_vet_caravan_guard"
-	         duel_preset="NPCCharacter.vaegiria_duel_preset"
-	         prison_guard="NPCCharacter.prison_guard_vaegiria"
-	         guard="NPCCharacter.guard_vaegiria"
-	         blacksmith="NPCCharacter.blacksmith_vaegiria"
-	         weaponsmith="NPCCharacter.weaponsmith_vaegiria"
-	         townswoman="NPCCharacter.townswoman_vaegiria"
-	         townswoman_infant="NPCCharacter.townswoman_infant_vaegiria"
-	         townswoman_child="NPCCharacter.townswoman_child_vaegiria"
-	         townswoman_teenager="NPCCharacter.townswoman_teenager_vaegiria"
-	         townsman="NPCCharacter.townsman_vaegiria"
-	         townsman_infant="NPCCharacter.townsman_infant_vaegiria"
-	         townsman_child="NPCCharacter.townsman_child_vaegiria"
-	         townsman_teenager="NPCCharacter.townsman_teenager_vaegiria"
-	         village_woman="NPCCharacter.village_woman_vaegiria"
-	         villager_male_child="NPCCharacter.villager_child_vaegiria"
-	         villager_male_teenager="NPCCharacter.villager_teenager_vaegiria"
-	         villager_female_child="NPCCharacter.village_woman_child_vaegiria"
-	         villager_female_teenager="NPCCharacter.village_woman_teenager_vaegiria"
-	         ransom_broker="NPCCharacter.ransom_broker_vaegiria"
-	         gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_vaegiria"
-	         merchant_notary="NPCCharacter.merchant_notary_vaegiria"
-	         artisan_notary="NPCCharacter.artisan_notary_vaegiria"
-	         preacher_notary="NPCCharacter.preacher_notary_vaegiria"
-	         rural_notable_notary="NPCCharacter.rural_notable_notary_vaegiria"
-	         shop_worker="NPCCharacter.shop_worker_vaegiria"
-	         tavernkeeper="NPCCharacter.tavernkeeper_vaegiria"
-	         taverngamehost="NPCCharacter.taverngamehost_vaegiria"
-	         musician="NPCCharacter.musician_vaegiria"
-	         tavern_wench="NPCCharacter.tavern_wench_vaegiria"
-	         armorer="NPCCharacter.armorer_vaegiria"
-	         horseMerchant="NPCCharacter.horseMerchant_vaegiria"
-	         barber="NPCCharacter.barber_vaegiria"
-	         merchant="NPCCharacter.merchant_vaegiria"
-	         beggar="NPCCharacter.beggar_vaegiria"
-	         female_beggar="NPCCharacter.female_beggar_vaegiria"
-	         female_dancer="NPCCharacter.female_dancer_vaegiria"
-	         gear_practice_dummy="NPCCharacter.gear_practice_dummy_vaegiria"
-	         weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_vaegiria"
-	         weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_vaegiria"
-	         weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_vaegiria"
-	         gear_dummy="NPCCharacter.gear_dummy_vaegiria"
-	         board_game_type="Konane">
-		<vassal_reward_items>
-			<item id="Item.avalanche_2haxe"/>
-		</vassal_reward_items>
+			name="{=bHh03ob0}Vakken"
+			is_main_culture="false"
+			elite_basic_troop="NPCCharacter.sturgian_warrior_son"
+			basic_troop="NPCCharacter.sturgian_recruit"
+			can_have_settlement="true"
+			town_edge_number="16"
+			villager_party_template="PartyTemplate.villager_sturgia_template"
+			encounter_background_mesh="encounter_sturgia"
+			caravan_party_template="PartyTemplate.caravan_template_sturgia"
+			militia_party_template="PartyTemplate.militia_sturgia_template"
+			default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
 		<banner_bearer_replacement_weapons>
-			<item id="Item.sturgia_sword_1_t2"/>
-			<item id="Item.sturgia_sword_2_t3"/>
-			<item id="Item.sturgia_sword_4_t4"/>
-			<item id="Item.sturgia_sword_5_t5"/>
+			<item id="Item.sturgia_sword_1_t2" />
+			<item id="Item.sturgia_sword_2_t3" />
+			<item id="Item.sturgia_sword_4_t4" />
+			<item id="Item.sturgia_sword_5_t5" />
 		</banner_bearer_replacement_weapons>
-		<default_policies>
-			<policy id="policy_lawspeakers"/>
-			<policy id="policy_precarial_land_tenure"/>
-		</default_policies>
 		<male_names>
-			<name name="{=jVPr0ZzB}Achyr"/>
-			<name name="{=iFJbnbCQ}Agdil"/>
-			<name name="{=pqlMxWoM}Alek"/>
-			<name name="{=bNj9gI2y}Astin"/>
-			<name name="{=oyxam3bN}Blag"/>
-			<name name="{=KbIHavJj}Borabos"/>
-			<name name="{=38o99yqa}Borcha"/>
-			<name name="{=zYAl76GW}Borytor"/>
-			<name name="{=ODVepnRR}Bylorn"/>
-			<name name="{=6FebKbCp}Chel"/>
-			<name name="{=0ZXMKL4M}Chavil"/>
-			<name name="{=ORJZJYt7}Churig"/>
-			<name name="{=eYY8319F}Dalibol"/>
-			<name name="{=CoYOwpLP}Davan"/>
-			<name name="{=YdMwMdyf}Dumat"/>
-			<name name="{=z3rmbOSO}Gavyn"/>
-			<name name="{=pfAkvdYc}Gorgi"/>
-			<name name="{=J5kC0K3W}Gutrag"/>
-			<name name="{=aYiL7eDM}Ilmir"/>
-			<name name="{=ZkaaXxeB}Isvan"/>
-			<name name="{=WNb0Bw0e}Kavyl"/>
-			<name name="{=bzXmtoC6}Koleg"/>
-			<name name="{=BGHBvAK1}Kulyat"/>
-			<name name="{=FkbO2Abd}Kras"/>
-			<name name="{=fYN6Aawl}Kyraslav"/>
-			<name name="{=HxKE18yl}Lasvak"/>
-			<name name="{=KBq7aQRa}Lek"/>
-			<name name="{=Py1Jj5mB}Lorik"/>
-			<name name="{=bzaLf3EU}Magan"/>
-			<name name="{=BD4XeP07}Mikri"/>
-			<name name="{=vPlwv7Vj}Miloch"/>
-			<name name="{=Xo1ZwCmu}Mor"/>
-			<name name="{=G92bovut}Mornid"/>
-			<name name="{=hWKKCdeX}Mulum"/>
-			<name name="{=DkXPe3A3}Nevig"/>
-			<name name="{=A2AYaNWM}Orig"/>
-			<name name="{=EUQTT8so}Oshir"/>
-			<name name="{=CSizDomP}Ospak"/>
-			<name name="{=cv1QgU1H}Pazhel"/>
-			<name name="{=M1ORaYny}Pol"/>
-			<name name="{=4KZXSIjc}Porev"/>
-			<name name="{=eMcQ35QA}Radul"/>
-			<name name="{=rahYvT3x}Ragnar"/>
-			<name name="{=iOYRpw24}Ratagost"/>
-			<name name="{=jACaGLM5}Salulk"/>
-			<name name="{=XDAQgjpH}Simir"/>
-			<name name="{=rtHgoGvb}Sivur"/>
-			<name name="{=5YsDdW9s}Sorgard"/>
-			<name name="{=mfu9UqLL}Shemyr"/>
-			<name name="{=tOmtchNx}Tanir"/>
-			<name name="{=B7zKKiYQ}Tatik"/>
-			<name name="{=tp3yvlYW}Temyr"/>
-			<name name="{=gzej3EbY}Tulvo"/>
-			<name name="{=4ABVdxKn}Tyl"/>
-			<name name="{=wlwVPqjP}Uln"/>
-			<name name="{=uDlnsFIF}Urik"/>
-			<name name="{=jqaPJbpP}Urgil"/>
-			<name name="{=7T5z6N7e}Uslav"/>
-			<name name="{=htJuLron}Varag"/>
-			<name name="{=cjYLX7sZ}Valishin"/>
-			<name name="{=e6goEM5b}Valdym"/>
-			<name name="{=cpkNaEmz}Vaton"/>
-			<name name="{=hy7mIh48}Vidar"/>
-			<name name="{=kEw7yody}Volg"/>
-			<name name="{=t0TXa7Fp}Vuldrat"/>
-			<name name="{=bU46gvya}Vulfyr"/>
-			<name name="{=OABjrV1T}Vyoshen"/>
-			<name name="{=j6K4Z1L6}Yalyr"/>
-			<name name="{=NAVXhanI}Yarli"/>
-			<name name="{=agn93v7y}Yorig"/>
-			<name name="{=XxSD6GAu}Yun"/>
-			<name name="{=zLl1UEYM}Zhem"/>
-			<name name="{=Fn064VUZ}Zhutyr"/>
-			<name name="{=25zTek7a}Alakhir"/>
-			<name name="{=wf4cGf3B}Bovidor"/>
-			<name name="{=6hCz0ZFN}Byram"/>
-			<name name="{=AMbdha2J}Chemnir"/>
-			<name name="{=pvuNmZF8}Ivulis"/>
-			<name name="{=m8dVlsEy}Khym"/>
-			<name name="{=Av5aCluG}Svato"/>
-			<name name="{=SvyDUmw3}Vyanimir"/>
-			<name name="{=oPmn1SHy}Zuvan"/>
-			<name name="{=bLY1zbNI}Zvatim"/>
-			<name name="{=!*}Aivar"/>
-			<name name="{=!*}Kaupi"/>
-			<name name="{=!*}Natti"/>
-			<name name="{=!*}Pekko"/>
-			<name name="{=!*}Rauko"/>
-			<name name="{=!*}Vuoni"/>
+			<name name="{=jhT7CfhM}Aivar" />
+			<name name="{=GaMUU2Pf}Kaupi" />
+			<name name="{=3ipKaDWU}Natti" />
+			<name name="{=kL0ldFLG}Pekko" />
+			<name name="{=W1ZpjgQO}Rauko" />
+			<name name="{=WpTXwQw1}Vuoni" />
 		</male_names>
 		<female_names>
-			<name name="{=vz038vX7}Achita"/>
-			<name name="{=UaOynysV}Agna"/>
-			<name name="{=WP63fA7r}Alkirya"/>
-			<name name="{=XqcD0WEu}Asta"/>
-			<name name="{=daulkQvv}Brinya"/>
-			<name name="{=VaqB0x4K}Dranga"/>
-			<name name="{=scCmMFeI}Ekadrya"/>
-			<name name="{=9pnUaj0g}Elyaksha"/>
-			<name name="{=yNSLGTYc}Erta"/>
-			<name name="{=YahyjyK5}Gudra"/>
-			<name name="{=Q8gCUmQq}Gyn"/>
-			<name name="{=Z5NIRUPc}Idruna"/>
-			<name name="{=7n7V9Va5}Irya"/>
-			<name name="{=4Su3mMpd}Ivaren"/>
-			<name name="{=6fbD85kZ}Kara"/>
-			<name name="{=RrdzC0Mx}Kalata"/>
-			<name name="{=AMmJVlrt}Kyraslava"/>
-			<name name="{=8Rirvd8I}Laska"/>
-			<name name="{=cxNCgqkI}Litka"/>
-			<name name="{=7Lkbtnet}Luvina"/>
-			<name name="{=yhCgI9ph}Magnara"/>
-			<name name="{=9SJa91sZ}Marena"/>
-			<name name="{=R1yWuIzd}Melya"/>
-			<name name="{=C4akgRTN}Milisa"/>
-			<name name="{=Bt4MdhYE}Olguna"/>
-			<name name="{=OQLPPwrL}Osea"/>
-			<name name="{=Ao69q2aY}Pera"/>
-			<name name="{=DfZ5oi0O}Ragna"/>
-			<name name="{=2Bh8DS8S}Siga"/>
-			<name name="{=sIBcdaxD}Soren"/>
-			<name name="{=b2d9BYxT}Svana"/>
-			<name name="{=qu9adIvZ}Talya"/>
-			<name name="{=zAC87rrQ}Tora"/>
-			<name name="{=r28vZDkN}Vara"/>
-			<name name="{=5o1bM9G0}Vasinya"/>
-			<name name="{=t6e4wphB}Veta"/>
-			<name name="{=!*}Alivar"/>
-			<name name="{=!*}Arha"/>
-			<name name="{=!*}Eitar"/>
-			<name name="{=!*}Ilikki"/>
-			<name name="{=!*}Jalin"/>
-			<name name="{=!*}Kaidi"/>
-			<name name="{=!*}Luona"/>
-			<name name="{=!*}Menar"/>
-			<name name="{=!*}Olianar"/>
-			<name name="{=!*}Vikka"/>
+			<name name="{=FlexUfSP}Alivar" />
+			<name name="{=4bQbv3oN}Arha" />
+			<name name="{=rDPExYMQ}Eitar" />
+			<name name="{=jFdZ7mlB}Ilikki" />
+			<name name="{=ELpRLYQt}Jalin" />
+			<name name="{=hBuBpxjb}Kaidi" />
+			<name name="{=j8IOY5Cy}Luona" />
+			<name name="{=iiGXfCWd}Menar" />
+			<name name="{=gG1O5V1n}Olianar" />
+			<name name="{=XAF12HV0}Vikka" />
 		</female_names>
-		<clan_names>
-			<name name="{=OLLYkaWd}Asraloving"/>
-			<name name="{=yUuM8a0j}Boranoving"/>
-			<name name="{=euyyBbjq}Folyoroving"/>
-			<name name="{=ODcWVL1a}Gendiroving"/>
-			<name name="{=UYqwbjTP}Iskanoving"/>
-			<name name="{=z2Oqk8aq}Maregoving"/>
-			<name name="{=lpbIXNdK}Suratoving"/>
-			<name name="{=RFapQLfR}Vyshoving"/>
-			<name name="{=gC1paDtD}Yerchoving"/>
-			<name name="{=qD72Ya4I}Zhanoving"/>
-		</clan_names>
-		<cultural_feats>
-			<feat id="sturgian_cheaper_recruits_infantry"/>
-			<feat id="sturgian_decreased_cohesion_rate"/>
-			<feat id="sturgian_increased_decision_penalty"/>
-		</cultural_feats>
-		<possible_clan_banner_icon_ids>
-			<icon id="112"/>
-			<icon id="113"/>
-			<icon id="114"/>
-			<icon id="115"/>
-			<icon id="116"/>
-			<icon id="117"/>
-			<icon id="118"/>
-			<icon id="132"/>
-			<icon id="138"/>
-			<icon id="139"/>
-			<icon id="307"/>
-			<icon id="331"/>
-			<icon id="407"/>
-			<icon id="408"/>
-			<icon id="409"/>
-			<icon id="410"/>
-			<icon id="439"/>
-			<icon id="440"/>
-			<icon id="441"/>
-			<icon id="442"/>
-			<icon id="443"/>
-			<icon id="444"/>
-			<icon id="445"/>
-		</possible_clan_banner_icon_ids>
-		<notable_and_wanderer_templates>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_0"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_1"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_2"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_3"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_4"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_5"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_6"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_7"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_8"/>
-			<template name="NPCCharacter.spc_wanderer_vaegiria_9"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_0"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_0b"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_1"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_2"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_2b"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_3"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_3b"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_3c"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_4"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_5"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_6"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_7"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_8"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_9"/>
-			<template name="NPCCharacter.spc_notable_vaegiria_10"/>
-			<template name="NPCCharacter.spc_vaegiria_headman_1"/>
-			<template name="NPCCharacter.spc_vaegiria_headman_2"/>
-			<template name="NPCCharacter.spc_vaegiria_headman_3"/>
-		</notable_and_wanderer_templates>
-		<lord_templates>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_0"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_1"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_2"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_3"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_0"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_1"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_2"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_3"/>
-		</lord_templates>
-		<rebellion_hero_templates>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_0"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_1"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_2"/>
-			<template name="NPCCharacter.AR_spc_vezha_valkyries_leader_3"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_0"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_1"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_2"/>
-			<template name="NPCCharacter.AR_spc_forest_people_leader_3"/>
-		</rebellion_hero_templates>
-		<tournament_team_templates_one_participant>
-			<template name="NPCCharacter.tournament_template_vaegiria_one_participant_set_v1"/>
-			<template name="NPCCharacter.tournament_template_vaegiria_one_participant_set_v2"/>
-		</tournament_team_templates_one_participant>
-		<tournament_team_templates_two_participant>
-			<template name="NPCCharacter.tournament_template_vaegiria_two_participant_set_v1"/>
-			<template name="NPCCharacter.tournament_template_vaegiria_two_participant_set_v2"/>
-			<template name="NPCCharacter.tournament_template_vaegiria_two_participant_set_v3"/>
-		</tournament_team_templates_two_participant>
-		<tournament_team_templates_four_participant>
-			<template name="NPCCharacter.tournament_template_vaegiria_four_participant_set_v1"/>
-			<template name="NPCCharacter.tournament_template_vaegiria_four_participant_set_v2"/>
-			<template name="NPCCharacter.tournament_template_vaegiria_four_participant_set_v3"/>
-		</tournament_team_templates_four_participant>
-		<basic_mercenary_troops>
-			<template name="NPCCharacter.eastern_mercenary"/>
-			<template name="NPCCharacter.western_mercenary"/>
-			<template name="NPCCharacter.sword_sisters_sister_t3"/>
-		</basic_mercenary_troops>
 	</Culture>
 	<Culture id="darshi"
 	         name="{=hmj_darshi_culture_name}Darshi"
@@ -4398,10 +4101,10 @@
 	         text="The Cizygian tribes hail from the eastern Calradic Steppe, claiming descent from one of the twelve sons of steppe mythology. Pushing deep into the south-western lands of the Padishah, the Cizygians carved themselves a substantial realm, forcing the Darshi peoples from Calradia almost entirely. Now, with the Calradian Empire in crisis, the Cizygians once again seek to expand their territory, and make ready for war."
 	         tournament_master="NPCCharacter.tournament_master_cizygian"
 	         villager="NPCCharacter.villager_cizygian"
-	         caravan_master="NPCCharacter.AR_ciz_caravan_master"
-	         armed_trader="NPCCharacter.AR_ciz_armed_trader"
-	         caravan_guard="NPCCharacter.AR_ciz_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_ciz_vet_caravan_guard"
+	         caravan_master="NPCCharacter.darshi_hmj_cgt5"
+	         armed_trader="NPCCharacter.darshi_hmj_tt3"
+	         caravan_guard="NPCCharacter.darshi_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.darshi_hmj_cgt4"
 	         duel_preset="NPCCharacter.cizygian_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_cizygian"
 	         guard="NPCCharacter.guard_cizygian"
@@ -4614,10 +4317,10 @@
 	         text="The Swadic people are another tribe of Jumnians who migrated to Calradia centuries ago alongside their Vlandian cousins, searching for land and riches. A brutal people, renowned for their martial prowess, the Massans were employed by the Calradian Empire as guardians of its' frontiers, riding down enemies of the emperors in the cold northern borderlands. Recently, the Massans chose to not follow Osric Iron-Arm, instead becoming an independent kingdom. Siezing the very lands they swore to protect, the Massans now rival their Vlandian cousins for control of the verdant west of Calradia."
 	         tournament_master="NPCCharacter.tournament_master_massa"
 	         villager="NPCCharacter.villager_massa"
-	         caravan_master="NPCCharacter.AR_mas_caravan_master"
-	         armed_trader="NPCCharacter.AR_mas_armed_trader"
-	         caravan_guard="NPCCharacter.AR_mas_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_mas_vet_caravan_guard"
+	         caravan_master="NPCCharacter.zwadane_hmj_cgt5"
+	         armed_trader="NPCCharacter.zwadane_hmj_tt3"
+	         caravan_guard="NPCCharacter.zwadane_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.zwadane_hmj_cgt4"
 	         duel_preset="NPCCharacter.massa_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_massa"
 	         guard="NPCCharacter.guard_massa"
@@ -4968,10 +4671,10 @@
 	         text="The Spahad claim descent from the inhabitants of the rich lands to the south of the the Nahasa Desert. Centuries ago, their forefathers crossed the unforgiving deserts to the halls of the Darshi Padishahs, selling their services as noble warriors and wise administrators. In return, the Padishahs raised the Spahadi people to the status of satraps, granting them lands on the western borders of the Darshi empire. In more recent centuries, the shahs of the Spahadi expanded their realm into the Nahasa, conquering vast new lands and ushering in a return of Darshi culture to the desert-dwelling peoples of the south."
 	         tournament_master="NPCCharacter.tournament_master_spahad"
 	         villager="NPCCharacter.villager_spahad"
-	         caravan_master="NPCCharacter.AR_spa_caravan_master"
-	         armed_trader="NPCCharacter.AR_spa_armed_trader"
-	         caravan_guard="NPCCharacter.AR_spa_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_spa_vet_caravan_guard"
+	         caravan_master="NPCCharacter.nahasi_hmj_cgt5"
+	         armed_trader="NPCCharacter.nahasi_hmj_tt3"
+	         caravan_guard="NPCCharacter.nahasi_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.nahasi_hmj_cgt4"
 	         duel_preset="NPCCharacter.spahad_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_spahad"
 	         guard="NPCCharacter.guard_spahad"
@@ -5304,10 +5007,10 @@
 	         text="The myriad tribes of the Myzeans once inhabited the rich grasslands of north-eastern Calradia. Originally just comprising a single ethnic people, this land soon became a melding pot for migrating peoples from both east and west. Descended from Laconian adventurers who intermarried with the local Myzean peoples, the Gotarnians became the primary tribal group in the region after the empire's many eastern wars drove most of the Myzean population to the point of extinction. Now the sole Myzean cultural group, the Gotarnians fight to preserve their way of life."
 	         tournament_master="NPCCharacter.tournament_master_gotarnia"
 	         villager="NPCCharacter.villager_gotarnia"
-	         caravan_master="NPCCharacter.AR_got_caravan_master"
-	         armed_trader="NPCCharacter.AR_got_armed_trader"
-	         caravan_guard="NPCCharacter.AR_got_caravan_guard"
-	         veteran_caravan_guard="NPCCharacter.AR_got_vet_caravan_guard"
+	         caravan_master="NPCCharacter.zend_hmj_cgt5"
+	         armed_trader="NPCCharacter.zend_hmj_tt3"
+	         caravan_guard="NPCCharacter.dryatic_hmj_cgt3"
+	         veteran_caravan_guard="NPCCharacter.dryatic_hmj_cgt4"
 	         duel_preset="NPCCharacter.gotarnia_duel_preset"
 	         prison_guard="NPCCharacter.prison_guard_gotarnia"
 	         guard="NPCCharacter.guard_gotarnia"

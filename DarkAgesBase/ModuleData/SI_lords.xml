@@ -291,7 +291,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Vidar -->
-	<NPCCharacter id="AR_lord_8_1" name="Vidar" age="41" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_1" name="Vidar" age="41" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="41" weight="0.5" build="0.5" key="000528000000000D839237A29A8884750D58A77AB674A6839A9A7C578161669A007776030792887900000000000000000000000000000000000000003CFC60C2"/>
 		</face>
@@ -312,7 +312,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Rhandana, Imperial queen -->
-	<NPCCharacter id="AR_lord_8_2" name="Rhandana" age="36" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_2" name="Rhandana" age="36" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="31" weight="0.5" build="0.5" key="0013600D802C000B923C7A465666B688A794937B6567BC47E1972B578D45A3C70077760307B577BB00000000000000000000000000000000000000003AF420C3"/>
 		</face>
@@ -331,7 +331,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_3" name="Irya" age="14" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_3" name="Irya" age="14" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="14" weight="0.5" build="0.5" key="000A600D802C001592495748857739148B9D937B6567BC4795763A89C686777C0077760307A8948800000000000000000000000000000000000000003AF41003"/>
 		</face>
@@ -349,7 +349,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_4" name="Ospak" age="16" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_4" name="Ospak" age="16" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="16" weight="0.5" build="0.5" key="00136001402C03CE92495748857739148B9D937B6567BC4795763A89C686777C0077760307A8948800000000000000000000000000000000000000003AF41003"/>
 		</face>
@@ -367,7 +367,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_5" name="Sivur" age="57" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_5" name="Sivur" age="57" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="23.51" weight="0.2932" build="0.6883"  key="0010CC0F0000349049359A87899975A5393A555EA34F95D362B369584278A67B006A46030676A56900000000000000000000000000000000000000003CCC7142"  />
 		</face>
@@ -387,7 +387,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_6" name="Vasinya" age="54" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_6" name="Vasinya" age="54" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="54" weight="0.5" build="0.5" key="000570014000200A49936796BB965DD7545C5584C349A5D33AABC64886677D9300777603073A594B00000000000000000000000000000000000000003CFC1042"/>
 		</face>
@@ -406,7 +406,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_7" name="Soren" age="32" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_7" name="Soren" age="32" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="23.51" weight="0.0031" build="0.5"  key="0013700F0000328B49FE97894BAE56CEB8785584C34FA5D3A65C6C5074C2896B0067060306B7366700000000000000000000000000000000000000003CC430C2"  />
 		</face>
@@ -424,7 +424,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_8" name="Idruna" age="19" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_8" name="Idruna" age="19" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="23.51" weight="0.5" build="0.5"  key="0010B8040000028B494984D732889978B8785584C349A5D3A65C6C5074C2896B0077760307B7366700000000000000000000000000000000000000003CFC30C2"  />
 		</face>
@@ -442,7 +442,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_9" name="Valdym" age="21" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_9" name="Valdym" age="21" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="23.51" weight="0.2006" build="0.7099"  key="0015800F000014D4635C877B867864D779757A33EBCF6B564356645C6487278B006B36030697A29300000000000000000000000000000000000000003CC41082"  />
 		</face>
@@ -460,7 +460,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_10" name="Vikka" age="34" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_10" name="Vikka" age="34" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="34" weight="0.5" build="0.5" key="0005BC028014100462BD7598C3856593C7A26A72576736628745BA3589EC4C680067760306CB865B000000000000000000000000000000000000000036C42083"/>
 		</face>
@@ -479,7 +479,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_11" name="Veta" age="18" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_11" name="Veta" age="18" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="18" weight="0.5" build="0.5" key="00056C080014200B7448779CC377886D68273DCF7D8748DA8AD85A7A856A84A70067760306951589000000000000000000000000000000000000000036C42043"/>
 		</face>
@@ -497,7 +497,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_12" name="Mikri" age="16" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_12" name="Mikri" age="16" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="16" weight="0.5" build="0.5" key="00056C080014334B7462ADAC852A86DA68273DCF7D8748DA8AD85A7A856A84A70067760306951589000000000000000000000000000000000000000036C42043"/>
 		</face>
@@ -515,7 +515,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_13" name="Radul" age="17" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_13" name="Radul" age="17" voice="curt" default_group="Cavalry" is_hero="true" is_female="false" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="17" weight="0.5" build="0.5" key="00026C080014300E7473858A7456522387953DCF7D8748DA7F774266777693760067760306C8A6C2000000000000000000000000000000000000000036C46003"/>
 		</face>
@@ -533,7 +533,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_14" name="Bylorn" age="38" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_14" name="Bylorn" age="38" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="38" weight="0.3025" build="0.4985" key="00052800000034838365788743A46A849796A77AB674A683A2A33A4AB867B62A009756030968B98700000000000000000000000000000000000000003D241042"/>
 		</face>
@@ -554,7 +554,7 @@
 		</Equipments>
 	</NPCCharacter>
 	<!-- Rhandana, Imperial queen -->
-	<NPCCharacter id="AR_lord_8_15" name="Jalin" age="37" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_15" name="Jalin" age="37" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="37" weight="0.3073" build="0" key="0005880000A0200478B8C874E714A5C495BA7A8624577BB787C5D59B5358835500805603088CABA900000000000000000000000000000000000000001B1C10C3"/>
 		</face>
@@ -573,7 +573,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_16" name="Tanir" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_16" name="Tanir" age="14" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="14" weight="0" build="0.3472" key="0002680140002002839324885D3737499796A77AB674A6835254A898B867B62A007506030775A94400000000000000000000000000000000000000003CEC6082"/>
 		</face>
@@ -591,7 +591,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_17" name="Diocosos" age="45" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_17" name="Diocosos" age="45" voice="curt" is_hero="true" default_group="Cavalry" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="44" weight="0.3515" build="0.3943" key="00104C0D80CC334D8899787495DC37DA4E699263877A85874735B45C5974771D0096560309C562C700000000000000000000000000000000000000001F2C7042"/>
 		</face>
@@ -610,7 +610,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_18" name="Theodora" age="44" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_18" name="Theodora" age="44" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="44" weight="0.4414" build="0.4923" key="0015240540E40015696358A72768CCACE97759874B8C523667D36A26754386890087660308E34AD8000000000000000000000000000000000000000069144043"/>
 		</face>
@@ -629,7 +629,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_19" name="Lorea" age="26" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_19" name="Lorea" age="26" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="26" weight="0.4214" build="0.4923" key="0015580C40E4200AA59B28C49E49B987837399709369B6344D6572B6BB394E9E0067660306928977000000000000000000000000000000000000000068C42003"/>
 		</face>
@@ -647,7 +647,7 @@
 			<EquipmentSet id="AR_vae_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_20" name="Sarapios" age="24" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_20" name="Sarapios" age="24" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="24" weight="0.2238" build="0.3375" key="0015580C40E40005A5BA969A6739D57496A899709369B6349814BA335999989600753603078CC745000000000000000000000000000000000000000068F47002"/>
 		</face>
@@ -665,7 +665,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_21" name="Rauko" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_21" name="Rauko" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="27" weight="0.3664" build="0.4199" key="0005400400B404C187B6936A56BA4A4A6E93A739937966967734B25C8DA7A7AA00665603068A7D67000000000000000000000000000000000000000056D41102"/>
 		</face>
@@ -683,7 +683,7 @@
 			<EquipmentSet id="AR_vae_civ_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="AR_lord_8_22" name="Velina" age="21" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="AR_lord_8_22" name="Velina" age="21" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="21" weight="0.2238" build="0.3375" key="00105806C0E4100BA5844C953BB8A585E97799709369B634DCC6ACA47543868900753603075585C2000000000000000000000000000000000000000068EC10C3"/>
 		</face>
@@ -964,7 +964,7 @@
 			<EquipmentSet id="emp_noncom_template_default" civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="hmj_lord_9_16" name="Jaysh" voice="earnest" age="45" default_group="Cavalry" is_hero="true" culture="Culture.vakken" occupation="Lord">
+	<NPCCharacter id="hmj_lord_9_16" name="Jaysh" voice="earnest" age="45" default_group="Cavalry" is_hero="true" culture="Culture.byalic" occupation="Lord">
 		<face>
 			<BodyProperties version="4" age="45" weight="0.5633" build="0.8873"  key="0005280280000380397664884754DCBAA35E866295A0967374414A498C89C60600AD86030AA7B7A500000000000000000000000000000000000000003D543002"  />
 		</face>
@@ -4728,7 +4728,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_vaegiri" name="{=!}stage_2_page_0_branch_0_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_0_vaegiri" name="{=!}stage_2_page_0_branch_0_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4838,7 +4838,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_vaegiri" name="{=!}stage_2_page_0_branch_1_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_1_vaegiri" name="{=!}stage_2_page_0_branch_1_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -4947,7 +4947,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_vaegiri" name="{=!}stage_2_page_0_branch_2_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_2_vaegiri" name="{=!}stage_2_page_0_branch_2_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -5059,7 +5059,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_vaegiri" name="{=!}stage_2_page_0_branch_3_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_3_vaegiri" name="{=!}stage_2_page_0_branch_3_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -5174,7 +5174,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_vaegiri" name="{=!}stage_2_page_0_branch_4_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_4_vaegiri" name="{=!}stage_2_page_0_branch_4_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>
@@ -5283,7 +5283,7 @@
 			<EquipmentRoster civilian="true"/>
 		</Equipments>
 	</NPCCharacter>
-	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_vaegiri" name="{=!}stage_2_page_0_branch_5_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.vakken" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
+	<NPCCharacter id="child_education_templates_stage_2_page_0_branch_5_vaegiri" name="{=!}stage_2_page_0_branch_5_sturgia" age="45" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.byalic" skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills" is_template="true">
 		<face>
 			<face_key_template value="BodyProperty.fighter_sturgia"/>
 		</face>

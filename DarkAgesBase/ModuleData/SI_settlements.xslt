@@ -31,67 +31,67 @@
 	</xsl:template>
 	
 	<xsl:template match="Settlement[@id='town_S5']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='town_S5']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_vaegiria_1</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='village_S5_1']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='village_S5_2']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='town_S4']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='town_S4']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_vaegiria_2</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='village_S4_1']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='village_S4_3']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='village_S4_4']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S8']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S8']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_vaegiria_3</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S8_1']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S8_2']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S6']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S6']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_vaegiria_4</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S6_1']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S6_2']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S7']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_S7']/@owner">
 		<xsl:attribute name='owner'>Faction.clan_sturgia_3</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S7_1']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 	<xsl:template match="Settlement[@id='castle_village_S7_2']/@culture">
-		<xsl:attribute name='culture'>Culture.vakken</xsl:attribute>
+		<xsl:attribute name='culture'>Culture.byalic</xsl:attribute>
 	</xsl:template>
 
 	<xsl:template match="Settlement[@id='town_EN3']/@culture">
