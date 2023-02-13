@@ -10,7 +10,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -24,7 +24,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -38,7 +38,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -52,7 +52,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -66,7 +66,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -80,7 +80,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -94,7 +94,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -108,7 +108,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -122,7 +122,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -136,7 +136,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -150,7 +150,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -164,7 +164,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -178,7 +178,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -192,7 +192,7 @@
 				<volunteer id="sturgia_hmj_st2" percent="20"/>
 				<volunteer id="sturgia_hmj_hit2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="sturgia_hmj_nrt3" percent="80"/>
 				<volunteer id="sturgia_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -202,155 +202,253 @@
 		<!-- Standard Vaegiria configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_n">
 			<!-- Vaegiria for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire">
 			<!-- Vaegiria for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_w">
 			<!-- Vaegiria for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="shariz">
 			<!-- Vaegiria for captured Paraoian settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="aserai">
 			<!-- Vaegiria for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="darshi">
 			<!-- Vaegiria for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="khuzait">
 			<!-- Vaegiria for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="nahasi">
 			<!-- Vaegiria for captured Nahasan settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="vlandia">
 			<!-- Vaegiria for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="zwadane">
 			<!-- Vaegiria for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="battania">
 			<!-- Vaegiria for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="oldcalradian">
 			<!-- Vaegiria for captured Old Calradian settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="sturgia">
 			<!-- Vaegiria for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="AR_vaegirian_recruit" percent="70"/>
-				<volunteer id="AR_vae_aux_recruit" percent="20"/>
-				<volunteer id="AR_emp_aux_eastern_recruit" percent="10"/>
+				<volunteer id="byal_hmj_mit1" percent="24"/>
+				<volunteer id="byal_hmj_mst2" percent="24"/>
+				<volunteer id="byal_hmj_rt3" percent="14"/>
+				<volunteer id="byal_hmj_it3" percent="14"/>
+				<volunteer id="byal_hmj_mct3" percent="7"/>
+				<volunteer id="byal_hmj_it2" percent="8"/>
+				<volunteer id="byal_hmj_ct2" percent="7"/>
+				<volunteer id="byal_hmj_at5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
-				<volunteer id="AR_vae_cavalry_recruit"/>
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
+				<volunteer id="byal_hmj_nit4" percent="40"/>
+				<volunteer id="byal_hmj_nit5" percent="40"/>
+				<volunteer id="byal_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 	</MapFaction>
@@ -362,7 +460,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -373,7 +471,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -384,7 +482,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -395,7 +493,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -406,7 +504,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -417,7 +515,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -428,7 +526,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -439,7 +537,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -450,7 +548,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -461,7 +559,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -472,7 +570,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -483,7 +581,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -494,7 +592,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -505,7 +603,7 @@
 				<volunteer id="northern_hmj_rt2" percent="30"/>
 				<volunteer id="viking_hmj_it2" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it3" />
 			</eliteTroops>
 		</Culture>
@@ -518,7 +616,7 @@
 				<volunteer id="nord_hmj_it4" percent="30"/>
 				<volunteer id="nord_hmj_it5" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nord_hmj_it6" percent="50"/>
 				<volunteer id="nord_hmj_hit6" percent="50"/>
 			</eliteTroops>
@@ -531,7 +629,7 @@
 				<volunteer id="lakerat_hmj_it3" percent="35"/>
 				<volunteer id="lakerat_hmj_hit4" percent="15"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="lakerat_hmj_it4" percent="60"/>
 				<volunteer id="lakerat_hmj_hit5" percent="40"/>
 			</eliteTroops>
@@ -544,7 +642,7 @@
 				<volunteer id="AR_min_foresters_t4_archer" percent="25"/>
 				<volunteer id="AR_min_foresters_t4_swordsman" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="AR_min_foresters_t5_swordsman" percent="50"/>
 			</eliteTroops>
 		</Culture>
@@ -556,7 +654,7 @@
 				<volunteer id="AR_min_seax_t4_infantry" percent="25"/>
 				<volunteer id="AR_min_seax_t4_shock_inf" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="AR_min_seax_t5_shock_inf" percent="50"/>
 			</eliteTroops>
 		</Culture>

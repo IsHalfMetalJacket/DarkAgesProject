@@ -15,7 +15,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -31,7 +31,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -47,7 +47,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -63,7 +63,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -79,7 +79,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -95,7 +95,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -111,7 +111,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -127,7 +127,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -143,7 +143,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -159,7 +159,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -175,7 +175,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -191,7 +191,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -207,7 +207,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -223,7 +223,7 @@
 				<volunteer id="nimperial_hmj_st3" percent="4"/>
 				<volunteer id="nimperial_hmj_rt4" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="nimperial_hmj_nit2"/>
 			</eliteTroops>
 		</Culture>
@@ -241,7 +241,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -257,7 +257,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -273,7 +273,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -289,7 +289,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -305,7 +305,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -321,7 +321,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -337,7 +337,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -353,7 +353,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -369,7 +369,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -385,7 +385,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -401,7 +401,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -417,7 +417,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -433,7 +433,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -449,7 +449,7 @@
 				<volunteer id="simperial_hmj_hat5" percent="5"/>
 				<volunteer id="simperial_hmj_xt3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="simperial_hmj_xt3" percent="80"/>
 				<volunteer id="simperial_hmj_nrt2" percent="20"/>
 			</eliteTroops>
@@ -468,7 +468,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -484,7 +484,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -500,7 +500,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -516,7 +516,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -532,7 +532,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -548,7 +548,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -564,7 +564,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -580,7 +580,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -596,7 +596,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -612,7 +612,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -628,7 +628,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -644,7 +644,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -660,7 +660,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -676,7 +676,7 @@
 				<volunteer id="wimperial_hmj_it2" percent="5"/>
 				<volunteer id="wimperial_hmj_st3" percent="3"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="wimperial_hmj_ct5" percent="80"/>
 				<volunteer id="wimperial_hmj_nit2" percent="20"/>
 			</eliteTroops>
@@ -690,7 +690,7 @@
 				<volunteer id="betrayed_hmj_it3" percent="40"/>
 				<volunteer id="betrayed_hmj_it4" percent="10"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="betrayed_hmj_ct5" percent="50"/>
 				<volunteer id="betrayed_hmj_it5" percent="50"/>
 			</eliteTroops>
@@ -702,7 +702,7 @@
 				<volunteer id="ember_hmj_it2" percent="75"/>
 				<volunteer id="ember_hmj_it3" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="ember_hmj_it4" percent="90"/>
 				<volunteer id="ember_hmj_it5" percent="10"/>
 			</eliteTroops>
@@ -715,7 +715,7 @@
 				<volunteer id="hidden_hmj_it3" percent="30"/>
 				<volunteer id="hidden_hmj_it4" percent="15"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="hidden_hmj_ct5" />
 			</eliteTroops>
 		</Culture>
@@ -727,7 +727,7 @@
 				<volunteer id="AR_min_eleftheroi_t4_cav_archer" percent="25"/>
 				<volunteer id="AR_min_eleftheroi_t4_cav" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="AR_min_eleftheroi_t5_cav" percent="50"/>
 			</eliteTroops>
 		</Culture>
@@ -739,7 +739,7 @@
 				<volunteer id="AR_min_guardians_t4_cavalry" percent="25"/>
 				<volunteer id="AR_min_guardians_t4_archer" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="AR_min_guardians_t5_cavalry" percent="50"/>
 			</eliteTroops>
 		</Culture>
@@ -751,7 +751,7 @@
 				<volunteer id="diamond_hmj_ct3" percent="30"/>
 				<volunteer id="diamond_hmj_it4" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="400" spawnChanceCap="5">
+			<eliteTroops spawnChance="1" atPower="250" spawnChanceCap="5">
 				<volunteer id="diamond_hmj_it4" percent="50"/>
 				<volunteer id="diamond_hmj_ct4" percent="50"/>
 			</eliteTroops>
