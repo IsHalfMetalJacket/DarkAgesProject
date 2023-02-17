@@ -1166,7 +1166,7 @@
 		</NPCCharacter>
 		<NPCCharacter id="vaegir_hmj_nct5"
 			default_group="Cavalry"
-			level="16"
+			level="26"
 			name="{=Vaegir Errant}Vaegir Errant"
 			occupation="Soldier"
 			culture="Culture.byalic">
