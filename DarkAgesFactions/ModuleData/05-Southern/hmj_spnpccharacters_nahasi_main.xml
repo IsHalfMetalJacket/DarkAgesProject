@@ -1318,7 +1318,7 @@
 		</NPCCharacter>
 		<NPCCharacter id="nahasi_hmj_nrt4"
 			default_group="Ranged"
-			level="16"
+			level="21"
 			name="{=Nahasi Chosen Archer}Nahasi Chosen Archer"
 			occupation="Soldier"
 			culture="Culture.nahasi">
