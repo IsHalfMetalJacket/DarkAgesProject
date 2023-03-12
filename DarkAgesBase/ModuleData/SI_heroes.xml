@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+	<!--lords.xml-->
+	<Hero id="main_hero" father="Hero.main_hero_father" mother="Hero.main_hero_mother" faction="Faction.player_faction"/>
+	<Hero id="main_hero_father" alive="false" faction="Faction.player_faction" spouse="Hero.main_hero_mother"/>
+	<Hero id="main_hero_mother" alive="false" faction="Faction.player_faction" spouse="Hero.main_hero_father"/>
+	<Hero id="dead_lord_2_1" alive="false" faction="Faction.clan_sturgia_2"/>
+	<Hero id="dead_lord_2_2" alive="false" father="Hero.dead_lord_2_1" faction="Faction.clan_sturgia_2"/>
+	<Hero id="dead_lord_3_1" alive="false" faction="Faction.clan_aserai_2"/>
+	<Hero id="dead_lord_6_1" alive="false" faction="Faction.clan_khuzait_1"/>
+	<Hero id="dead_lord_6_2" alive="false" faction="Faction.clan_khuzait_2"/>
+	<Hero id="dead_lord_6_3" alive="false" faction="Faction.clan_khuzait_3"/>
+	<Hero id="dead_lord_6_4" father="Hero.dead_lord_6_3" alive="false" faction="Faction.clan_khuzait_3"/>
+	<!-- Empire north 1 (DONE) -->
+	<Hero id="lord_1_1" spouse="Hero.lord_1_2" faction="Faction.clan_empire_north_1" text="{=WBl5hS0e}The northern third of the Empire is ruled by Lucon, who represents a long-standing oligarchic trend in imperial politics. It holds that strict adherance to imperial law is the best guarantee that the empire will not become a tyranny. Oligarchs like Lucon also tend to believe that only landowners can have the extensive education, experience in government, and stake in property to really understand and appreciate the law, and thus the Senate should be supreme." />
+	<Hero id="lord_1_2" spouse="Hero.lord_1_1" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_31" father="Hero.lord_1_1" mother="Hero.lord_1_2" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_21" spouse="Hero.lord_1_1_2" father="Hero.lord_1_1" mother="Hero.lord_1_2" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_1_2" spouse="Hero.lord_1_21" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_41" spouse="Hero.lord_1_1_1" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_1_1" spouse="Hero.lord_1_41" faction="Faction.clan_empire_north_1"/>
+	<Hero id="lord_1_411" father="Hero.lord_1_41" faction="Faction.clan_empire_north_1"/>
+	<!-- Empire north 2 (TD) -->
+	<Hero id="lord_1_3" spouse="Hero.lord_1_4" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_4" spouse="Hero.lord_1_3" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_32" father="Hero.lord_1_3" mother="Hero.lord_1_4" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_22" spouse="Hero.lord_1_1_3" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_1_3" spouse="Hero.lord_1_22" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_42" spouse="Hero.lord_1_1_4" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_1_4" spouse="Hero.lord_1_42" faction="Faction.clan_empire_north_2"/>
+	<Hero id="lord_1_422" father="Hero.lord_1_3" mother="Hero.lord_1_4" faction="Faction.clan_empire_north_2"/>
+	<!-- Empire north 3 (TD) -->
+	<Hero id="lord_1_5" spouse="Hero.lord_1_1_7" faction="Faction.clan_empire_north_3"/>
+	<Hero id="lord_1_1_7" spouse="Hero.lord_1_5" faction="Faction.clan_empire_north_3"/>
+	<Hero id="lord_1_1_8" father="Hero.lord_1_5" mother="Hero.lord_1_1_7" faction="Faction.clan_empire_north_3"/>
+	<!-- son of neretzes and his wife-->
+	<Hero id="lord_1_6" father="Hero.lord_1_5" mother="Hero.lord_1_1_7" faction="Faction.clan_empire_north_3"/>
+	<Hero id="lord_1_33" father="Hero.lord_1_5" mother="Hero.lord_1_1_7" faction="Faction.clan_empire_north_3"/>
+	<Hero id="lord_1_43" faction="Faction.clan_empire_north_3"/>
+	<!-- lieutenant and family -->
+	<Hero id="lord_1_1_9" spouse="Hero.lord_1_43" faction="Faction.clan_empire_north_3"/>
+	<Hero id="lord_1_1_10" father="Hero.lord_1_43" mother="Hero.lord_1_1_9" faction="Faction.clan_empire_north_3"/>
+	<!-- Empire north 4 (TD) -->
+	<Hero id="lord_1_1_12" faction="Faction.clan_empire_north_4"/>
+	<Hero id="lord_1_1_13" spouse="Hero.lord_1_64" faction="Faction.clan_empire_north_4"/>
+	<Hero id="lord_1_20" faction="Faction.clan_empire_north_4"/>
+	<Hero id="lord_1_64" faction="Faction.clan_empire_north_4"/>
+	<Hero id="lord_1_1_5" faction="Faction.clan_empire_north_4"/>
+	<Hero id="lord_1_1_11" faction="Faction.clan_empire_north_4"/>
+	<!-- Empire north 5 (TD) -->
+	<Hero id="lord_1_1_14" spouse="Hero.lord_1_50" faction="Faction.clan_empire_north_5"/>
+	<Hero id="lord_1_1_17" faction="Faction.clan_empire_north_5"/>
+	<Hero id="lord_1_50" faction="Faction.clan_empire_north_5"/>
+	<Hero id="lord_1_66" faction="Faction.clan_empire_north_5"/>
+	<!-- Empire north 6 (TD) -->
+	<Hero id="lord_1_1_15" spouse="Hero.lord_1_67" faction="Faction.clan_empire_north_6"/>
+	<Hero id="lord_1_1_16" father="Hero.lord_1_67" mother="Hero.lord_1_1_15" faction="Faction.clan_empire_north_6"/>
+	<Hero id="lord_1_51" faction="Faction.clan_empire_north_6"/>
+	<Hero id="lord_1_67" faction="Faction.clan_empire_north_6"/>
+	<Hero id="lord_1_1_6" faction="Faction.clan_empire_north_6"/>
+	<!-- Phalentes, clan North 7 (TD) -->
+	<Hero id="lord_1_58" faction="Faction.clan_empire_north_7"/>
+	<Hero id="lord_1_70" faction="Faction.clan_empire_north_7"/>
+	<Hero id="lord_NE7_u" faction="Faction.clan_empire_north_7"/>
+	<Hero id="lord_1_33" father="Hero.lord_NE7_u" mother="Hero.lord_1_70" faction="Faction.clan_empire_north_7"/>
+	<!-- Empire north 8 - Vatatzes (TD) -->
+	<Hero id="lord_NE8_l" spouse="Hero.lord_NE8_s" faction="Faction.clan_empire_north_8"/>
+	<Hero id="lord_NE8_s" spouse="Hero.lord_NE8_l" faction="Faction.clan_empire_north_8"/>
+	<Hero id="lord_NE8_c1" father="Hero.lord_NE8_l" mother="Hero.lord_NE8_s" faction="Faction.clan_empire_north_8"/>
+	<Hero id="lord_NE8_c2" father="Hero.lord_NE8_l" mother="Hero.lord_NE8_s" faction="Faction.clan_empire_north_8"/>
+	<!-- Empire north 9 - Serapides (TD) -->
+	<Hero id="lord_NE9_l" faction="Faction.clan_empire_north_9"/>
+	<Hero id="lord_NE9_s" father="Hero.lord_NE9_l" faction="Faction.clan_empire_north_9"/>
+	<Hero id="lord_NE9_d" father="Hero.lord_NE9_l" faction="Faction.clan_empire_north_9"/>
+	<Hero id="lord_1_56" spouse="Hero.lord_1_56_1" faction="Faction.clan_empire_north_9"/>
+	<Hero id="lord_1_56_1" spouse="Hero.lord_1_56" faction="Faction.clan_empire_north_9"/>
+	<!-- Empire west 1 (DONE) -->
+	<Hero id="lord_1_7" spouse="Hero.lord_1_8" faction="Faction.clan_empire_west_1" text="{=niI9dpuu}The western third of the Empire is ruled by Garios, a charismatic general who represents a longstanding populist trend in imperial politics. He is deeply loved by his soldiers, both for his solid record in winning battles and for his insistence that his veterans be compensated in land afterwards. He often demands that the 'people' should settle key issues, but in practice this usually means an assembly of his soldiers, where his veterans can be counted on to shut down opposition." />
+	<Hero id="lord_1_75" father="Hero.lord_1_7" faction="Faction.clan_empire_west_1"/>
+	<Hero id="lord_1_8" spouse="Hero.lord_1_7" faction="Faction.clan_empire_west_1"/>
+	<Hero id="lord_1_34" father="Hero.lord_1_7" mother="Hero.lord_1_8" faction="Faction.clan_empire_west_1"/>
+	<Hero id="lord_1_24" faction="Faction.clan_empire_west_1"/>
+	<Hero id="lord_1_44" faction="Faction.clan_empire_west_1"/>
+	<Hero id="AR_lord_1_8" spouse="Hero.AR_lord_1_9" faction="Faction.clan_empire_west_1" text="{=arI9dpuu}The Calradian Empire is ruled by Helenea, wife of the late-Emperor Themestios and regent for their son Jamanys. The first female ruler of the Calradian Empire since the lady Zeona, two centuries ago, she will rule until her son comes of age. Generous and wise, she is a popular figure with the Empire's people, though has little support amongst those in the senatorial nobility who remain loyal to her family. Whilst they voted for her son, many in the senate worry that Helenea may take the imperial throne for herself, instead of handing over power when Jamanys is at the rightful age."/>
+	<Hero id="AR_lord_1_9" alive="false" spouse="Hero.AR_lord_1_8" faction="Faction.clan_empire_west_1" text="{=arI9dpuv}Themestios was the last emperor of a united Calradian Empire. A cunning politician and efficient administrator, he successfully led the Empire in campaigns of expansion to the east, incorporating much of the remaining Palaic territory west of Lake Tanaesis into the imperial fold. However, his reign was cut short when a campaign into the Iltan Portages went awry, with the emperor's camp being overrun by Gotarnian horsemen during the night. In the brief battle, Themestios was slain and the dragon banner of Calradios was carried off by Gotarnian tribesmen as a trophy; the emperor's sudden loss leaving the Empire in a state of disarray."/>
+	<Hero id="AR_lord_1_10" father="Hero.AR_lord_1_9" mother="Hero.AR_lord_1_8" faction="Faction.clan_empire_west_1" text="{=arI9dpuw}Junia is the eldest child of the late-Emperor Themestios. A natural-born leader, she spent much of her childhood learning the arts of statecraft from her father and mother, being given the high honor of leading an elite unit of her father's lancers at only the age of 18. Passed over for succession to the imperial throne in favor of her younger brother, Junia now follows her own path."/>
+	<Hero id="AR_lord_1_11" father="Hero.AR_lord_1_9" mother="Hero.AR_lord_1_8" faction="Faction.clan_empire_west_1" text="{=arI9dpux}Jamanys is the heir-apparent for the throne of the Calradian Empire. After the untimely death of his father Themestios, the Calradian senate met to vote on the matter of succession. The late-emperor had named his son as heir, though many senators believed that a boy so young was unfit to rule. A vote was held, with Jamanys being nominated Emperor by an incredibly slim margin. Abandoned immediately by nearly half of the senate, who fled to the west, the remaining senators named Jamanys' mother regent until he comes of age. However, with civil war raging on all sides, some say the Empire may not survive long enough for him to take his throne."/>
+	<!-- Empire west 2 (DONE) -->
+	<Hero id="lord_1_9" spouse="Hero.lord_1_10" faction="Faction.clan_empire_west_2"/>
+	<Hero id="lord_1_10" spouse="Hero.lord_1_9" faction="Faction.clan_empire_west_2"/>
+	<Hero id="lord_1_35" faction="Faction.clan_empire_west_2"/>
+	<Hero id="lord_1_25" father="Hero.lord_1_9" mother="Hero.lord_1_10" faction="Faction.clan_empire_west_2"/>
+	<Hero id="lord_1_23" father="Hero.lord_1_9" mother="Hero.lord_1_10" faction="Faction.clan_empire_west_2"/>
+	<!-- Empire west 3 (DONE) -->
+	<Hero id="lord_1_11" spouse="Hero.lord_1_12" faction="Faction.clan_empire_west_3" text="Dorios is the head of the Western Empire. A senator from an old family; his people have raised cattle in the fertile western lands of the Calradian Empire for generations. He is a reluctant ruler, driven to secession from the Empire by the weakness of the Emperors to protect his homeland and estates from the growing Vlandian menace. Now, he leads a senate comprising the most powerful western nobles, attempting to reclaim what was lost to the invaders."/>
+	<Hero id="lord_1_111" father="Hero.lord_1_11" mother="Hero.lord_1_12" faction="Faction.clan_empire_west_3"/>
+	<Hero id="lord_1_12" spouse="Hero.lord_1_11" faction="Faction.clan_empire_west_3"/>
+	<Hero id="lord_1_36" father="Hero.lord_1_11" mother="Hero.lord_1_12" faction="Faction.clan_empire_west_3"/>
+	<Hero id="lord_1_26" father="Hero.lord_1_11" mother="Hero.lord_1_12" faction="Faction.clan_empire_west_3"/>
+	<!-- empire west 4 (DONE) -->
+	<Hero id="lord_1_40" spouse="Hero.lord_1_40_1" faction="Faction.clan_empire_west_4"/>
+	<Hero id="lord_1_40_1" spouse="Hero.lord_1_40" faction="Faction.clan_empire_west_4"/>
+	<Hero id="lord_1_46" faction="Faction.clan_empire_west_4"/>
+	<Hero id="lord_1_46_1" father="Hero.lord_1_46" faction="Faction.clan_empire_west_4"/>
+	<!-- empire west 5 (DONE) -->
+	<Hero id="lord_1_45" spouse="Hero.lord_1_45_1" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_45_1" spouse="Hero.lord_1_45" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_45_2" father="Hero.lord_1_45" mother="Hero.lord_1_45_1" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_45_3" father="Hero.lord_1_45" mother="Hero.lord_1_45_1" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_57" spouse="Hero.lord_1_57_1" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_57_1" spouse="Hero.lord_1_57" faction="Faction.clan_empire_west_5"/>
+	<Hero id="lord_1_57_2" father="Hero.lord_1_57" mother="Hero.lord_1_57_1" faction="Faction.clan_empire_west_5"/>
+	<!-- empire west 6 (DONE) -->
+	<Hero id="lord_1_52" spouse="Hero.lord_1_52_1" faction="Faction.clan_empire_west_6"/>
+	<Hero id="lord_1_52_1" spouse="Hero.lord_1_52" faction="Faction.clan_empire_west_6"/>
+	<Hero id="lord_1_52_2" father="Hero.lord_1_52" mother="Hero.lord_1_52_1" faction="Faction.clan_empire_west_6"/>
+	<Hero id="lord_1_62" spouse="Hero.lord_1_62_1" faction="Faction.clan_empire_west_6"/>
+	<Hero id="lord_1_62_1" spouse="Hero.lord_1_62" faction="Faction.clan_empire_west_6"/>
+	<!-- empire west 7 (DONE) -->
+	<Hero id="lord_1_53" faction="Faction.clan_empire_west_7"/>
+	<Hero id="lord_1_73" spouse="Hero.lord_1_73_1" faction="Faction.clan_empire_west_7"/>
+	<Hero id="lord_1_73_1" spouse="Hero.lord_1_73" faction="Faction.clan_empire_west_7"/>
+	<!-- Maneolis, clan West 8 (DONE) -->
+	<Hero id="lord_1_71" faction="Faction.clan_empire_west_8"/>
+	<Hero id="lord_WE8_c" faction="Faction.clan_empire_west_8"/>
+	<Hero id="lord_WE8_u" faction="Faction.clan_empire_west_8"/>
+	<!-- Palladios, somewhat dull clan leader, his politically astute sister and her husband (DONE) -->
+	<Hero id="lord_WE9_l" faction="Faction.clan_empire_west_9"/>
+	<Hero id="lord_WE9_u" spouse="Hero.lord_WE9_u2" faction="Faction.clan_empire_west_9"/>
+	<Hero id="lord_WE9_u2" spouse="Hero.lord_WE9_u" faction="Faction.clan_empire_west_9"/>
+	<!-- EMPIRE SOUTH 1 (DONE) -->
+    <Hero id="lord_1_14" faction="Faction.clan_empire_south_1" text="{=uX0dbuLa}The southern third of the Empire is ruled by Rhagaea, widow of the murdered emperor. For her, politics is personal: all men want their families to inherit what they have, and if you loved Arenicos then you will support the rights of his heirs. Arenicos was indeed loved, and also there are some Calradians who believe that the endless squabbling and civil wars can only be overcome by a king, or, if necessary, by a queen. " />
+	<!--Hero id="AR_lord_SE1"  faction="Faction.clan_empire_south_1" /-->
+	<Hero id="lord_1_27" spouse="Hero.lord_1_27_1" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_27_1" spouse="Hero.lord_1_27" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_27_2" father="Hero.lord_1_27" mother="Hero.lord_1_27_1" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_27_3" father="Hero.lord_1_27" mother="Hero.lord_1_27_1" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_37" mother="Hero.lord_1_14" faction="Faction.clan_empire_south_1"/>
+	<!--Hero id="AR_lord_1_13"  father="Hero.AR_lord_1_12" mother="Hero.lord_1_14" faction="Faction.clan_empire_south_1" /-->
+	<Hero id="lord_1_47" spouse="Hero.lord_1_47_1" faction="Faction.clan_empire_south_1" />
+	<Hero id="lord_1_47_1" spouse="Hero.lord_1_47" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_47_2" father="Hero.lord_1_47" mother="Hero.lord_1_47_1" faction="Faction.clan_empire_south_1"/>
+	<Hero id="lord_1_47_3" father="Hero.lord_1_47" mother="Hero.lord_1_47_1" faction="Faction.clan_empire_south_1"/>
+	<!-- empire south 2 (DONE) -->
+	<Hero id="lord_1_15" spouse="Hero.lord_1_16" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_155" father="Hero.lord_1_15" mother="Hero.lord_1_16" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_16" spouse="Hero.lord_1_15" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_28" father="Hero.lord_1_15" mother="Hero.lord_1_16" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_38" father="Hero.lord_1_15" mother="Hero.lord_1_16" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_48" spouse="Hero.lord_1_48_1" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_48_1" spouse="Hero.lord_1_48" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_48_2" father="Hero.lord_1_48" mother="Hero.lord_1_48_1" faction="Faction.clan_empire_south_2"/>
+	<Hero id="lord_1_48_3" father="Hero.lord_1_48" mother="Hero.lord_1_48_1" faction="Faction.clan_empire_south_2"/>
+	<!-- empire south 3 (DONE) -->
+	<Hero id="lord_1_177" father="Hero.lord_1_17" mother="Hero.lord_1_18" faction="Faction.clan_empire_south_3"/>
+	<Hero id="lord_1_29" father="Hero.lord_1_17" mother="Hero.lord_1_18" faction="Faction.clan_empire_south_3"/>
+	<Hero id="lord_1_17" spouse="Hero.lord_1_18" faction="Faction.clan_empire_south_3"/>
+	<Hero id="lord_1_18" spouse="Hero.lord_1_17" faction="Faction.clan_empire_south_3"/>
+	<Hero id="lord_1_39" father="Hero.lord_1_17" mother="Hero.lord_1_18" faction="Faction.clan_empire_south_3"/>
+	<!-- South 4: Hongeros (DONE) -->
+	<Hero id="lord_1_30" spouse="Hero.lord_1_30_1" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_30_1" spouse="Hero.lord_1_30" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_49" spouse="Hero.lord_1_49_1" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_49_1" spouse="Hero.lord_1_49" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_49_2" father="Hero.lord_1_49" mother="Hero.lord_1_49_1" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_30_2" father="Hero.lord_1_30" mother="Hero.lord_1_30_1" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_30_3" father="Hero.lord_1_30" mother="Hero.lord_1_30_1" faction="Faction.clan_empire_south_4"/>
+	<Hero id="lord_1_56_2" father="Hero.lord_1_56" mother="Hero.lord_1_56_1" faction="Faction.clan_empire_south_4"/>
+	<!-- South 5: (DONE) -->
+	<Hero id="lord_1_63_2" father="Hero.lord_1_63" mother="Hero.lord_1_63_1" faction="Faction.clan_empire_south_5"/>
+	<Hero id="lord_1_63_3" father="Hero.lord_1_63" mother="Hero.lord_1_63_1" faction="Faction.clan_empire_south_5"/>
+	<Hero id="lord_1_63" spouse="Hero.lord_1_63_1" faction="Faction.clan_empire_south_5"/>
+	<Hero id="lord_1_63_1" spouse="Hero.lord_1_63" faction="Faction.clan_empire_south_5"/>
+	<Hero id="lord_1_74" spouse="Hero.lord_1_74_1" faction="Faction.clan_empire_south_5"/>
+	<Hero id="lord_1_74_1" spouse="Hero.lord_1_74" faction="Faction.clan_empire_south_5"/>
+	<!-- South 6: (DONE) -->
+	<Hero id="lord_1_54" spouse="Hero.lord_1_54_1" faction="Faction.clan_empire_south_6"/>
+	<Hero id="lord_1_54_1" spouse="Hero.lord_1_54" faction="Faction.clan_empire_south_6"/>
+	<Hero id="lord_1_68" spouse="Hero.lord_1_68_1" faction="Faction.clan_empire_south_6"/>
+	<Hero id="lord_1_68_1" spouse="Hero.lord_1_68" faction="Faction.clan_empire_south_6"/>
+	<!-- South 7: Avlonos (DONE) -->
+	<Hero id="lord_1_69_2" father="Hero.lord_1_69" mother="Hero.lord_1_69_1" faction="Faction.clan_empire_south_7"/>
+	<Hero id="lord_1_69" spouse="Hero.lord_1_69_1" faction="Faction.clan_empire_south_7"/>
+	<Hero id="lord_1_69_1" spouse="Hero.lord_1_69" faction="Faction.clan_empire_south_7"/>
+	<Hero id="lord_1_55" spouse="Hero.lord_1_55_1" faction="Faction.clan_empire_south_7"/>
+	<Hero id="lord_1_55_1" spouse="Hero.lord_1_55" faction="Faction.clan_empire_south_7"/>
+	<!-- South 8: Prienicos (DONE) -->
+	<Hero id="lord_1_72" spouse="Hero.lord_1_72_1" faction="Faction.clan_empire_south_8"/>
+	<Hero id="lord_1_72_1" spouse="Hero.lord_1_72" faction="Faction.clan_empire_south_8"/>
+	<Hero id="lord_SE8_c" faction="Faction.clan_empire_south_8"/>
+	<!-- Vetranis, older patriarch was a child of a traitor, was rehabilitated by Arenicos (DONE) -->
+	<Hero id="lord_SE9_l" spouse="Hero.lord_SE9_s" faction="Faction.clan_empire_south_9"/>
+	<Hero id="lord_SE9_s" spouse="Hero.lord_SE9_l" faction="Faction.clan_empire_south_9"/>
+	<Hero id="lord_SE9_c1" father="Hero.lord_SE9_l" mother="Hero.lord_SE9_s" faction="Faction.clan_empire_south_9"/>
+	<Hero id="lord_SE9_c2" father="Hero.lord_SE9_l" mother="Hero.lord_SE9_s" faction="Faction.clan_empire_south_9"/>
+	<!-- STURGIA - Gundaroving -->
+    <Hero id="lord_2_1" spouse="Hero.lord_2_2" faction="Faction.clan_sturgia_1" text="{=LW92PgZz}The current Grand Prince of Sturgia is Raganvad. Harsh and uncompromising, he believes that it is the right of the prince to command the boyars in all things, not just in making war. For the time being they obey him, not least for his ability to call on the kinsmen of his mother, a Nordic princess with ties to the fearsome Skolderbroda mercenary company." />
+	<Hero id="lord_2_2" spouse="Hero.lord_2_1" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_13_1" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_13_2" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_13_3" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_13_4" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_7" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_7_1" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_10" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
+	<Hero id="lord_2_13" faction="Faction.clan_sturgia_1"/>
+	<!-- Sturgia clan 2 -->
+	<Hero id="lord_2_3" father="Hero.dead_lord_2_1" faction="Faction.clan_sturgia_2"/>
+	<Hero id="lord_2_4" father="Hero.dead_lord_2_1" faction="Faction.clan_sturgia_2"/>
+	<Hero id="lord_2_4_1" mother="Hero.lord_2_4" faction="Faction.clan_sturgia_2"/>
+	<Hero id="lord_2_8" father="Hero.lord_2_3" faction="Faction.clan_sturgia_2"/>
+	<Hero id="lord_2_11" father="Hero.lord_2_3" faction="Faction.clan_sturgia_2"/>
+	<Hero id="lord_2_111" father="Hero.lord_2_3" faction="Faction.clan_sturgia_2"/>
+	<!-- Sturgia clan 3 -->
+	<Hero id="lord_2_5" spouse="Hero.lord_2_6" faction="Faction.clan_sturgia_3" />
+	<Hero id="lord_2_6" spouse="Hero.lord_2_5" faction="Faction.clan_sturgia_3"/>
+	<Hero id="lord_2_9" father="Hero.lord_2_5" mother="Hero.lord_2_6" faction="Faction.clan_sturgia_3"/>
+	<Hero id="lord_2_12" father="Hero.lord_2_5" mother="Hero.lord_2_6" faction="Faction.clan_sturgia_3"/>
+	<Hero id="lord_2_121" father="Hero.lord_2_5" mother="Hero.lord_2_6" faction="Faction.clan_sturgia_3"/>
+	<!-- Sturgia clan 4 -->
+	<Hero id="lord_2_14" spouse="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_14_1" spouse="Hero.lord_2_14" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_14_2" father="Hero.lord_2_14" mother="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_14_3" father="Hero.lord_2_14" mother="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_16" spouse="Hero.lord_2_16_1" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_16_1" spouse="Hero.lord_2_16" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_21" spouse="Hero.lord_2_21_1" faction="Faction.clan_sturgia_4"/>
+	<Hero id="lord_2_21_1" spouse="Hero.lord_2_21" faction="Faction.clan_sturgia_4"/>
+	<!-- Sturgia clan 5 -->
+	<Hero id="lord_2_17" spouse="Hero.lord_2_17_1" faction="Faction.clan_sturgia_5"/>
+	<Hero id="lord_2_17_1" spouse="Hero.lord_2_17" faction="Faction.clan_sturgia_5"/>
+	<Hero id="lord_2_22" spouse="Hero.lord_2_22_1" faction="Faction.clan_sturgia_5"/>
+	<Hero id="lord_2_22_1" spouse="Hero.lord_2_22" faction="Faction.clan_sturgia_5"/>
+	<Hero id="lord_2_24" spouse="Hero.lord_2_24_1" faction="Faction.clan_sturgia_5"/>
+	<Hero id="lord_2_24_1" spouse="Hero.lord_2_24" faction="Faction.clan_sturgia_5"/>
+	<!-- Sturgia clan 6 -->
+	<Hero id="lord_2_18" spouse="Hero.lord_2_18_1" faction="Faction.clan_sturgia_6"/>
+	<Hero id="lord_2_18_1" spouse="Hero.lord_2_18" faction="Faction.clan_sturgia_6"/>
+	<Hero id="lord_2_23" faction="Faction.clan_sturgia_6"/>
+	<Hero id="lord_2_23_1" father="Hero.lord_2_23" faction="Faction.clan_sturgia_6"/>
+	<!-- Sturgia clan 7 -->
+	<Hero id="lord_2_15" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_15_1" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_15_2" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_15_3" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_15_4" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_19" spouse="Hero.lord_2_19_1" faction="Faction.clan_sturgia_7"/>
+	<Hero id="lord_2_19_1" spouse="Hero.lord_2_19" faction="Faction.clan_sturgia_7"/>
+	<!-- ASERAI clan 1 -->
+	<Hero id="lord_3_1" spouse="Hero.lord_3_2" faction="Faction.clan_aserai_1" text="{=L90aSR5J}The current Sultan of Aserai is Unqid. He wears his authority lightly, preferring to charm rather than to coerce, always deferring to the laws of the Banu Asera in his judgments. But there are some who say that Unqid is remiss in his duty to administer justice, allowing the wealthiest clans - such as his own - to use bribes and clever legal arguments to oppress the others." />
+	<Hero id="lord_3_2" spouse="Hero.lord_3_1" faction="Faction.clan_aserai_1"/>
+	<Hero id="lord_3_7" father="Hero.lord_3_1" mother="Hero.lord_3_2" faction="Faction.clan_aserai_1"/>
+	<Hero id="lord_3_10" father="Hero.lord_3_1" mother="Hero.lord_3_2" faction="Faction.clan_aserai_1"/>
+	<Hero id="lord_3_13" spouse="Hero.lord_3_13_1" faction="Faction.clan_aserai_1"/>
+	<Hero id="lord_3_13_1" spouse="Hero.lord_3_13" faction="Faction.clan_aserai_1"/>
+	<Hero id="lord_3_13_2" father="Hero.lord_3_13" mother="Hero.lord_3_13_1" faction="Faction.clan_aserai_1"/>
+	<!-- ASERAI clan 2, Banu Sarran-->
+	<Hero id="lord_3_8" father="Hero.lord_3_3" mother="Hero.lord_3_4" faction="Faction.clan_aserai_2"/>
+	<Hero id="lord_3_11" father="Hero.lord_3_3" mother="Hero.lord_3_4" faction="Faction.clan_aserai_2"/>
+	<Hero id="lord_3_3" spouse="Hero.lord_3_4" faction="Faction.clan_aserai_2"/>
+	<Hero id="lord_3_3_1" father="Hero.lord_3_3" mother="Hero.lord_3_4" faction="Faction.clan_aserai_2"/>
+	<Hero id="lord_3_4" spouse="Hero.lord_3_3" faction="Faction.clan_aserai_2"/>
+	<!-- ASERAI clan 3, Banu Qild-->
+	<Hero id="lord_3_5" spouse="Hero.lord_3_6" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_51" father="Hero.lord_3_5" mother="Hero.lord_3_6" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_12" father="Hero.lord_3_5" mother="Hero.lord_3_6" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_20" spouse="Hero.lord_3_20_1" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_20_1" spouse="Hero.lord_3_20" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_20_2" father="Hero.lord_3_20" mother="Hero.lord_3_20_1" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_6" spouse="Hero.lord_3_5" faction="Faction.clan_aserai_3"/>
+	<Hero id="lord_3_9" father="Hero.lord_3_5" mother="Hero.lord_3_6" faction="Faction.clan_aserai_3"/>
+	<!-- Aserai 4 -->
+	<Hero id="lord_3_14" spouse="Hero.lord_3_14_1" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_14_1" spouse="Hero.lord_3_14" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_15" spouse="Hero.lord_3_15_1" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_15_1" spouse="Hero.lord_3_15" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_15_2" father="Hero.lord_3_15" mother="Hero.lord_3_15_1" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_16" spouse="Hero.lord_3_16_1" faction="Faction.clan_aserai_4"/>
+	<Hero id="lord_3_16_1" spouse="Hero.lord_3_16" faction="Faction.clan_aserai_4"/>
+	<!-- Aserai 5 -->
+	<Hero id="lord_3_17" spouse="Hero.lord_3_17_1" faction="Faction.clan_aserai_5"/>
+	<Hero id="lord_3_17_1" spouse="Hero.lord_3_17" faction="Faction.clan_aserai_5"/>
+	<Hero id="lord_3_17_2" father="Hero.lord_3_17" mother="Hero.lord_3_17_1" faction="Faction.clan_aserai_5"/>
+	<Hero id="lord_3_21" spouse="Hero.lord_3_21_1" faction="Faction.clan_aserai_5"/>
+	<Hero id="lord_3_21_1" spouse="Hero.lord_3_21" faction="Faction.clan_aserai_5"/>
+	<!-- Aserai 6, Banu Atij-->
+	<Hero id="AR_lord_3_18" spouse="Hero.lord_3_18" faction="Faction.clan_aserai_6"/>
+	<Hero id="lord_3_18" spouse="Hero.AR_lord_3_18" faction="Faction.clan_aserai_6"/>
+	<Hero id="lord_3_18_1" father="Hero.lord_3_18" faction="Faction.clan_aserai_6"/>
+	<Hero id="lord_3_18_2" father="Hero.lord_3_18" faction="Faction.clan_aserai_6"/>
+	<Hero id="lord_3_18_3" father="Hero.lord_3_18" faction="Faction.clan_aserai_6"/>
+	<Hero id="lord_3_18_4" father="Hero.lord_3_18" faction="Faction.clan_aserai_6"/>
+	<!-- Aserai 7, Banu Atij-->
+	<Hero id="lord_3_19" spouse="Hero.lord_3_19_1" faction="Faction.clan_aserai_7"/>
+	<Hero id="lord_3_19_1" spouse="Hero.lord_3_19" faction="Faction.clan_aserai_7"/>
+	<Hero id="lord_3_19_2" father="Hero.lord_3_19" mother="Hero.lord_3_19_1" faction="Faction.clan_aserai_7"/>
+	<Hero id="lord_3_19_3" father="Hero.lord_3_19" mother="Hero.lord_3_19_1" faction="Faction.clan_aserai_7"/>
+	<Hero id="lord_3_23" spouse="Hero.lord_3_23_1" faction="Faction.clan_aserai_7"/>
+	<Hero id="lord_3_23_1" spouse="Hero.lord_3_23" faction="Faction.clan_aserai_7"/>
+	<!-- Aserai 8 -->
+	<Hero id="lord_3_22" spouse="Hero.lord_3_22_1" faction="Faction.clan_aserai_8"/>
+	<Hero id="lord_3_22_1" spouse="Hero.lord_3_22" faction="Faction.clan_aserai_8"/>
+	<Hero id="lord_3_22_2" father="Hero.lord_3_22" mother="Hero.lord_3_22_1" faction="Faction.clan_aserai_8"/>
+	<Hero id="lord_3_22_3" father="Hero.lord_3_22" mother="Hero.lord_3_22_1" faction="Faction.clan_aserai_8"/>
+	<Hero id="lord_3_22_4" father="Hero.lord_3_22" mother="Hero.lord_3_22_1" faction="Faction.clan_aserai_8"/>
+	<!-- Vlandia clan 1 -->
+	<Hero id="lord_4_1" spouse="Hero.lord_4_2" faction="Faction.clan_vlandia_1" text="{=EHiQI7ps}The current king of Vlandia is Derthert. In his youth, he dreamt of glorious conquest. In fact he spent most of his reign simply putting down revolts, quashing pretenders, and keeping the fractious barons in line. When possible, he prefers to rule by arbitration, cajoling his vassals to set aside claims to each other's lands and enjoy what they have. But some Vlandians murmur that a warrior people deserve a more virile king." />
+	<Hero id="lord_4_2" spouse="Hero.lord_4_1" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_7" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_10" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_13" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_14" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_141" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
+	<Hero id="lord_4_15" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
+	<!-- Vlandia clan 2 -->
+	<Hero id="lord_4_3" spouse="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
+	<Hero id="lord_4_3_1" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
+	<Hero id="lord_4_4" spouse="Hero.lord_4_3" faction="Faction.clan_vlandia_2"/>
+	<Hero id="lord_4_8" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
+	<Hero id="lord_4_11" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
+	<!-- Vlandia clan 3 -->
+	<Hero id="lord_4_6" faction="Faction.clan_vlandia_3" spouse="Hero.lord_4_5"/>
+	<Hero id="lord_4_6_1" father="Hero.lord_4_5" mother="Hero.lord_4_6" faction="Faction.clan_vlandia_3"/>
+	<Hero id="lord_4_5" faction="Faction.clan_vlandia_3" spouse="Hero.lord_4_6"/>
+	<Hero id="lord_4_9" father="Hero.lord_4_5" mother="Hero.lord_4_6" faction="Faction.clan_vlandia_3"/>
+	<Hero id="lord_4_12" father="Hero.lord_4_5" mother="Hero.lord_4_6" faction="Faction.clan_vlandia_3"/>
+	<Hero id="lord_4_121" father="Hero.lord_4_5" mother="Hero.lord_4_6" faction="Faction.clan_vlandia_3"/>
+	<!-- Vlandia clan 4 -->
+	<Hero id="lord_4_16" spouse="Hero.lord_4_17" faction="Faction.clan_vlandia_4"/>
+	<Hero id="lord_4_16_1" father="Hero.lord_4_16" mother="Hero.lord_4_17" faction="Faction.clan_vlandia_4"/>
+	<Hero id="lord_4_17" spouse="Hero.lord_4_16" faction="Faction.clan_vlandia_4"/>
+	<Hero id="lord_4_18" father="Hero.lord_4_16" mother="Hero.lord_4_17" faction="Faction.clan_vlandia_4"/>
+	<Hero id="lord_4_181" father="Hero.lord_4_16" mother="Hero.lord_4_17" faction="Faction.clan_vlandia_4"/>
+	<Hero id="lord_4_19" father="Hero.lord_4_16" mother="Hero.lord_4_17" faction="Faction.clan_vlandia_4"/>
+	<!-- Vlandia clan 5 -->
+	<Hero id="lord_4_25" spouse="Hero.lord_4_25_1" faction="Faction.clan_vlandia_5"/>
+	<Hero id="lord_4_25_1" spouse="Hero.lord_4_25" faction="Faction.clan_vlandia_5"/>
+	<Hero id="lord_4_21" faction="Faction.clan_vlandia_5"/>
+	<!-- Vlandia clan 6 -->
+	<Hero id="lord_4_20" spouse="Hero.lord_4_20_1" faction="Faction.clan_vlandia_6"/>
+	<Hero id="lord_4_20_1" spouse="Hero.lord_4_20" faction="Faction.clan_vlandia_6"/>
+	<Hero id="lord_4_22" spouse="Hero.lord_4_22_1" faction="Faction.clan_vlandia_6"/>
+	<Hero id="lord_4_22_1" spouse="Hero.lord_4_22" faction="Faction.clan_vlandia_6"/>
+	<!-- Vlandia clan 7, der fortis-->
+	<Hero id="lord_4_23" faction="Faction.clan_vlandia_7" />
+	<Hero id="lord_4_23_1" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7"/>
+	<Hero id="lord_4_23_2" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7"/>
+	<Hero id="lord_4_23_3" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7"/>
+	<!-- dey Molarn -->
+	<Hero id="lord_4_24" spouse="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_24_1" spouse="Hero.lord_4_24" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_24_2" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_24_3" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_24_4" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_26" faction="Faction.clan_vlandia_8"/>
+	<Hero id="lord_4_26_1" faction="Faction.clan_vlandia_8"/>
+	<!-- Dey Jelind -->
+	<Hero id="lord_4_27" spouse="Hero.lord_4_27_1" faction="Faction.clan_vlandia_9"/>
+	<Hero id="lord_4_27_1" spouse="Hero.lord_4_27" faction="Faction.clan_vlandia_9"/>
+	<Hero id="lord_V9_u" faction="Faction.clan_vlandia_9"/>
+	<!-- Vlandia clan 10 -->
+	<Hero id="lord_4_28" faction="Faction.clan_vlandia_10"/>
+	<Hero id="lord_4_28_1" father="Hero.lord_4_28" faction="Faction.clan_vlandia_10"/>
+	<Hero id="lord_4_28_2" father="Hero.lord_4_28" faction="Faction.clan_vlandia_10"/>
+	<!-- Battanian clans begin -->
+	<Hero id="lord_5_1" faction="Faction.clan_battania_1" text="{=8SiW73EF}The current High King of Battania is Caladog, a brilliant war captain adopted by the prior king, Aeril, who then died in mysterious circumstances. Despite the doubts around his accession, Caladog has made himself popular among the lesser clans of the land who admire him, a man of no great lineage, for having discomfited the Battanians' traditional clan hierarchy. His clan is the fen Gruffendoc, a formerly obscure family now swollen with his comrades-in-arms with whom he has made marriage alliances." />
+	<Hero id="lord_5_1_1" father="Hero.lord_5_1" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_3" spouse="Hero.lord_5_4" faction="Faction.clan_battania_2" />
+	<Hero id="lord_5_3_1" father="Hero.lord_5_3" faction="Faction.clan_battania_2"/>
+	<Hero id="lord_5_3_2" faction="Faction.clan_battania_2"/>
+	<Hero id="lord_5_4" spouse="Hero.lord_5_3" faction="Faction.clan_battania_2"/>
+	<Hero id="lord_5_5" faction="Faction.clan_battania_3" spouse="Hero.lord_5_6"/>
+	<Hero id="lord_5_5_1" faction="Faction.clan_battania_3" father="Hero.lord_5_5" mother="Hero.lord_5_6"/>
+	<Hero id="lord_5_6" faction="Faction.clan_battania_3" spouse="Hero.lord_5_5"/>
+	<Hero id="lord_5_7" father="Hero.lord_5_1" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_8" father="Hero.lord_5_3" faction="Faction.clan_battania_2"/>
+	<Hero id="lord_5_9" father="Hero.lord_5_5" mother="Hero.lord_5_6" faction="Faction.clan_battania_3"/>
+	<Hero id="lord_5_91" father="Hero.lord_5_5" mother="Hero.lord_5_6" faction="Faction.clan_battania_3"/>
+	<Hero id="lord_5_10" father="Hero.lord_5_1" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_11" father="Hero.lord_5_3" faction="Faction.clan_battania_2"/>
+	<Hero id="lord_5_12" father="Hero.lord_5_5" mother="Hero.lord_5_6" faction="Faction.clan_battania_3"/>
+	<Hero id="lord_5_13" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_13_1" father="Hero.lord_5_13" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_131" father="Hero.lord_5_13" faction="Faction.clan_battania_1"/>
+	<Hero id="lord_5_15" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_15_1" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_15_2" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_15_3" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_14" spouse="Hero.lord_5_14_1" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_14_1" spouse="Hero.lord_5_14" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_16" spouse="Hero.lord_5_16_1" faction="Faction.clan_battania_5"/>
+	<Hero id="lord_5_16_1" spouse="Hero.lord_5_16" faction="Faction.clan_battania_5"/>
+	<Hero id="lord_5_16_2" father="Hero.lord_5_16" mother="Hero.lord_5_16_1" faction="Faction.clan_battania_5"/>
+	<Hero id="lord_5_17" spouse="Hero.lord_5_17_1" faction="Faction.clan_battania_6"/>
+	<Hero id="lord_5_17_1" spouse="Hero.lord_5_17" faction="Faction.clan_battania_6"/>
+	<Hero id="lord_5_18" father="Hero.lord_5_15" spouse="Hero.lord_5_18_1" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_18_1" spouse="Hero.lord_5_18" faction="Faction.clan_battania_7"/>
+	<Hero id="lord_5_19" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_20" faction="Faction.clan_battania_5"/>
+	<Hero id="lord_5_21" spouse="Hero.lord_5_21_1" faction="Faction.clan_battania_6"/>
+	<Hero id="lord_5_21_1" spouse="Hero.lord_5_21" faction="Faction.clan_battania_6"/>
+	<Hero id="lord_5_21_2" father="Hero.lord_5_21" mother="Hero.lord_5_21_1" faction="Faction.clan_battania_6"/>
+	<Hero id="lord_5_22" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_6_1" spouse="Hero.lord_6_2" faction="Faction.clan_khuzait_1" text="{=CzM6y3MT}Monchug, the current khan of the Khuzaits, looks upon the Empire in its state of disarray and dreams of glory, of surpassing his ancestor Urkhun and conquering even deeper into the settled lands. Some of the clans have been decimated by the Urkhunids' wars, however, and feel their sacrifices have not been properly rewarded. They yearn for a khan who is less interested in glory, and more interested in justice." />
+	<Hero id="lord_6_2" spouse="Hero.lord_6_1" faction="Faction.clan_khuzait_1"/>
+	<Hero id="lord_6_3" spouse="Hero.lord_6_4" faction="Faction.clan_khuzait_2"/>
+	<Hero id="lord_6_4" spouse="Hero.lord_6_3" father="Hero.dead_lord_6_2" faction="Faction.clan_khuzait_2"/>
+	<Hero id="lord_6_5" father="Hero.dead_lord_6_3" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_51" father="Hero.lord_6_5" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_6" faction="Faction.clan_khuzait_4"/>
+	<Hero id="lord_6_7" father="Hero.lord_6_1" mother="Hero.lord_6_2" faction="Faction.clan_khuzait_1"/>
+	<Hero id="lord_6_8" father="Hero.lord_6_3" mother="Hero.lord_6_4" faction="Faction.clan_khuzait_2"/>
+	<Hero id="lord_6_81" father="Hero.lord_6_3" mother="Hero.lord_6_4" faction="Faction.clan_khuzait_2"/>
+	<Hero id="lord_6_9" father="Hero.lord_6_5" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_10" father="Hero.lord_6_1" mother="Hero.lord_6_2" faction="Faction.clan_khuzait_1"/>
+	<Hero id="lord_6_101" father="Hero.lord_6_1" mother="Hero.lord_6_2" faction="Faction.clan_khuzait_1"/>
+	<Hero id="lord_6_11" father="Hero.lord_6_3" mother="Hero.lord_6_4" faction="Faction.clan_khuzait_2"/>
+	<Hero id="lord_6_12" father="Hero.lord_6_5" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_13" father="Hero.lord_6_1" faction="Faction.clan_khuzait_1"/>
+	<Hero id="lord_6_15" spouse="Hero.lord_6_15_1" father="Hero.dead_lord_6_3" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_15_1" spouse="Hero.lord_6_15" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_15_2" father="Hero.lord_6_15" mother="Hero.lord_6_15_1" faction="Faction.clan_khuzait_3"/>
+	<Hero id="lord_6_16" spouse="Hero.lord_6_16_1" faction="Faction.clan_khuzait_4"/>
+	<Hero id="lord_6_16_1" spouse="Hero.lord_6_16" faction="Faction.clan_khuzait_4"/>
+	<Hero id="lord_6_16_2" father="Hero.lord_6_16" mother="Hero.lord_6_16_1" faction="Faction.clan_khuzait_4"/>
+	<Hero id="lord_6_17" spouse="Hero.lord_6_17_1" faction="Faction.clan_khuzait_5"/>
+	<Hero id="lord_6_17_1" spouse="Hero.lord_6_17" faction="Faction.clan_khuzait_5"/>
+	<Hero id="lord_6_17_2" father="Hero.lord_6_17" mother="Hero.lord_6_17_1" faction="Faction.clan_khuzait_5"/>
+	<Hero id="lord_6_18" spouse="Hero.lord_6_18_1" faction="Faction.clan_khuzait_6"/>
+	<Hero id="lord_6_18_1" spouse="Hero.lord_6_18" faction="Faction.clan_khuzait_6"/>
+	<Hero id="lord_6_18_2" father="Hero.lord_6_18" mother="Hero.lord_6_18_1" faction="Faction.clan_khuzait_6"/>
+	<Hero id="lord_6_19" spouse="Hero.lord_6_19_1" faction="Faction.clan_khuzait_7"/>
+	<Hero id="lord_6_19_1" spouse="Hero.lord_6_19" faction="Faction.clan_khuzait_7"/>
+	<Hero id="lord_6_19_2" father="Hero.lord_6_19" mother="Hero.lord_6_19_1" faction="Faction.clan_khuzait_7"/>
+	<!-- Yanserit, Khuzait 8 -->
+	<Hero id="lord_6_20" spouse="Hero.lord_6_20_1" faction="Faction.clan_khuzait_8"/>
+	<Hero id="lord_6_20_1" spouse="Hero.lord_6_20" faction="Faction.clan_khuzait_8"/>
+	<Hero id="lord_K8_u" faction="Faction.clan_khuzait_8"/>
+	<Hero id="lord_6_21" spouse="Hero.lord_6_21_1" faction="Faction.clan_khuzait_5"/>
+	<Hero id="lord_6_21_1" spouse="Hero.lord_6_21" faction="Faction.clan_khuzait_5"/>
+	<Hero id="lord_6_22" spouse="Hero.lord_6_22_1" faction="Faction.clan_khuzait_6"/>
+	<Hero id="lord_6_22_1" spouse="Hero.lord_6_22" faction="Faction.clan_khuzait_6"/>
+	<Hero id="lord_6_23" faction="Faction.clan_khuzait_7"/>
+	<Hero id="lord_6_24" faction="Faction.clan_khuzait_4"/>
+	<!-- Banu Ruwaid, dominates  -->
+	<Hero id="lord_A9_l" spouse="Hero.lord_A9_s" faction="Faction.clan_aserai_9"/>
+	<Hero id="lord_A9_s" spouse="Hero.lord_A9_l" faction="Faction.clan_aserai_9"/>
+	<Hero id="lord_A9_c" father="Hero.lord_A9_l" mother="Hero.lord_A9_s" faction="Faction.clan_aserai_9"/>
+	<Hero id="lord_A9_u" faction="Faction.clan_aserai_9"/>
+	<!-- Dey Rothad -->
+	<Hero id="lord_V11_l" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_u" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_c1" father="Hero.lord_V11_l" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_c2" father="Hero.lord_V11_l" faction="Faction.clan_vlandia_11"/>
+	<!-- Kostaroving -->
+	<Hero id="lord_S9_l" mother="Hero.lord_S9_m" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_m" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_c" father="Hero.lord_S9_l" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_u" faction="Faction.clan_sturgia_9"/>
+	<!-- Oburit -->
+	<Hero id="lord_K9_l" spouse="Hero.lord_K9_s" faction="Faction.clan_khuzait_9"/>
+	<Hero id="lord_K9_s" spouse="Hero.lord_K9_l" faction="Faction.clan_khuzait_9"/>
+	<Hero id="lord_K9_c1" father="Hero.lord_K9_l" mother="Hero.lord_K9_s" faction="Faction.clan_khuzait_9"/>
+	<Hero id="lord_K9_c2" father="Hero.lord_K9_l" mother="Hero.lord_K9_s" faction="Faction.clan_khuzait_9"/>
+	<!-- fen Caernacht -->
+	<Hero id="lord_B8_l" spouse="Hero.lord_B8_s" faction="Faction.clan_battania_8"/>
+	<Hero id="lord_B8_s" spouse="Hero.lord_B8_l" faction="Faction.clan_battania_8"/>
+	<Hero id="lord_B8_c" father="Hero.lord_B8_s" mother="Hero.lord_B8_l" faction="Faction.clan_battania_8"/>
+	<!-- New heroes added
+  <Hero id="lord_7_5"  spouse="Hero.lord_7_5_1" faction="Faction.clan_battania_8" />
+  <Hero id="lord_7_5_1"  spouse="Hero.lord_7_5" faction="Faction.clan_battania_8" />
+  <Hero id="lord_7_5_2"  father="Hero.lord_7_5" mother="Hero.lord_7_5_1" faction="Faction.clan_battania_8" />
+  <Hero id="lord_7_5_3"  father="Hero.lord_7_5" mother="Hero.lord_7_5_1" faction="Faction.clan_battania_8" />
+  <Hero id="lord_7_5_4"  father="Hero.lord_7_5" mother="Hero.lord_7_5_1" faction="Faction.clan_battania_8" />
+  <Hero id="lord_7_6"  spouse="Hero.lord_7_6_1" faction="Faction.clan_khuzait_9" />
+  <Hero id="lord_7_6_1"  spouse="Hero.lord_7_6" faction="Faction.clan_khuzait_9" />
+  <Hero id="lord_7_6_2"  father="Hero.lord_7_6" mother="Hero.lord_7_6_1" faction="Faction.clan_khuzait_9" />
+  <Hero id="lord_7_6_3"  father="Hero.lord_7_6" mother="Hero.lord_7_6_1" faction="Faction.clan_khuzait_9" />
+  <Hero id="lord_7_7"  spouse="Hero.lord_7_7_1" faction="Faction.clan_sturgia_9" />
+  <Hero id="lord_7_7_1"  spouse="Hero.lord_7_7" faction="Faction.clan_sturgia_9" />
+  <Hero id="lord_7_7_2"  father="Hero.lord_7_7" mother="Hero.lord_7_7_1" faction="Faction.clan_sturgia_9" />
+  <Hero id="lord_7_7_3"  father="Hero.lord_7_7" mother="Hero.lord_7_7_1" faction="Faction.clan_sturgia_9" />
+  <Hero id="lord_7_7_4"  father="Hero.lord_7_7" mother="Hero.lord_7_7_1" faction="Faction.clan_sturgia_9" />
+
+  <Hero id="lord_7_8_1"  spouse="Hero.lord_7_8" faction="Faction.clan_vlandia_11" />
+  <Hero id="lord_7_8_2"  father="Hero.lord_7_8" mother="Hero.lord_7_8_1" faction="Faction.clan_vlandia_11" />
+  <Hero id="lord_7_8_3"  father="Hero.lord_7_8" mother="Hero.lord_7_8_1" faction="Faction.clan_vlandia_11" />
+  -->
+	<Hero id="AR_lord_5_1" spouse="Hero.lord_5_1" faction="Faction.clan_battania_1"/>
+	<Hero id="AR_lord_5_15" faction="Faction.clan_battania_7"/>
+	<Hero id="AR_lord_4_23" faction="Faction.clan_vlandia_7"/>
+	<Hero id="AR_lord_4_28" alive="false" faction="Faction.clan_vlandia_10"/>
+	<!-- KHUZAIT -->
+	
+	<!-- Byals - Vagiraving -->
+	<Hero id="hmj_lord_byal_1" alive="false" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_2" spouse="Hero.hmj_lord_byal_3" faction="Faction.clan_vaegiria_1" />
+	<Hero id="hmj_lord_byal_3" spouse="Hero.hmj_lord_byal_2" father="Hero.hmj_lord_byal_1" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_4" father="Hero.hmj_lord_byal_1" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_5" father="Hero.hmj_lord_byal_1" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_6" father="Hero.hmj_lord_byal_1" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_7" father="Hero.hmj_lord_byal_2" mother="Hero.hmj_lord_byal_3" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_8" father="Hero.hmj_lord_byal_2" mother="Hero.hmj_lord_byal_3" faction="Faction.clan_vaegiria_1"/>
+	<Hero id="hmj_lord_byal_9" father="Hero.hmj_lord_byal_6" faction="Faction.clan_vaegiria_1"/>
+	<!-- Byals - Baltakis -->
+	<Hero id="hmj_lord_byal_10" alive="false" faction="Faction.clan_vaegiria_2"/>
+	<Hero id="hmj_lord_byal_11" father="Hero.hmj_lord_byal_10" spouse="Hero.hmj_lord_byal_12" faction="Faction.clan_vaegiria_2"/>
+	<Hero id="hmj_lord_byal_12" spouse="Hero.hmj_lord_byal_11" faction="Faction.clan_vaegiria_2"/>
+	<Hero id="hmj_lord_byal_13" faction="Faction.clan_vaegiria_2"/>
+	<Hero id="hmj_lord_byal_14" spouse="Hero.hmj_lord_byal_15" faction="Faction.clan_vaegiria_2"/>
+	<Hero id="hmj_lord_byal_15" spouse="Hero.hmj_lord_byal_14" faction="Faction.clan_vaegiria_2"/>
+	<!-- Byals - Kranivicius -->
+	<Hero id="hmj_lord_byal_16" spouse="Hero.hmj_lord_byal_17" faction="Faction.clan_vaegiria_3"/>
+	<Hero id="hmj_lord_byal_17" spouse="Hero.hmj_lord_byal_16" faction="Faction.clan_vaegiria_3"/>
+	<Hero id="hmj_lord_byal_18" father="Hero.hmj_lord_byal_16" mother="Hero.hmj_lord_byal_17" spouse="Hero.hmj_lord_byal_19" faction="Faction.clan_vaegiria_3"/>
+	<Hero id="hmj_lord_byal_19" spouse="Hero.hmj_lord_byal_18" faction="Faction.clan_vaegiria_3"/>
+	<Hero id="hmj_lord_byal_20" father="Hero.hmj_lord_byal_16" mother="Hero.hmj_lord_byal_17" faction="Faction.clan_vaegiria_3"/>
+	<!-- Byals - Mazadauskas -->
+	<Hero id="hmj_lord_byal_21" faction="Faction.clan_vaegiria_4"/>
+	<Hero id="hmj_lord_byal_22" mother="Hero.hmj_lord_byal_21" faction="Faction.clan_vaegiria_4"/>
+	<Hero id="hmj_lord_byal_23" faction="Faction.clan_vaegiria_4"/>
+	<Hero id="hmj_lord_byal_24" mother="Hero.hmj_lord_byal_21" faction="Faction.clan_vaegiria_4"/>
+
+	<!-- Al Shariz -->
+	<!-- QUYAZ - del Toran -->
+	<Hero id="hmj_lord_9_1" alive="false" spouse="Hero.hmj_lord_9_2" faction="Faction.clan_quyaz_1" text="Ceneric was the first king of an independent Sharizan Kingdom, situated in the Gulf of Charas. Though ruthless in his violent conquest, he never the less laid the foundation for his son Leon to create a truly prosperous realm."/>
+	<Hero id="hmj_lord_9_2" spouse="Hero.hmj_lord_9_1" faction="Faction.clan_quyaz_1"/>
+	<Hero id="hmj_lord_9_3" father="Hero.hmj_lord_9_1" mother="Hero.hmj_lord_9_2" faction="Faction.clan_quyaz_1"/>
+	<Hero id="hmj_lord_9_4" father="Hero.hmj_lord_9_1" mother="Hero.hmj_lord_9_2" faction="Faction.clan_quyaz_1" text="Leon... Oscar... Roger... Guilhelm? I need a cool name for this lad."/>
+	<Hero id="hmj_lord_9_25" spouse="Hero.hmj_lord_9_26" faction="Faction.clan_quyaz_1"/>
+	<Hero id="hmj_lord_9_26" spouse="Hero.hmj_lord_9_25" faction="Faction.clan_quyaz_1"/>
+	<Hero id="hmj_lord_9_27" father="Hero.hmj_lord_9_25" mother="Hero.hmj_lord_9_26" faction="Faction.clan_quyaz_1"/>
+	<!-- QUYAZ - del Biscanni -->
+	<Hero id="hmj_lord_9_5" spouse="Hero.hmj_lord_9_6" faction="Faction.clan_quyaz_2" text="Guilhem is a baron of Al Shariz and head of House del Biscanni, as well as a trusted advisor to King Leon. Having fought alongside with King Ceneric himself, he is one of the oldest veterans of the Charas wars still living. Although granted the lands of Shariz and its summer islands, Sebastan has yet to retire from active duty and continues to serve Al Shariz with the same loyalty and fervour as ever."/>
+	<Hero id="hmj_lord_9_6" spouse="Hero.hmj_lord_9_5" faction="Faction.clan_quyaz_2"/>
+	<Hero id="hmj_lord_9_7" father="Hero.hmj_lord_9_5" mother="Hero.hmj_lord_9_6" faction="Faction.clan_quyaz_2"/>
+	<Hero id="hmj_lord_9_8" father="Hero.hmj_lord_9_5" mother="Hero.hmj_lord_9_6" faction="Faction.clan_quyaz_2"/>
+	<!-- QUYAZ - Vastros -->
+	<Hero id="hmj_lord_9_9" spouse="Hero.hmj_lord_9_10" faction="Faction.clan_quyaz_3"/>
+	<Hero id="hmj_lord_9_10" spouse="Hero.hmj_lord_9_9" faction="Faction.clan_quyaz_3"/>
+	<Hero id="hmj_lord_9_11" father="Hero.hmj_lord_9_9" mother="Hero.hmj_lord_9_10" spouse="Hero.hmj_lord_9_12" faction="Faction.clan_quyaz_3"/>
+	<Hero id="hmj_lord_9_12" spouse="Hero.hmj_lord_9_11" faction="Faction.clan_quyaz_3"/>
+	<!-- QUYAZ - Banu Perraz -->
+	<Hero id="hmj_lord_9_13" faction="Faction.clan_quyaz_4" text="Amenhab is the leader of the Banu Perraz. Though regarded as a prominent Aserai figure within the court of Al Shariz, he sees himself as the descendent of a great Kannic people. On the surface, he continues to serve Al Shariz with his clan's seafaring prowess. But deep down, many believe his true ambition to restore the Quyazic Republic. Deeper still, to become King of Quyaz."/>
+	<Hero id="hmj_lord_9_14" father="Hero.hmj_lord_9_13" faction="Faction.clan_quyaz_4"/>
+	<Hero id="hmj_lord_9_15" father="Hero.hmj_lord_9_13" faction="Faction.clan_quyaz_4"/>
+	<Hero id="hmj_lord_9_22" spouse="Hero.hmj_lord_9_23" faction="Faction.clan_quyaz_4"/>
+	<Hero id="hmj_lord_9_23" spouse="Hero.hmj_lord_9_22" faction="Faction.clan_quyaz_4"/>
+	<Hero id="hmj_lord_9_24" father="Hero.hmj_lord_9_22" mother="Hero.hmj_lord_9_23" faction="Faction.clan_quyaz_4"/>
+	<!-- QUYAZ - Banu Saqa -->
+	<Hero id="hmj_lord_9_16" spouse="Hero.hmj_lord_9_17" faction="Faction.clan_quyaz_5"/>
+	<Hero id="hmj_lord_9_17" spouse="Hero.hmj_lord_9_16" faction="Faction.clan_quyaz_5"/>
+	<Hero id="hmj_lord_9_18" father="Hero.hmj_lord_9_16" mother="Hero.hmj_lord_9_17" spouse="Hero.hmj_lord_9_19" faction="Faction.clan_quyaz_5"/>
+	<Hero id="hmj_lord_9_19" spouse="Hero.hmj_lord_9_18" faction="Faction.clan_quyaz_5"/>
+	<Hero id="hmj_lord_9_20" father="Hero.hmj_lord_9_16" mother="Hero.hmj_lord_9_17" faction="Faction.clan_quyaz_5"/>
+	<!-- CIZYGIANS - Cizghunait -->
+	<Hero id="AR_lord_10_1" spouse="Hero.AR_lord_10_2" faction="Faction.clan_cizygian_1" text="Khomar is the eldest living descendent of the mythical god-khan Cizghun the Chosen, and so is hailed as divine ruler of the Cizygians. A merciless and cruel ruler, he has driven the tribes harshly onwards in a bloody march of conquest, destroying vast hosts of Iltanlar and Darshi to carve out a sizeable kingdom on Calradia's eastern steppes. Faced now with the borders of the Calradian Empire, he bides his time, waiting for the perfect time to use the civil unrest in the Empire to his advantage."/>
+	<Hero id="AR_lord_10_2" spouse="Hero.AR_lord_10_1" faction="Faction.clan_cizygian_1"/>
+	<Hero id="AR_lord_10_3" father="Hero.AR_lord_10_1" mother="Hero.AR_lord_10_2" faction="Faction.clan_cizygian_1"/>
+	<Hero id="AR_lord_10_4" father="Hero.AR_lord_10_1" mother="Hero.AR_lord_10_2" faction="Faction.clan_cizygian_1"/>
+	<Hero id="AR_lord_10_19" spouse="Hero.AR_lord_10_20" faction="Faction.clan_cizygian_1"/>
+	<Hero id="AR_lord_10_20" spouse="Hero.AR_lord_10_19" faction="Faction.clan_cizygian_1"/>
+	<Hero id="AR_lord_10_21" father="Hero.AR_lord_10_19" mother="Hero.AR_lord_10_20" faction="Faction.clan_cizygian_1"/>
+	<!-- CIZYGIANS - Yanait -->
+	<Hero id="AR_lord_10_5" spouse="Hero.AR_lord_10_6" faction="Faction.clan_cizygian_2" text="Erigai is the head of the Yanait; one of the most powerful tribes among the migrating Cizygians. A hardened warrior who lords over his tribe with an iron fist, he has proved an effective, if unpopular, leader in their migration into the west."/>
+	<Hero id="AR_lord_10_6" spouse="Hero.AR_lord_10_5" faction="Faction.clan_cizygian_2"/>
+	<Hero id="AR_lord_10_7" father="Hero.AR_lord_10_5" mother="Hero.AR_lord_10_6" faction="Faction.clan_cizygian_2"/>
+	<Hero id="AR_lord_10_8" spouse="Hero.AR_lord_10_7" father="Hero.lord_K9_l" faction="Faction.clan_cizygian_2"/>
+	<Hero id="AR_lord_10_9" mother="Hero.AR_lord_10_6" father="Hero.AR_lord_10_5" faction="Faction.clan_cizygian_2"/>
+	<!-- CIZYGIANS - Khionit -->
+	<Hero id="AR_lord_10_10" spouse="Hero.AR_lord_10_11" faction="Faction.clan_cizygian_3"/>
+	<Hero id="AR_lord_10_11" spouse="Hero.AR_lord_10_10" faction="Faction.clan_cizygian_3"/>
+	<Hero id="AR_lord_10_12" father="Hero.AR_lord_10_10" mother="Hero.AR_lord_10_11" faction="Faction.clan_cizygian_3"/>
+	<Hero id="AR_lord_10_13" father="Hero.AR_lord_10_10" mother="Hero.AR_lord_10_11" faction="Faction.clan_cizygian_3"/>
+	<Hero id="AR_lord_10_14" father="Hero.AR_lord_10_10" mother="Hero.AR_lord_10_11" faction="Faction.clan_cizygian_3"/>
+	<!-- CIZYGIANS - Adisait -->
+	<Hero id="AR_lord_10_15" spouse="Hero.AR_lord_10_16" faction="Faction.clan_cizygian_4"/>
+	<Hero id="AR_lord_10_16" spouse="Hero.AR_lord_10_15" faction="Faction.clan_cizygian_4"/>
+	<Hero id="AR_lord_10_17" father="Hero.AR_lord_10_15" mother="Hero.AR_lord_10_16" spouse="Hero.AR_lord_10_22" faction="Faction.clan_cizygian_4"/>
+	<Hero id="AR_lord_10_18" father="Hero.AR_lord_10_15" mother="Hero.AR_lord_10_16" faction="Faction.clan_cizygian_4"/>
+	<Hero id="AR_lord_10_22" spouse="Hero.AR_lord_10_17" faction="Faction.clan_cizygian_4"/>
+	<Hero id="AR_lord_10_23" father="Hero.AR_lord_10_22" mother="Hero.AR_lord_10_17" faction="Faction.clan_cizygian_4"/>
+	<!-- MASSA - Dey Cananc -->
+	<Hero id="AR_lord_11_1" faction="Faction.clan_massa_1" text="Estrid is the current ruler of the Zwadane League. Her boldness and charm endeared her to the Zwadanes, and with that clout she became the 'Cynninge' of the Northern tribes who now fight for their continued existence. Though capable and spirited, the challenges her people face are great and many fear her valiant efforts will not be enough to see her them through."/>
+	<Hero id="AR_lord_11_2" spouse="Hero.AR_lord_11_1" faction="Faction.clan_massa_1"/>
+	<Hero id="AR_lord_11_3" father="Hero.AR_lord_11_1" mother="Hero.AR_lord_11_2" spouse="Hero.AR_lord_11_4" faction="Faction.clan_massa_1"/>
+	<Hero id="AR_lord_11_4" spouse="Hero.AR_lord_11_3" faction="Faction.clan_massa_1"/>
+	<Hero id="AR_lord_11_5" father="Hero.AR_lord_11_1" mother="Hero.AR_lord_11_2" faction="Faction.clan_massa_1"/>
+	<!-- MASSA - Dey Orman -->
+	<Hero id="hmj_lord_11_6" spouse="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_7" spouse="Hero.hmj_lord_11_6" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_8" father="Hero.hmj_lord_11_6" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_9" father="Hero.hmj_lord_11_6" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_10" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_11" spouse="Hero.hmj_lord_11_8" faction="Faction.clan_massa_2"/>
+	<!-- SPAHAD - Banu Spahan -->
+	<Hero id="AR_lord_12_1" spouse="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1" text="Athenais of Clan Amensios is the current queen of the Nahasi. Intelligent and charismatic, many saw her potential as a great peace time ruler. But with the death of her father Ashabios, wars still raging on and no other heir, Athenais is now regent. Though she lacks her father's might and experience, she was quick to establish her authority- with help from her father's generals. Still, her people remain unclear about her direction for the kingdom- whether that is with the Empire or without."/>
+	<Hero id="AR_lord_12_2" spouse="Hero.AR_lord_12_1" faction="Faction.clan_spahad_1"/>
+	<Hero id="AR_lord_12_3" spouse="Hero.AR_lord_12_4" father="Hero.AR_lord_12_1" mother="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1"/>
+	<Hero id="AR_lord_12_4" spouse="Hero.AR_lord_12_3" faction="Faction.clan_spahad_1"/>
+	<Hero id="AR_lord_12_13" father="Hero.AR_lord_12_1" mother="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1"/>
+	<Hero id="AR_lord_12_14" father="Hero.AR_lord_12_1" mother="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1"/>
+	<!-- SPAHAD - Banu Dhamin -->
+	<Hero id="AR_lord_12_5" spouse="Hero.AR_lord_12_6" faction="Faction.clan_spahad_2"/>
+	<Hero id="AR_lord_12_6" spouse="Hero.AR_lord_12_5" faction="Faction.clan_spahad_2"/>
+	<Hero id="AR_lord_12_7" father="Hero.AR_lord_12_5" mother="Hero.AR_lord_12_6" spouse="Hero.AR_lord_12_8" faction="Faction.clan_spahad_2"/>
+	<Hero id="AR_lord_12_8" spouse="Hero.AR_lord_12_7" faction="Faction.clan_spahad_2"/>
+	<Hero id="AR_lord_12_9" father="Hero.AR_lord_12_5" mother="Hero.AR_lord_12_6" faction="Faction.clan_spahad_2"/>
+	<!-- SPAHAD - Banu Mushala -->
+	<Hero id="AR_lord_12_10" faction="Faction.clan_spahad_3"/>
+	<Hero id="AR_lord_12_11" mother="Hero.AR_lord_12_10" spouse="Hero.AR_lord_12_12" faction="Faction.clan_spahad_3"/>
+	<Hero id="AR_lord_12_12" spouse="Hero.AR_lord_12_11" faction="Faction.clan_spahad_3"/>
+	<Hero id="AR_lord_12_15" mother="Hero.AR_lord_12_10" spouse="Hero.AR_lord_12_16" faction="Faction.clan_spahad_3"/>
+	<Hero id="AR_lord_12_16" spouse="Hero.AR_lord_12_15" faction="Faction.clan_spahad_3"/>
+	<Hero id="AR_lord_12_17" mother="Hero.AR_lord_12_10" faction="Faction.clan_spahad_3"/>
+	<!-- SPAHAD - Banu Aska -->
+	<Hero id="AR_lord_12_18" spouse="Hero.AR_lord_12_19" faction="Faction.clan_spahad_4"/>
+	<Hero id="AR_lord_12_19" spouse="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
+	<Hero id="AR_lord_12_20" father="Hero.AR_lord_12_19" mother="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
+	<Hero id="AR_lord_12_21" father="Hero.AR_lord_12_19" mother="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
+	<!-- GOTARNIA - Aertus -->
+	<Hero id="AR_lord_13_1" spouse="Hero.AR_lord_13_2" faction="Faction.clan_gotarnia_1" text="The current High Chieftain of the Gotarnians is Thrasaric of the Aertus clan. It was he who led the Gotarnians in their conquest of the lands to the east of Lake Tanaesis, carving out a new territory with at least notional safety from the Calradian Empire's legions, then defeated the legions of Emperor Themestios in open battle. However, these wars were costly, and now Thrasaric finds his realm threatened from all sides by the nomads of the steppe, foresters to the north, and the ever-present hand of the Calradian Empire."/>
+	<Hero id="AR_lord_13_2" spouse="Hero.AR_lord_13_1" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="AR_lord_13_3" father="Hero.AR_lord_13_1" mother="Hero.AR_lord_13_2" spouse="Hero.AR_lord_13_4" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="AR_lord_13_4" spouse="Hero.AR_lord_13_3" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="AR_lord_13_19" spouse="Hero.AR_lord_13_20" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="AR_lord_13_20" spouse="Hero.AR_lord_13_19" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="AR_lord_13_21" father="Hero.AR_lord_13_19" mother="Hero.AR_lord_13_20" faction="Faction.clan_gotarnia_1"/>
+	<!-- GOTARNIA - Bructarach -->
+	<Hero id="AR_lord_13_5" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="AR_lord_13_6" mother="Hero.AR_lord_13_5" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="AR_lord_13_7" spouse="Hero.AR_lord_13_8" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="AR_lord_13_8" spouse="Hero.AR_lord_13_7" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="AR_lord_13_9" father="Hero.AR_lord_13_7" mother="Hero.AR_lord_13_8" spouse="Hero.AR_lord_13_10" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="AR_lord_13_10" spouse="Hero.AR_lord_13_9" faction="Faction.clan_gotarnia_2"/>
+	<!-- GOTARNIA - Jutungar -->
+	<Hero id="AR_lord_13_11" spouse="Hero.AR_lord_13_12" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="AR_lord_13_12" spouse="Hero.AR_lord_13_11" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="AR_lord_13_13" father="Hero.AR_lord_13_11" mother="Hero.AR_lord_13_12" spouse="Hero.AR_lord_13_14" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="AR_lord_13_14" spouse="Hero.AR_lord_13_13" faction="Faction.clan_gotarnia_3"/>
+	<!-- GOTARNIA - Helarnus -->
+	<Hero id="AR_lord_13_15" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="AR_lord_13_16" mother="Hero.AR_lord_13_15" spouse="Hero.AR_lord_13_17" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="AR_lord_13_17" spouse="Hero.AR_lord_13_16" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="AR_lord_13_18" mother="Hero.AR_lord_13_15" faction="Faction.clan_gotarnia_4"/>
+	<!-- Nords - Grimarsung -->
+	<Hero id="hmj_lord_13_1" faction="Faction.clan_norden_1" text="The current ruler of the nascent Nordic Territories. At once older than his years would suggest, and younger than his true age, Gundig's brazen and ambitious ways have won him lands in northern Calradia."/>
+	<Hero id="hmj_lord_13_2" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_3" spouse="Hero.hmj_lord_13_4" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_4" spouse="Hero.hmj_lord_13_3" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_5" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_6" faction="Faction.clan_norden_1"/>
+	<!-- Nords - Varfung -->
+	<Hero id="hmj_lord_13_7" spouse="Hero.hmj_lord_13_8" faction="Faction.clan_norden_2" />
+	<Hero id="hmj_lord_13_8" spouse="Hero.hmj_lord_13_7" faction="Faction.clan_norden_2"/>
+	<Hero id="hmj_lord_13_9" father="Hero.hmj_lord_13_7" mother="Hero.hmj_lord_13_8" faction="Faction.clan_norden_2"/>
+	<Hero id="hmj_lord_13_10" father="Hero.hmj_lord_13_7" faction="Faction.clan_norden_2"/>
+	<Hero id="hmj_lord_13_11" faction="Faction.clan_norden_2"/>
+	<!-- Nords - Northung -->
+	<Hero id="hmj_lord_13_12" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_13" mother="Hero.hmj_lord_13_12" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_14" mother="Hero.hmj_lord_13_12" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_15" father="Hero.hmj_lord_13_14" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_16" faction="Faction.clan_norden_3" />
+	<!-- Nords - Ubrovung -->
+	<Hero id="lord_2_20" spouse="Hero.lord_2_20_1" faction="Faction.clan_sturgia_8"/>
+	<Hero id="lord_2_20_1" spouse="Hero.lord_2_20" faction="Faction.clan_sturgia_8"/>
+	<Hero id="lord_S8_u" faction="Faction.clan_sturgia_8"/>
+	<Hero id="hmj_lord_13_17" faction="Faction.clan_sturgia_8" />
+	<Hero id="hmj_lord_13_18" faction="Faction.clan_sturgia_8" />
+	<!-- Diamonds -->
+	<Hero id="hmj_spc_diamonds_lord_0" faction="Faction.diamonds"/>
+	<!-- BANDITS -->
+</Heroes>
