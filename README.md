@@ -7,19 +7,27 @@ Harmony
 
 BetterExceptionWindow
 
-Adonnay's Troop Changer
-
 (RBM) Realistic Battle Mod
 
 Open Source Armoury (Armoury, Weaponry, Saddlery)
-
-Open Source Armoury RBM Patch
 
 Swadian Armoury
 
 Vaegir Armoury
 
 Western noble helmet or somthing (Saxon Helmet)
+
+Diamond's Stuff
+
+Norman Armoury
+
+Vlandian Steel
+
+Norman Armory RBM Patch and Shield Holster fix
+
+Adonnay's Troop Changer
+
+Open Source Armoury RBM Patch
 
 MAKE SURE THEY ARE LOADED IN THAT ORDER
 
