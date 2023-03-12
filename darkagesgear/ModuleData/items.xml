@@ -2,11 +2,68 @@
 <!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
 For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 <Items>
+
+
 	<Item id="diamond_fluted_helm_heavy" name="{=osa_fluted_helm_heavy}Fluted Helmet with Mail Coif" mesh="fluted_nasal_helm_v1" culture="Culture.vlandia" weight="1.2" appearance="0.9" Type="HeadArmor">
 		<ItemComponent>
 			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
 		</ItemComponent>
 		<Flags UseTeamColor="false"/>
+	</Item>
+
+	<Item id="pointed_nasal_helm"
+		  name="{=EWR2MNeM}Pointed Nasasl Helmet"
+		  subtype="head_armor"
+		  mesh="pointed_nasal_helm"
+		  culture="Culture.vlandia"
+		  weight="4.7"
+		  appearance="1"
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="42"
+				   has_gender_variations="false"
+				   hair_cover_type="all"
+				   beard_cover_type="type3"
+				   modifier_group="plate"
+				   material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="false" />
+	</Item>
+	<Item id="pointed_nasal_helm_paint"
+		  name="{=EWR2MNeM}Pointed Nasasl Helmet With Paint"
+		  subtype="head_armor"
+		  mesh="pointed_nasal_helm_paint"
+		  culture="Culture.vlandia"
+		  weight="4.7"
+		  appearance="1"
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="42"
+				   has_gender_variations="false"
+				   hair_cover_type="all"
+				   beard_cover_type="type3"
+				   modifier_group="plate"
+				   material_type="Plate" />
+		</ItemComponent>
+		<Flags UseTeamColor="true" />
+	</Item>
+	<Item id="baltic_helm"
+		  name="{=EWR2MNeM}Baltic Helmet"
+		  subtype="head_armor"
+		  mesh="baltic_helm"
+		  culture="Culture.vlandia"
+		  weight="6"
+		  appearance="1"
+		  Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="45"
+				   has_gender_variations="false"
+				   hair_cover_type="all"
+				   beard_cover_type="all"
+				   modifier_group="chain"
+				   material_type="Chainmail" />
+		</ItemComponent>
+		<Flags />
 	</Item>
 
 <!-- DZOR Gear -->
@@ -52,6 +109,13 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 		</ItemComponent>
 		<Flags UseTeamColor="false"/>
 	</Item>
+	<Item id="dz_impe_helm_6" name="{=osa_fluted_helm_heavy}dzor85" mesh="dz_impe_helm_6" culture="Culture.empire" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
+	</Item>
+
 	
 	<Item id="dz_imp_armor_1" name="{=VQSdhQE3}dzorbody" mesh="dz_imp_armor_1" subtype="body_armor" culture="Culture.empire" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
 		<ItemComponent>
@@ -84,9 +148,27 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 		</ItemComponent>
 		<Flags UseTeamColor="true"/>
 	</Item>
+	
+	<Item id="dz_aserai_helm_8a" name="{=osa_fluted_helm_heavy}dzor12" mesh="dz_aserai_helm_8a" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_aserai_helm_10" name="{=osa_fluted_helm_heavy}dzor13" mesh="dz_aserai_helm_10" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_aserai_helm_11" name="{=osa_fluted_helm_heavy}dzor14" mesh="dz_aserai_helm_11" culture="Culture.aserai" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Chainmail"/>
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
 
-
-	<Item id="dz_khuzopole_armor_1" name="{=VQSdhQE3}dzorkhubody" mesh="dz_khuzopole_armor_1" subtype="body_armor" culture="Culture.shariz" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+	<Item id="dz_khuzopole_armor_1" name="{=VQSdhQE3}dzorkhubody" mesh="dz_khuzopole_armor_1" subtype="body_armor" culture="Culture.aserai" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
 		<ItemComponent>
 			<Armor body_armor="57" leg_armor="20" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Plate" />
 		</ItemComponent>
@@ -103,6 +185,26 @@ For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
 			<Armor head_armor="200" hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Chainmail"/>
 		</ItemComponent>
 		<Flags UseTeamColor="true"/>
+	</Item>
+	
+	<Item id="dz_aserai_armor_1" name="{=VQSdhQE3}dzorbody" mesh="dz_aserai_armor_1" subtype="body_armor" culture="Culture.aserai" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="57" leg_armor="20" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	<Item id="dz_aserai_armor_2" name="{=VQSdhQE3}dzorbody" mesh="dz_aserai_armor_2" subtype="body_armor" culture="Culture.aserai" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+		<ItemComponent>
+			<Armor body_armor="57" leg_armor="20" arm_armor="16" covers_body="true" modifier_group="plate" material_type="Chainmail" />
+		</ItemComponent>
+		<Flags UseTeamColor="true"/>
+	</Item>
+	
+	<Item id="dz_byal_helm_1" name="{=osa_fluted_helm_heavy}Byalic Conical Helm with Mail" mesh="dz_baltic_helm_1" culture="Culture.sturgia" weight="1.2" appearance="0.9" Type="HeadArmor">
+		<ItemComponent>
+			<Armor head_armor="200" hair_cover_type="all" beard_cover_type="all" modifier_group="plate" material_type="Plate"/>
+		</ItemComponent>
+		<Flags UseTeamColor="false"/>
 	</Item>
 
 <!-- Extras -->
