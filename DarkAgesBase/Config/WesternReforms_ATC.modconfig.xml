@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ATCConfig>
+	<MapFaction id="vlandia">
+		<!-- Standard Vlandia configuration -->
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire">
+			<!-- Vlandia for captured Southern Empire settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire_n">
+			<!-- Vlandia for captured Eastern Empire settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire_w">
+			<!-- Vlandia for captured Western Empire settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="shariz">
+			<!-- Vlandia for captured Shariz settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="aserai">
+			<!-- Vlandia for captured Aserai settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="darshi">
+			<!-- Vlandia for captured Darshi settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="khuzait">
+			<!-- Vlandia for captured Khuzait settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="nahasi">
+			<!-- Vlandia for captured Nahasan settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="sturgia">
+			<!-- Vlandia for captured Sturgia settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="vakken">
+			<!-- Vlandia for captured Vakken settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="battania">
+			<!-- Vlandia for captured Battania settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="oldcalradian">
+			<!-- Vlandia for captured Old Calradia settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="zwadane">
+			<!-- Vlandia for captured Zwadane settlements -->
+			<basicTroops>
+				<volunteer id="vlandia_hmj_mpt2" percent="28"/>
+				<volunteer id="vlandia_hmj_mit2" percent="18"/>
+				<volunteer id="vlandia_hmj_mrt2" percent="18"/>
+				<volunteer id="vlandia_hmj_it2" percent="11"/>
+				<volunteer id="vlandia_hmj_at3" percent="11"/>
+				<volunteer id="vlandia_hmj_mpt2" percent="6"/>
+				<volunteer id="vlandia_hmj_mct4" percent="6"/>
+				<volunteer id="vlandia_hmj_hit4" percent="2"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="vlandia_hmj_nrt3" percent="80"/>
+				<volunteer id="vlandia_hmj_nit2" percent="20"/>
+			</eliteTroops>
+		</Culture>
+	</MapFaction>
+	<MapFaction id="zwadane">
+		<!-- Standard Massa configuration -->
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire_n">
+			<!-- Massa for captured Northern Empire settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire">
+			<!-- Massa for captured Southern Empire settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="empire_w">
+			<!-- Massa for captured Western Empire settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="shariz">
+			<!-- Massa for captured Paraoian settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="aserai">
+			<!-- Massa for captured Aserai settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="darshi">
+			<!-- Massa for captured Darshi settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="khuzait">
+			<!-- Massa for captured Khuzait settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="nahasi">
+			<!-- Massa for captured Nahasan settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="vlandia">
+			<!-- Massa for captured Vlandia settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="battania">
+			<!-- Massa for captured Battania settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="oldcalradian">
+			<!-- Massa for captured Old Calradian settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="sturgia">
+			<!-- Massa for captured Sturgia settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+		<Culture id="vakken">
+			<!-- Massa for captured Vakken settlements -->
+			<basicTroops>
+				<volunteer id="zwadane_hmj_mit2" percent="50"/>
+				<volunteer id="northern_hmj_rt2" percent="30"/>
+				<volunteer id="zwadane_hmj_it3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="zwadane_hmj_nit2"/>
+			</eliteTroops>
+		</Culture>
+	</MapFaction>
+	<!-- MINOR FACTIONS -->
+	<Clan id="company_of_the_boar">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="boar_hmj_it2" percent="50"/>
+				<volunteer id="boar_hmj_it3" percent="30"/>
+				<volunteer id="boar_hmj_rt3" percent="20"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="boar_hmj_rt5" percent="60"/>
+				<volunteer id="boar_hmj_hat5" percent="40"/>
+			</eliteTroops>
+		</Culture>
+	</Clan>
+	<Clan id="brotherhood_of_woods">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="AR_min_brotherhood_t3" percent="50"/>
+				<volunteer id="AR_min_brotherhood_t4_skirm" percent="25"/>
+				<volunteer id="AR_min_brotherhood_t4_archer" percent="25"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="AR_min_brotherhood_t5_skirm" percent="50"/>
+			</eliteTroops>
+		</Culture>
+	</Clan>
+	<Clan id="swadicians">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="AR_min_swadician_t3" percent="50"/>
+				<volunteer id="AR_min_swadician_t4_melee" percent="25"/>
+				<volunteer id="AR_min_swadician_t4_archer" percent="25"/>
+			</basicTroops>
+			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+				<volunteer id="AR_min_swadician_t5_melee" percent="50"/>
+			</eliteTroops>
+		</Culture>
+	</Clan>
+</ATCConfig> 

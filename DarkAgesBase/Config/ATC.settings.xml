@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ATCSettings>
+  <EnableModScan>true</EnableModScan>
+  <EnableCustomTemplates>true</EnableCustomTemplates>
+  <DebugConfigRead>true</DebugConfigRead>
+  <DebugRecruitSpawn>true</DebugRecruitSpawn>
+  <DebugEliteSpawn>false</DebugEliteSpawn>
+  <DebugAIRecruiting>true</DebugAIRecruiting>
+  <EliteOnlyInCastleVillages>false</EliteOnlyInCastleVillages>
+  <EliteSpawnChance>1</EliteSpawnChance>
+  <ElitePowerThreshold>250</ElitePowerThreshold>
+  <EliteSpawnChanceCap>5</EliteSpawnChanceCap>
+  <RecruitMaxUpgradeTier>4</RecruitMaxUpgradeTier>
+  <LevelRecruitsUpToTier>1</LevelRecruitsUpToTier>
+  <MaxLogSizeInKB>500</MaxLogSizeInKB>
+</ATCSettings>
