@@ -13,7 +13,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -31,7 +31,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -49,7 +49,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -67,7 +67,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -85,7 +85,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -103,7 +103,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -121,7 +121,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -139,7 +139,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -157,7 +157,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -175,7 +175,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -193,7 +193,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -211,7 +211,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -229,7 +229,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -247,7 +247,7 @@
 				<volunteer id="khuzait_hmj_hat3" percent="8"/>
 				<volunteer id="khuzait_hmj_xt5" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="khuzait_hmj_it5" percent="40"/>
 				<volunteer id="khuzait_hmj_hct4" percent="40"/>
 				<volunteer id="khuzait_hmj_nct3" percent="20"/>
@@ -262,7 +262,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -273,7 +273,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -284,7 +284,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -295,7 +295,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -306,7 +306,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -317,7 +317,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -328,7 +328,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -339,7 +339,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -350,7 +350,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -361,7 +361,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -372,7 +372,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -383,7 +383,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -394,7 +394,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -405,7 +405,7 @@
 				<volunteer id="AR_khu_aux_hawlan_recruit" percent="10"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="30"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_ciz_elite_recruit"/>
 			</eliteTroops>
 		</Culture>
@@ -418,7 +418,7 @@
 				<volunteer id="karakhuzait_hmj_hat4" percent="30"/>
 				<volunteer id="karakhuzait_hmj_ct5" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="karakhuzait_hmj_hat5" />
 			</eliteTroops>
 		</Culture>
@@ -430,7 +430,7 @@
 				<volunteer id="harmigan_hmj_it3" percent="30"/>
 				<volunteer id="harmigan_hmj_it4" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="harmigan_hmj_it4" percent="50"/>
 				<volunteer id="harmigan_hmj_ct4" percent="50"/>
 			</eliteTroops>
@@ -444,7 +444,7 @@
 				<volunteer id="AR_min_chosensky_t4_lancer" percent="20"/>
 				<volunteer id="AR_khu_aux_campfollower_recruit" percent="20"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_min_chosensky_t5_lancer" percent="50"/>
 			</eliteTroops>
 		</Culture>

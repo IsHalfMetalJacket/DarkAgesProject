@@ -14,7 +14,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -33,7 +33,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -52,7 +52,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -71,7 +71,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -90,7 +90,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -109,7 +109,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -128,7 +128,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -147,7 +147,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -166,7 +166,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -185,7 +185,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -204,7 +204,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -223,7 +223,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -242,7 +242,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -261,7 +261,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -280,7 +280,7 @@
 				<volunteer id="battanian_hmj_mst2" percent="4"/>
 				<volunteer id="battanian_hmj_mrt2" percent="2"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="battanian_hmj_mct4" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
@@ -291,183 +291,253 @@
 		<!-- Standard Old Calradia configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_n">
 			<!-- Gotarnia for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire">
 			<!-- Gotarnia for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_w">
 			<!-- Gotarnia for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="shariz">
 			<!-- Gotarnia for captured Sharizan settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="aserai">
 			<!-- Gotarnia for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="darshi">
 			<!-- Gotarnia for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="khuzait">
 			<!-- Gotarnia for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="nahasi">
 			<!-- Gotarnia for captured Nahasi settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="vlandia">
 			<!-- Gotarnia for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="zwadane">
 			<!-- Gotarnia for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="battania">
 			<!-- Gotarnia for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="sturgia">
 			<!-- Gotarnia for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="vakken">
 			<!-- Gotarnia for captured Vakken settlements -->
 			<basicTroops>
-				<volunteer id="zend_hmj_mit1" percent="30"/>
-				<volunteer id="dryatic_hmj_mst2" percent="30"/>
-				<volunteer id="dryatic_hmj_hit3" percent="20"/>
-				<volunteer id="myzean_hmj_at3" percent="10"/>
-				<volunteer id="myzean_hmj_ht4" percent="10"/>
+				<volunteer id="zend_hmj_mpt1" percent="24"/>
+				<volunteer id="dryatic_hmj_mst2" percent="24"/>
+				<volunteer id="zendic_hmj_mit1" percent="12"/>
+				<volunteer id="dryatic_hmj_hit3" percent="12"/>
+				<volunteer id="laconoi_hmj_mpt2" percent="12"/>
+				<volunteer id="myzean_hmj_at2" percent="7"/>
+				<volunteer id="myzean_hmj_ct3" percent="4"/>
+				<volunteer id="palaic_hmj_st2" percent="5"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="AR_got_elite_recruit"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="laconoi_hmj_pit2" percent="40"/>
+				<volunteer id="dryatic_hmj_nit4" percent="40"/>
+				<volunteer id="palaic_hmj_nct5" percent="20"/>
 			</eliteTroops>
 		</Culture>
 	</MapFaction>
@@ -479,7 +549,7 @@
 				<volunteer id="AR_min_aracathans_t4_cavalry" percent="25"/>
 				<volunteer id="AR_min_aracathans_t4_infantry" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="AR_min_aracathans_t5_infantry" percent="50"/>
 			</eliteTroops>
 		</Culture>
@@ -491,22 +561,21 @@
 				<volunteer id="wolfskin_hmj_it3" percent="25"/>
 				<volunteer id="wolfskin_hmj_rt3" percent="25"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
 				<volunteer id="wolfskin_hmj_rt4" percent="50"/>
 				<volunteer id="wolfskin_hmj_it4" percent="50"/>
 			</eliteTroops>
 		</Culture>
 	</Clan>
-	<Clan id="lochanians">
+	<Clan id="venatio">
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="diamond_hmj_ct2" percent="50"/>
-				<volunteer id="diamond_hmj_ct3" percent="30"/>
-				<volunteer id="diamond_hmj_it4" percent="20"/>
+				<volunteer id="venatio_hmj_st2" percent="50"/>
+				<volunteer id="venatio_hmj_it3" percent="35"/>
+				<volunteer id="venatio_hmj_hit4" percent="15"/>
 			</basicTroops>
-			<eliteTroops spawnChance="1" atPower="200" spawnChanceCap="5">
-				<volunteer id="diamond_hmj_it4" percent="50"/>
-				<volunteer id="diamond_hmj_ct4" percent="50"/>
+			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
+				<volunteer id="venatio_hmj_hit5" />
 			</eliteTroops>
 		</Culture>
 	</Clan>
