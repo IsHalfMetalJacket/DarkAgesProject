@@ -2,11 +2,369 @@
 <NPCCharacters>
 	<!-- Culture: Nord -->
 	<!-- #region Nord Common Roster -->
-		<!-- #region Northern Spear Line -->
 		<NPCCharacter id="nord_hmj_mit2"
 			default_group="Infantry"
 			level="11"
-			name="{=Nord Levy}Nord Levy"
+			name="{=Sudrvegr Thrall}Sudrvegr Thrall"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_vlandia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="30"/>
+				<skill id="Riding" value="0"/>
+				<skill id="OneHanded" value="50"/>
+				<skill id="TwoHanded" value="10"/>
+				<skill id="Polearm" value="50"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_old_shield_b"/>
+					<equipment slot="Item1" id="Item.small_bit_axe_t2"/>
+					<equipment slot="Body" id="Item.bandit_envelope_dress_v1"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_old_shield_b"/>
+					<equipment slot="Item1" id="Item.vlandia_mace_1_t2"/>
+					<equipment slot="Item2" id="Item.western_spear_2_t2"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.peasant_costume"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_old_shield_b"/>
+					<equipment slot="Item1" id="Item.small_bit_axe_t2"/>
+					<equipment slot="Body" id="Item.bandit_leather_water_flask"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_old_shield_b"/>
+					<equipment slot="Item1" id="Item.vlandia_mace_1_t2"/>
+					<equipment slot="Item2" id="Item.western_spear_2_t2"/>
+					<equipment slot="Head" id="Item.plain_headcloth"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.sackcloth_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<!-- #region Leidang Line -->
+		<NPCCharacter id="nord_hmj_mhit1"
+			default_group="Infantry"
+			level="6"
+			name="{=Leidang Youth}Leidang Youth"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="15"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="20"/>
+				<skill id="TwoHanded" value="5"/>
+				<skill id="Polearm" value="15"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="0"/>
+				<skill id="Throwing" value="15"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_mhit3"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.makeshift_hmj_javelin_1_t1"/>
+					<equipment slot="Item1" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.makeshift_hmj_javelin_1_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.makeshift_hmj_javelin_1_t1"/>
+					<equipment slot="Item1" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Head" id="Item.nordic_fur_cap"/>
+					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.makeshift_hmj_javelin_1_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.northern_fur_cap"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_mhit3"
+			default_group="Infantry"
+			level="16"
+			name="{=Leidang Warrior}Leidang Warrior"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="40"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="90"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="20"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Item2" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Head" id="Item.nordic_leather_cap"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Head" id="Item.northern_fur_cap"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.northern_padded_cloth"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_mst2"
+			default_group="Infantry"
+			level="11"
+			name="{=Sudrvegr Renegade}Sudrvegr Renegade"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="30"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="30"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="0"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_mst3"/>
+				<upgrade_target id="NPCCharacter.nord_hmj_mhst3"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Body" id="Item.fur_waistcoat_over_tunic"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Body" id="Item.tied_cloth_tunic"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.TV_phrygian_cap_b"/>
+					<equipment slot="Body" id="Item.tundra_tunic"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.AR_roman_hat_e"/>
+					<equipment slot="Body" id="Item.plain_hemp_tunic"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_mst3"
+			default_group="Infantry"
+			level="16"
+			name="{=Sudrvegr Utlagi}Sudrvegr Utlagi"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="40"/>
+				<skill id="Riding" value="20"/>
+				<skill id="OneHanded" value="40"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="20"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<upgrade_targets></upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.AR_roman_hat_b2"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.nordic_sloven"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.simple_helmet_scarf"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.fur_waistcoat_over_tunic"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.TV_phrygian_cap_b"/>
+					<equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
+					<equipment slot="Body" id="Item.fur_armor_with_strap"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_mhst3"
+			default_group="Cavalry"
+			level="16"
+			name="{=Sudrvegr Rida}Sudrvegr Rida"
+			upgrade_requires="ItemCategory.horse"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="30"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="40"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="20"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+					<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+					<equipment slot="HorseHarness" id="Item.light_harness"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.AR_roman_hat_b2"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.nordic_sloven"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+					<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+					<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.simple_helmet_scarf"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.fur_waistcoat_over_tunic"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+					<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+					<equipment slot="HorseHarness" id="Item.bandit_saddle_highland"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.AR_battania_2haxe_3_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_javelin_1_t2"/>
+					<equipment slot="Head" id="Item.TV_phrygian_cap_b"/>
+					<equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
+					<equipment slot="Body" id="Item.fur_armor_with_strap"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+					<equipment slot="Horse" id="Item.sturgia_horse_tournament"/>
+					<equipment slot="HorseHarness" id="Item.light_harness"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<!-- #region Leidang Archer Line -->
+		<NPCCharacter id="nord_hmj_mrt1"
+			default_group="Ranged"
+			level="6"
+			name="{=Leidang Huntsman}Leidang Huntsman"
 			occupation="Soldier"
 			is_basic_troop="true"
 			culture="Culture.nord">
@@ -16,59 +374,1254 @@
 			<skills >
 				<skill id="Athletics" value="10"/>
 				<skill id="Riding" value="0"/>
+				<skill id="OneHanded" value="15"/>
+				<skill id="TwoHanded" value="5"/>
+				<skill id="Polearm" value="5"/>
+				<skill id="Bow" value="30"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="5"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_mrt2"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.hunting_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Head" id="Item.northern_fur_cap"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.hunting_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.seax"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.hunting_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Head" id="Item.TV_phrygian_cap_a"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.hunting_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.seax"/>
+					<equipment slot="Body" id="Item.tundra_tunic"/>
+					<equipment slot="Gloves" id="Item.ragged_armwraps"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_mrt2"
+			default_group="Ranged"
+			level="11"
+			name="{=Leidang Bowman}Leidang Bowman"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="20"/>
+				<skill id="Riding" value="5"/>
 				<skill id="OneHanded" value="30"/>
-				<skill id="TwoHanded" value="10"/>
-				<skill id="Polearm" value="30"/>
+				<skill id="TwoHanded" value="30"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="50"/>
+				<skill id="Crossbow" value="10"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.barbed_arrows"/>
+					<equipment slot="Item2" id="Item.longseax"/>
+					<equipment slot="Item3" id="Item.barbed_arrows"/>
+					<equipment slot="Head" id="Item.TV_phrygian_cap_b"/>
+					<equipment slot="Cape" id="Item.ao_light_fur_shoulder"/>
+					<equipment slot="Body" id="Item.leather_coat"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.barbed_arrows"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Item3" id="Item.peasant_wood_axe_t1"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Cape" id="Item.ao_generic_short_cape"/>
+					<equipment slot="Body" id="Item.nordic_sloven"/>
+					<equipment slot="Gloves" id="Item.guarded_armwraps"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.barbed_arrows"/>
+					<equipment slot="Item2" id="Item.longseax"/>
+					<equipment slot="Head" id="Item.nordic_fur_cap"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.fur_armor_with_strap"/>
+					<equipment slot="Gloves" id="Item.padded_vambrace"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.barbed_arrows"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.northern_fur_cap"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.leather_tunic"/>
+					<equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_pt2"
+			default_group="Infantry"
+			level="11"
+			name="{=Hirdmandr Fledgling}Hirdmandr Fledgling"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.villager_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="20"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="45"/>
+				<skill id="TwoHanded" value="5"/>
+				<skill id="Polearm" value="45"/>
 				<skill id="Bow" value="5"/>
 				<skill id="Crossbow" value="0"/>
 				<skill id="Throwing" value="10"/>
 			</skills>
 			<upgrade_targets>
-				<upgrade_target id="NPCCharacter.nord_hmj_mit3"/>
+				<upgrade_target id="NPCCharacter.nord_hmj_pt3"/>
 			</upgrade_targets>
 			<Equipments>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-					<equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
-					<equipment slot="Head" id="Item.roughhide_cap"/>
-					<equipment slot="Cape" id="Item.hood"/>
-					<equipment slot="Body" id="Item.heavy_nordic_coat"/>
-					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.nordic_fur_cap"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
 				</EquipmentRoster>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-					<equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-					<equipment slot="Item2" id="Item.seax"/>
-					<equipment slot="Head" id="Item.northern_fur_cap"/>
-					<equipment slot="Cape" id="Item.wrapped_scarf"/>
-					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Item2" id="Item.broadseax"/>
+					<equipment slot="Head" id="Item.nordic_leather_cap"/>
+					<equipment slot="Body" id="Item.leather_coat"/>
 					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
 				</EquipmentRoster>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-					<equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
-					<equipment slot="Head" id="Item.nordic_fur_cap"/>
-					<equipment slot="Cape" id="Item.green_hood"/>
-					<equipment slot="Body" id="Item.tundra_tunic"/>
-					<equipment slot="Gloves" id="Item.armwraps"/>
-					<equipment slot="Leg" id="Item.leather_shoes"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Head" id="Item.northern_fur_cap"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.leather_tunic"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
 				</EquipmentRoster>
 				<EquipmentRoster>
 					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
-					<equipment slot="Item1" id="Item.AR_shield_infantry_d"/>
-					<equipment slot="Item2" id="Item.seax"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Body" id="Item.northern_padded_cloth"/>
+					<equipment slot="Leg" id="Item.vs_tied_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
+					<equipment slot="Head" id="Item.nordic_fur_cap"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_shield"/>
 					<equipment slot="Head" id="Item.nordic_leather_cap"/>
-					<equipment slot="Cape" id="Item.scarf"/>
-					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Body" id="Item.leather_coat"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_pt3"
+			default_group="Infantry"
+			level="16"
+			name="{=Hirdmandr Warrior}Hirdmandr Warrior"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="40"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="90"/>
+				<skill id="TwoHanded" value="20"/>
+				<skill id="Polearm" value="90"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_pt4"/>
+				<upgrade_target id="NPCCharacter.nord_hmj_hit5"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.leather_tunic"/>
 					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_i"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.leather_coat"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+					<equipment slot="Body" id="Item.nordic_padded_cloth"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.northern_padded_cloth"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.vs_tied_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.leather_tunic"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.eastern_spear_2_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_i"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.leather_coat"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_pt4"
+			default_group="Infantry"
+			level="21"
+			name="{=Hirdmandr Spjotdrengr}Hirdmandr Spjotkarl"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="60"/>
+				<skill id="Riding" value="20"/>
+				<skill id="OneHanded" value="110"/>
+				<skill id="TwoHanded" value="40"/>
+				<skill id="Polearm" value="110"/>
+				<skill id="Bow" value="20"/>
+				<skill id="Crossbow" value="10"/>
+				<skill id="Throwing" value="40"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Head" id="Item.nasalhelm_over_mail"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_b"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.stitched_leather_vest"/>
+					<equipment slot="Gloves" id="Item.padded_vambrace"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_j"/>
+					<equipment slot="Cape" id="Item.wrapped_scarf"/>
+					<equipment slot="Body" id="Item.northern_lamellar_armor"/>
+					<equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_f"/>
+					<equipment slot="Cape" id="Item.green_hood"/>
+					<equipment slot="Body" id="Item.AR_vlandia_armor_n"/>
+					<equipment slot="Gloves" id="Item.strapped_leather_bracers"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_y"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Head" id="Item.nasalhelm_over_mail"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.nordic_lamellar_vest"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_3_t4"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zp"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_b"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.stitched_leather_vest"/>
+					<equipment slot="Gloves" id="Item.padded_vambrace"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_hit5"
+			default_group="Infantry"
+			level="26"
+			name="{=Hirdmandr Skjaldkarl}Hirdmandr Skjaldkarl"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="120"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="200"/>
+				<skill id="TwoHanded" value="160"/>
+				<skill id="Polearm" value="120"/>
+				<skill id="Bow" value="40"/>
+				<skill id="Crossbow" value="20"/>
+				<skill id="Throwing" value="120"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Item1" id="Item.leather_round_shield"/>
+					<equipment slot="Item2" id="Item.northern_axe_t3"/>
+					<equipment slot="Head" id="Item.northern_goggled_helmet"/>
+					<equipment slot="Cape" id="Item.fur_cloak_b"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_sword_5_t4"/>
+					<equipment slot="Item1" id="Item.leather_round_shield"/>
+					<equipment slot="Head" id="Item.goggled_helmet_over_full_mail"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_y"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Item1" id="Item.leather_round_shield"/>
+					<equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_mail"/>
+					<equipment slot="Cape" id="Item.TV_wolf_pelt_d"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_sword_5_t4"/>
+					<equipment slot="Item1" id="Item.leather_round_shield"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_s"/>
+					<equipment slot="Cape" id="Item.TV_battania_cloak_p"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_e"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_hat1"
+			default_group="Infantry"
+			level="6"
+			name="{=Ulfhedninn Drengr}Ulfhedninn Youth"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="35"/>
+				<skill id="Riding" value="0"/>
+				<skill id="OneHanded" value="40"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="0"/>
+				<skill id="Throwing" value="5"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_hat4"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.battania_2haxe_1_t2"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.wolfhead"/>
+					<equipment slot="Body" id="Item.battanian_savage_armor"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.battania_2haxe_1_t2"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Cape" id="Item.TV_wolf_pelt_b"/>
+					<equipment slot="Body" id="Item.fur_skirt"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.battania_2haxe_1_t2"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.TV_wolf_pelt_e"/>
+					<equipment slot="Body" id="Item.ao_mabili_hide_skirt"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.battania_2haxe_1_t2"/>
+					<equipment slot="Item1" id="Item.seax"/>
+					<equipment slot="Head" id="Item.TV_wolf_pelt_c"/>
 					<equipment slot="Leg" id="Item.wrapped_shoes"/>
 				</EquipmentRoster>
 				<EquipmentSet id="sturgia_troop_civilian_template_t1"
 							  civilian="true" />
 			</Equipments>
 		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_hat4"
+			default_group="Infantry"
+			level="21"
+			name="{=Ulfhedninn Warrior}Ulfhedninn Drengr"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="160"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="120"/>
+				<skill id="TwoHanded" value="200"/>
+				<skill id="Polearm" value="40"/>
+				<skill id="Bow" value="20"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="80"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.northern_throwing_axe_1_t1"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+					<equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Leg" id="Item.ragged_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_i"/>
+					<equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item2" id="Item.viking_round_shield"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+					<equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_u"/>
+					<equipment slot="Cape" id="Item.AR_wolf_head_cloak_b"/>
+					<equipment slot="Body" id="Item.ao_sleeveless_mail_hauberk"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_nat2"
+			default_group="Ranged"
+			level="11"
+			name="{=Felag Huntsman}Felag Huntsman"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="40"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="50"/>
+				<skill id="TwoHanded" value="10"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="60"/>
+				<skill id="Crossbow" value="10"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nat3"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.seax"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.seax"/>
+					<equipment slot="Head" id="Item.roughhide_cap"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.glen_ranger_bow"/>
+					<equipment slot="Item1" id="Item.default_arrows"/>
+					<equipment slot="Item2" id="Item.peasant_hatchet_1_t1"/>
+					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nat3"
+			default_group="Ranged"
+			level="16"
+			name="{=Felag Bowman}Felag Bowman"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="50"/>
+				<skill id="Riding" value="20"/>
+				<skill id="OneHanded" value="50"/>
+				<skill id="TwoHanded" value="20"/>
+				<skill id="Polearm" value="20"/>
+				<skill id="Bow" value="80"/>
+				<skill id="Crossbow" value="20"/>
+				<skill id="Throwing" value="20"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nat5"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_yew_bow"/>
+					<equipment slot="Item1" id="Item.GRE_default_arrows"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Item3" id="Item.GRE_bodkin_arrows_c"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t2"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.heavy_nordic_coat"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_yew_bow"/>
+					<equipment slot="Item1" id="Item.GRE_default_arrows"/>
+					<equipment slot="Item2" id="Item.broadseax"/>
+					<equipment slot="Item3" id="Item.battania_2haxe_1_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_u2"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.heavy_nordic_coat"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_yew_bow"/>
+					<equipment slot="Item1" id="Item.GRE_default_arrows"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Item3" id="Item.GRE_bodkin_arrows_c"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_j"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.heavy_nordic_coat"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_yew_bow"/>
+					<equipment slot="Item1" id="Item.GRE_default_arrows"/>
+					<equipment slot="Item2" id="Item.broadseax"/>
+					<equipment slot="Item3" id="Item.GRE_bodkin_arrows_c"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_f"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.heavy_nordic_coat"/>
+					<equipment slot="Gloves" id="Item.eastern_wrapped_armguards"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nat5"
+			default_group="Ranged"
+			level="26"
+			name="{=Felag Bogidrengr}Felag Bogidrengr"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="100"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="80"/>
+				<skill id="TwoHanded" value="180"/>
+				<skill id="Polearm" value="80"/>
+				<skill id="Bow" value="180"/>
+				<skill id="Crossbow" value="80"/>
+				<skill id="Throwing" value="80"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_longbow"/>
+					<equipment slot="Item1" id="Item.blunt_arrows"/>
+					<equipment slot="Item2" id="Item.northern_axe_t3"/>
+					<equipment slot="Item3" id="Item.blunt_arrows"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_g"/>
+					<equipment slot="Cape" id="Item.AR_battanian_shoulder_d"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_a"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_longbow"/>
+					<equipment slot="Item1" id="Item.blunt_arrows"/>
+					<equipment slot="Item2" id="Item.northern_axe_t3"/>
+					<equipment slot="Item3" id="Item.blunt_arrows"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_mail"/>
+					<equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_longbow"/>
+					<equipment slot="Item1" id="Item.blunt_arrows"/>
+					<equipment slot="Item2" id="Item.northern_axe_t3"/>
+					<equipment slot="Item3" id="Item.blunt_arrows"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_mail"/>
+					<equipment slot="Cape" id="Item.AR_battanian_shoulder_d"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.AR_empire_gloves_a"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.woodland_longbow"/>
+					<equipment slot="Item1" id="Item.blunt_arrows"/>
+					<equipment slot="Item2" id="Item.northern_axe_t3"/>
+					<equipment slot="Item3" id="Item.blunt_arrows"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_g"/>
+					<equipment slot="Cape" id="Item.AR_empire_shoulders_a"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_nst2"
+			default_group="Infantry"
+			level="11"
+			name="{=Nordmandr Retainer}Nordmandr Retainer"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="30"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="40"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nst4"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.simple_sparth_axe_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_i"/>
+					<equipment slot="Body" id="Item.light_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.simple_sparth_axe_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.nasal_helmet"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.northern_leather_vest"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.simple_sparth_axe_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.nasalhelm_over_leather"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Gloves" id="Item.armwraps"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.simple_sparth_axe_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_t"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nst4"
+			default_group="Infantry"
+			level="21"
+			name="{=Nordmandr Guard}Nordmandr Guard"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="80"/>
+				<skill id="Riding" value="20"/>
+				<skill id="OneHanded" value="100"/>
+				<skill id="TwoHanded" value="120"/>
+				<skill id="Polearm" value="50"/>
+				<skill id="Bow" value="20"/>
+				<skill id="Crossbow" value="20"/>
+				<skill id="Throwing" value="50"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nst5"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_axe_t3"/>
+					<equipment slot="Item1" id="Item.viking_round_shield"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_axe_t3"/>
+					<equipment slot="Item1" id="Item.viking_round_shield"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+					<equipment slot="Cape" id="Item.hood"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_axe_t3"/>
+					<equipment slot="Item1" id="Item.viking_round_shield"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_axe_t3"/>
+					<equipment slot="Item1" id="Item.viking_round_shield"/>
+					<equipment slot="Item2" id="Item.northern_battle_axe_t3"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_1_t3"/>
+					<equipment slot="Head" id="Item.goggled_helmet_over_leather"/>
+					<equipment slot="Cape" id="Item.scarf"/>
+					<equipment slot="Body" id="Item.TV_sturgia_armor_a"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nst5"
+			default_group="Infantry"
+			level="26"
+			name="{=Nordmandr Huskarl}Nordmandr Huskarl"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="140"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="200"/>
+				<skill id="TwoHanded" value="240"/>
+				<skill id="Polearm" value="100"/>
+				<skill id="Bow" value="40"/>
+				<skill id="Crossbow" value="40"/>
+				<skill id="Throwing" value="100"/>
+			</skills>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.strapped_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Head" id="Item.northern_goggled_helmet"/>
+					<equipment slot="Cape" id="Item.berserkr_fur_b"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.highland_gloves"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.strapped_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Item3" id="Item.AR_vlandian_throwing_spear_t4"/>
+					<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+					<equipment slot="Cape" id="Item.bearskin"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.TV_vlandia_gloves_c"/>
+					<equipment slot="Leg" id="Item.highland_leg_wrappings"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.strapped_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_mail"/>
+					<equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Gloves" id="Item.buttoned_leather_bracers"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Item1" id="Item.strapped_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Item3" id="Item.AR_vlandian_throwing_spear_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_d"/>
+					<equipment slot="Cape" id="Item.rough_bearskin"/>
+					<equipment slot="Body" id="Item.TV_sturgia_armor_a"/>
+					<equipment slot="Gloves" id="Item.padded_vambrace"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_a"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<NPCCharacter id="nord_hmj_nhit2"
+			default_group="Infantry"
+			level="11"
+			name="{=Grimarsung Mogr}Grimarsung Mogr"
+			occupation="Soldier"
+			is_basic_troop="true"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="15"/>
+				<skill id="Riding" value="5"/>
+				<skill id="OneHanded" value="50"/>
+				<skill id="TwoHanded" value="5"/>
+				<skill id="Polearm" value="50"/>
+				<skill id="Bow" value="5"/>
+				<skill id="Crossbow" value="0"/>
+				<skill id="Throwing" value="5"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nhit3"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.nasal_helmet"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_2_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Head" id="Item.nasal_helmet"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+					<equipment slot="Body" id="Item.northern_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Head" id="Item.nasal_helmet"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.northern_round_sparring_shield"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_a"/>
+					<equipment slot="Body" id="Item.heavy_nordic_tunic"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t1"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nhit3"
+			default_group="Infantry"
+			level="16"
+			name="{=Grimarsung Seggr}Grimarsung Seggr"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="40"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="60"/>
+				<skill id="TwoHanded" value="60"/>
+				<skill id="Polearm" value="60"/>
+				<skill id="Bow" value="10"/>
+				<skill id="Crossbow" value="5"/>
+				<skill id="Throwing" value="10"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nhit5"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Item3" id="Item.simple_sparth_axe_t2"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_3_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.wrapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_shortsleeve"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_e"/>
+					<equipment slot="Body" id="Item.nordic_sloven_over_mail"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.western_spear_1_t2"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zr"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_m"/>
+					<equipment slot="Body" id="Item.nordic_sloven_over_mail"/>
+					<equipment slot="Leg" id="Item.strapped_leather_boots"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t2"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nhit5"
+			default_group="Infantry"
+			level="26"
+			name="{=Grimarsung Rekkr}Grimarsung Rekkr"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="70"/>
+				<skill id="Riding" value="40"/>
+				<skill id="OneHanded" value="120"/>
+				<skill id="TwoHanded" value="120"/>
+				<skill id="Polearm" value="120"/>
+				<skill id="Bow" value="40"/>
+				<skill id="Crossbow" value="20"/>
+				<skill id="Throwing" value="50"/>
+			</skills>
+			<upgrade_targets>
+				<upgrade_target id="NPCCharacter.nord_hmj_nhit6"/>
+			</upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item2" id="Item.sturgia_sword_4_t4"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_c"/>
+					<equipment slot="Cape" id="Item.AR_battanian_shoulder_d"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_4_t4"/>
+					<equipment slot="Item3" id="Item.northern_axe_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_g"/>
+					<equipment slot="Cape" id="Item.vs_fur_cloaka"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_o"/>
+					<equipment slot="Cape" id="Item.fur_cloak_b"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item3" id="Item.northern_throwing_axe_1_t1"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_mail"/>
+					<equipment slot="Cape" id="Item.AR_wolf_head_cloak_a"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_c"/>
+					<equipment slot="Cape" id="Item.AR_battanian_shoulder_d"/>
+					<equipment slot="Body" id="Item.nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.triangluar_spear_t3"/>
+					<equipment slot="Item1" id="Item.AR_shield_infantry_zq"/>
+					<equipment slot="Item3" id="Item.northern_axe_t3"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_g"/>
+					<equipment slot="Cape" id="Item.vs_fur_cloaka"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.studded_leather_vambraces"/>
+					<equipment slot="Leg" id="Item.DZ_empire_boots_b"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+		<NPCCharacter id="nord_hmj_nhit6"
+			default_group="Infantry"
+			level="31"
+			name="{=Grimarsung Sigrherra}Grimarsung Sigrherra"
+			occupation="Soldier"
+			culture="Culture.nord">
+			<face>
+				<face_key_template value="BodyProperty.fighter_sturgia"/>
+			</face>
+			<skills >
+				<skill id="Athletics" value="140"/>
+				<skill id="Riding" value="80"/>
+				<skill id="OneHanded" value="220"/>
+				<skill id="TwoHanded" value="220"/>
+				<skill id="Polearm" value="220"/>
+				<skill id="Bow" value="80"/>
+				<skill id="Crossbow" value="40"/>
+				<skill id="Throwing" value="100"/>
+			</skills>
+			<upgrade_targets></upgrade_targets>
+			<Equipments>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_noble_sword_1_t5"/>
+					<equipment slot="Item3" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_p"/>
+					<equipment slot="Cape" id="Item.vs_cape_with_fura"/>
+					<equipment slot="Body" id="Item.TV_sturgia_armor_a"/>
+					<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item2" id="Item.sturgia_axe_5_t5"/>
+					<equipment slot="Item3" id="Item.AR_vlandian_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.lendman_helmet_over_full_mail"/>
+					<equipment slot="Cape" id="Item.rough_bearskin"/>
+					<equipment slot="Body" id="Item.sturgian_chainmale_longsleeve"/>
+					<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item3" id="Item.southern_throwing_axe_1_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+					<equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
+					<equipment slot="Body" id="Item.TV_sturgia_armor_a2"/>
+					<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item3" id="Item.sturgia_2haxe_1_t4"/>
+					<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+					<equipment slot="Cape" id="Item.vs_cape_with_furb"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+					<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item3" id="Item.AR_vlandian_throwing_spear_2_t4"/>
+					<equipment slot="Head" id="Item.TV_nord_helmet_h"/>
+					<equipment slot="Cape" id="Item.TV_battania_shoulders_c"/>
+					<equipment slot="Body" id="Item.TV_sturgia_armor_a2"/>
+					<equipment slot="Gloves" id="Item.northern_brass_bracers"/>
+					<equipment slot="Leg" id="Item.strapped_shoes"/>
+				</EquipmentRoster>
+				<EquipmentRoster>
+					<equipment slot="Item0" id="Item.northern_spear_4_t5"/>
+					<equipment slot="Item1" id="Item.heavy_round_shield"/>
+					<equipment slot="Item3" id="Item.southern_throwing_axe_1_t4"/>
+					<equipment slot="Head" id="Item.closed_goggled_helmet"/>
+					<equipment slot="Cape" id="Item.vs_cape_with_furb"/>
+					<equipment slot="Body" id="Item.decorated_nordic_hauberk"/>
+					<equipment slot="Gloves" id="Item.AR_sturgia_gloves_c"/>
+					<equipment slot="Leg" id="Item.TV_battania_boots_x"/>
+				</EquipmentRoster>
+				<EquipmentSet id="sturgia_troop_civilian_template_t3"
+							  civilian="true" />
+			</Equipments>
+		</NPCCharacter>
+
+		<!-- #region Defunct Line -->
+
 		<NPCCharacter id="nord_hmj_mit3"
 			default_group="Infantry"
 			level="16"

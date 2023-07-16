@@ -425,7 +425,7 @@
 		<NPCCharacter id="wimperial_hmj_mat3"
 			default_group="Ranged"
 			level="16"
-			name="{=W. Imperial Citizen Bowman}W. Imperial Rorarii Bowman"
+			name="{=Rorarii Bowman}Rorarii Bowman"
 			occupation="Soldier"
 			is_basic_troop="true"
 			culture="Culture.empire_w">
@@ -433,14 +433,14 @@
 				<face_key_template value="BodyProperty.villager_empire"/>
 			</face>
 			<skills >
-				<skill id="Athletics" value="40"/>
-				<skill id="Riding" value="5"/>
-				<skill id="OneHanded" value="80"/>
+				<skill id="Athletics" value="30"/>
+				<skill id="Riding" value="10"/>
+				<skill id="OneHanded" value="40"/>
 				<skill id="TwoHanded" value="20"/>
-				<skill id="Polearm" value="20"/>
-				<skill id="Bow" value="120"/>
+				<skill id="Polearm" value="10"/>
+				<skill id="Bow" value="60"/>
 				<skill id="Crossbow" value="20"/>
-				<skill id="Throwing" value="5"/>
+				<skill id="Throwing" value="10"/>
 			</skills>
 			<Equipments>
 				<EquipmentRoster>
