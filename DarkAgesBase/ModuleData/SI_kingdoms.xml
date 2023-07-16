@@ -139,14 +139,14 @@
 	</Kingdom>
 	<Kingdom id="vlandia"
 	         owner="Hero.lord_4_1"
-	         banner_key="11.14.14.1536.1536.768.768.1.0.0.160.15.15.512.512.769.764.1.0.0"
-	         primary_banner_color="0xff6b2929"
-	         secondary_banner_color="0xffF7BF46"
+	         banner_key="11.142.142.1536.1536.768.768.1.0.0.160.132.132.512.512.769.764.1.0.0"
+	         primary_banner_color="6b0c0c"
+	         secondary_banner_color="c48f12"
 	         label_color="ffB01301"
-	         color="0xff6b2929"
-	         color2="FFECBA44"
-	         alternative_color="0xff6b2929"
-	         alternative_color2="ff910101"
+	         color="6b0c0c"
+	         color2="c48f12"
+	         alternative_color="6b0c0c"
+	         alternative_color2="c48f12"
 	         culture="Culture.vlandia"
 	         settlement_banner_mesh="encounter_flag_d"
 	         flag_mesh="info_screen_flags_c"
@@ -307,7 +307,7 @@
 		</policies>
 	</Kingdom>
 	<Kingdom id="zwadane"
-	         owner="Hero.AR_lord_11_1"
+	         owner="Hero.hmj_zwadane_11_1"
 	         banner_key="11.12.12.1536.1536.768.768.1.0.0.105.40.127.500.500.764.724.0.0.0.301.40.127.500.500.764.964.0.0.-90"
 	         primary_banner_color="0xff95a9cc"
 	         secondary_banner_color="0xff2f2a2b"
@@ -326,8 +326,9 @@
 	         text="{=hmj_kingdom_zwadane_text}To be written">
 		<relationships>
 			<relationship kingdom="Kingdom.battania"
-			              value="-1"
-			              isAtWar="true"/>
+			              value="-1"/>
+			<relationship kingdom="Kingdom.norden"
+			              value="-1"/>
 		</relationships>
 		<policies>
 			<policy id="policy_lawspeakers"/>
@@ -362,7 +363,7 @@
 		</policies>
 	</Kingdom>
 	<Kingdom id="oldcalradia"
-	         owner="Hero.AR_lord_13_1"
+	         owner="Hero.hmj_lord_old_1"
 	         banner_key="11.2.38.2000.2000.764.764.1.0.0.408.2.38.509.509.764.764.1.0.0"
 	         primary_banner_color="0xffce9697"
 	         secondary_banner_color="0xff5a1310"
@@ -380,8 +381,14 @@
 	         ruler_title="{=afvM7XpQ}High Chieftain"
 	         text="These basically are the Palaics, Dryatics and Myzeans rolled into a faction.">
 		<relationships>
+			<relationship kingdom="Kingdom.battania"
+			              value="1"/>		
 			<relationship kingdom="Kingdom.empire"
-			              value="-1"/>		
+			              value="-1"/>	
+			<relationship kingdom="Kingdom.empire_s"
+			              value="-1"/>	
+			<relationship kingdom="Kingdom.empire_w"
+			              value="-1"/>							  
 		</relationships>
 		<policies>
 			<policy id="policy_council_of_the_commons"/>
@@ -409,6 +416,10 @@
 		<relationships>
 			<relationship kingdom="Kingdom.battania"
 			              value="-1"/>
+			<relationship kingdom="Kingdom.zwadane"
+			              value="-1"/>	
+			<relationship kingdom="Kingdom.byals"
+			              value="-1"/>							  
 		</relationships>
 		<policies>
 			<policy id="policy_royal_privilege"/>

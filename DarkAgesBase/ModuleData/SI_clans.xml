@@ -25,94 +25,177 @@
 	         settlement_banner_mesh="encounter_flag_a"
 	         name="{=3PzgpFGq}Neutral"
 	         tier="1"/-->
-	<!--bandit factions-->
-	<!--Faction id="looters"
-	         banner_key="24.116.95.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.looters"
-	         default_party_template="PartyTemplate.looters_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=1sbJQR4H}Looters"
-	         tier="1"/-->
-	<!--Faction id="deserters" owner="Hero.lord_deserters_1" label_color="FF8B7C73" color="FF8B7C73" color2="FF8B7C73" alternative_color="FF8B7C73" alternative_color2="FF8B7C73" culture="Culture.deserters" default_party_template="PartyTemplate.deserters_template" settlement_banner_mesh="none" is_bandit="true" is_outlaw="true" name="Deserters">
+  <!--bandit factions-->
+  <Faction id="looters"
+           banner_key="24.193.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.looters"
+           default_party_template="PartyTemplate.looters_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=1sbJQR4H}Freebooters"
+           tier="1"></Faction>
+  <!--Faction id="deserters" owner="Hero.lord_deserters_1" label_color="FF8B7C73" color="FF8B7C73" color2="FF8B7C73" alternative_color="FF8B7C73" alternative_color2="FF8B7C73" culture="Culture.deserters" default_party_template="PartyTemplate.deserters_template" settlement_banner_mesh="none" is_bandit="true" is_outlaw="true" name="Deserters">
   </Faction-->
-	<!--Faction id="sea_raiders"
-	         banner_key="20.12.116.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.sea_raiders"
-	         default_party_template="PartyTemplate.sea_raiders_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=pBUc2pL8}Sea Raiders"
-	         tier="1"/>
-	<Faction id="mountain_bandits"
-	         banner_key="20.101.116.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.mountain_bandits"
-	         default_party_template="PartyTemplate.mountain_bandits_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=mOa9CX13}Mountain Bandits"
-	         tier="1"/>
-	<Faction id="forest_bandits"
-	         banner_key="20.2.116.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.forest_bandits"
-	         default_party_template="PartyTemplate.forest_bandits_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=sAbjtZbB}Forest Bandits"
-	         tier="1"/>
-	<Faction id="desert_bandits"
-	         banner_key="20.7.116.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.desert_bandits"
-	         default_party_template="PartyTemplate.desert_bandits_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=kkUQObZn}Desert Bandits"
-	         tier="1"/>
-	<Faction id="steppe_bandits"
-	         banner_key="20.116.18.1536.1536.768.768.1.0.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.steppe_bandits"
-	         default_party_template="PartyTemplate.steppe_bandits_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=e6csp4ha}Steppe Bandits"
-	         tier="1"/-->
+  <Faction id="sea_raiders"
+           banner_key="20.190.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.sea_raiders"
+           default_party_template="PartyTemplate.sea_raiders_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=pBUc2pL8}Vikingar"
+           tier="1"></Faction>
+  <Faction id="mountain_bandits"
+           banner_key="20.189.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.mountain_bandits"
+           default_party_template="PartyTemplate.mountain_bandits_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=mOa9CX13}Woodsmen"
+           tier="1"></Faction>
+  <Faction id="forest_bandits"
+           banner_key="20.101.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.forest_bandits"
+           default_party_template="PartyTemplate.forest_bandits_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=sAbjtZbB}Routiers"
+           tier="1"></Faction>
+  <Faction id="desert_bandits"
+           banner_key="20.191.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.desert_bandits"
+           default_party_template="PartyTemplate.desert_bandits_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=kkUQObZn}Jawwal Bandits"
+           tier="1"></Faction>
+  <Faction id="steppe_bandits"
+           banner_key="20.192.116.1536.1536.768.768.1.0.0"
+           label_color="FF8B7C73"
+           color="FF8B7C73"
+           color2="FF8B7C73"
+           alternative_color="FF8B7C73"
+           alternative_color2="FF8B7C73"
+           culture="Culture.steppe_bandits"
+           default_party_template="PartyTemplate.steppe_bandits_template"
+           settlement_banner_mesh="none"
+           is_bandit="true"
+           is_outlaw="true"
+           name="{=e6csp4ha}Nomad"
+           tier="1"></Faction>
 	<!-- mercenary minor factions (4) -->
+  <Faction id="clan_battania_1"
+           name="{=a67wFbUw}fen Gruffendoc"
+           tier="6"
+           owner="Hero.lord_5_1"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.456.39.0.382.382.764.834.0.0.180.413.39.0.224.224.764.614.0.0.0" />
+  <Faction id="clan_battania_2"
+           name="{=zvas3ieB}fen Derngil"
+           tier="5"
+           owner="Hero.lord_5_3"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.412.39.0.454.454.764.764.0.0.180" />
+  <!--		
+		Patriarch: Ergeon, 5_3 whitebeard, arthur-type. Submits to Gruffendoc because they realize latter's capacity to lead
+		Active queen: Mywin 5_4, holds her own lands and fights in her own right
+		Heir Sein 5_8
+		Inactive heiress (5_11)
+		Lieutenant: 5_14
+	-->
+  <Faction id="clan_battania_3"
+           name="{=0m0IUnL1}fen Uvain"
+           tier="5"
+           owner="Hero.lord_5_5"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.427.39.0.261.261.764.869.0.0.359.133.39.0.380.380.764.696.0.0.0" />
+  <!--		
+	Fen Uvain
+		Old house, know they lack the charisma to conquer, prefer to plot to maintain their independence
+		Good ties to Wolfskins
+	
+		Meledir. Patriarch (5_5) - Cautious, deceitful, unctuous, 
+		Inactive queen (5_6)
+		Heir - Culharn (5_9) conventional
+		Heiress (5_12)
+		Lieutenant (5_15)
+	-->
+  <Faction id="clan_battania_4"
+           name="{=k3djFmuO}fen Penraic"
+           tier="4"
+           owner="Hero.lord_5_14"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.132.39.0.438.438.764.814.0.0.0.302.39.0.438.438.764.714.0.0.0" />
+  <Faction id="clan_battania_5"
+           name="{=ObBvcDhJ}fen Giall"
+           tier="3"
+           owner="Hero.lord_5_16"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.535.39.0.189.178.814.920.0.1.0.535.39.0.178.178.692.919.0.0.0.151.39.0.425.425.764.732.0.0.0" />
+  <Faction id="clan_battania_6"
+           name="{=qoLWSdRE}fen Suainin"
+           tier="2"
+           owner="Hero.lord_5_17"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.504.39.0.90.90.764.942.0.0.180.503.39.0.84.84.764.760.0.0.0.406.39.0.455.455.764.764.0.0.0.504.39.0.90.90.764.587.0.0.0" />
+  <Faction id="clan_battania_7"
+           name="{=HMnHaJac}fen Morcar"
+           tier="3"
+           owner="Hero.lord_5_15"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.504.39.96.80.80.764.978.1.0.180.407.39.0.368.368.764.757.0.0.0.504.39.96.110.110.764.535.1.0.180" />
+  <!-- fen Caernacht, resentful clan -->
+  <Faction id="clan_battania_8"
+           name="{=14GLGKNj}fen Caernacht"
+           tier="2"
+           owner="Hero.lord_B8_l"
+           culture="Culture.battania"
+           super_faction="Kingdom.battania"
+           is_noble="true"
+           banner_key="11.101.75.4345.4345.764.764.1.0.0.415.39.0.391.391.764.764.0.0.0" />
 	<Faction id="ghilman"
 	         initial_posX="600.0"
 	         initial_posY="300.0"
@@ -497,47 +580,81 @@
 	<!--Quraysh-like clan, established and mercantile -->
 
 	<!--
-	VLANDIA
-	Brotherhood of the Woods
-	Free Company
-	Vlandian warships first came to the western shores of Calradia as traders. Then, seeing how rich the land was, they decided to take it. First the Empire fought them, then when that failed granted them noble titles and estates to make them into imperial clients, and then - when they rebelled - fought them again. Now they are an independent kingdom, known for steel-forging and their horses, and their armored riders are a constant menace to the Empire's western marches. 	
+     Vlandian Clans
 	-->
-	<Faction id="clan_vlandia_2"
-	         name="{=qFntgcGy}dey Tihr"
-	         tier="5"
-	         owner="Hero.lord_4_3"
-	         culture="Culture.zwadane"
-	         super_faction="Kingdom.zwadane"
-	         is_noble="true"
-	         banner_key="11.71.14.4000.4000.764.764.1.0.0.419.15.0.420.420.766.764.0.0.0.512.15.0.100.100.664.864.0.0.0.512.15.0.100.100.864.664.0.0.0.512.15.0.100.100.864.864.0.0.0.512.15.0.100.100.664.664.0.0.0.500.15.0.500.500.764.764.0.0.0"/>
-	<!--
-	Patriarch - Rendric.	Wealthy, entitled clan. Duc de Berry	
-	Rendric of the House of Tir is wealthy and notoriously avaricious, known for squeezing every last denar out of his subjects while neglecting his duty to defend them. His son meanwhile is considered depraved, and is almost as greatly feared as the Sturgian and Battanian raiders who he allows the rampage through the northlands as he pursues his desires. Rendric's daughter Liena is considered the saving grace of the family, who has donned armor and taken on the responsibilities that her male relatives neglect.
-	Heir is Furenhard - depraved and feared
-	Heiress is Liena, leads armies, somewhat feckless
-	Lieutenant - 	
+	  <Faction id="clan_vlandia_1"
+           name="{=3o5s6L3y}dey Meroc"
+           tier="6"
+           owner="Hero.lord_4_1"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="11.142.142.1536.1536.768.768.1.0.0.160.132.132.512.512.769.764.1.0.0" />
+  <Faction id="clan_vlandia_3"
+           name="{=mpjp1MT2}dey Arromanc"
+           tier="4"
+           owner="Hero.lord_4_6"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="1.148.148.1823.1808.764.764.0.0.0.102.140.140.408.408.764.764.0.0.0" />
+  <!--
+	Calatild was her father's only child, and was named heir of the House of Arromanc in contrary to normal Vlandian custom. The claim to her lands staked by Ingalther of Cortain has allowed her to rally her relatives to her banner, overcoming any objections they might have to a female liege. 
+	Patriarch - Untheric, consort of queen
+	Queen - Calatild
+	Heir, Thomund - valiant but hotheaded, conventional
+	Uncle, Hecard
+	Heiress 
 	-->
-	<Faction id="clan_vlandia_6"
-	         name="{=vbLAA0RF}dey Rovalt"
-	         tier="4"
-	         owner="Hero.lord_4_22"
-	         culture="Culture.zwadane"
-	         super_faction="Kingdom.zwadane"
-	         is_noble="true"
-	         banner_key="11.71.14.4922.4922.580.740.1.0.0.336.15.0.400.400.759.814.0.0.0.219.15.0.200.200.764.564.0.0.0"/>
-	<Faction id="clan_vlandia_11"
-	         name="{=DeSGiCgF}dey Sirin"
-	         tier="4"
-	         owner="Hero.lord_V11_l"
-	         culture="Culture.zwadane"
-	         super_faction="Kingdom.zwadane"
-	         is_noble="true"
-	         banner_key="11.71.14.4922.4922.580.740.1.0.0.102.15.0.400.400.764.744.0.0.0.306.15.0.200.300.664.944.0.0.90.306.15.0.200.300.864.944.0.1.-90"/>
-	<!--
-	KHUZAITS
-	The Khuzaits thundered into the steppes west of Lake Baetiros two generations ago, driving other nomads before them. They and their vassal tribes, the Khergit and the Arkit, seized some of the cities on the fringe of the empire. They grew rich on the caravans from the lands of the Padishah to the east, trading in their yurts for carpeted palaces. But they still lead raids into the heart of the empire, their swift horse archers spreading terror for leagues around their armies.
-	(Minor faction:) The Hawlan are unsubjugated nomads, living on the fringes of the Khuzait's kingdom. Other Khuzait mock them for living only in yurts and smelling like the sheep dung they use for their fuel. They are what the Khuzait used to be, but despite this - or perhaps because of this - the newly rich, newly settled tribes treat them with scorn. Sons of Noyans have even been known to lead expeditions into the deep steppe to hunt them like animals. The Khergit however turned to them in their recent moment of crisis, using them as mercenaries.	
-	-->
+  <Faction id="clan_vlandia_4"
+           name="{=CS4rSk99}dey Cortain"
+           tier="5"
+           owner="Hero.lord_4_16"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="12.100.140.1823.1808.764.764.0.0.0.424.100.140.300.300.839.839.0.0.0.424.140.140.300.300.689.689.0.0.0" />
+  <Faction id="clan_vlandia_5"
+           name="{=9qAUWcfa}dey Gunric"
+           tier="2"
+           owner="Hero.lord_4_21"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="11.142.140.1500.1500.764.764.1.0.-90.505.140.140.2000.100.764.764.0.0.0.505.140.140.2000.100.764.764.0.0.90" />
+  <Faction id="clan_vlandia_7"
+           name="{=LZVzzczs}dey Fortes"
+           tier="3"
+           owner="Hero.lord_4_23"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="1.142.12.1772.2235.764.764.1.0.-90.158.127.116.312.312.764.913.1.0.0.503.127.116.231.231.764.585.1.1.0" />
+  <Faction id="clan_vlandia_8"
+           name="{=9NWQNInC}dey Molarn"
+           tier="3"
+           owner="Hero.lord_4_24"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="11.131.12.1772.2235.764.764.1.0.-90.146.116.116.250.250.764.914.0.0.0.146.116.116.250.250.899.714.0.0.0.146.116.116.250.250.629.714.0.0.0" />
+  <Faction id="clan_vlandia_9"
+           name="{=LygSwU3i}dey Jelind"
+           tier="2"
+           owner="Hero.lord_4_27"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="11.2.2.1772.2235.764.764.1.0.-90.138.116.2.500.500.764.764.1.0.0" />
+  <Faction id="clan_vlandia_10"
+           name="{=yQcZrUYi}dey Folcun"
+           tier="1"
+           owner="Hero.lord_4_28"
+           culture="Culture.vlandia"
+           super_faction="Kingdom.vlandia"
+           is_noble="true"
+           banner_key="4.141.140.1500.1500.764.764.1.0.-90.125.142.140.500.500.764.764.0.0.0" />
+	
 	<Faction id="clan_khuzait_9"
 	         name="{=cYTdzMQ4}Izgchit"
 	         tier="4"
@@ -562,7 +679,7 @@
 	         banner_key="11.149.149.1836.1836.768.788.1.0.-30.111.140.149.575.575.764.764.0.1.0"/>
 	<Faction id="clan_norden_2"
 	         name="{=3o5s6L3y}Varfung"
-	         tier="5"
+	         tier="6"
 	         owner="Hero.hmj_lord_13_7"
 	         culture="Culture.nord"
 	         super_faction="Kingdom.norden"
@@ -570,7 +687,7 @@
 	         banner_key="11.149.149.1836.1836.768.788.1.0.-30.307.140.149.572.572.811.766.0.1.315.307.140.149.572.572.716.761.0.0.45"/>
 		<Faction id="clan_norden_3"
 	         name="{=1fa33ff}Northung"
-	         tier="4"
+	         tier="6"
 	         owner="Hero.hmj_lord_13_12"
 	         culture="Culture.nord"
 	         super_faction="Kingdom.norden"
@@ -578,35 +695,70 @@
 	         banner_key="11.149.149.1836.1836.768.788.1.0.-30.119.140.149.572.572.764.765.0.0.0"/>
 	<Faction id="clan_sturgia_8"
 			 name="{=W2HkbCeX}Ubrovung"
-		     tier="4"
+		     tier="6"
 		     owner="Hero.lord_2_20"
 		     culture="Culture.nord"
 		     super_faction="Kingdom.norden"
 		     is_noble="true"
 		     banner_key="11.71.12.4922.4922.764.764.1.0.0.332.111.0.471.471.764.687.0.0.0.406.111.0.202.202.764.974.0.0.11" />
-	<Faction id="clan_sturgia_2"
-			 name="{=Eu932blQ}Kuloving"
-			 tier="5"
-			 owner="Hero.lord_2_3"
-			 culture="Culture.sturgia"
-			 super_faction="Kingdom.sturgia"
-			 banner_key="11.71.12.4922.4922.764.764.1.0.0.138.111.0.509.509.764.764.0.0.359" />
-	<Faction id="clan_sturgia_9"
-			 name="{=WssI6mOE}Kostoroving"
-			 tier="2"
-			 owner="Hero.lord_S9_l"
-			 culture="Culture.sturgia"
-			 super_faction="Kingdom.sturgia"
-			 is_noble="true"
-			 banner_key="11.71.12.4922.4922.764.764.1.0.0.142.29.149.331.331.764.665.0.0.0.146.29.149.311.311.764.863.0.1.0" />
-	<Faction id="clan_sturgia_5"
-			 name="{=s0AVQCbJ}Togaroving"
-		     tier="3"
-			 owner="Hero.lord_2_17"
-			 culture="Culture.sturgia"
-			 super_faction="Kingdom.sturgia"
-			 is_noble="true"
-			 banner_key="11.71.12.4922.4922.764.764.1.0.0.456.111.0.443.443.764.728.0.0.359.444.111.0.102.102.764.972.0.0.179.454.111.0.102.102.868.972.0.0.179.454.111.0.102.102.659.972.0.0.359" />
+
+ <Faction id="clan_sturgia_1"
+           name="{=A4wIVnM4}Gundaroving"
+           tier="6"
+           owner="Hero.lord_2_1"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.333.111.0.454.454.764.764.0.0.0" />
+  <Faction id="clan_sturgia_2"
+           name="{=Eu932blQ}Kuloving"
+           tier="5"
+           owner="Hero.lord_2_3"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.332.111.0.471.471.764.687.0.0.0.406.111.0.202.202.764.974.0.0.1" />
+  <Faction id="clan_sturgia_4"
+           name="{=AppNvfPv}Ormidoving"
+           tier="4"
+           owner="Hero.lord_2_16"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.307.111.0.350.350.758.813.0.0.180.307.111.0.350.350.768.715.0.0.0.442.111.0.261.261.667.819.0.0.180.442.111.0.261.261.859.708.0.0.0" />
+  <Faction id="clan_sturgia_5"
+           name="{=s0AVQCbJ}Togaroving"
+           tier="3"
+           owner="Hero.lord_2_17"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.456.111.0.443.443.764.728.0.0.359.444.111.0.102.102.764.972.0.0.179.454.111.0.102.102.868.972.0.0.179.454.111.0.102.102.659.972.0.0.359" />
+  <Faction id="clan_sturgia_6"
+           name="{=EnZHNc2k}Isyaroving"
+           tier="4"
+           owner="Hero.lord_2_18"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.441.111.0.454.454.764.764.0.0.359" />
+  <Faction id="clan_sturgia_7"
+           name="{=xw0eTkkb}Vezhoving"
+           tier="3"
+           owner="Hero.lord_2_19"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.421.111.0.455.455.764.764.0.0.0.458.111.0.116.116.742.765.0.0.0" />
+  <Faction id="clan_sturgia_9"
+           name="{=WssI6mOE}Kostoroving"
+           tier="3"
+           owner="Hero.lord_S9_m"
+           culture="Culture.sturgia"
+           super_faction="Kingdom.sturgia"
+           is_noble="true"
+           banner_key="11.71.12.4922.4922.764.764.1.0.0.142.29.149.331.331.764.665.0.0.0.146.29.149.311.311.764.863.0.1.0" />
+
 	<!-- cut minor factions (4) -->
 	<Faction id="chosen_of_the_sky"
 	         initial_posX="629.0"
@@ -676,7 +828,8 @@
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
 	         is_outlaw="true"
-	         is_nomad="true"
+	         is_nomad="false"
+	         is_clan_type_mercenary="false"
 	         name="Diamond Guild"
 	         short_name="Diamonds"
 	         tier="4"
@@ -689,30 +842,29 @@
 			<template id="NPCCharacter.hmj_spc_diamonds_leader_3"/>
 		</minor_faction_character_templates>
 	</Faction>
-	<Faction id="lochanians"
+	<Faction id="venatio"
 	         initial_posX="705.0"
 	         initial_posY="590.0"
-	         banner_key="1.138.140.1823.1808.764.764.0.0.0.137.138.138.378.545.914.764.0.0.0.137.140.140.378.545.614.764.0.1.0"
-	         label_color="FF848B65"
-	         color="FF848B65"
-	         color2="FF848B65"
-	         alternative_color="FF848B65"
-	         alternative_color2="FF848B65"
+	         banner_key="1.12.12.1823.1808.764.764.0.0.0.135.140.140.500.400.764.914.0.0.0.135.140.140.500.400.764.614.0.1.0"
+	         label_color="0xffffffff"
+	         color="FF1C2A50"
+	         color2="0xffffffff"
+	         alternative_color="FF1C2A50"
+	         alternative_color2="0xffffffff"
 	         culture="Culture.oldcalradian"
-	         default_party_template="PartyTemplate.kingdom_hero_party_lochanians_template"
+	         default_party_template="PartyTemplate.kingdom_hero_party_venatio_template"
 	         settlement_banner_mesh="encounter_flag_f"
 	         is_minor_faction="true"
-	         is_outlaw="true"
-	         is_nomad="true"
+	         is_clan_type_mercenary="true"
 	         name="Venatio Cervus"
 	         short_name="Venatio"
 	         tier="4"
-	         text="In progress">
+	         text="Hearkening back to an ancient Calradian culture, the Venatio attempt to follow the ways of their ancestors. In particular, the aristocratic warrior fraternities of this lost culture serves as their primary military inspiration. They spend the majority of their time in constant training and take devotional oaths to never retreat in battle. Unlike their rebellious cousins in the Calradian Secession, the Venatio will hire themselves to the highest bidder in the name of legacy.">
 		<minor_faction_character_templates>
-			<template id="NPCCharacter.AR_spc_lochanians_leader_0"/>
-			<template id="NPCCharacter.AR_spc_lochanians_leader_1"/>
-			<template id="NPCCharacter.AR_spc_lochanians_leader_2"/>
-			<template id="NPCCharacter.AR_spc_lochanians_leader_3"/>
+			<template id="NPCCharacter.hmj_lord_venatio_0"/>
+			<template id="NPCCharacter.hmj_lord_venatio_1"/>
+			<template id="NPCCharacter.hmj_lord_venatio_2"/>
+			<template id="NPCCharacter.hmj_lord_venatio_3"/>
 		</minor_faction_character_templates>
 	</Faction>
 	<Faction id="seax"
@@ -1040,21 +1192,49 @@
 	Migration Period Germanic Kingdoms
 	-->
 	<Faction id="clan_massa_1"
-	         name="{=ARntgcGy}der Cananc"
+	         name="{=ARntgcGy}Ostlingas"
 	         tier="6"
-	         owner="Hero.AR_lord_11_1"
+	         owner="Hero.hmj_zwadane_11_1"
 	         culture="Culture.zwadane"
 	         super_faction="Kingdom.zwadane"
 	         is_noble="true"
 	         banner_key="11.12.12.1536.1536.768.768.1.0.0.105.40.127.500.500.764.724.0.0.0.301.40.127.500.500.764.964.0.0.-90"/>
 	<Faction id="clan_massa_2"
-	         name="{=ARntgcGy}der Yat"
-	         tier="4"
-	         owner="Hero.hmj_lord_11_6"
+	         name="{=ARntgcGy}Calucingas"
+	         tier="5"
+	         owner="Hero.hmj_lord_11_8"
 	         culture="Culture.zwadane"
 	         super_faction="Kingdom.zwadane"
 	         is_noble="true"
 	         banner_key="11.142.72.2000.1500.764.764.0.0.0.307.142.142.465.600.764.924.0.0.119.307.142.142.465.600.764.924.0.1.245.318.142.142.465.465.764.664.0.1.0"/>
+	<!--
+    Zwadane changed clans	
+	-->
+	<Faction id="clan_vlandia_2"
+	         name="{=qFntgcGy}Tihringas"
+	         tier="5"
+	         owner="Hero.lord_4_3"
+	         culture="Culture.zwadane"
+	         super_faction="Kingdom.zwadane"
+	         is_noble="true"
+	         banner_key="11.71.14.4000.4000.764.764.1.0.0.419.15.0.420.420.766.764.0.0.0.512.15.0.100.100.664.864.0.0.0.512.15.0.100.100.864.664.0.0.0.512.15.0.100.100.864.864.0.0.0.512.15.0.100.100.664.664.0.0.0.500.15.0.500.500.764.764.0.0.0"/>
+	<Faction id="clan_vlandia_6"
+	         name="{=vbLAA0RF}Siriningas"
+	         tier="4"
+	         owner="Hero.lord_4_22"
+	         culture="Culture.zwadane"
+	         super_faction="Kingdom.zwadane"
+	         is_noble="true"
+	         banner_key="11.71.14.4922.4922.580.740.1.0.0.336.15.0.400.400.759.814.0.0.0.219.15.0.200.200.764.564.0.0.0"/>
+	<Faction id="clan_vlandia_11"
+	         name="{=DeSGiCgF}Horsingas"
+	         tier="4"
+	         owner="Hero.lord_V11_l"
+	         culture="Culture.zwadane"
+	         super_faction="Kingdom.zwadane"
+	         is_noble="true"
+	         banner_key="11.71.14.4922.4922.580.740.1.0.0.102.15.0.400.400.764.744.0.0.0.306.15.0.200.300.664.944.0.0.90.306.15.0.200.300.864.944.0.1.-90"/>
+
 	<!--
 	SPAHAD
 	Kushite Empire
@@ -1106,7 +1286,7 @@
 	<Faction id="clan_gotarnia_1"
 	         name="{=*!}Palaics"
 	         tier="6"
-	         owner="Hero.AR_lord_13_1"
+	         owner="Hero.hmj_lord_old_1"
 	         culture="Culture.oldcalradian"
 	         super_faction="Kingdom.oldcalradia"
 	         is_noble="true"
@@ -1114,8 +1294,8 @@
 			 text="Once among the predominant peoples of Calradia, the Palaics had all but faded into obscurity until the actions of a certain Arzagos put all into motion. Regardless of whether they are truly Palaic or not, many Calradian eccentrics have thrown their lot behind the Palaics, making them the most powerful of the lost tribes."/>
 	<Faction id="clan_gotarnia_2"
 	         name="{=*!}Dryatics"
-	         tier="5"
-	         owner="Hero.AR_lord_13_5"
+	         tier="6"
+	         owner="Hero.hmj_lord_old_7"
 	         culture="Culture.oldcalradian"
 	         super_faction="Kingdom.oldcalradia"
 	         is_noble="true"
@@ -1123,8 +1303,8 @@
 			 text="Of the lost tribes, the Dryatics are the fiercest and recall their culture better than anyone else. As such, they possess a great influence in Central Calradian society."/>
 	<Faction id="clan_gotarnia_3"
 	         name="{=*!}Myzeans"
-	         tier="4"
-	         owner="Hero.AR_lord_13_11"
+	         tier="6"
+	         owner="Hero.hmj_lord_old_13"
 	         culture="Culture.oldcalradian"
 	         super_faction="Kingdom.oldcalradia"
 	         is_noble="true"
@@ -1132,28 +1312,11 @@
 			 text="The Myzeans of the Myzead Hills are yet another society of those who have reclaimed their ancestry and seek to restore the culture of the Myzean tribe."/>
 	<Faction id="clan_gotarnia_4"
 	         name="{=*!}Zends"
-	         tier="4"
-	         owner="Hero.AR_lord_13_15"
+	         tier="6"
+	         owner="Hero.hmj_lord_old_19"
 	         culture="Culture.oldcalradian"
 	         super_faction="Kingdom.oldcalradia"
 	         is_noble="true"
 	         banner_key="11.71.12.4922.4922.764.764.1.0.0.457.111.0.600.600.764.764.0.0.0"
 			 text="There is doubt that a 'Zendic' tribe ever existed, even within a society of people who have made lost civilisations their calling. Indeed, the Zends are more a collective of disgruntled Calradians than vengeful descendents, who seek to one day leave behind a new legacy in Calradia."/>
-	<!--
-	Bandits
-	-->
-	<Faction id="slavers"
-	         banner_key="11.101.101.1771.1771.764.764.1.0.0.303.116.116.550.550.764.744.0.0.45.303.116.116.550.550.764.744.0.1.315.342.116.116.224.224.752.914.0.1.0"
-	         label_color="FF8B7C73"
-	         color="FF8B7C73"
-	         color2="FF8B7C73"
-	         alternative_color="FF8B7C73"
-	         alternative_color2="FF8B7C73"
-	         culture="Culture.looters"
-	         default_party_template="PartyTemplate.slavers_template"
-	         settlement_banner_mesh="none"
-	         is_bandit="true"
-	         is_outlaw="true"
-	         name="{=1sbJQR4Z}Slavers"
-	         tier="1"/>
 </Factions>

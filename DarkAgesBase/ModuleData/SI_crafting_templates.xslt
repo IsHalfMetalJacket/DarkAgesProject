@@ -12,6 +12,7 @@
 		<UsablePiece piece_id="AR_SI_spear_handle_c"/>
 		<UsablePiece piece_id="AR_SI_spear_handle_d"/>
 		<UsablePiece piece_id="AR_SI_spear_handle_e"/>
+
 	</xsl:template>
 	<xsl:template match="//CraftingTemplate[@id='Javelin']//UsablePiece[not(following-sibling::UsablePiece)]">
         <xsl:copy-of select="."/>

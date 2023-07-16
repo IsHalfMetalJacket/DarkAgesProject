@@ -222,7 +222,7 @@
 	<string id="str_neutral_term_for_culture.shariz" text="{=str.str_neutral_term_for_culture.shariz}Sharizans"/>
 	<string id="str_neutral_term_for_culture.vakken" text="{=str.str_neutral_term_for_culture.vakken}Vakken"/>
 	<string id="str_neutral_term_for_culture.darshi" text="{=str.str_neutral_term_for_culture.darshi}Darshi"/>
-	<string id="str_neutral_term_for_culture.gotarni" text="{=str.str_neutral_term_for_culture.gotarni}Gotarnians"/>
+	<string id="str_neutral_term_for_culture.oldcalradian" text="{=str.str_neutral_term_for_culture.oldcalradian}Gotarnians"/>
 	<string id="str_neutral_term_for_culture.byalic" text="{=str.str_neutral_term_for_culture.byalic}Byals"/>
 	<string id="str_adjective_for_culture.empire_n" text="{=sZLd6VHi}Northern Calradian"/>
 	<string id="str_adjective_for_culture.empire_s" text="{=sZLd6VHi}Southern Calradian"/>
@@ -233,10 +233,10 @@
 	<string id="str_adjective_for_culture.shariz" text="{=ZvoyX6DX}Sharizan"/>
 	<string id="str_adjective_for_culture.vakken" text="{=Ohdrbpiw}Vakken"/>
 	<string id="str_adjective_for_culture.darshi" text="{=OxiaKT0G}Darshi"/>
-	<string id="str_adjective_for_culture.gotarni" text="{=5S1zPgTm}Gotarnian"/>
+	<string id="str_adjective_for_culture.oldcalradian" text="{=5S1zPgTm}Gotarnian"/>
 	<string id="str_culture_rich_name.byalic" text="{=str.str_culture_rich_name.byalic}Byals"/>
 	<string id="str_culture_rich_name.massa" text="{=str.str_culture_rich_name.massa}Massans"/>
-	<string id="str_culture_rich_name.gotarni" text="{=str.str_culture_rich_name.gotarni}Myzean"/>
+	<string id="str_culture_rich_name.oldcalradian" text="{=str.str_culture_rich_name.oldcalradian}Myzean"/>
 	<string id="str_culture_rich_name.cizygian" text="{=str.str_culture_rich_name.cizygian}Cizygians"/>
 	<string id="str_culture_rich_name.vakken" text="{=str.str_culture_rich_name.vakken}Vakken"/>
 	<string id="str_culture_rich_name.darshi" text="{=str.str_culture_rich_name.darshi}Darshi"/>
@@ -244,7 +244,7 @@
 	<string id="str_culture_rich_name.empire_n" text="{=str.str_culture_rich_name.empire_n}byals Calradians"/>
 	<string id="str_culture_rich_name.empire_w" text="{=str.str_culture_rich_name.empire_w}Western Calradians"/>
 	<string id="str_culture_description.massa" text="{=str.str_culture_description.massa}The Massa are a hardy migrant people from the lands of Jumne. Like their Vlandian cousins, they are famed across Calradia as stalwart mercenaries and masters of horse, axe and lance, serving across the continent in the myriad wars of the Calradian Empire. Recently, they have declared themselves an independent kingdom, conquering one of the Empire's rich north-western provinces."/>
-	<string id="str_culture_description.gotarni" text="{=str.str_culture_description.gotarni}The Gotarnians are a remnant of the once-proud Myzean people, a Palaic tribal group from north-eastern Calradia. They are a brutal society, tempered by centuries of constant warfare, though also not unaccustomed to urban life, building great cities on the verdant eastern plains. Their warriors are known as great riders, and feared for their use of the deadly falx."/>
+	<string id="str_culture_description.oldcalradian" text="{=str.str_culture_description.gotarni}The Gotarnians are a remnant of the once-proud Myzean people, a Palaic tribal group from north-eastern Calradia. They are a brutal society, tempered by centuries of constant warfare, though also not unaccustomed to urban life, building great cities on the verdant eastern plains. Their warriors are known as great riders, and feared for their use of the deadly falx."/>
 	<string id="str_culture_description.cizygian" text="{=str.str_culture_description.cizygian}The tribes of the Cizygians are a recent arrival in Calradia, having descended from the eastern Calradian Steppe within living memory. A formidable nomadic people, those from the court of the Darshi Padishah to the halls of Vlandia speak in hushed whispers of their vast hordes galloping across the plains. Like their Khuzait cousins, they are masters of mounted archery, shooting and then galloping out of reach."/>
 	<string id="str_culture_description.vakken" text="{=str.str_culture_description.vakken}The Vakken are the original inhabitants of northern Calradia. Conquered many years ago by the Calradian Empire, they have modelled much of their society in the imperial fashion, founding colonies along the northern coasts of Lake Laconis, and warring with the neighbouring Sturgians. In battle, their legions are not unlike those of the Empire, wielding swords, javelins and shields."/>
 	<string id="str_culture_description.darshi" text="{=str.str_culture_description.darshi}The Darshi are the inhabitants of a vast empire to the east and south of Calradia, ruled over by an ancient lineage of Padishahs. Whilst in Calradia they are referred to as a single group, the Darshi are in fact a series of smaller satrapies, each with their own unique culture and leaders. In battle, they are known for their robust infantry and powerful shock cavalry."/>
@@ -307,13 +307,13 @@
 	<string id="str_faction_ruler_name_with_title.darshi" text="{=7pAZatbz}{?RULER.GENDER}Banbishn{?}Shahanshah{\?} {RULER.NAME}"/>
 	<string id="str_faction_noble_name_with_title.darshi" text="{=nAaT19CC}{?RULER.GENDER}Banug{?}Spahbed{\?} {RULER.NAME}"/>
 	<string id="str_faction_ruler_term_in_speech.darshi" text="{=lpbDPuuW}{?RULER.GENDER}the Banbishn{?}the Shahanshah{\?} {RULER.NAME}"/>
-	<string id="str_faction_official.gotarni" text="{=2CgZVkDj}a Chieftain"/>
-	<string id="str_faction_official.gotarni_f" text="{=u3c9M8vx}a Chieftess"/>
-	<string id="str_faction_ruler.gotarni" text="{=jbQ3LYBl}High Chieftain"/>
-	<string id="str_faction_ruler.gotarni_f" text="{=tDA5dhn3}High Chieftess"/>
-	<string id="str_faction_ruler_name_with_title.gotarni" text="{=7pAZatbz}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}"/>
-	<string id="str_faction_noble_name_with_title.gotarni" text="{=nAaT19CC}{?RULER.GENDER}Chieftess{?}Chieftain{\?} {RULER.NAME}"/>
-	<string id="str_faction_ruler_term_in_speech.gotarni" text="{=lpbDPuuW}{?RULER.GENDER}the Queen{?}the King{\?} {RULER.NAME}"/>
+	<string id="str_faction_official.oldcalradian" text="{=2CgZVkDj}a Chieftain"/>
+	<string id="str_faction_official.oldcalradian_f" text="{=u3c9M8vx}a Chieftess"/>
+	<string id="str_faction_ruler.oldcalradian" text="{=jbQ3LYBl}High Chieftain"/>
+	<string id="str_faction_ruler.oldcalradian_f" text="{=tDA5dhn3}High Chieftess"/>
+	<string id="str_faction_ruler_name_with_title.oldcalradian" text="{=7pAZatbz}{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}"/>
+	<string id="str_faction_noble_name_with_title.oldcalradian" text="{=nAaT19CC}{?RULER.GENDER}Chieftess{?}Chieftain{\?} {RULER.NAME}"/>
+	<string id="str_faction_ruler_term_in_speech.oldcalradian" text="{=lpbDPuuW}{?RULER.GENDER}the Queen{?}the King{\?} {RULER.NAME}"/>
 	<string id="str_liege_title.empire_w" text="{=LBb7YgXU}Despot of the Calradians">
 		<tags>
 			<tag tag_name="EmpireTag"/>
@@ -400,6 +400,11 @@
 		</tags>
 	</string>
 	<string id="str_comment_special_clan_intro_ghilman.default" text="{=ge3FF3dd}I'm tired of explaining ourselves to strangers, so I'll tell you this much. It doesn't matter if we're Khuzait, Aserai, Calradian or- heavens forbid, Vlandian- we can ride as well as any nomad! I'll be happy to demonstrate if you don't believe me.">
+		<tags>
+		<tag tag_name="DefaultTag" />
+		</tags>
+	</string>
+	<string id="str_comment_special_clan_intro_venatio.default" text="{=0pt1m4t3}The Calradoi may take many things from us, but so long as the Venatio live on they will never take our legacy. Though, I don't imagine you are here to learn about our glorious people... are you?">
 		<tags>
 		<tag tag_name="DefaultTag" />
 		</tags>

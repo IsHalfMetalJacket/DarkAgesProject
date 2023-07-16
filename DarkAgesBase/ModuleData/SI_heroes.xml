@@ -198,8 +198,6 @@
 	<Hero id="lord_2_2" spouse="Hero.lord_2_1" faction="Faction.clan_sturgia_1"/>
 	<Hero id="lord_2_13_1" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
 	<Hero id="lord_2_13_2" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
-	<Hero id="lord_2_13_3" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
-	<Hero id="lord_2_13_4" father="Hero.lord_2_13" faction="Faction.clan_sturgia_1"/>
 	<Hero id="lord_2_7" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
 	<Hero id="lord_2_7_1" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
 	<Hero id="lord_2_10" father="Hero.lord_2_1" mother="Hero.lord_2_2" faction="Faction.clan_sturgia_1"/>
@@ -220,7 +218,6 @@
 	<!-- Sturgia clan 4 -->
 	<Hero id="lord_2_14" spouse="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
 	<Hero id="lord_2_14_1" spouse="Hero.lord_2_14" faction="Faction.clan_sturgia_4"/>
-	<Hero id="lord_2_14_2" father="Hero.lord_2_14" mother="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
 	<Hero id="lord_2_14_3" father="Hero.lord_2_14" mother="Hero.lord_2_14_1" faction="Faction.clan_sturgia_4"/>
 	<Hero id="lord_2_16" spouse="Hero.lord_2_16_1" faction="Faction.clan_sturgia_4"/>
 	<Hero id="lord_2_16_1" spouse="Hero.lord_2_16" faction="Faction.clan_sturgia_4"/>
@@ -238,6 +235,8 @@
 	<Hero id="lord_2_18_1" spouse="Hero.lord_2_18" faction="Faction.clan_sturgia_6"/>
 	<Hero id="lord_2_23" faction="Faction.clan_sturgia_6"/>
 	<Hero id="lord_2_23_1" father="Hero.lord_2_23" faction="Faction.clan_sturgia_6"/>
+	<Hero id="lord_2_14_2" father="Hero.lord_2_18" mother="Hero.lord_2_18_1" faction="Faction.clan_sturgia_6"/>
+	<Hero id="lord_2_13_4" faction="Faction.clan_sturgia_6"/>
 	<!-- Sturgia clan 7 -->
 	<Hero id="lord_2_15" faction="Faction.clan_sturgia_7"/>
 	<Hero id="lord_2_15_1" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
@@ -246,6 +245,12 @@
 	<Hero id="lord_2_15_4" father="Hero.lord_2_15" faction="Faction.clan_sturgia_7"/>
 	<Hero id="lord_2_19" spouse="Hero.lord_2_19_1" faction="Faction.clan_sturgia_7"/>
 	<Hero id="lord_2_19_1" spouse="Hero.lord_2_19" faction="Faction.clan_sturgia_7"/>
+	<!-- Kostaroving -->
+	<Hero id="lord_S9_l" mother="Hero.lord_S9_m" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_m" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_c" father="Hero.lord_S9_l" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_S9_u" faction="Faction.clan_sturgia_9"/>
+	<Hero id="lord_2_13_3" faction="Faction.clan_sturgia_9"/>
 	<!-- ASERAI clan 1 -->
 	<Hero id="lord_3_1" spouse="Hero.lord_3_2" faction="Faction.clan_aserai_1" text="{=L90aSR5J}The current Sultan of Aserai is Unqid. He wears his authority lightly, preferring to charm rather than to coerce, always deferring to the laws of the Banu Asera in his judgments. But there are some who say that Unqid is remiss in his duty to administer justice, allowing the wealthiest clans - such as his own - to use bribes and clever legal arguments to oppress the others." />
 	<Hero id="lord_3_2" spouse="Hero.lord_3_1" faction="Faction.clan_aserai_1"/>
@@ -312,12 +317,13 @@
 	<Hero id="lord_4_14" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
 	<Hero id="lord_4_141" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
 	<Hero id="lord_4_15" father="Hero.lord_4_1" mother="Hero.lord_4_2" faction="Faction.clan_vlandia_1"/>
-	<!-- Vlandia clan 2 -->
+	<!-- Zwadane clan 2 -->
 	<Hero id="lord_4_3" spouse="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
-	<Hero id="lord_4_3_1" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
 	<Hero id="lord_4_4" spouse="Hero.lord_4_3" faction="Faction.clan_vlandia_2"/>
+	<Hero id="lord_4_3_1" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
 	<Hero id="lord_4_8" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
 	<Hero id="lord_4_11" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
+	<Hero id="hmj_zwadane_11_8" father="Hero.lord_4_3" mother="Hero.lord_4_4" faction="Faction.clan_vlandia_2"/>
 	<!-- Vlandia clan 3 -->
 	<Hero id="lord_4_6" faction="Faction.clan_vlandia_3" spouse="Hero.lord_4_5"/>
 	<Hero id="lord_4_6_1" father="Hero.lord_4_5" mother="Hero.lord_4_6" faction="Faction.clan_vlandia_3"/>
@@ -336,11 +342,13 @@
 	<Hero id="lord_4_25" spouse="Hero.lord_4_25_1" faction="Faction.clan_vlandia_5"/>
 	<Hero id="lord_4_25_1" spouse="Hero.lord_4_25" faction="Faction.clan_vlandia_5"/>
 	<Hero id="lord_4_21" faction="Faction.clan_vlandia_5"/>
-	<!-- Vlandia clan 6 -->
+	<!-- Zwadane clan 6 -->
 	<Hero id="lord_4_20" spouse="Hero.lord_4_20_1" faction="Faction.clan_vlandia_6"/>
-	<Hero id="lord_4_20_1" spouse="Hero.lord_4_20" faction="Faction.clan_vlandia_6"/>
+	<Hero id="lord_4_20_1" mother="Hero.hmj_zwadane_11_8d" spouse="Hero.lord_4_20" faction="Faction.clan_vlandia_6"/>
 	<Hero id="lord_4_22" spouse="Hero.lord_4_22_1" faction="Faction.clan_vlandia_6"/>
+	<Hero id="hmj_zwadane_11_8d" alive="false" faction="Faction.clan_vlandia_6"/>
 	<Hero id="lord_4_22_1" spouse="Hero.lord_4_22" faction="Faction.clan_vlandia_6"/>
+	<Hero id="hmj_zwadane_11_8" mother="Hero.hmj_zwadane_11_8d" faction="Faction.clan_vlandia_6"/>
 	<!-- Vlandia clan 7, der fortis-->
 	<Hero id="lord_4_23" faction="Faction.clan_vlandia_7" />
 	<Hero id="lord_4_23_1" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7"/>
@@ -386,8 +394,9 @@
 	<Hero id="lord_5_15_1" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
 	<Hero id="lord_5_15_2" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
 	<Hero id="lord_5_15_3" father="Hero.lord_5_15" faction="Faction.clan_battania_7"/>
-	<Hero id="lord_5_14" spouse="Hero.lord_5_14_1" faction="Faction.clan_battania_4"/>
-	<Hero id="lord_5_14_1" spouse="Hero.lord_5_14" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_14" spouse="Hero.lord_5_14d" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_14d" alive="false" spouse="Hero.lord_5_14" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_14_1" spouse="Hero.lord_5_19" faction="Faction.clan_battania_4"/>
 	<Hero id="lord_5_16" spouse="Hero.lord_5_16_1" faction="Faction.clan_battania_5"/>
 	<Hero id="lord_5_16_1" spouse="Hero.lord_5_16" faction="Faction.clan_battania_5"/>
 	<Hero id="lord_5_16_2" father="Hero.lord_5_16" mother="Hero.lord_5_16_1" faction="Faction.clan_battania_5"/>
@@ -395,12 +404,13 @@
 	<Hero id="lord_5_17_1" spouse="Hero.lord_5_17" faction="Faction.clan_battania_6"/>
 	<Hero id="lord_5_18" father="Hero.lord_5_15" spouse="Hero.lord_5_18_1" faction="Faction.clan_battania_7"/>
 	<Hero id="lord_5_18_1" spouse="Hero.lord_5_18" faction="Faction.clan_battania_7"/>
-	<Hero id="lord_5_19" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_19" spouse="Hero.lord_5_14_1" faction="Faction.clan_battania_4"/>
 	<Hero id="lord_5_20" faction="Faction.clan_battania_5"/>
 	<Hero id="lord_5_21" spouse="Hero.lord_5_21_1" faction="Faction.clan_battania_6"/>
 	<Hero id="lord_5_21_1" spouse="Hero.lord_5_21" faction="Faction.clan_battania_6"/>
 	<Hero id="lord_5_21_2" father="Hero.lord_5_21" mother="Hero.lord_5_21_1" faction="Faction.clan_battania_6"/>
 	<Hero id="lord_5_22" faction="Faction.clan_battania_4"/>
+	<Hero id="lord_5_22_1" father="Hero.lord_5_22" faction="Faction.clan_battania_4"/>
 	<Hero id="lord_6_1" spouse="Hero.lord_6_2" faction="Faction.clan_khuzait_1" text="{=CzM6y3MT}Monchug, the current khan of the Khuzaits, looks upon the Empire in its state of disarray and dreams of glory, of surpassing his ancestor Urkhun and conquering even deeper into the settled lands. Some of the clans have been decimated by the Urkhunids' wars, however, and feel their sacrifices have not been properly rewarded. They yearn for a khan who is less interested in glory, and more interested in justice." />
 	<Hero id="lord_6_2" spouse="Hero.lord_6_1" faction="Faction.clan_khuzait_1"/>
 	<Hero id="lord_6_3" spouse="Hero.lord_6_4" faction="Faction.clan_khuzait_2"/>
@@ -447,16 +457,13 @@
 	<Hero id="lord_A9_s" spouse="Hero.lord_A9_l" faction="Faction.clan_aserai_9"/>
 	<Hero id="lord_A9_c" father="Hero.lord_A9_l" mother="Hero.lord_A9_s" faction="Faction.clan_aserai_9"/>
 	<Hero id="lord_A9_u" faction="Faction.clan_aserai_9"/>
-	<!-- Dey Rothad -->
-	<Hero id="lord_V11_l" faction="Faction.clan_vlandia_11"/>
-	<Hero id="lord_V11_u" faction="Faction.clan_vlandia_11"/>
-	<Hero id="lord_V11_c1" father="Hero.lord_V11_l" faction="Faction.clan_vlandia_11"/>
-	<Hero id="lord_V11_c2" father="Hero.lord_V11_l" faction="Faction.clan_vlandia_11"/>
-	<!-- Kostaroving -->
-	<Hero id="lord_S9_l" mother="Hero.lord_S9_m" faction="Faction.clan_sturgia_9"/>
-	<Hero id="lord_S9_m" faction="Faction.clan_sturgia_9"/>
-	<Hero id="lord_S9_c" father="Hero.lord_S9_l" faction="Faction.clan_sturgia_9"/>
-	<Hero id="lord_S9_u" faction="Faction.clan_sturgia_9"/>
+	<!-- Zwadane -->
+	<Hero id="lord_V11_l" spouse="Hero.hmj_zwadane_11_9" faction="Faction.clan_vlandia_11"/>
+	<Hero id="hmj_zwadane_11_9" spouse="Hero.lord_V11_l" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_u" spouse="Hero.hmj_zwadane_11_10" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_c1" father="Hero.lord_V11_l" mother="Hero.hmj_zwadane_11_9" faction="Faction.clan_vlandia_11"/>
+	<Hero id="lord_V11_c2" father="Hero.lord_V11_l" mother="Hero.hmj_zwadane_11_9" faction="Faction.clan_vlandia_11"/>
+	<Hero id="hmj_zwadane_11_10" spouse="Hero.lord_V11_u" faction="Faction.clan_vlandia_11"/>
 	<!-- Oburit -->
 	<Hero id="lord_K9_l" spouse="Hero.lord_K9_s" faction="Faction.clan_khuzait_9"/>
 	<Hero id="lord_K9_s" spouse="Hero.lord_K9_l" faction="Faction.clan_khuzait_9"/>
@@ -487,7 +494,6 @@
   <Hero id="lord_7_8_3"  father="Hero.lord_7_8" mother="Hero.lord_7_8_1" faction="Faction.clan_vlandia_11" />
   -->
 	<Hero id="AR_lord_5_1" spouse="Hero.lord_5_1" faction="Faction.clan_battania_1"/>
-	<Hero id="AR_lord_5_15" faction="Faction.clan_battania_7"/>
 	<Hero id="AR_lord_4_23" faction="Faction.clan_vlandia_7"/>
 	<Hero id="AR_lord_4_28" alive="false" faction="Faction.clan_vlandia_10"/>
 	<!-- KHUZAIT -->
@@ -580,19 +586,22 @@
 	<Hero id="AR_lord_10_18" father="Hero.AR_lord_10_15" mother="Hero.AR_lord_10_16" faction="Faction.clan_cizygian_4"/>
 	<Hero id="AR_lord_10_22" spouse="Hero.AR_lord_10_17" faction="Faction.clan_cizygian_4"/>
 	<Hero id="AR_lord_10_23" father="Hero.AR_lord_10_22" mother="Hero.AR_lord_10_17" faction="Faction.clan_cizygian_4"/>
-	<!-- MASSA - Dey Cananc -->
-	<Hero id="AR_lord_11_1" faction="Faction.clan_massa_1" text="Estrid is the current ruler of the Zwadane League. Her boldness and charm endeared her to the Zwadanes, and with that clout she became the 'Cynninge' of the Northern tribes who now fight for their continued existence. Though capable and spirited, the challenges her people face are great and many fear her valiant efforts will not be enough to see her them through."/>
-	<Hero id="AR_lord_11_2" spouse="Hero.AR_lord_11_1" faction="Faction.clan_massa_1"/>
-	<Hero id="AR_lord_11_3" father="Hero.AR_lord_11_1" mother="Hero.AR_lord_11_2" spouse="Hero.AR_lord_11_4" faction="Faction.clan_massa_1"/>
-	<Hero id="AR_lord_11_4" spouse="Hero.AR_lord_11_3" faction="Faction.clan_massa_1"/>
-	<Hero id="AR_lord_11_5" father="Hero.AR_lord_11_1" mother="Hero.AR_lord_11_2" faction="Faction.clan_massa_1"/>
-	<!-- MASSA - Dey Orman -->
-	<Hero id="hmj_lord_11_6" spouse="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
-	<Hero id="hmj_lord_11_7" spouse="Hero.hmj_lord_11_6" faction="Faction.clan_massa_2"/>
-	<Hero id="hmj_lord_11_8" father="Hero.hmj_lord_11_6" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
-	<Hero id="hmj_lord_11_9" father="Hero.hmj_lord_11_6" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
-	<Hero id="hmj_lord_11_10" mother="Hero.hmj_lord_11_7" faction="Faction.clan_massa_2"/>
-	<Hero id="hmj_lord_11_11" spouse="Hero.hmj_lord_11_8" faction="Faction.clan_massa_2"/>
+	<!-- MASSA - Ostlingas -->
+	<Hero id="hmj_zwadane_11_0" alive="false" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_1" mother="Hero.hmj_zwadane_11_0" faction="Faction.clan_massa_1" text="Estrid is the current ruler of the Zwadane League. Her boldness and charm endeared her to the Zwadanes, and with that clout she became the 'Cynninge' of the Northern tribes who now fight for their continued existence. Though capable and spirited, the challenges her people face are great and many fear her valiant efforts will not be enough to see her them through."/>
+	<Hero id="hmj_zwadane_11_2" mother="Hero.hmj_zwadane_11_0" spouse="Hero.hmj_zwadane_11_4" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_3" mother="Hero.hmj_zwadane_11_0" spouse="Hero.hmj_zwadane_11_6" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_4" spouse="Hero.hmj_zwadane_11_2" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_5" father="Hero.hmj_zwadane_11_2" mother="Hero.hmj_zwadane_11_4" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_6" spouse="Hero.hmj_zwadane_11_3" faction="Faction.clan_massa_1"/>
+	<Hero id="hmj_zwadane_11_7" faction="Faction.clan_massa_1"/>
+	<!-- MASSA - Calucingas -->
+	<Hero id="hmj_lord_11_8" spouse="Hero.hmj_lord_11_9" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_9" spouse="Hero.hmj_lord_11_8" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_10" father="Hero.hmj_lord_11_8" mother="Hero.hmj_lord_11_9" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_11" father="Hero.hmj_lord_11_8" mother="Hero.hmj_lord_11_9" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_12" father="Hero.hmj_lord_11_8" mother="Hero.hmj_lord_11_9" faction="Faction.clan_massa_2"/>
+	<Hero id="hmj_lord_11_13" spouse="Hero.hmj_lord_11_10" faction="Faction.clan_massa_2"/>
 	<!-- SPAHAD - Banu Spahan -->
 	<Hero id="AR_lord_12_1" spouse="Hero.AR_lord_12_2" faction="Faction.clan_spahad_1" text="Athenais of Clan Amensios is the current queen of the Nahasi. Intelligent and charismatic, many saw her potential as a great peace time ruler. But with the death of her father Ashabios, wars still raging on and no other heir, Athenais is now regent. Though she lacks her father's might and experience, she was quick to establish her authority- with help from her father's generals. Still, her people remain unclear about her direction for the kingdom- whether that is with the Empire or without."/>
 	<Hero id="AR_lord_12_2" spouse="Hero.AR_lord_12_1" faction="Faction.clan_spahad_1"/>
@@ -618,38 +627,41 @@
 	<Hero id="AR_lord_12_19" spouse="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
 	<Hero id="AR_lord_12_20" father="Hero.AR_lord_12_19" mother="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
 	<Hero id="AR_lord_12_21" father="Hero.AR_lord_12_19" mother="Hero.AR_lord_12_18" faction="Faction.clan_spahad_4"/>
-	<!-- GOTARNIA - Aertus -->
-	<Hero id="AR_lord_13_1" spouse="Hero.AR_lord_13_2" faction="Faction.clan_gotarnia_1" text="The current High Chieftain of the Gotarnians is Thrasaric of the Aertus clan. It was he who led the Gotarnians in their conquest of the lands to the east of Lake Tanaesis, carving out a new territory with at least notional safety from the Calradian Empire's legions, then defeated the legions of Emperor Themestios in open battle. However, these wars were costly, and now Thrasaric finds his realm threatened from all sides by the nomads of the steppe, foresters to the north, and the ever-present hand of the Calradian Empire."/>
-	<Hero id="AR_lord_13_2" spouse="Hero.AR_lord_13_1" faction="Faction.clan_gotarnia_1"/>
-	<Hero id="AR_lord_13_3" father="Hero.AR_lord_13_1" mother="Hero.AR_lord_13_2" spouse="Hero.AR_lord_13_4" faction="Faction.clan_gotarnia_1"/>
-	<Hero id="AR_lord_13_4" spouse="Hero.AR_lord_13_3" faction="Faction.clan_gotarnia_1"/>
-	<Hero id="AR_lord_13_19" spouse="Hero.AR_lord_13_20" faction="Faction.clan_gotarnia_1"/>
-	<Hero id="AR_lord_13_20" spouse="Hero.AR_lord_13_19" faction="Faction.clan_gotarnia_1"/>
-	<Hero id="AR_lord_13_21" father="Hero.AR_lord_13_19" mother="Hero.AR_lord_13_20" faction="Faction.clan_gotarnia_1"/>
-	<!-- GOTARNIA - Bructarach -->
-	<Hero id="AR_lord_13_5" faction="Faction.clan_gotarnia_2"/>
-	<Hero id="AR_lord_13_6" mother="Hero.AR_lord_13_5" faction="Faction.clan_gotarnia_2"/>
-	<Hero id="AR_lord_13_7" spouse="Hero.AR_lord_13_8" faction="Faction.clan_gotarnia_2"/>
-	<Hero id="AR_lord_13_8" spouse="Hero.AR_lord_13_7" faction="Faction.clan_gotarnia_2"/>
-	<Hero id="AR_lord_13_9" father="Hero.AR_lord_13_7" mother="Hero.AR_lord_13_8" spouse="Hero.AR_lord_13_10" faction="Faction.clan_gotarnia_2"/>
-	<Hero id="AR_lord_13_10" spouse="Hero.AR_lord_13_9" faction="Faction.clan_gotarnia_2"/>
-	<!-- GOTARNIA - Jutungar -->
-	<Hero id="AR_lord_13_11" spouse="Hero.AR_lord_13_12" faction="Faction.clan_gotarnia_3"/>
-	<Hero id="AR_lord_13_12" spouse="Hero.AR_lord_13_11" faction="Faction.clan_gotarnia_3"/>
-	<Hero id="AR_lord_13_13" father="Hero.AR_lord_13_11" mother="Hero.AR_lord_13_12" spouse="Hero.AR_lord_13_14" faction="Faction.clan_gotarnia_3"/>
-	<Hero id="AR_lord_13_14" spouse="Hero.AR_lord_13_13" faction="Faction.clan_gotarnia_3"/>
-	<!-- GOTARNIA - Helarnus -->
-	<Hero id="AR_lord_13_15" faction="Faction.clan_gotarnia_4"/>
-	<Hero id="AR_lord_13_16" mother="Hero.AR_lord_13_15" spouse="Hero.AR_lord_13_17" faction="Faction.clan_gotarnia_4"/>
-	<Hero id="AR_lord_13_17" spouse="Hero.AR_lord_13_16" faction="Faction.clan_gotarnia_4"/>
-	<Hero id="AR_lord_13_18" mother="Hero.AR_lord_13_15" faction="Faction.clan_gotarnia_4"/>
+	<!-- OLD CALRADIAN - Palaic -->
+	<Hero id="hmj_lord_old_1" spouse="Hero.hmj_lord_old_2" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="hmj_lord_old_2" spouse="Hero.hmj_lord_old_1" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="hmj_lord_old_3" father="Hero.hmj_lord_old_1" mother="Hero.hmj_lord_old_2" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="hmj_lord_old_4" spouse="Hero.hmj_lord_old_5" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="hmj_lord_old_5" spouse="Hero.hmj_lord_old_4" faction="Faction.clan_gotarnia_1"/>
+	<Hero id="hmj_lord_old_6" father="Hero.hmj_lord_old_4" mother="Hero.hmj_lord_old_5" faction="Faction.clan_gotarnia_1"/>
+	<!-- OLD CALRADIAN - Dryatic -->
+	<Hero id="hmj_lord_old_7" spouse="Hero.hmj_lord_old_8" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="hmj_lord_old_8" spouse="Hero.hmj_lord_old_7" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="hmj_lord_old_9" father="Hero.hmj_lord_old_7" mother="Hero.hmj_lord_old_8" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="hmj_lord_old_10" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="hmj_lord_old_11" spouse="Hero.hmj_lord_old_12" faction="Faction.clan_gotarnia_2"/>
+	<Hero id="hmj_lord_old_12" spouse="Hero.hmj_lord_old_11" faction="Faction.clan_gotarnia_2"/>
+	<!-- OLD CALRADIAN - Myzean -->
+	<Hero id="hmj_lord_old_13" spouse="Hero.hmj_lord_old_14" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="hmj_lord_old_14" spouse="Hero.hmj_lord_old_13" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="hmj_lord_old_15" father="Hero.hmj_lord_old_14" mother="Hero.hmj_lord_old_13" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="hmj_lord_old_16" spouse="Hero.hmj_lord_old_17" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="hmj_lord_old_17" spouse="Hero.hmj_lord_old_16" faction="Faction.clan_gotarnia_3"/>
+	<Hero id="hmj_lord_old_18" father="Hero.hmj_lord_old_16" mother="Hero.hmj_lord_old_17" faction="Faction.clan_gotarnia_3"/>
+	<!-- OLD CALRADIAN - Zend -->
+	<Hero id="hmj_lord_old_19" spouse="Hero.hmj_lord_old_20" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="hmj_lord_old_20" spouse="Hero.hmj_lord_old_19" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="hmj_lord_old_21" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="hmj_lord_old_22" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="hmj_lord_old_23" faction="Faction.clan_gotarnia_4"/>
+	<Hero id="hmj_lord_old_24" faction="Faction.clan_gotarnia_4"/>
 	<!-- Nords - Grimarsung -->
 	<Hero id="hmj_lord_13_1" faction="Faction.clan_norden_1" text="The current ruler of the nascent Nordic Territories. At once older than his years would suggest, and younger than his true age, Gundig's brazen and ambitious ways have won him lands in northern Calradia."/>
 	<Hero id="hmj_lord_13_2" faction="Faction.clan_norden_1"/>
 	<Hero id="hmj_lord_13_3" spouse="Hero.hmj_lord_13_4" faction="Faction.clan_norden_1"/>
 	<Hero id="hmj_lord_13_4" spouse="Hero.hmj_lord_13_3" faction="Faction.clan_norden_1"/>
-	<Hero id="hmj_lord_13_5" faction="Faction.clan_norden_1"/>
-	<Hero id="hmj_lord_13_6" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_5" father="Hero.hmj_lord_13_1" mother="Hero.hmj_lord_13_2" faction="Faction.clan_norden_1"/>
+	<Hero id="hmj_lord_13_6" father="Hero.hmj_lord_13_1" mother="Hero.hmj_lord_13_2" faction="Faction.clan_norden_1"/>
 	<!-- Nords - Varfung -->
 	<Hero id="hmj_lord_13_7" spouse="Hero.hmj_lord_13_8" faction="Faction.clan_norden_2" />
 	<Hero id="hmj_lord_13_8" spouse="Hero.hmj_lord_13_7" faction="Faction.clan_norden_2"/>
@@ -661,13 +673,18 @@
 	<Hero id="hmj_lord_13_13" mother="Hero.hmj_lord_13_12" faction="Faction.clan_norden_3" />
 	<Hero id="hmj_lord_13_14" mother="Hero.hmj_lord_13_12" faction="Faction.clan_norden_3" />
 	<Hero id="hmj_lord_13_15" father="Hero.hmj_lord_13_14" faction="Faction.clan_norden_3" />
-	<Hero id="hmj_lord_13_16" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_16g" alive="false" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_16" mother="Hero.hmj_lord_13_16g" faction="Faction.clan_norden_3" />
+	<Hero id="hmj_lord_13_16d" mother="Hero.hmj_lord_13_16g" faction="Faction.clan_norden_3" />
 	<!-- Nords - Ubrovung -->
-	<Hero id="lord_2_20" spouse="Hero.lord_2_20_1" faction="Faction.clan_sturgia_8"/>
+	<Hero id="lord_2_20" father="Hero.lord_S8_u" spouse="Hero.lord_2_20_1" faction="Faction.clan_sturgia_8"/>
 	<Hero id="lord_2_20_1" spouse="Hero.lord_2_20" faction="Faction.clan_sturgia_8"/>
 	<Hero id="lord_S8_u" faction="Faction.clan_sturgia_8"/>
-	<Hero id="hmj_lord_13_17" faction="Faction.clan_sturgia_8" />
+	<Hero id="hmj_lord_13_17" spouse="Hero.hmj_lord_13_21" faction="Faction.clan_sturgia_8" />
 	<Hero id="hmj_lord_13_18" faction="Faction.clan_sturgia_8" />
+	<Hero id="hmj_lord_13_19" faction="Faction.clan_sturgia_8" />
+	<Hero id="hmj_lord_13_20" faction="Faction.clan_sturgia_8" />
+	<Hero id="hmj_lord_13_21" spouse="Hero.hmj_lord_13_17" faction="Faction.clan_sturgia_8" />
 	<!-- Diamonds -->
 	<Hero id="hmj_spc_diamonds_lord_0" faction="Faction.diamonds"/>
 	<!-- BANDITS -->

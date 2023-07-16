@@ -27,6 +27,13 @@
 	<xsl:template match="Kingdom[@id='empire']/@text">
 		<xsl:attribute name="text">{=AR_kingdom_empire_n_text}For the last two centuries, the vaunted legions of the Calradic Empire have won fame and fortune in the east, expanding the frontier greatly into the former lands of the Laconians. Halted when they reached the shores of Lake Tanaesis, they drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. The generals of the east; proud sons of the Empire's noble families, are uniquely bloodthirsty amongst their fellows. Three years ago, after a victory over the Gotarnians, the pre-eminent general Zenon of the Neretzes clan was hailed Emperor by his troops, splitting the Calradic Empire and igniting civil war. Zenon, now calling himself Solarios 'Light-Giver', channels his ever-growing insanity into ruling the east with an iron fist, driving the armies of friend and foe alike before his battle-hardened legions.</xsl:attribute>
 	</xsl:template>
+	<xsl:template match="Kingdom[@id='empire']/relationships">
+		<relationships>
+			<relationship kingdom="Kingdom.byals" value="-1"/>
+			<relationship kingdom="Kingdom.empire_s" value="-1" isAtWar="true"/>
+			<relationship kingdom="Kingdom.empire_w" value="-1" isAtWar="true"/>
+		</relationships>
+	</xsl:template>
 	<!-- Western Empire -->
 	<xsl:template match="Kingdom[@id='empire_w']/@owner">
 		<xsl:attribute name="owner">Hero.lord_1_7</xsl:attribute>
@@ -48,6 +55,12 @@
 	</xsl:template>
 	<xsl:template match="Kingdom[@id='empire_w']/@text">
 		<xsl:attribute name="text">{=AR_kingdom_empire_w_text}The warm, green land of oak forests and volcanic outcrops that makes up the western provinces of the Calradic Empire is the spiritual heartland of the Calradians. According to legend, Calradios the Great first landed at the site of the present-day city of Charasea, laying the foundation of an empire which would last through the ages. However, now the Empire's western provinces are in crisis. The former capital city of Baravenos has fallen to the Vlandians; one-time auxiliaries in the Empire's legions. Facing an existential threat to their ancestral lands and way of life, the senators of the western provinces voted for secession from the Empire, electing the Praetor of Charasea to be Emperor and plunging the Empire into civil war.</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Kingdom[@id='empire']/relationships">
+		<relationships>
+			<relationship kingdom="Kingdom.empire_s" value="-1" isAtWar="true"/>
+			<relationship kingdom="Kingdom.empire" value="-1" isAtWar="true"/>
+		</relationships>
 	</xsl:template>
 	<!-- Calradic Empire -->
 	<xsl:template match="Kingdom[@id='empire_s']/@owner">
@@ -74,7 +87,8 @@
 	<xsl:template match="Kingdom[@id='empire_s']/relationships">
 		<relationships>
 			<relationship kingdom="Kingdom.aserai" value="-1" isAtWar="true"/>
-			<relationship kingdom="Kingdom.byals" value="1"/>
+			<relationship kingdom="Kingdom.empire_s" value="-1" isAtWar="true"/>
+			<relationship kingdom="Kingdom.empire_w" value="-1" isAtWar="true"/>
 		</relationships>
 	</xsl:template>
 	<!-- Sturgia -->

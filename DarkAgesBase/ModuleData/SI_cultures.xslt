@@ -309,4 +309,23 @@
 	<xsl:template match="Culture[@id='nord']/@caravan_master">
 		<xsl:attribute name="caravan_master">NPCCharacter.nord_hmj_cgt5</xsl:attribute>
 	</xsl:template>
+	
+	<xsl:template match="Culture[@id='looters']/@name">
+		<xsl:attribute name="name">{=1sbJQR4H}Freebooter</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Culture[@id='sea_raiders']/@name">
+		<xsl:attribute name="name">{=pBUc2pL8}Vikingr</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Culture[@id='mountain_bandits']/@name">
+		<xsl:attribute name="name">{=mOa9CX13}Woodsmen</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Culture[@id='forest_bandits']/@name">
+		<xsl:attribute name="name">{=mOa9CX13}Routiers</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Culture[@id='desert_bandits']/@name">
+		<xsl:attribute name="name">{=kkUQObZn}Jawwal</xsl:attribute>
+	</xsl:template>
+	<xsl:template match="Culture[@id='steppe_bandits']/@name">
+		<xsl:attribute name="name">{=e6csp4ha}Nomads</xsl:attribute>
+	</xsl:template>
 </xsl:stylesheet>

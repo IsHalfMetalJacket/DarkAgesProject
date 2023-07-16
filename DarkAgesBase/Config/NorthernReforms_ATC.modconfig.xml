@@ -484,155 +484,225 @@
 		<!-- Standard Norden configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_n">
 			<!-- Sturgia for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire">
 			<!-- Sturgia for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_w">
 			<!-- Sturgia for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="shariz">
 			<!-- Sturgia for captured Sharizan settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="aserai">
 			<!-- Sturgia for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="darshi">
 			<!-- Sturgia for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="khuzait">
 			<!-- Sturgia for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="nahasi">
 			<!-- Sturgia for captured Nahasan settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="vakken">
 			<!-- Sturgia for captured Vakken settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="vlandia">
 			<!-- Sturgia for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="battania">
 			<!-- Sturgia for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="oldcalradian">
 			<!-- Sturgia for captured Old Calradian settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 		<Culture id="zwadane">
 			<!-- Sturgia for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="nord_hmj_mit2" percent="60"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="viking_hmj_it2" percent="10"/>
+				<volunteer id="nord_hmj_mit2" percent="32"/>
+				<volunteer id="nord_hmj_mhit1" percent="20"/>
+				<volunteer id="nord_hmj_mst2" percent="20"/>
+				<volunteer id="nord_hmj_mrt1" percent="12"/>
+				<volunteer id="nord_hmj_pt2" percent="12"/>
+				<volunteer id="nord_hmj_hat1" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="nord_hmj_it3" />
+				<volunteer id="nord_hmj_nat2" percent="40"/>
+				<volunteer id="nord_hmj_nst2" percent="40"/>
+				<volunteer id="nord_hmj_nhit2" percent="20"/>			
 			</eliteTroops>
 		</Culture>
 	</MapFaction>

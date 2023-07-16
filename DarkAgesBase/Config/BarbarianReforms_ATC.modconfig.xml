@@ -4,18 +4,18 @@
 		<!-- Standard Battania configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -23,18 +23,18 @@
 		<Culture id="empire_n">
 			<!-- Battania for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -42,18 +42,18 @@
 		<Culture id="empire">
 			<!-- Battania for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -61,18 +61,18 @@
 		<Culture id="empire_w">
 			<!-- Battania for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -80,18 +80,18 @@
 		<Culture id="shariz">
 			<!-- Battania for captured Sharizan settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -99,18 +99,18 @@
 		<Culture id="aserai">
 			<!-- Battania for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -118,18 +118,18 @@
 		<Culture id="darshi">
 			<!-- Battania for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -137,18 +137,18 @@
 		<Culture id="khuzait">
 			<!-- Battania for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -156,18 +156,18 @@
 		<Culture id="nahasi">
 			<!-- Battania for captured Nahasi settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -175,18 +175,18 @@
 		<Culture id="vlandia">
 			<!-- Battania for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -194,18 +194,18 @@
 		<Culture id="zwadane">
 			<!-- Battania for captured Zwadane settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -213,37 +213,37 @@
 		<Culture id="sturgia">
 			<!-- Battania for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
 		</Culture>
-		<Culture id="vakken">
-			<!-- Battania for captured Vakken settlements -->
+		<Culture id="byalic">
+			<!-- Battania for captured Byalic settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -251,18 +251,18 @@
 		<Culture id="oldcalradian">
 			<!-- Battania for captured Old Calradian settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>
@@ -270,18 +270,18 @@
 		<Culture id="nord">
 			<!-- Battania for captured Nord settlements -->
 			<basicTroops>
-				<volunteer id="battanian_hmj_mst2" percent="18"/>
-				<volunteer id="battanian_hmj_mpt1" percent="18"/>
-				<volunteer id="battanian_hmj_mrt2" percent="15"/>
-				<volunteer id="battanian_hmj_mht3" percent="15"/>
-				<volunteer id="battanian_hmj_rt2" percent="12"/>
-				<volunteer id="battanian_hmj_st2" percent="8"/>
-				<volunteer id="battanian_hmj_at3" percent="8"/>
-				<volunteer id="battanian_hmj_mst2" percent="4"/>
-				<volunteer id="battanian_hmj_mrt2" percent="2"/>
+				<volunteer id="battanian_hmj_mst2" percent="21"/>
+				<volunteer id="battanian_hmj_mpt1" percent="24"/>
+				<volunteer id="battanian_hmj_mrt2" percent="12"/>
+				<volunteer id="battanian_hmj_pt2" percent="14"/>
+				<volunteer id="battanian_hmj_rt2" percent="7"/>
+				<volunteer id="battanian_hmj_mht3" percent="7"/>
+				<volunteer id="battanian_hmj_st2" percent="7"/>
+				<volunteer id="battanian_hmj_at4" percent="5"/>
+				<volunteer id="battanian_hmj_hpt4" percent="3"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="battanian_hmj_mct4" percent="40"/>
+				<volunteer id="battanian_hmj_mct5" percent="40"/>
 				<volunteer id="battanian_hmj_nit2" percent="40"/>
 				<volunteer id="battanian_hmj_nt2" percent="20"/>
 			</eliteTroops>

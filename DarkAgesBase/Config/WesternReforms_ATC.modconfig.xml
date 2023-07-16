@@ -241,158 +241,256 @@
 		</Culture>
 	</MapFaction>
 	<MapFaction id="zwadane">
-		<!-- Standard Massa configuration -->
+		<!-- Standard Zwadane configuration -->
 		<Culture id="default">
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_n">
 			<!-- Massa for captured Northern Empire settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire">
 			<!-- Massa for captured Southern Empire settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="empire_w">
 			<!-- Massa for captured Western Empire settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="shariz">
 			<!-- Massa for captured Paraoian settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="aserai">
 			<!-- Massa for captured Aserai settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="darshi">
 			<!-- Massa for captured Darshi settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="khuzait">
 			<!-- Massa for captured Khuzait settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="nahasi">
 			<!-- Massa for captured Nahasan settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="vlandia">
 			<!-- Massa for captured Vlandia settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="battania">
 			<!-- Massa for captured Battania settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="oldcalradian">
 			<!-- Massa for captured Old Calradian settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="sturgia">
 			<!-- Massa for captured Sturgia settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 		<Culture id="vakken">
 			<!-- Massa for captured Vakken settlements -->
 			<basicTroops>
-				<volunteer id="zwadane_hmj_mit2" percent="50"/>
-				<volunteer id="northern_hmj_rt2" percent="30"/>
-				<volunteer id="zwadane_hmj_it3" percent="20"/>
+				<volunteer id="zwadane_hmj_mit2" percent="24"/>
+				<volunteer id="zwadane_hmj_mst2" percent="24"/>
+				<volunteer id="zwadane_hmj_mpt1" percent="14"/>
+				<volunteer id="zwadane_hmj_rt3" percent="9"/>
+				<volunteer id="zwadane_hmj_pt3" percent="9"/>
+				<volunteer id="zwadane_hmj_it3" percent="8"/>
+				<volunteer id="zwadane_hmj_mct3" percent="8"/>
+				<volunteer id="zwadane_hmj_hit3" percent="4"/>
 			</basicTroops>
 			<eliteTroops spawnChance="5" atPower="200" spawnChanceCap="20">
-				<volunteer id="zwadane_hmj_nit2"/>
+				<volunteer id="zwadane_hmj_nit2" percent="40"/>
+				<volunteer id="zwadane_hmj_nhit4" percent="40"/>
+				<volunteer id="zwadane_hmj_nct3" percent="20"/>
 			</eliteTroops>
 		</Culture>
 	</MapFaction>

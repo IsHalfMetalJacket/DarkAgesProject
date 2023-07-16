@@ -1495,7 +1495,7 @@
 	         elite_basic_troop="NPCCharacter.battanian_hmj_nt2"
 	         basic_troop="NPCCharacter.battanian_hmj_mpt1"
 	         melee_militia_troop="NPCCharacter.battanian_hmj_mst2"
-	         ranged_militia_troop="NPCCharacter.battanian_hmj_mrt2"
+	         ranged_militia_troop="NPCCharacter.battanian_hmj_mst2"
 	         melee_elite_militia_troop="NPCCharacter.battania_hmj_mht3"
 	         ranged_elite_militia_troop="NPCCharacter.battanian_hmj_rt4"
 	         can_have_settlement="true"
@@ -2988,7 +2988,7 @@
 			<template name="NPCCharacter.AR_tournament_template_n_empire_four_participant_set_v3"/>
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
-			<template name="NPCCharacter.nimperial_hmj_rt3"/>
+			<template name="NPCCharacter.nimperial_hmj_rt4"/>
 			<template name="NPCCharacter.ember_hmj_it2"/>
 			<template name="NPCCharacter.diamond_hmj_ct2"/>
 			<template name="NPCCharacter.eleftheroi_hmj_st2"/>
@@ -3391,9 +3391,9 @@
 	         elite_basic_troop="NPCCharacter.nord_hmj_it3"
 	         basic_troop="NPCCharacter.nord_hmj_mit2"
 	         melee_militia_troop="NPCCharacter.nord_hmj_mit2"
-	         ranged_militia_troop="NPCCharacter.northern_hmj_rt2"
-	         melee_elite_militia_troop="NPCCharacter.viking_hmj_it4"
-	         ranged_elite_militia_troop="NPCCharacter.northern_hmj_rt3"
+	         ranged_militia_troop="NPCCharacter.nord_hmj_mrt2"
+	         melee_elite_militia_troop="NPCCharacter.nord_hmj_hat4"
+	         ranged_elite_militia_troop="NPCCharacter.nord_hmj_mst3"
 	         can_have_settlement="true"
 	         town_edge_number="16"
 	         villager_party_template="PartyTemplate.villager_nord_template"
@@ -4296,11 +4296,11 @@
 	         color="0xff95a9cc"
 	         color2="0xff2f2a2b"
 	         elite_basic_troop="NPCCharacter.zwadane_hmj_nit2"
-	         basic_troop="NPCCharacter.zwadane_hmj_mit2"
+	         basic_troop="NPCCharacter.zwadane_hmj_mpt1"
 	         melee_militia_troop="NPCCharacter.zwadane_hmj_mit2"
-	         ranged_militia_troop="NPCCharacter.northern_hmj_rt2"
+	         ranged_militia_troop="NPCCharacter.zwadane_hmj_mst2"
 	         melee_elite_militia_troop="NPCCharacter.zwadane_hmj_it4"
-	         ranged_elite_militia_troop="NPCCharacter.northern_hmj_rt3"
+	         ranged_elite_militia_troop="NPCCharacter.zwadane_hmj_rt3"
 	         can_have_settlement="true"
 	         town_edge_number="16"
 	         villager_party_template="PartyTemplate.villager_massa_template"
@@ -4984,9 +4984,9 @@
 	         is_main_culture="false"
 	         color="0xffce9697"
 	         color2="0xff5a1310"
-	         elite_basic_troop="NPCCharacter.AR_got_elite_recruit"
-	         basic_troop="NPCCharacter.AR_got_recruit"
-	         melee_militia_troop="NPCCharacter.zend_hmj_mit2"
+	         elite_basic_troop="NPCCharacter.dryatic_hmj_nit4"
+	         basic_troop="NPCCharacter.zend_hmj_mpt1"
+	         melee_militia_troop="NPCCharacter.zend_hmj_mpt2"
 	         ranged_militia_troop="NPCCharacter.dryatic_hmj_mst2"
 	         melee_elite_militia_troop="NPCCharacter.dryatic_hmj_hit3"
 	         ranged_elite_militia_troop="NPCCharacter.myzean_hmj_at4"
@@ -5250,9 +5250,7 @@
 			<template name="NPCCharacter.tournament_template_gotarnia_four_participant_set_v3"/>
 		</tournament_team_templates_four_participant>
 		<basic_mercenary_troops>
-			<template name="NPCCharacter.eastern_mercenary"/>
-			<template name="NPCCharacter.western_mercenary"/>
-			<template name="NPCCharacter.sword_sisters_sister_t3"/>
+			<template name="NPCCharacter.venatio_hmj_st2"/>
 		</basic_mercenary_troops>
 	</Culture>
 	<Culture id="dryatic"
@@ -5390,14 +5388,14 @@
 		</female_names>
 	</Culture>
 	<Culture id="looters"
-	         name="{=1sbJQR4H}Looters"
-	         elite_basic_troop="NPCCharacter.looter_hmj_it4"
+	         name="{=1sbJQR4H}Freebooter"
+	         elite_basic_troop="NPCCharacter.looter_hmj_it3"
 	         basic_troop="NPCCharacter.looter_hmj_it1"
 	         is_bandit="true"
 	         can_have_settlement="false"
 	         encounter_background_mesh="encounter_looter"/>
 	<Culture id="sea_raiders"
-	         name="{=pBUc2pL8}Vikingr"
+	         name="{=pBUc2pL8}Vikingar"
 	         bandit_chief="NPCCharacter.viking_hmj_it4"
 	         bandit_raider="NPCCharacter.viking_hmj_it3"
 	         bandit_bandit="NPCCharacter.viking_hmj_it2"
@@ -5409,18 +5407,6 @@
 	         encounter_background_mesh="encounter_shore_bandit"
 	         bandit_boss_party_template="PartyTemplate.sea_raiders_boss_party_template"/>
 	<Culture id="mountain_bandits"
-	         name="{=mOa9CX13}Routiers"
-	         bandit_chief="NPCCharacter.routier_hmj_ct5"
-	         bandit_raider="NPCCharacter.routier_hmj_rt3"
-	         bandit_bandit="NPCCharacter.routier_hmj_rt2"
-	         bandit_boss="NPCCharacter.routier_hmj_ct6"
-	         elite_basic_troop="NPCCharacter.routier_hmj_rt3"
-	         basic_troop="NPCCharacter.routier_hmj_rt2"
-	         is_bandit="true"
-	         can_have_settlement="true"
-	         encounter_background_mesh="encounter_mountain_bandit"
-	         bandit_boss_party_template="PartyTemplate.mountain_bandits_boss_party_template"/>
-	<Culture id="forest_bandits"
 	         name="{=sAbjtZbB}Woodsmen"
 	         bandit_chief="NPCCharacter.wood_hmj_bt4"
 	         bandit_raider="NPCCharacter.wood_hmj_bt3"
@@ -5430,14 +5416,26 @@
 	         basic_troop="NPCCharacter.wood_hmj_bt2"
 	         is_bandit="true"
 	         can_have_settlement="true"
+	         encounter_background_mesh="encounter_mountain_bandit"
+	         bandit_boss_party_template="PartyTemplate.mountain_bandits_boss_party_template"/>
+	<Culture id="forest_bandits"
+	         name="{=mOa9CX13}Routiers"
+	         bandit_chief="NPCCharacter.routier_hmj_ct4"
+	         bandit_raider="NPCCharacter.routier_hmj_rt3"
+	         bandit_bandit="NPCCharacter.routier_hmj_rt2"
+	         bandit_boss="NPCCharacter.routier_hmj_ct5"
+	         elite_basic_troop="NPCCharacter.routier_hmj_rt3"
+	         basic_troop="NPCCharacter.routier_hmj_rt2"
+	         is_bandit="true"
+	         can_have_settlement="true"
 	         encounter_background_mesh="encounter_forest_bandit"
 	         bandit_boss_party_template="PartyTemplate.forest_bandits_boss_party_template"/>
 	<Culture id="desert_bandits"
-	         name="{=kkUQObZn}Jawwal Bandits"
+	         name="{=kkUQObZn}Jawwal"
              bandit_chief="NPCCharacter.jawwal_hmj_bt5"
              bandit_raider="NPCCharacter.jawwal_hmj_bt3"
              bandit_bandit="NPCCharacter.jawwal_hmj_bt2"
-             bandit_boss="NPCCharacter.jawwal_hmj_bt6"
+             bandit_boss="NPCCharacter.jawwal_hmj_bt5"
              elite_basic_troop="NPCCharacter.jawwal_hmj_bt3"
              basic_troop="NPCCharacter.jawwal_hmj_bt2"
 	         is_bandit="true"
@@ -5446,26 +5444,14 @@
 	         bandit_boss_party_template="PartyTemplate.desert_bandits_boss_party_template"/>
 	<Culture id="steppe_bandits"
 	         name="{=e6csp4ha}Nomads"
-	         bandit_chief="NPCCharacter.nomad_hmj_hat5"
+	         bandit_chief="NPCCharacter.nomad_hmj_hat4"
 	         bandit_raider="NPCCharacter.nomad_hmj_ct3"
 	         bandit_bandit="NPCCharacter.nomad_hmj_ct2"
-	         bandit_boss="NPCCharacter.nomad_hmj_hat6"
+	         bandit_boss="NPCCharacter.nomad_hmj_hat5"
 	         elite_basic_troop="NPCCharacter.nomad_hmj_ct3"
 	         basic_troop="NPCCharacter.nomad_hmj_ct2"
 	         is_bandit="true"
 	         can_have_settlement="true"
 	         encounter_background_mesh="encounter_desert_bandits"
 	         bandit_boss_party_template="PartyTemplate.steppe_bandits_boss_party_template"/>
-	<Culture id="slavers"
-	         name="{=e6csp4ha}Slavers"
-	         bandit_chief="NPCCharacter.slave_hmj_it5"
-	         bandit_raider="NPCCharacter.slave_hmj_it3"
-	         bandit_bandit="NPCCharacter.slave_hmj_it2"
-	         bandit_boss="NPCCharacter.slave_hmj_it5"
-	         elite_basic_troop="NPCCharacter.slave_hmj_it3"
-	         basic_troop="NPCCharacter.slave_hmj_it2"
-	         is_bandit="true"
-	         can_have_settlement="true"
-	         encounter_background_mesh="encounter_forest_bandit"
-	         bandit_boss_party_template="PartyTemplate.slavers_boss_party_template"/>
 </SPCultures>
