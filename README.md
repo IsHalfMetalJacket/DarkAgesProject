@@ -29,6 +29,8 @@ Adonnay's Troop Changer
 
 Open Source Armoury RBM Patch
 
+Shattered Imperium Map
+
 MAKE SURE THEY ARE LOADED IN THAT ORDER
 
 NOTES ABOUT EARLY ALPHA TESTING:
